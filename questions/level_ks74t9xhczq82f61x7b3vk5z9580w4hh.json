@@ -1,0 +1,32 @@
+{
+  "levelId": "ks74t9xhczq82f61x7b3vk5z9580w4hh",
+  "version": 1,
+  "publishedAt": 1770756024959,
+  "questions": {
+    "easy": [
+      {
+        "_creationTime": 1770752346824.5627,
+        "_id": "kn788chen8zfhmkvqh7t5nx2g980w0k7",
+        "createdAt": 1770752346824,
+        "data": {
+          "correctIndex": 0,
+          "explanation": "",
+          "options": [
+            "",
+            "",
+            "",
+            ""
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks74t9xhczq82f61x7b3vk5z9580w4hh",
+        "order": 1,
+        "question": "hiiiiiiiiii",
+        "questionCode": "163114",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770752346824
+      }
+    ]
+  }
+}

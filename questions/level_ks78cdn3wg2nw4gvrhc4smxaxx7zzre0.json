@@ -1,0 +1,1978 @@
+{
+  "levelId": "ks78cdn3wg2nw4gvrhc4smxaxx7zzre0",
+  "version": 0,
+  "publishedAt": 1770756023274,
+  "questions": {
+    "easy": [
+      {
+        "_creationTime": 1770662616341.0957,
+        "_id": "kn74t56pzy8j9sh0g2bajh155d80v33n",
+        "createdAt": 1770662616341,
+        "data": {
+          "correctIndex": 2,
+          "explanation": "Articles (a, an, the) are specialized words that function as determiners to modify nouns, specifying whether they are indefinite/general (a/an) or definite/particular (the).",
+          "options": [
+            "A word that describes an action (verb).",
+            "A word that connects two sentences (conjunction).",
+            "A word used before a noun to indicate whether it is specific or general (a, an, or the).",
+            "A word that replaces a noun (pronoun)."
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks78cdn3wg2nw4gvrhc4smxaxx7zzre0",
+        "order": 1,
+        "question": "what is an article ?",
+        "questionCode": "350295",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770662616341
+      },
+      {
+        "_creationTime": 1770662616341.096,
+        "_id": "kn7cdaff53p9rwbpqd8jbkyppd80vhg3",
+        "createdAt": 1770662616341,
+        "data": {
+          "correctIndex": 1,
+          "explanation": "A is an article used before a noun.",
+          "options": [
+            "boy",
+            "a",
+            "run",
+            "happy"
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks78cdn3wg2nw4gvrhc4smxaxx7zzre0",
+        "order": 2,
+        "question": "Which word is an article?",
+        "questionCode": "876153",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770662616341
+      },
+      {
+        "_creationTime": 1770662616341.0962,
+        "_id": "kn7ecfbg22s4tqhkf459614sn180vnpp",
+        "createdAt": 1770662616341,
+        "data": {
+          "correctWords": [
+            "a"
+          ],
+          "selectMode": "single",
+          "statement": "She bought a pen."
+        },
+        "difficultyName": "easy",
+        "levelId": "ks78cdn3wg2nw4gvrhc4smxaxx7zzre0",
+        "order": 3,
+        "question": "Select the article from the sentence.",
+        "questionCode": "907929",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770662616341
+      },
+      {
+        "_creationTime": 1770662616341.0964,
+        "_id": "kn771zkdbrvgj39qce7jg1qrfh80v6ae",
+        "createdAt": 1770662616341,
+        "data": {
+          "correctIndex": 1,
+          "explanation": "An is used before words that begin with a vowel sound.",
+          "options": [
+            "a",
+            "an",
+            "the",
+            "no article"
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks78cdn3wg2nw4gvrhc4smxaxx7zzre0",
+        "order": 4,
+        "question": "Which article is used before a vowel sound?",
+        "questionCode": "951190",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770662616341
+      },
+      {
+        "_creationTime": 1770662616341.0967,
+        "_id": "kn7a2zd3hbxr6f82pgs45rrgjs80t088",
+        "createdAt": 1770662616341,
+        "data": {
+          "correctIndex": 1,
+          "explanation": "Apple begins with a vowel sound, so an is used.",
+          "options": [
+            "a",
+            "an",
+            "the",
+            "no article"
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks78cdn3wg2nw4gvrhc4smxaxx7zzre0",
+        "order": 5,
+        "question": "Select the correct article for the word apple.",
+        "questionCode": "937133",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770662616341
+      },
+      {
+        "_creationTime": 1770662616341.097,
+        "_id": "kn76r24wnv6wnf7v7nq9rwx01s80vf3b",
+        "createdAt": 1770662616341,
+        "data": {
+          "correctWords": [
+            "an"
+          ],
+          "selectMode": "single",
+          "statement": "He ate an apple."
+        },
+        "difficultyName": "easy",
+        "levelId": "ks78cdn3wg2nw4gvrhc4smxaxx7zzre0",
+        "order": 6,
+        "question": "Select the article from the sentence.",
+        "questionCode": "924123",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770662616341
+      },
+      {
+        "_creationTime": 1770662616341.0972,
+        "_id": "kn7ba4s0g2wr9y6tgs9e8fqx9s80t10y",
+        "createdAt": 1770662616341,
+        "data": {
+          "correctIndex": 0,
+          "explanation": "Book starts with a consonant sound, so a is used.",
+          "options": [
+            "a",
+            "an",
+            "the",
+            "no arrtive"
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks78cdn3wg2nw4gvrhc4smxaxx7zzre0",
+        "order": 7,
+        "question": "Which article is used before book?",
+        "questionCode": "129120",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770662616341
+      },
+      {
+        "_creationTime": 1770662616341.0974,
+        "_id": "kn717fx2tbpmkce5tnca34wsyh80ta6q",
+        "createdAt": 1770662616341,
+        "data": {
+          "correctWords": [
+            "a"
+          ],
+          "selectMode": "single",
+          "statement": "This is a book."
+        },
+        "difficultyName": "easy",
+        "levelId": "ks78cdn3wg2nw4gvrhc4smxaxx7zzre0",
+        "order": 8,
+        "question": "Select the article from the sentence.",
+        "questionCode": "676677",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770662616341
+      },
+      {
+        "_creationTime": 1770662616341.0977,
+        "_id": "kn74b87ds7ebvgv8x59py1tbv180tz3k",
+        "createdAt": 1770662616341,
+        "data": {
+          "correctIndex": 1,
+          "explanation": "Elephant begins with a vowel sound.",
+          "options": [
+            "a",
+            "an",
+            "the",
+            "no article"
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks78cdn3wg2nw4gvrhc4smxaxx7zzre0",
+        "order": 9,
+        "question": "Which article is used before elephant?",
+        "questionCode": "248309",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770662616341
+      },
+      {
+        "_creationTime": 1770662616341.098,
+        "_id": "kn74z025jv0fps3qw3rwfgga0580vvef",
+        "createdAt": 1770662616341,
+        "data": {
+          "correctWords": [
+            "an"
+          ],
+          "selectMode": "single",
+          "statement": "We saw an elephant in the zoo."
+        },
+        "difficultyName": "easy",
+        "levelId": "ks78cdn3wg2nw4gvrhc4smxaxx7zzre0",
+        "order": 10,
+        "question": "Select the article from the sentence.",
+        "questionCode": "181892",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770662616341
+      },
+      {
+        "_creationTime": 1770662616341.0981,
+        "_id": "kn74kc31780j5s93g1k5jmhq5980vyc8",
+        "createdAt": 1770662616341,
+        "data": {
+          "correctIndex": 0,
+          "explanation": "European starts with a “you” sound, which is a consonant sound.",
+          "options": [
+            "a",
+            "an",
+            "the",
+            "no article"
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks78cdn3wg2nw4gvrhc4smxaxx7zzre0",
+        "order": 11,
+        "question": "Which article is correct before European?",
+        "questionCode": "959082",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770662616341
+      },
+      {
+        "_creationTime": 1770662616341.0984,
+        "_id": "kn7304cyd11jybwn1fshhy5hk580t780",
+        "createdAt": 1770662616341,
+        "data": {
+          "correctWords": [
+            "a"
+          ],
+          "selectMode": "single",
+          "statement": "He is a European."
+        },
+        "difficultyName": "easy",
+        "levelId": "ks78cdn3wg2nw4gvrhc4smxaxx7zzre0",
+        "order": 12,
+        "question": "Select the article from the sentence.",
+        "questionCode": "519255",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770662616341
+      },
+      {
+        "_creationTime": 1770662616341.0986,
+        "_id": "kn709gz5h47g22bqj8ccsy8vns80thd8",
+        "createdAt": 1770662616341,
+        "data": {
+          "correctIndex": 1,
+          "explanation": "Hour has a silent h and starts with a vowel sound.",
+          "options": [
+            "a",
+            "an",
+            "the",
+            "no article"
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks78cdn3wg2nw4gvrhc4smxaxx7zzre0",
+        "order": 13,
+        "question": "Which article is correct before hour?",
+        "questionCode": "269730",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770662616341
+      },
+      {
+        "_creationTime": 1770662616341.0989,
+        "_id": "kn77823b7jy36jkj7yr5wkt33x80t52t",
+        "createdAt": 1770662616341,
+        "data": {
+          "correctWords": [
+            "an"
+          ],
+          "selectMode": "single",
+          "statement": "It took an hour to finish."
+        },
+        "difficultyName": "easy",
+        "levelId": "ks78cdn3wg2nw4gvrhc4smxaxx7zzre0",
+        "order": 14,
+        "question": "Select the article from the sentence.",
+        "questionCode": "832069",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770662616341
+      },
+      {
+        "_creationTime": 1770662616341.099,
+        "_id": "kn7609vc2ar59kv5tay06f8ve980vr1r",
+        "createdAt": 1770662616341,
+        "data": {
+          "correctIndex": 2,
+          "explanation": "The points to a particular person or thing.",
+          "options": [
+            "a",
+            "an",
+            "the",
+            "no article"
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks78cdn3wg2nw4gvrhc4smxaxx7zzre0",
+        "order": 15,
+        "question": "Which word is a definite article?",
+        "questionCode": "958595",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770662616341
+      },
+      {
+        "_creationTime": 1770662616341.0994,
+        "_id": "kn72y04sn5p1nkxgc457xb6jr580vsk5",
+        "createdAt": 1770662616341,
+        "data": {
+          "correctWords": [
+            "the"
+          ],
+          "selectMode": "single",
+          "statement": "Please close the door."
+        },
+        "difficultyName": "easy",
+        "levelId": "ks78cdn3wg2nw4gvrhc4smxaxx7zzre0",
+        "order": 16,
+        "question": "Select the article from the sentence.",
+        "questionCode": "355796",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770662616341
+      },
+      {
+        "_creationTime": 1770662616341.0996,
+        "_id": "kn7a3244qz409tnc2k1p570j2s80t4vb",
+        "createdAt": 1770662616341,
+        "data": {
+          "correctWords": [
+            "a",
+            "the"
+          ],
+          "selectMode": "multiple",
+          "statement": "I saw a dog on the road."
+        },
+        "difficultyName": "easy",
+        "levelId": "ks78cdn3wg2nw4gvrhc4smxaxx7zzre0",
+        "order": 17,
+        "question": "Select the articles from the sentence.",
+        "questionCode": "326138",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770662616341
+      },
+      {
+        "_creationTime": 1770662616341.0999,
+        "_id": "kn767me35s9d692a4x7smp62sd80vxax",
+        "createdAt": 1770662616341,
+        "data": {
+          "correctIndex": 2,
+          "explanation": "After first mention, we use the.",
+          "options": [
+            "a",
+            "an",
+            "the",
+            "no article"
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks78cdn3wg2nw4gvrhc4smxaxx7zzre0",
+        "order": 18,
+        "question": "Which article is used when we talk about the same thing again?",
+        "questionCode": "397097",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770662616341
+      },
+      {
+        "_creationTime": 1770662616341.1,
+        "_id": "kn760qbjxyzr9yey1jncz34rdn80v5h2",
+        "createdAt": 1770662616341,
+        "data": {
+          "correctWords": [
+            "a",
+            "the"
+          ],
+          "selectMode": "multiple",
+          "statement": "I saw a dog. The dog was barking."
+        },
+        "difficultyName": "easy",
+        "levelId": "ks78cdn3wg2nw4gvrhc4smxaxx7zzre0",
+        "order": 19,
+        "question": "Select the article from the sentence.",
+        "questionCode": "868512",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770662616341
+      },
+      {
+        "_creationTime": 1770662616341.1003,
+        "_id": "kn7cgw8ztk2257zxqxhhw3tbns80tfgx",
+        "createdAt": 1770662616341,
+        "data": {
+          "correctIndex": 1,
+          "explanation": "Umbrella starts with a vowel sound.",
+          "options": [
+            "a",
+            "an",
+            "the",
+            "no article"
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks78cdn3wg2nw4gvrhc4smxaxx7zzre0",
+        "order": 20,
+        "question": "Which article is correct before umbrella?",
+        "questionCode": "638823",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770662616341
+      },
+      {
+        "_creationTime": 1770662616341.1006,
+        "_id": "kn7d8vcktbt3rf47djqey2jd2s80tnxv",
+        "createdAt": 1770662616341,
+        "data": {
+          "correctIndex": 1,
+          "explanation": "The h in honest is silent.",
+          "options": [
+            "a",
+            "an",
+            "the",
+            "no article"
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks78cdn3wg2nw4gvrhc4smxaxx7zzre0",
+        "order": 21,
+        "question": "Which article is correct before honest man?",
+        "questionCode": "964050",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770662616341
+      },
+      {
+        "_creationTime": 1770662616341.1008,
+        "_id": "kn79ypc5d46fvc28vfakttycw580td41",
+        "createdAt": 1770662616341,
+        "data": {
+          "correctWords": [
+            "an"
+          ],
+          "selectMode": "single",
+          "statement": "He is an honest man."
+        },
+        "difficultyName": "easy",
+        "levelId": "ks78cdn3wg2nw4gvrhc4smxaxx7zzre0",
+        "order": 22,
+        "question": "Select the article from the sentence.",
+        "questionCode": "276673",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770662616341
+      },
+      {
+        "_creationTime": 1770662616341.101,
+        "_id": "kn74ww7p5p6nkhvj3qds73jm1180vfee",
+        "createdAt": 1770662616341,
+        "data": {
+          "correctIndex": 0,
+          "explanation": "Useful starts with a “you” sound.",
+          "options": [
+            "a",
+            "an",
+            "the",
+            "no article"
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks78cdn3wg2nw4gvrhc4smxaxx7zzre0",
+        "order": 23,
+        "question": "Which article is correct before useful book?",
+        "questionCode": "470706",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770662616341
+      },
+      {
+        "_creationTime": 1770662616341.1013,
+        "_id": "kn79x6188yxqcns3fpcs5m4d1980v9ym",
+        "createdAt": 1770662616341,
+        "data": {
+          "correctWords": [
+            "a"
+          ],
+          "selectMode": "single",
+          "statement": "This is a useful book."
+        },
+        "difficultyName": "easy",
+        "levelId": "ks78cdn3wg2nw4gvrhc4smxaxx7zzre0",
+        "order": 24,
+        "question": "Select the article from the sentence.",
+        "questionCode": "596200",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770662616341
+      },
+      {
+        "_creationTime": 1770662616341.1016,
+        "_id": "kn7ammsc2ez0tx0937djz0myph80vgre",
+        "createdAt": 1770662616341,
+        "data": {
+          "correctIndex": 1,
+          "explanation": "Owl starts with a vowel sound.",
+          "options": [
+            "a",
+            "an",
+            "the",
+            "no article"
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks78cdn3wg2nw4gvrhc4smxaxx7zzre0",
+        "order": 25,
+        "question": "Which article is correct before owl?",
+        "questionCode": "792149",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770662616341
+      },
+      {
+        "_creationTime": 1770662616341.1018,
+        "_id": "kn74s89pede6gdkgzr9w05x00180vm4v",
+        "createdAt": 1770662616341,
+        "data": {
+          "correctIndex": 1,
+          "explanation": "Orange begins with a vowel sound.",
+          "options": [
+            "a",
+            "an",
+            "the",
+            "no article"
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks78cdn3wg2nw4gvrhc4smxaxx7zzre0",
+        "order": 26,
+        "question": "Which article is correct before orange?",
+        "questionCode": "165055",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770662616341
+      },
+      {
+        "_creationTime": 1770662616341.102,
+        "_id": "kn74m53tytgbdkjj17hyn85q8180vyeg",
+        "createdAt": 1770662616341,
+        "data": {
+          "correctIndex": 0,
+          "explanation": "Spoon begins with a consonant sound.",
+          "options": [
+            "a",
+            "an",
+            "the",
+            "no article"
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks78cdn3wg2nw4gvrhc4smxaxx7zzre0",
+        "order": 27,
+        "question": "Which article is correct before spoon?",
+        "questionCode": "231625",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770662616341
+      },
+      {
+        "_creationTime": 1770662616341.1023,
+        "_id": "kn77kjc2hzjtjgrpbbtkw28gdh80v556",
+        "createdAt": 1770662616341,
+        "data": {
+          "correctWords": [
+            "The",
+            "the"
+          ],
+          "selectMode": "multiple",
+          "statement": "The teacher entered the room."
+        },
+        "difficultyName": "easy",
+        "levelId": "ks78cdn3wg2nw4gvrhc4smxaxx7zzre0",
+        "order": 28,
+        "question": "Select the article from the sentence.",
+        "questionCode": "908719",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770662616341
+      },
+      {
+        "_creationTime": 1770662616341.1025,
+        "_id": "kn7c764r378btdh12gy1zrvqn580vaqt",
+        "createdAt": 1770662616341,
+        "data": {
+          "correctIndex": 3,
+          "explanation": "This is a demonstrative adjective, not an article.",
+          "options": [
+            "a",
+            "an",
+            "the",
+            "this"
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks78cdn3wg2nw4gvrhc4smxaxx7zzre0",
+        "order": 29,
+        "question": "Which word is NOT an article?",
+        "questionCode": "452189",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770662616341
+      },
+      {
+        "_creationTime": 1770662616341.1028,
+        "_id": "kn76z6v9hfa4dzb3wa1j5h7t6s80teyn",
+        "createdAt": 1770662616341,
+        "data": {
+          "correctWords": [
+            "the"
+          ],
+          "selectMode": "single",
+          "statement": "He lost the key."
+        },
+        "difficultyName": "easy",
+        "levelId": "ks78cdn3wg2nw4gvrhc4smxaxx7zzre0",
+        "order": 30,
+        "question": "Select the article from the sentence.",
+        "questionCode": "543398",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770662616341
+      }
+    ],
+    "hard": [
+      {
+        "_creationTime": 1770662616341.1104,
+        "_id": "kn72r291ajasvatt9j56gtmfsn80tb8w",
+        "createdAt": 1770662616341,
+        "data": {
+          "correctIndex": 2,
+          "explanation": "Names of oceans are specific and unique, so they take the.",
+          "options": [
+            "a",
+            "an",
+            "the",
+            "no article"
+          ]
+        },
+        "difficultyName": "hard",
+        "levelId": "ks78cdn3wg2nw4gvrhc4smxaxx7zzre0",
+        "order": 1,
+        "question": "Which article is used before names of oceans?",
+        "questionCode": "231370",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770662616341
+      },
+      {
+        "_creationTime": 1770662616341.1106,
+        "_id": "kn7cr7qh3kcj2ddx38ve09sabx80t2v1",
+        "createdAt": 1770662616341,
+        "data": {
+          "correctWords": [
+            "the"
+          ],
+          "selectMode": "single",
+          "statement": "The ship sailed across the Pacific Ocean."
+        },
+        "difficultyName": "hard",
+        "levelId": "ks78cdn3wg2nw4gvrhc4smxaxx7zzre0",
+        "order": 2,
+        "question": "Select the article from the sentence.",
+        "questionCode": "715507",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770662616341
+      },
+      {
+        "_creationTime": 1770662616341.1108,
+        "_id": "kn7f8pse3d1gxhzv39zdnet60x80tvf6",
+        "createdAt": 1770662616341,
+        "data": {
+          "correctWords": [
+            "The"
+          ],
+          "selectMode": "boxed",
+          "statement": "A An The"
+        },
+        "difficultyName": "hard",
+        "levelId": "ks78cdn3wg2nw4gvrhc4smxaxx7zzre0",
+        "order": 3,
+        "question": "______ United States of America is a large country.",
+        "questionCode": "737177",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770662616341
+      },
+      {
+        "_creationTime": 1770662616341.111,
+        "_id": "kn7fs1cjj8seb6strxvr1z4hy580t5cs",
+        "createdAt": 1770662616341,
+        "data": {
+          "correctWords": [
+            "the"
+          ],
+          "selectMode": "single",
+          "statement": "He lives in the United Kingdom."
+        },
+        "difficultyName": "hard",
+        "levelId": "ks78cdn3wg2nw4gvrhc4smxaxx7zzre0",
+        "order": 4,
+        "question": "Select the article from the sentence.",
+        "questionCode": "635247",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770662616341
+      },
+      {
+        "_creationTime": 1770662616341.1113,
+        "_id": "kn7aagpbmde5ymyzc1nt2knmdn80ts9y",
+        "createdAt": 1770662616341,
+        "data": {
+          "correctIndex": 2,
+          "explanation": "All river names take the.",
+          "options": [
+            "a",
+            "an",
+            "the",
+            "no article"
+          ]
+        },
+        "difficultyName": "hard",
+        "levelId": "ks78cdn3wg2nw4gvrhc4smxaxx7zzre0",
+        "order": 5,
+        "question": "Which article is used before names of rivers?",
+        "questionCode": "951381",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770662616341
+      },
+      {
+        "_creationTime": 1770662616341.1116,
+        "_id": "kn7cw366jfgfjny61tfwczt8md80tkj4",
+        "createdAt": 1770662616341,
+        "data": {
+          "correctWords": [
+            "the"
+          ],
+          "selectMode": "single",
+          "statement": "The villagers bathed in the Yamuna."
+        },
+        "difficultyName": "hard",
+        "levelId": "ks78cdn3wg2nw4gvrhc4smxaxx7zzre0",
+        "order": 6,
+        "question": "Select the article from the sentence.",
+        "questionCode": "203054",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770662616341
+      },
+      {
+        "_creationTime": 1770662616341.1118,
+        "_id": "kn7909wpmnyw8zgty6hgnkb1v180vds7",
+        "createdAt": 1770662616341,
+        "data": {
+          "correctIndex": 2,
+          "explanation": "Mountain ranges (plural) take the.",
+          "options": [
+            "a",
+            "an",
+            "the",
+            "no article"
+          ]
+        },
+        "difficultyName": "hard",
+        "levelId": "ks78cdn3wg2nw4gvrhc4smxaxx7zzre0",
+        "order": 7,
+        "question": "Which article is used before names of mountains ranges?",
+        "questionCode": "588808",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770662616341
+      },
+      {
+        "_creationTime": 1770662616341.112,
+        "_id": "kn72ke74sbc240evb0sr16r4p980t2cw",
+        "createdAt": 1770662616341,
+        "data": {
+          "correctWords": [
+            "The"
+          ],
+          "selectMode": "single",
+          "statement": "The Himalayas are covered with snow."
+        },
+        "difficultyName": "hard",
+        "levelId": "ks78cdn3wg2nw4gvrhc4smxaxx7zzre0",
+        "order": 8,
+        "question": "Select the article from the sentence.",
+        "questionCode": "704934",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770662616341
+      },
+      {
+        "_creationTime": 1770662616341.1123,
+        "_id": "kn73w4a1d0gsf4chkq77r8d8s180v4kn",
+        "createdAt": 1770662616341,
+        "data": {
+          "correctIndex": 2,
+          "explanation": "Superlatives always take the.",
+          "options": [
+            "a",
+            "an",
+            "the",
+            "no article"
+          ]
+        },
+        "difficultyName": "hard",
+        "levelId": "ks78cdn3wg2nw4gvrhc4smxaxx7zzre0",
+        "order": 9,
+        "question": "Mount Everest is ______ highest peak in the world.",
+        "questionCode": "696726",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770662616341
+      },
+      {
+        "_creationTime": 1770662616341.1125,
+        "_id": "kn76cvr3s21hkkshcsjxfzf46s80tf9y",
+        "createdAt": 1770662616341,
+        "data": {
+          "correctIndex": 2,
+          "explanation": "Deserts are geographical regions and take the.",
+          "options": [
+            "a",
+            "an",
+            "the",
+            "no article"
+          ]
+        },
+        "difficultyName": "hard",
+        "levelId": "ks78cdn3wg2nw4gvrhc4smxaxx7zzre0",
+        "order": 10,
+        "question": "Which article is used before names of deserts?",
+        "questionCode": "295888",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770662616341
+      },
+      {
+        "_creationTime": 1770662616341.1128,
+        "_id": "kn74nvycrzarngkfgz24zv7rw580t0xv",
+        "createdAt": 1770662616341,
+        "data": {
+          "correctWords": [
+            "the"
+          ],
+          "selectMode": "single",
+          "statement": "Camels live in the Sahara."
+        },
+        "difficultyName": "hard",
+        "levelId": "ks78cdn3wg2nw4gvrhc4smxaxx7zzre0",
+        "order": 11,
+        "question": "Select the article from the sentence.",
+        "questionCode": "427834",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770662616341
+      },
+      {
+        "_creationTime": 1770662616341.113,
+        "_id": "kn78j3p0x8532ey1zkrvhtqb6580ttzb",
+        "createdAt": 1770662616341,
+        "data": {
+          "correctIndex": 3,
+          "explanation": "Abstract nouns used generally do not take articles.",
+          "options": [
+            "a",
+            "an",
+            "the",
+            "no article"
+          ]
+        },
+        "difficultyName": "hard",
+        "levelId": "ks78cdn3wg2nw4gvrhc4smxaxx7zzre0",
+        "order": 12,
+        "question": "Which article is used before abstract nouns in general sense?",
+        "questionCode": "673702",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770662616341
+      },
+      {
+        "_creationTime": 1770662616341.1133,
+        "_id": "kn77mshpzwtzqpsbpa94vkgy5h80tf0t",
+        "createdAt": 1770662616341,
+        "data": {
+          "correctIndex": 2,
+          "explanation": "When an abstract noun is specific, the is used.",
+          "options": [
+            "a",
+            "an",
+            "the",
+            "no article"
+          ]
+        },
+        "difficultyName": "hard",
+        "levelId": "ks78cdn3wg2nw4gvrhc4smxaxx7zzre0",
+        "order": 13,
+        "question": "Which article is used before abstract nouns when made specific?",
+        "questionCode": "468565",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770662616341
+      },
+      {
+        "_creationTime": 1770662616341.1135,
+        "_id": "kn71yty93eqhnzv1f039jkr95980ty6n",
+        "createdAt": 1770662616341,
+        "data": {
+          "correctIndex": 2,
+          "explanation": "There is only one sun, moon, and earth.",
+          "options": [
+            "a",
+            "an",
+            "the",
+            "no article"
+          ]
+        },
+        "difficultyName": "hard",
+        "levelId": "ks78cdn3wg2nw4gvrhc4smxaxx7zzre0",
+        "order": 14,
+        "question": "Which article is used before unique natural objects?",
+        "questionCode": "190265",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770662616341
+      },
+      {
+        "_creationTime": 1770662616341.1138,
+        "_id": "kn7dvngm92z3g6kfj4ppmp527n80tdbg",
+        "createdAt": 1770662616341,
+        "data": {
+          "correctWords": [
+            "The",
+            "the"
+          ],
+          "selectMode": "multiple",
+          "statement": "The earth moves around the sun."
+        },
+        "difficultyName": "hard",
+        "levelId": "ks78cdn3wg2nw4gvrhc4smxaxx7zzre0",
+        "order": 15,
+        "question": "Select the article from the sentence.",
+        "questionCode": "720047",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770662616341
+      },
+      {
+        "_creationTime": 1770662616341.114,
+        "_id": "kn77feg2vdrkzb4s1dg0t8b66980tz59",
+        "createdAt": 1770662616341,
+        "data": {
+          "correctIndex": 3,
+          "explanation": "Languages generally do not take articles.",
+          "options": [
+            "a",
+            "an",
+            "the",
+            "no article"
+          ]
+        },
+        "difficultyName": "hard",
+        "levelId": "ks78cdn3wg2nw4gvrhc4smxaxx7zzre0",
+        "order": 16,
+        "question": "Which article is used before names of languages?",
+        "questionCode": "402853",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770662616341
+      },
+      {
+        "_creationTime": 1770662616341.1143,
+        "_id": "kn7fst20hxzhwspv11nfp6qsy180tj9b",
+        "createdAt": 1770662616341,
+        "data": {
+          "correctIndex": 3,
+          "explanation": "Names of languages do not take articles.",
+          "options": [
+            "a",
+            "an",
+            "the",
+            "no article"
+          ]
+        },
+        "difficultyName": "hard",
+        "levelId": "ks78cdn3wg2nw4gvrhc4smxaxx7zzre0",
+        "order": 17,
+        "question": "She speaks ______ English fluently.",
+        "questionCode": "608983",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770662616341
+      },
+      {
+        "_creationTime": 1770662616341.1145,
+        "_id": "kn73xv28qyf321qdhpxej1q2bn80vc01",
+        "createdAt": 1770662616341,
+        "data": {
+          "correctIndex": 2,
+          "explanation": "Musical instruments take the.",
+          "options": [
+            "a",
+            "an",
+            "the",
+            "no article"
+          ]
+        },
+        "difficultyName": "hard",
+        "levelId": "ks78cdn3wg2nw4gvrhc4smxaxx7zzre0",
+        "order": 18,
+        "question": "Which article is used before musical instruments?",
+        "questionCode": "877237",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770662616341
+      },
+      {
+        "_creationTime": 1770662616341.1147,
+        "_id": "kn75ch6shk9v1ha4mx7gvhdn4980twm7",
+        "createdAt": 1770662616341,
+        "data": {
+          "correctWords": [
+            "the"
+          ],
+          "selectMode": "single",
+          "statement": "He plays the violin."
+        },
+        "difficultyName": "hard",
+        "levelId": "ks78cdn3wg2nw4gvrhc4smxaxx7zzre0",
+        "order": 19,
+        "question": "Select the article from the sentence.",
+        "questionCode": "696083",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770662616341
+      },
+      {
+        "_creationTime": 1770662616341.115,
+        "_id": "kn71bd731dhq1dsep3ezc8q2ys80td2n",
+        "createdAt": 1770662616341,
+        "data": {
+          "correctIndex": 3,
+          "explanation": "Meals usually take no article.",
+          "options": [
+            "a",
+            "an",
+            "the",
+            "no article"
+          ]
+        },
+        "difficultyName": "hard",
+        "levelId": "ks78cdn3wg2nw4gvrhc4smxaxx7zzre0",
+        "order": 20,
+        "question": "Which article is used before meals (breakfast, lunch)?",
+        "questionCode": "814733",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770662616341
+      },
+      {
+        "_creationTime": 1770662616341.1152,
+        "_id": "kn7dtv2k6vz4rd3vx7sz3c230h80vnzk",
+        "createdAt": 1770662616341,
+        "data": {
+          "correctIndex": 3,
+          "explanation": "Meals take no article unless specified.",
+          "options": [
+            "a",
+            "an",
+            "the",
+            "no article"
+          ]
+        },
+        "difficultyName": "hard",
+        "levelId": "ks78cdn3wg2nw4gvrhc4smxaxx7zzre0",
+        "order": 21,
+        "question": "We had ___ dinner at eight.",
+        "questionCode": "140553",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770662616341
+      },
+      {
+        "_creationTime": 1770662616341.1155,
+        "_id": "kn77skc4jdwpjtwdpv80kmq41980vm87",
+        "createdAt": 1770662616341,
+        "data": {
+          "correctIndex": 1,
+          "explanation": "Gold in general takes no article; metal is singular countable.",
+          "options": [
+            "The gold is precious metal",
+            "Gold is a precious metal",
+            "Gold is precious the metal",
+            "A gold is precious metal"
+          ]
+        },
+        "difficultyName": "hard",
+        "levelId": "ks78cdn3wg2nw4gvrhc4smxaxx7zzre0",
+        "order": 22,
+        "question": "Which sentence uses articles correctly?",
+        "questionCode": "836652",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770662616341
+      },
+      {
+        "_creationTime": 1770662616341.1157,
+        "_id": "kn78gbmgnbpycaypfjqvkrwhah80ve3s",
+        "createdAt": 1770662616341,
+        "data": {
+          "correctIndex": 0,
+          "explanation": "Professions are singular countable nouns.",
+          "options": [
+            "a / an",
+            "the",
+            "no article",
+            "all"
+          ]
+        },
+        "difficultyName": "hard",
+        "levelId": "ks78cdn3wg2nw4gvrhc4smxaxx7zzre0",
+        "order": 23,
+        "question": "Which article is used before professions?",
+        "questionCode": "867575",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770662616341
+      },
+      {
+        "_creationTime": 1770662616341.116,
+        "_id": "kn751rp0x8n758m35h6hrvt39180tx44",
+        "createdAt": 1770662616341,
+        "data": {
+          "correctWords": [
+            "a"
+          ],
+          "selectMode": "single",
+          "statement": "She is a doctor."
+        },
+        "difficultyName": "hard",
+        "levelId": "ks78cdn3wg2nw4gvrhc4smxaxx7zzre0",
+        "order": 24,
+        "question": "Select the article from the sentence.",
+        "questionCode": "761439",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770662616341
+      },
+      {
+        "_creationTime": 1770662616341.1162,
+        "_id": "kn7czhv78vk7mxpb1109x3kyxx80t3dj",
+        "createdAt": 1770662616341,
+        "data": {
+          "correctIndex": 3,
+          "explanation": "Days are used without articles.",
+          "options": [
+            "a",
+            "an",
+            "the",
+            "no article"
+          ]
+        },
+        "difficultyName": "hard",
+        "levelId": "ks78cdn3wg2nw4gvrhc4smxaxx7zzre0",
+        "order": 25,
+        "question": "We will meet on ______ Monday.",
+        "questionCode": "540161",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770662616341
+      },
+      {
+        "_creationTime": 1770662616341.1165,
+        "_id": "kn738f49h2tq0kdyajezbxajes80v717",
+        "createdAt": 1770662616341,
+        "data": {
+          "correctIndex": 2,
+          "explanation": "Ordinal numbers show order and specificity.",
+          "options": [
+            "a",
+            "an",
+            "the",
+            "no article"
+          ]
+        },
+        "difficultyName": "hard",
+        "levelId": "ks78cdn3wg2nw4gvrhc4smxaxx7zzre0",
+        "order": 26,
+        "question": "Which article is used before ordinal numbers?",
+        "questionCode": "496543",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770662616341
+      },
+      {
+        "_creationTime": 1770662616341.1167,
+        "_id": "kn76e8ek3tq8jkwagyj8fv0dy180tv6d",
+        "createdAt": 1770662616341,
+        "data": {
+          "correctWords": [
+            "the"
+          ],
+          "selectMode": "single",
+          "statement": "He stood the first in the line."
+        },
+        "difficultyName": "hard",
+        "levelId": "ks78cdn3wg2nw4gvrhc4smxaxx7zzre0",
+        "order": 27,
+        "question": "Select the article from the sentence.",
+        "questionCode": "553147",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770662616341
+      },
+      {
+        "_creationTime": 1770662616341.117,
+        "_id": "kn7dv4ykw4fzmr3pgpsrs2wsy580td54",
+        "createdAt": 1770662616341,
+        "data": {
+          "correctIndex": 2,
+          "explanation": "Ships and trains are treated as unique objects.",
+          "options": [
+            "a",
+            "an",
+            "the",
+            "no article"
+          ]
+        },
+        "difficultyName": "hard",
+        "levelId": "ks78cdn3wg2nw4gvrhc4smxaxx7zzre0",
+        "order": 28,
+        "question": "Which article is used before names of ships?",
+        "questionCode": "610339",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770662616341
+      },
+      {
+        "_creationTime": 1770662616341.1172,
+        "_id": "kn76zsh8j3h42ynhs3z47s4f4x80thgr",
+        "createdAt": 1770662616341,
+        "data": {
+          "correctIndex": 2,
+          "explanation": "Plural family names take the.",
+          "options": [
+            "a",
+            "an",
+            "the",
+            "no article"
+          ]
+        },
+        "difficultyName": "hard",
+        "levelId": "ks78cdn3wg2nw4gvrhc4smxaxx7zzre0",
+        "order": 29,
+        "question": "Which article is used before plural family names?",
+        "questionCode": "206715",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770662616341
+      },
+      {
+        "_creationTime": 1770662616341.1174,
+        "_id": "kn71k4cjq9jnk3xzn0aermqhrx80vz25",
+        "createdAt": 1770662616341,
+        "data": {
+          "correctIndex": 1,
+          "explanation": "Silent h → vowel sound → an.",
+          "options": [
+            "He is a honest man",
+            "He is an honest man",
+            "He is the honest man",
+            "He is honest a man"
+          ]
+        },
+        "difficultyName": "hard",
+        "levelId": "ks78cdn3wg2nw4gvrhc4smxaxx7zzre0",
+        "order": 30,
+        "question": "Which sentence uses articles correctly?",
+        "questionCode": "166585",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770662616341
+      }
+    ],
+    "medium": [
+      {
+        "_creationTime": 1770662616341.103,
+        "_id": "kn7fmhx8tp2kewq5mzs0b47zxx80tdap",
+        "createdAt": 1770662616341,
+        "data": {
+          "correctIndex": 1,
+          "explanation": "When a noun is mentioned for the first time, it is not specific, so a/an is used.",
+          "options": [
+            "the",
+            "a / an",
+            "no article",
+            "all"
+          ]
+        },
+        "difficultyName": "medium",
+        "levelId": "ks78cdn3wg2nw4gvrhc4smxaxx7zzre0",
+        "order": 1,
+        "question": "Which article is used when we mention something for the first time?",
+        "questionCode": "790713",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770662616341
+      },
+      {
+        "_creationTime": 1770662616341.1033,
+        "_id": "kn79129tp0t4z4y921d2yarwc580tts6",
+        "createdAt": 1770662616341,
+        "data": {
+          "correctWords": [
+            "a",
+            "the"
+          ],
+          "selectMode": "single",
+          "statement": "I saw a bird in the garden."
+        },
+        "difficultyName": "medium",
+        "levelId": "ks78cdn3wg2nw4gvrhc4smxaxx7zzre0",
+        "order": 2,
+        "question": "Select the article from the sentence.",
+        "questionCode": "395920",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770662616341
+      },
+      {
+        "_creationTime": 1770662616341.1035,
+        "_id": "kn7eamwmz1mzk7699g873dbdzx80vg9t",
+        "createdAt": 1770662616341,
+        "data": {
+          "correctIndex": 2,
+          "explanation": "Once a noun is known, the is used to show it is specific.",
+          "options": [
+            "a",
+            "an",
+            "the",
+            "no article"
+          ]
+        },
+        "difficultyName": "medium",
+        "levelId": "ks78cdn3wg2nw4gvrhc4smxaxx7zzre0",
+        "order": 3,
+        "question": "Which article is used when we talk about the same noun again?",
+        "questionCode": "376003",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770662616341
+      },
+      {
+        "_creationTime": 1770662616341.1038,
+        "_id": "kn71bkmr9jffcy10pm3ksmwf2s80varv",
+        "createdAt": 1770662616341,
+        "data": {
+          "correctIndex": 1,
+          "explanation": "The h in honour is silent, so the word begins with a vowel sound.",
+          "options": [
+            "a",
+            "an",
+            "the",
+            "no article"
+          ]
+        },
+        "difficultyName": "medium",
+        "levelId": "ks78cdn3wg2nw4gvrhc4smxaxx7zzre0",
+        "order": 4,
+        "question": "Which article is correct before honour?",
+        "questionCode": "375875",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770662616341
+      },
+      {
+        "_creationTime": 1770662616341.104,
+        "_id": "kn7bksprhtg1fse6jgtt718hsh80tzc0",
+        "createdAt": 1770662616341,
+        "data": {
+          "correctWords": [
+            "an"
+          ],
+          "selectMode": "single",
+          "statement": "It was an honour to meet him."
+        },
+        "difficultyName": "medium",
+        "levelId": "ks78cdn3wg2nw4gvrhc4smxaxx7zzre0",
+        "order": 5,
+        "question": "Select the article from the sentence.",
+        "questionCode": "530959",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770662616341
+      },
+      {
+        "_creationTime": 1770662616341.1042,
+        "_id": "kn7ezpcj792mj5t3fv5dy45e2s80vfrm",
+        "createdAt": 1770662616341,
+        "data": {
+          "correctIndex": 0,
+          "explanation": "Uniform begins with a “you” sound, which is a consonant sound.",
+          "options": [
+            "a",
+            "an",
+            "the",
+            "no article"
+          ]
+        },
+        "difficultyName": "medium",
+        "levelId": "ks78cdn3wg2nw4gvrhc4smxaxx7zzre0",
+        "order": 6,
+        "question": "Which article is correct before uniform?",
+        "questionCode": "999806",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770662616341
+      },
+      {
+        "_creationTime": 1770662616341.1045,
+        "_id": "kn77mmxs0tzzktsx168pxjhqnn80ttkg",
+        "createdAt": 1770662616341,
+        "data": {
+          "correctWords": [
+            "a"
+          ],
+          "selectMode": "single",
+          "statement": "He wore a uniform."
+        },
+        "difficultyName": "medium",
+        "levelId": "ks78cdn3wg2nw4gvrhc4smxaxx7zzre0",
+        "order": 7,
+        "question": "Select the article from the sentence.",
+        "questionCode": "948825",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770662616341
+      },
+      {
+        "_creationTime": 1770662616341.1047,
+        "_id": "kn74hsan8vzmzn2vzavvwsqvws80tgxs",
+        "createdAt": 1770662616341,
+        "data": {
+          "correctWords": [
+            "The",
+            "the"
+          ],
+          "selectMode": "multiple",
+          "statement": "The teacher explained the lesson."
+        },
+        "difficultyName": "medium",
+        "levelId": "ks78cdn3wg2nw4gvrhc4smxaxx7zzre0",
+        "order": 8,
+        "question": "Select the article from the sentence.",
+        "questionCode": "339120",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770662616341
+      },
+      {
+        "_creationTime": 1770662616341.105,
+        "_id": "kn7df9nczy8eqgk3t2vs9jwz1s80v8z8",
+        "createdAt": 1770662616341,
+        "data": {
+          "correctIndex": 3,
+          "explanation": "Plural nouns used generally do not take an article.",
+          "options": [
+            "a",
+            "an",
+            "the",
+            "no article"
+          ]
+        },
+        "difficultyName": "medium",
+        "levelId": "ks78cdn3wg2nw4gvrhc4smxaxx7zzre0",
+        "order": 9,
+        "question": "Which article is used before plural nouns in general sense?",
+        "questionCode": "383989",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770662616341
+      },
+      {
+        "_creationTime": 1770662616341.1052,
+        "_id": "kn76av1h1q3m7y9k7cwpyz3s6580v5ky",
+        "createdAt": 1770662616341,
+        "data": {
+          "correctIndex": 2,
+          "explanation": "General plural nouns take no article.",
+          "options": [
+            "The dogs are faithful animals",
+            "Dogs are the faithful animals",
+            "Dogs are faithful animals",
+            "A dogs are faithful"
+          ]
+        },
+        "difficultyName": "medium",
+        "levelId": "ks78cdn3wg2nw4gvrhc4smxaxx7zzre0",
+        "order": 10,
+        "question": "Which sentence uses articles correctly?",
+        "questionCode": "183589",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770662616341
+      },
+      {
+        "_creationTime": 1770662616341.1055,
+        "_id": "kn7cmncht8mnecjahzzvpevkts80v4wq",
+        "createdAt": 1770662616341,
+        "data": {
+          "correctWords": [
+            "the"
+          ],
+          "selectMode": "single",
+          "statement": "She went to the market."
+        },
+        "difficultyName": "medium",
+        "levelId": "ks78cdn3wg2nw4gvrhc4smxaxx7zzre0",
+        "order": 11,
+        "question": "Select the article from the sentence.",
+        "questionCode": "280223",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770662616341
+      },
+      {
+        "_creationTime": 1770662616341.1057,
+        "_id": "kn7475ra6rdqqtepyyd7wx21cs80vre1",
+        "createdAt": 1770662616341,
+        "data": {
+          "correctIndex": 2,
+          "explanation": "Superlatives point to one specific thing, so the is used.",
+          "options": [
+            "a",
+            "an",
+            "the",
+            "no article"
+          ]
+        },
+        "difficultyName": "medium",
+        "levelId": "ks78cdn3wg2nw4gvrhc4smxaxx7zzre0",
+        "order": 12,
+        "question": "Which article is used before superlative adjectives?",
+        "questionCode": "737698",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770662616341
+      },
+      {
+        "_creationTime": 1770662616341.106,
+        "_id": "kn7b0ddb5mmxjpzn3ty0hh0e1180t4vn",
+        "createdAt": 1770662616341,
+        "data": {
+          "correctWords": [
+            "the"
+          ],
+          "selectMode": "single",
+          "statement": "He is the best player in the team."
+        },
+        "difficultyName": "medium",
+        "levelId": "ks78cdn3wg2nw4gvrhc4smxaxx7zzre0",
+        "order": 13,
+        "question": "Select the article from the sentence.",
+        "questionCode": "460739",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770662616341
+      },
+      {
+        "_creationTime": 1770662616341.1062,
+        "_id": "kn7d3c99pqdvsj78zt0yemb2zd80t0r2",
+        "createdAt": 1770662616341,
+        "data": {
+          "correctIndex": 2,
+          "explanation": "Names of rivers take the.",
+          "options": [
+            "a",
+            "an",
+            "the",
+            "no article"
+          ]
+        },
+        "difficultyName": "medium",
+        "levelId": "ks78cdn3wg2nw4gvrhc4smxaxx7zzre0",
+        "order": 14,
+        "question": "Which article is correct before river Ganga?",
+        "questionCode": "313222",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770662616341
+      },
+      {
+        "_creationTime": 1770662616341.1064,
+        "_id": "kn7ajxsr09cbberdk0mg33j7ad80tr82",
+        "createdAt": 1770662616341,
+        "data": {
+          "correctWords": [
+            "the"
+          ],
+          "selectMode": "single",
+          "statement": "We bathed in the Ganga."
+        },
+        "difficultyName": "medium",
+        "levelId": "ks78cdn3wg2nw4gvrhc4smxaxx7zzre0",
+        "order": 15,
+        "question": "Select the article from the sentence.",
+        "questionCode": "941851",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770662616341
+      },
+      {
+        "_creationTime": 1770662616341.1067,
+        "_id": "kn78f9vys0m3kdskmq5hbnehf180vakp",
+        "createdAt": 1770662616341,
+        "data": {
+          "correctIndex": 2,
+          "explanation": "When referring to the place, the is used.",
+          "options": [
+            "a",
+            "an",
+            "the",
+            "no article"
+          ]
+        },
+        "difficultyName": "medium",
+        "levelId": "ks78cdn3wg2nw4gvrhc4smxaxx7zzre0",
+        "order": 16,
+        "question": "Which article is correct when school refers to a building?",
+        "questionCode": "295514",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770662616341
+      },
+      {
+        "_creationTime": 1770662616341.107,
+        "_id": "kn735pedbmc819fxcpjmf9pp3n80v8f4",
+        "createdAt": 1770662616341,
+        "data": {
+          "correctWords": [
+            "the"
+          ],
+          "selectMode": "single",
+          "statement": "His mother went to the school to meet the teacher."
+        },
+        "difficultyName": "medium",
+        "levelId": "ks78cdn3wg2nw4gvrhc4smxaxx7zzre0",
+        "order": 17,
+        "question": "Select the article from the sentence.",
+        "questionCode": "278758",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770662616341
+      },
+      {
+        "_creationTime": 1770662616341.1072,
+        "_id": "kn7894d5wx0wptc8g15wdnz5wn80t61k",
+        "createdAt": 1770662616341,
+        "data": {
+          "correctIndex": 0,
+          "explanation": "One begins with a “w” sound.",
+          "options": [
+            "a",
+            "an",
+            "the",
+            "no article"
+          ]
+        },
+        "difficultyName": "medium",
+        "levelId": "ks78cdn3wg2nw4gvrhc4smxaxx7zzre0",
+        "order": 18,
+        "question": "Which article is correct before one-rupee coin?",
+        "questionCode": "506432",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770662616341
+      },
+      {
+        "_creationTime": 1770662616341.1074,
+        "_id": "kn7erpqyhdrmx500mtjhey34pd80tpwa",
+        "createdAt": 1770662616341,
+        "data": {
+          "correctWords": [
+            "a"
+          ],
+          "selectMode": "single",
+          "statement": "He gave me a one-rupee coin."
+        },
+        "difficultyName": "medium",
+        "levelId": "ks78cdn3wg2nw4gvrhc4smxaxx7zzre0",
+        "order": 19,
+        "question": "Select the article from the sentence.",
+        "questionCode": "579035",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770662616341
+      },
+      {
+        "_creationTime": 1770662616341.1077,
+        "_id": "kn70115hxzmmjn5npb7a3srmv180v6vs",
+        "createdAt": 1770662616341,
+        "data": {
+          "correctIndex": 1,
+          "explanation": "M is pronounced “em”, which begins with a vowel sound.",
+          "options": [
+            "a",
+            "an",
+            "the",
+            "no article"
+          ]
+        },
+        "difficultyName": "medium",
+        "levelId": "ks78cdn3wg2nw4gvrhc4smxaxx7zzre0",
+        "order": 20,
+        "question": "Which article is correct before MBA degree?",
+        "questionCode": "880281",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770662616341
+      },
+      {
+        "_creationTime": 1770662616341.108,
+        "_id": "kn7fb9sgbr6swpqg63gx7hxhpx80tyh3",
+        "createdAt": 1770662616341,
+        "data": {
+          "correctWords": [
+            "an"
+          ],
+          "selectMode": "single",
+          "statement": "She is pursuing an MBA."
+        },
+        "difficultyName": "medium",
+        "levelId": "ks78cdn3wg2nw4gvrhc4smxaxx7zzre0",
+        "order": 21,
+        "question": "Select the article from the sentence.",
+        "questionCode": "346741",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770662616341
+      },
+      {
+        "_creationTime": 1770662616341.1082,
+        "_id": "kn703xf6w4hsawgze6n52cw2h580vy4x",
+        "createdAt": 1770662616341,
+        "data": {
+          "correctIndex": 0,
+          "explanation": "First mention → an, second mention → the.",
+          "options": [
+            "He bought an umbrella and the umbrella is red",
+            "He bought an umbrella and umbrella is red",
+            "He bought the umbrella and an umbrella is red",
+            "He bought a umbrella and the umbrella is red"
+          ]
+        },
+        "difficultyName": "medium",
+        "levelId": "ks78cdn3wg2nw4gvrhc4smxaxx7zzre0",
+        "order": 22,
+        "question": "Which sentence uses articles correctly?",
+        "questionCode": "813752",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770662616341
+      },
+      {
+        "_creationTime": 1770662616341.1084,
+        "_id": "kn72qmgthhjzdsem3rd3ccg9qn80tsay",
+        "createdAt": 1770662616341,
+        "data": {
+          "correctWords": [
+            "The"
+          ],
+          "selectMode": "single",
+          "statement": "The earth moves around the sun."
+        },
+        "difficultyName": "medium",
+        "levelId": "ks78cdn3wg2nw4gvrhc4smxaxx7zzre0",
+        "order": 23,
+        "question": "Select the article from the sentence.",
+        "questionCode": "451061",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770662616341
+      },
+      {
+        "_creationTime": 1770662616341.1086,
+        "_id": "kn78ya7y0n8vy3t2q83f7s77s180vaaf",
+        "createdAt": 1770662616341,
+        "data": {
+          "correctIndex": 2,
+          "explanation": "Directions (east, west) take the.",
+          "options": [
+            "a",
+            "an",
+            "the",
+            "no article"
+          ]
+        },
+        "difficultyName": "medium",
+        "levelId": "ks78cdn3wg2nw4gvrhc4smxaxx7zzre0",
+        "order": 24,
+        "question": "Which article is correct before east?",
+        "questionCode": "890540",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770662616341
+      },
+      {
+        "_creationTime": 1770662616341.109,
+        "_id": "kn791tzzy4j3gk3y3aj9np2v8h80va5f",
+        "createdAt": 1770662616341,
+        "data": {
+          "correctWords": [
+            "the"
+          ],
+          "selectMode": "single",
+          "statement": "The sun rises in the east."
+        },
+        "difficultyName": "medium",
+        "levelId": "ks78cdn3wg2nw4gvrhc4smxaxx7zzre0",
+        "order": 25,
+        "question": "Select the article from the sentence.",
+        "questionCode": "560643",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770662616341
+      },
+      {
+        "_creationTime": 1770662616341.1091,
+        "_id": "kn79ya2204k3ggczwkwzr84tqh80vqst",
+        "createdAt": 1770662616341,
+        "data": {
+          "correctWords": [
+            "the"
+          ],
+          "selectMode": "boxed",
+          "statement": "a an the"
+        },
+        "difficultyName": "medium",
+        "levelId": "ks78cdn3wg2nw4gvrhc4smxaxx7zzre0",
+        "order": 26,
+        "question": "Select the correct article usage:  \nMount Everest is ___ highest peak.",
+        "questionCode": "179134",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770662616341
+      },
+      {
+        "_creationTime": 1770662616341.1094,
+        "_id": "kn71ev0jxcbsr0tqx7vzcqp0e980tew2",
+        "createdAt": 1770662616341,
+        "data": {
+          "correctIndex": 0,
+          "explanation": "General singular noun → a.",
+          "options": [
+            "a",
+            "an",
+            "the",
+            "no article"
+          ]
+        },
+        "difficultyName": "medium",
+        "levelId": "ks78cdn3wg2nw4gvrhc4smxaxx7zzre0",
+        "order": 27,
+        "question": "Which article is correct before \"Mahabharat\" ?",
+        "questionCode": "987003",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770662616341
+      },
+      {
+        "_creationTime": 1770662616341.1096,
+        "_id": "kn7bsv6dawb8n6nb8ycypdkvg180vxbt",
+        "createdAt": 1770662616341,
+        "data": {
+          "correctIndex": 2,
+          "explanation": "Musical instruments take the.",
+          "options": [
+            "a",
+            "an",
+            "the",
+            "no article"
+          ]
+        },
+        "difficultyName": "medium",
+        "levelId": "ks78cdn3wg2nw4gvrhc4smxaxx7zzre0",
+        "order": 28,
+        "question": "Which article is used before musical instruments?",
+        "questionCode": "693181",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770662616341
+      },
+      {
+        "_creationTime": 1770662616341.1099,
+        "_id": "kn7819zahx1df6pszp57a2brmx80v615",
+        "createdAt": 1770662616341,
+        "data": {
+          "correctIndex": 1,
+          "explanation": "University starts with a “you” sound.",
+          "options": [
+            "She is an university student",
+            "She is a university student",
+            "She is the university student",
+            "She is university student"
+          ]
+        },
+        "difficultyName": "medium",
+        "levelId": "ks78cdn3wg2nw4gvrhc4smxaxx7zzre0",
+        "order": 29,
+        "question": "Which sentence uses articles correctly?",
+        "questionCode": "133805",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770662616341
+      },
+      {
+        "_creationTime": 1770662616341.11,
+        "_id": "kn76hq7mty19txz31acm0zzdzd80t6h3",
+        "createdAt": 1770662616341,
+        "data": {
+          "correctWords": [
+            "a"
+          ],
+          "selectMode": "single",
+          "statement": "She bought a pair of shoes."
+        },
+        "difficultyName": "medium",
+        "levelId": "ks78cdn3wg2nw4gvrhc4smxaxx7zzre0",
+        "order": 30,
+        "question": "Select the article from the sentence.",
+        "questionCode": "794170",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770662616341
+      }
+    ]
+  }
+}

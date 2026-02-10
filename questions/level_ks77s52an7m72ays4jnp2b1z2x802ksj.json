@@ -1,0 +1,1948 @@
+{
+  "levelId": "ks77s52an7m72ays4jnp2b1z2x802ksj",
+  "version": 0,
+  "publishedAt": 1770756024073,
+  "questions": {
+    "easy": [
+      {
+        "_creationTime": 1770662621920.3962,
+        "_id": "kn70de2gg1qnn931jjgsqek21x80v7yg",
+        "createdAt": 1770662621920,
+        "data": {
+          "correctIndex": 1,
+          "explanation": "A conjunction joins words or groups of words.",
+          "options": [
+            "A naming word",
+            "A word used to join words or groups of words",
+            "A describing word",
+            "A replacing word"
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks77s52an7m72ays4jnp2b1z2x802ksj",
+        "order": 1,
+        "question": "What is a conjunction?",
+        "questionCode": "214661",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770662621920
+      },
+      {
+        "_creationTime": 1770662621920.3965,
+        "_id": "kn701h0dk5jnkb61c0hecbmdzn80vzaf",
+        "createdAt": 1770662621920,
+        "data": {
+          "correctWords": [
+            "and"
+          ],
+          "selectMode": "single",
+          "statement": "The dog and the cat are in the garden."
+        },
+        "difficultyName": "easy",
+        "levelId": "ks77s52an7m72ays4jnp2b1z2x802ksj",
+        "order": 2,
+        "question": "Select the conjunction from the sentence.",
+        "questionCode": "406125",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770662621920
+      },
+      {
+        "_creationTime": 1770662621920.3967,
+        "_id": "kn7benpvnp432fbac2w9w4pkss80v9m5",
+        "createdAt": 1770662621920,
+        "data": {
+          "correctIndex": 2,
+          "explanation": "'Or' shows choice.",
+          "options": [
+            "and",
+            "but",
+            "or",
+            "because"
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks77s52an7m72ays4jnp2b1z2x802ksj",
+        "order": 4,
+        "question": "Which conjunction shows choice?",
+        "questionCode": "500321",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770662621920
+      },
+      {
+        "_creationTime": 1770662621920.397,
+        "_id": "kn7e2a6qfxahdsr886dj4axwcn80tjy5",
+        "createdAt": 1770662621920,
+        "data": {
+          "correctWords": [
+            "or"
+          ],
+          "selectMode": "single",
+          "statement": "Is this my pencil or yours?"
+        },
+        "difficultyName": "easy",
+        "levelId": "ks77s52an7m72ays4jnp2b1z2x802ksj",
+        "order": 7,
+        "question": "Select the conjunction from the sentence.",
+        "questionCode": "739871",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770662621920
+      },
+      {
+        "_creationTime": 1770662621920.3972,
+        "_id": "kn74z3p417nq83e2hrj5hxgqkd80vmgz",
+        "createdAt": 1770662621920,
+        "data": {
+          "correctIndex": 2,
+          "explanation": "'But' shows contrast.",
+          "options": [
+            "and",
+            "or",
+            "but",
+            "so"
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks77s52an7m72ays4jnp2b1z2x802ksj",
+        "order": 11,
+        "question": "Which conjunction shows contrast?",
+        "questionCode": "157155",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770662621920
+      },
+      {
+        "_creationTime": 1770662621920.3975,
+        "_id": "kn7f3wh1vqx9gwjk04wq7k5xhx80thdf",
+        "createdAt": 1770662621920,
+        "data": {
+          "correctWords": [
+            "but"
+          ],
+          "selectMode": "single",
+          "statement": "He is poor but honest."
+        },
+        "difficultyName": "easy",
+        "levelId": "ks77s52an7m72ays4jnp2b1z2x802ksj",
+        "order": 16,
+        "question": "Select the conjunction from the sentence.",
+        "questionCode": "316377",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770662621920
+      },
+      {
+        "_creationTime": 1770662621920.3977,
+        "_id": "kn7avk7h8kyc80rrznzvsj9ahd80v1vw",
+        "createdAt": 1770662621920,
+        "data": {
+          "correctIndex": 1,
+          "explanation": "'Because' gives a reason.",
+          "options": [
+            "and",
+            "because",
+            "or",
+            "yet"
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks77s52an7m72ays4jnp2b1z2x802ksj",
+        "order": 22,
+        "question": "Which conjunction gives reason?",
+        "questionCode": "794825",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770662621920
+      },
+      {
+        "_creationTime": 1770662621920.398,
+        "_id": "kn7bxa76pdm625p4vsty3hg23980t05g",
+        "createdAt": 1770662621920,
+        "data": {
+          "correctWords": [
+            "because"
+          ],
+          "selectMode": "single",
+          "statement": "I trust him because he is honest."
+        },
+        "difficultyName": "easy",
+        "levelId": "ks77s52an7m72ays4jnp2b1z2x802ksj",
+        "order": 29,
+        "question": "Select the conjunction from the sentence.",
+        "questionCode": "362160",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770662621920
+      },
+      {
+        "_creationTime": 1770662621920.3982,
+        "_id": "kn7d77x6b63zzt9ef5rqxfyanh80vwxt",
+        "createdAt": 1770662621920,
+        "data": {
+          "correctIndex": 0,
+          "explanation": "'And' joins actions.",
+          "options": [
+            "and",
+            "unless",
+            "although",
+            "yet"
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks77s52an7m72ays4jnp2b1z2x802ksj",
+        "order": 37,
+        "question": "Which conjunction joins actions?",
+        "questionCode": "523380",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770662621920
+      },
+      {
+        "_creationTime": 1770662621920.3984,
+        "_id": "kn7fw0rrw94v4rsnfw1g4dpja580vczb",
+        "createdAt": 1770662621920,
+        "data": {
+          "correctWords": [
+            "and"
+          ],
+          "selectMode": "single",
+          "statement": "The boys came running and shouting."
+        },
+        "difficultyName": "easy",
+        "levelId": "ks77s52an7m72ays4jnp2b1z2x802ksj",
+        "order": 46,
+        "question": "Select the conjunction from the sentence.",
+        "questionCode": "692033",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770662621920
+      },
+      {
+        "_creationTime": 1770662621920.3987,
+        "_id": "kn74ykfkqje4x4trxvqtgqx42h80t11y",
+        "createdAt": 1770662621920,
+        "data": {
+          "correctIndex": 1,
+          "explanation": "'Unless' means if not.",
+          "options": [
+            "if",
+            "unless",
+            "because",
+            "so"
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks77s52an7m72ays4jnp2b1z2x802ksj",
+        "order": 56,
+        "question": "Which conjunction means 'if not'?",
+        "questionCode": "333647",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770662621920
+      },
+      {
+        "_creationTime": 1770662621920.399,
+        "_id": "kn7dqh95sn9csr1hfj6bkwvy8h80tzsh",
+        "createdAt": 1770662621920,
+        "data": {
+          "correctWords": [
+            "unless"
+          ],
+          "selectMode": "single",
+          "statement": "The dinner will be cold unless you walk home fast."
+        },
+        "difficultyName": "easy",
+        "levelId": "ks77s52an7m72ays4jnp2b1z2x802ksj",
+        "order": 67,
+        "question": "Select the conjunction from the sentence.",
+        "questionCode": "696156",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770662621920
+      },
+      {
+        "_creationTime": 1770662621920.3992,
+        "_id": "kn73772tvjb8d1h16m6rm5rr9180tmva",
+        "createdAt": 1770662621920,
+        "data": {
+          "correctIndex": 1,
+          "explanation": "'So' shows result.",
+          "options": [
+            "because",
+            "so",
+            "but",
+            "or"
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks77s52an7m72ays4jnp2b1z2x802ksj",
+        "order": 79,
+        "question": "Which conjunction shows result?",
+        "questionCode": "961819",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770662621920
+      },
+      {
+        "_creationTime": 1770662621920.3994,
+        "_id": "kn7d33ejb21zhaxb8jw1e2fjgx80tdq5",
+        "createdAt": 1770662621920,
+        "data": {
+          "correctWords": [
+            "so"
+          ],
+          "selectMode": "single",
+          "statement": "It rained, so I took a carriage."
+        },
+        "difficultyName": "easy",
+        "levelId": "ks77s52an7m72ays4jnp2b1z2x802ksj",
+        "order": 92,
+        "question": "Select the conjunction from the sentence.",
+        "questionCode": "787790",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770662621920
+      },
+      {
+        "_creationTime": 1770662621920.3997,
+        "_id": "kn7a2at32tjmszmwpy9fday3rn80ttpp",
+        "createdAt": 1770662621920,
+        "data": {
+          "correctIndex": 0,
+          "explanation": "'When' shows time.",
+          "options": [
+            "when",
+            "but",
+            "and",
+            "or"
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks77s52an7m72ays4jnp2b1z2x802ksj",
+        "order": 106,
+        "question": "Which conjunction shows time?",
+        "questionCode": "453495",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770662621920
+      },
+      {
+        "_creationTime": 1770662621920.4,
+        "_id": "kn7eb6z17ar2588kxh16gbgcvh80t5bx",
+        "createdAt": 1770662621920,
+        "data": {
+          "correctWords": [
+            "when"
+          ],
+          "selectMode": "single",
+          "statement": "The mice will play when the cat is away."
+        },
+        "difficultyName": "easy",
+        "levelId": "ks77s52an7m72ays4jnp2b1z2x802ksj",
+        "order": 121,
+        "question": "Select the conjunction from the sentence.",
+        "questionCode": "584743",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770662621920
+      },
+      {
+        "_creationTime": 1770662621920.4001,
+        "_id": "kn727wbw7bzb0zbtn19dsz1qdd80tat1",
+        "createdAt": 1770662621920,
+        "data": {
+          "correctIndex": 0,
+          "explanation": "'If' shows condition.",
+          "options": [
+            "if",
+            "and",
+            "but",
+            "so"
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks77s52an7m72ays4jnp2b1z2x802ksj",
+        "order": 137,
+        "question": "Which conjunction shows condition?",
+        "questionCode": "563973",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770662621920
+      },
+      {
+        "_creationTime": 1770662621920.4004,
+        "_id": "kn7cqk6a1k30h23jrs98hyw3rn80tr03",
+        "createdAt": 1770662621920,
+        "data": {
+          "correctWords": [
+            "if"
+          ],
+          "selectMode": "single",
+          "statement": "You will get the prize if you work hard."
+        },
+        "difficultyName": "easy",
+        "levelId": "ks77s52an7m72ays4jnp2b1z2x802ksj",
+        "order": 154,
+        "question": "Select the conjunction from the sentence.",
+        "questionCode": "852743",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770662621920
+      },
+      {
+        "_creationTime": 1770662621920.4006,
+        "_id": "kn747afemjnek7k25ckz7s30x180vjnm",
+        "createdAt": 1770662621920,
+        "data": {
+          "correctIndex": 1,
+          "explanation": "'Although' shows contrast.",
+          "options": [
+            "because",
+            "although",
+            "and",
+            "so"
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks77s52an7m72ays4jnp2b1z2x802ksj",
+        "order": 172,
+        "question": "Which conjunction means 'even though'?",
+        "questionCode": "561938",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770662621920
+      },
+      {
+        "_creationTime": 1770662621920.401,
+        "_id": "kn7602xgg4s1fs1f1b6hvp4fkh80tdvw",
+        "createdAt": 1770662621920,
+        "data": {
+          "correctWords": [
+            "although"
+          ],
+          "selectMode": "single",
+          "statement": "I missed the train although I walked fast."
+        },
+        "difficultyName": "easy",
+        "levelId": "ks77s52an7m72ays4jnp2b1z2x802ksj",
+        "order": 191,
+        "question": "Select the conjunction from the sentence.",
+        "questionCode": "581155",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770662621920
+      },
+      {
+        "_creationTime": 1770662621920.4011,
+        "_id": "kn72a2qvqj23n0gjfkmm9d00h980tsve",
+        "createdAt": 1770662621920,
+        "data": {
+          "correctIndex": 1,
+          "explanation": "'And' adds information.",
+          "options": [
+            "but",
+            "and",
+            "or",
+            "yet"
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks77s52an7m72ays4jnp2b1z2x802ksj",
+        "order": 211,
+        "question": "Which conjunction adds information?",
+        "questionCode": "108517",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770662621920
+      },
+      {
+        "_creationTime": 1770662621920.4014,
+        "_id": "kn72pj19nzyx7fgt55rqegebnd80t0yc",
+        "createdAt": 1770662621920,
+        "data": {
+          "correctWords": [
+            "and"
+          ],
+          "selectMode": "single",
+          "statement": "You and I must go."
+        },
+        "difficultyName": "easy",
+        "levelId": "ks77s52an7m72ays4jnp2b1z2x802ksj",
+        "order": 232,
+        "question": "Select the conjunction from the sentence.",
+        "questionCode": "519665",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770662621920
+      },
+      {
+        "_creationTime": 1770662621920.4016,
+        "_id": "kn7490y3rgcgqexm2as54cj4c580t5hy",
+        "createdAt": 1770662621920,
+        "data": {
+          "correctIndex": 0,
+          "explanation": "'So' shows effect.",
+          "options": [
+            "so",
+            "but",
+            "and",
+            "or"
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks77s52an7m72ays4jnp2b1z2x802ksj",
+        "order": 254,
+        "question": "Which conjunction shows effect?",
+        "questionCode": "304943",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770662621920
+      },
+      {
+        "_creationTime": 1770662621920.4019,
+        "_id": "kn77tthzdg106aw1272qanseq980t5cb",
+        "createdAt": 1770662621920,
+        "data": {
+          "correctWords": [
+            "so"
+          ],
+          "selectMode": "single",
+          "statement": "The bag was heavy, so I could not carry it."
+        },
+        "difficultyName": "easy",
+        "levelId": "ks77s52an7m72ays4jnp2b1z2x802ksj",
+        "order": 277,
+        "question": "Select the conjunction from the sentence.",
+        "questionCode": "759675",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770662621920
+      },
+      {
+        "_creationTime": 1770662621920.402,
+        "_id": "kn739635cvtshnjhn9ebr0nzqd80vmbd",
+        "createdAt": 1770662621920,
+        "data": {
+          "correctIndex": 0,
+          "explanation": "'Because' introduces reason.",
+          "options": [
+            "because",
+            "or",
+            "yet",
+            "and"
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks77s52an7m72ays4jnp2b1z2x802ksj",
+        "order": 301,
+        "question": "Which conjunction introduces reason?",
+        "questionCode": "202002",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770662621920
+      },
+      {
+        "_creationTime": 1770662621920.4023,
+        "_id": "kn7eatxh6fs4mt2xtzkg5q3wbx80vx08",
+        "createdAt": 1770662621920,
+        "data": {
+          "correctWords": [
+            "as"
+          ],
+          "selectMode": "single",
+          "statement": "We shall not go out as it is very hot."
+        },
+        "difficultyName": "easy",
+        "levelId": "ks77s52an7m72ays4jnp2b1z2x802ksj",
+        "order": 326,
+        "question": "Select the conjunction from the sentence.",
+        "questionCode": "211507",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770662621920
+      },
+      {
+        "_creationTime": 1770662621920.4026,
+        "_id": "kn79geqgrenqrjdtac43yta9bn80v810",
+        "createdAt": 1770662621920,
+        "data": {
+          "correctIndex": 0,
+          "explanation": "'And' joins equal ideas.",
+          "options": [
+            "and",
+            "because",
+            "unless",
+            "while"
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks77s52an7m72ays4jnp2b1z2x802ksj",
+        "order": 352,
+        "question": "Which conjunction joins two equal ideas?",
+        "questionCode": "208934",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770662621920
+      },
+      {
+        "_creationTime": 1770662621920.4028,
+        "_id": "kn7estzfsr7xs7f8hx0bn02vzx80vbz1",
+        "createdAt": 1770662621920,
+        "data": {
+          "correctWords": [
+            "and"
+          ],
+          "selectMode": "single",
+          "statement": "Two and two make four."
+        },
+        "difficultyName": "easy",
+        "levelId": "ks77s52an7m72ays4jnp2b1z2x802ksj",
+        "order": 379,
+        "question": "Select the conjunction from the sentence.",
+        "questionCode": "581113",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770662621920
+      },
+      {
+        "_creationTime": 1770662621920.403,
+        "_id": "kn7bdkev52s73jfjnvrrp5mccn80vqff",
+        "createdAt": 1770662621920,
+        "data": {
+          "correctIndex": 1,
+          "explanation": "'Or' shows alternative.",
+          "options": [
+            "and",
+            "or",
+            "because",
+            "yet"
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks77s52an7m72ays4jnp2b1z2x802ksj",
+        "order": 407,
+        "question": "Which conjunction shows alternative?",
+        "questionCode": "323582",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770662621920
+      },
+      {
+        "_creationTime": 1770662621920.4033,
+        "_id": "kn732049zex1pswsvfek54sgah80vms4",
+        "createdAt": 1770662621920,
+        "data": {
+          "correctWords": [
+            "or"
+          ],
+          "selectMode": "single",
+          "statement": "Is that story true or false?"
+        },
+        "difficultyName": "easy",
+        "levelId": "ks77s52an7m72ays4jnp2b1z2x802ksj",
+        "order": 436,
+        "question": "Select the conjunction from the sentence.",
+        "questionCode": "488531",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770662621920
+      }
+    ],
+    "hard": [
+      {
+        "_creationTime": 1770662621920.411,
+        "_id": "kn7cap5xf7fhgc5zc19t2vgx0h80ts4w",
+        "createdAt": 1770662621920,
+        "data": {
+          "correctIndex": 1,
+          "explanation": "'Although' shows contrast where one fact does not change the result.",
+          "options": [
+            "because",
+            "although",
+            "so",
+            "and"
+          ]
+        },
+        "difficultyName": "hard",
+        "levelId": "ks77s52an7m72ays4jnp2b1z2x802ksj",
+        "order": 1,
+        "question": "Which conjunction shows contrast despite effort?",
+        "questionCode": "333033",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770662621920
+      },
+      {
+        "_creationTime": 1770662621920.4111,
+        "_id": "kn7dawk09jnzcn4m8ca80q900n80t78n",
+        "createdAt": 1770662621920,
+        "data": {
+          "correctWords": [
+            "though"
+          ],
+          "selectMode": "single",
+          "statement": "He failed in the exams though he worked hard."
+        },
+        "difficultyName": "hard",
+        "levelId": "ks77s52an7m72ays4jnp2b1z2x802ksj",
+        "order": 2,
+        "question": "Select the conjunction from the sentence.",
+        "questionCode": "938961",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770662621920
+      },
+      {
+        "_creationTime": 1770662621920.4114,
+        "_id": "kn703c1wxjgs754wq33t28s6j980v04y",
+        "createdAt": 1770662621920,
+        "data": {
+          "correctIndex": 2,
+          "explanation": "'So' shows the result of an action.",
+          "options": [
+            "if",
+            "unless",
+            "so",
+            "yet"
+          ]
+        },
+        "difficultyName": "hard",
+        "levelId": "ks77s52an7m72ays4jnp2b1z2x802ksj",
+        "order": 3,
+        "question": "Which conjunction shows result after a condition?",
+        "questionCode": "320822",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770662621920
+      },
+      {
+        "_creationTime": 1770662621920.4116,
+        "_id": "kn73r1k78dq4zwkkfb6syzxwhn80t12b",
+        "createdAt": 1770662621920,
+        "data": {
+          "correctWords": [
+            "so"
+          ],
+          "selectMode": "single",
+          "statement": "He worked hard, so he passed the exams."
+        },
+        "difficultyName": "hard",
+        "levelId": "ks77s52an7m72ays4jnp2b1z2x802ksj",
+        "order": 4,
+        "question": "Select the conjunction from the sentence.",
+        "questionCode": "226946",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770662621920
+      },
+      {
+        "_creationTime": 1770662621920.4119,
+        "_id": "kn74y7wjvp34b9q5gnp29gdjrx80vjks",
+        "createdAt": 1770662621920,
+        "data": {
+          "correctIndex": 0,
+          "explanation": "'Unless' sets a strict condition.",
+          "options": [
+            "unless",
+            "and",
+            "but",
+            "yet"
+          ]
+        },
+        "difficultyName": "hard",
+        "levelId": "ks77s52an7m72ays4jnp2b1z2x802ksj",
+        "order": 5,
+        "question": "Which conjunction expresses a condition that must be met?",
+        "questionCode": "439583",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770662621920
+      },
+      {
+        "_creationTime": 1770662621920.412,
+        "_id": "kn7bzjmpgqm16j83x06xep0j9180vce3",
+        "createdAt": 1770662621920,
+        "data": {
+          "correctWords": [
+            "unless"
+          ],
+          "selectMode": "single",
+          "statement": "Unless you write it down, you will forget it."
+        },
+        "difficultyName": "hard",
+        "levelId": "ks77s52an7m72ays4jnp2b1z2x802ksj",
+        "order": 6,
+        "question": "Select the conjunction from the sentence.",
+        "questionCode": "808201",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770662621920
+      },
+      {
+        "_creationTime": 1770662621920.4124,
+        "_id": "kn747j8pyh6chqpj08g7n2v7vd80v2tt",
+        "createdAt": 1770662621920,
+        "data": {
+          "correctIndex": 1,
+          "explanation": "'Before' shows earlier action.",
+          "options": [
+            "after",
+            "before",
+            "because",
+            "so"
+          ]
+        },
+        "difficultyName": "hard",
+        "levelId": "ks77s52an7m72ays4jnp2b1z2x802ksj",
+        "order": 7,
+        "question": "Which conjunction introduces time before another action?",
+        "questionCode": "257680",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770662621920
+      },
+      {
+        "_creationTime": 1770662621920.4126,
+        "_id": "kn74rrm99q9prh70w5nqvahhdh80tfrq",
+        "createdAt": 1770662621920,
+        "data": {
+          "correctWords": [
+            "before"
+          ],
+          "selectMode": "single",
+          "statement": "We arrived before the storm came on."
+        },
+        "difficultyName": "hard",
+        "levelId": "ks77s52an7m72ays4jnp2b1z2x802ksj",
+        "order": 8,
+        "question": "Select the conjunction from the sentence.",
+        "questionCode": "147805",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770662621920
+      },
+      {
+        "_creationTime": 1770662621920.4128,
+        "_id": "kn7ewbex6eyvc4f14qsvk5801x80tkcf",
+        "createdAt": 1770662621920,
+        "data": {
+          "correctIndex": 0,
+          "explanation": "'While' shows simultaneous actions.",
+          "options": [
+            "while",
+            "because",
+            "yet",
+            "unless"
+          ]
+        },
+        "difficultyName": "hard",
+        "levelId": "ks77s52an7m72ays4jnp2b1z2x802ksj",
+        "order": 9,
+        "question": "Which conjunction shows two actions happening together?",
+        "questionCode": "301958",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770662621920
+      },
+      {
+        "_creationTime": 1770662621920.413,
+        "_id": "kn76xrq6v7b0yw20ykqg2czdr580vc8e",
+        "createdAt": 1770662621920,
+        "data": {
+          "correctWords": [
+            "while"
+          ],
+          "selectMode": "single",
+          "statement": "While I was going down the street, I met him."
+        },
+        "difficultyName": "hard",
+        "levelId": "ks77s52an7m72ays4jnp2b1z2x802ksj",
+        "order": 10,
+        "question": "Select the conjunction from the sentence.",
+        "questionCode": "368961",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770662621920
+      },
+      {
+        "_creationTime": 1770662621920.4133,
+        "_id": "kn7dqr02ppzfns3fc5xfg1qnmd80tdm0",
+        "createdAt": 1770662621920,
+        "data": {
+          "correctIndex": 0,
+          "explanation": "'But' introduces an unexpected contrast.",
+          "options": [
+            "but",
+            "so",
+            "and",
+            "because"
+          ]
+        },
+        "difficultyName": "hard",
+        "levelId": "ks77s52an7m72ays4jnp2b1z2x802ksj",
+        "order": 11,
+        "question": "Which conjunction introduces an unexpected result?",
+        "questionCode": "574808",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770662621920
+      },
+      {
+        "_creationTime": 1770662621920.4136,
+        "_id": "kn73jvdya31csvnk5y7z5eghy180v5m2",
+        "createdAt": 1770662621920,
+        "data": {
+          "correctWords": [
+            "but"
+          ],
+          "selectMode": "single",
+          "statement": "I ran fast, but I missed the train."
+        },
+        "difficultyName": "hard",
+        "levelId": "ks77s52an7m72ays4jnp2b1z2x802ksj",
+        "order": 12,
+        "question": "Select the conjunction from the sentence.",
+        "questionCode": "580249",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770662621920
+      },
+      {
+        "_creationTime": 1770662621920.4138,
+        "_id": "kn7fyv3rcjqf8rvcvzfy3vg6ss80trct",
+        "createdAt": 1770662621920,
+        "data": {
+          "correctIndex": 0,
+          "explanation": "'As' can gently introduce a reason.",
+          "options": [
+            "as",
+            "or",
+            "yet",
+            "and"
+          ]
+        },
+        "difficultyName": "hard",
+        "levelId": "ks77s52an7m72ays4jnp2b1z2x802ksj",
+        "order": 13,
+        "question": "Which conjunction introduces reason subtly (not directly)?",
+        "questionCode": "308713",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770662621920
+      },
+      {
+        "_creationTime": 1770662621920.414,
+        "_id": "kn75v692j2r4g5fn484wed3ka180vptr",
+        "createdAt": 1770662621920,
+        "data": {
+          "correctWords": [
+            "as"
+          ],
+          "selectMode": "single",
+          "statement": "We shall not go out as it is very hot."
+        },
+        "difficultyName": "hard",
+        "levelId": "ks77s52an7m72ays4jnp2b1z2x802ksj",
+        "order": 14,
+        "question": "Select the conjunction from the sentence.",
+        "questionCode": "138630",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770662621920
+      },
+      {
+        "_creationTime": 1770662621920.4143,
+        "_id": "kn70vhtctp5758ynwbe3zxswcd80th0a",
+        "createdAt": 1770662621920,
+        "data": {
+          "correctIndex": 0,
+          "explanation": "'Whether' introduces uncertainty.",
+          "options": [
+            "whether",
+            "and",
+            "so",
+            "because"
+          ]
+        },
+        "difficultyName": "hard",
+        "levelId": "ks77s52an7m72ays4jnp2b1z2x802ksj",
+        "order": 15,
+        "question": "Which conjunction introduces uncertainty between options?",
+        "questionCode": "415235",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770662621920
+      },
+      {
+        "_creationTime": 1770662621920.4146,
+        "_id": "kn74ha9p80nmep162z888n7j6s80v1q5",
+        "createdAt": 1770662621920,
+        "data": {
+          "correctWords": [
+            "whether"
+          ],
+          "selectMode": "single",
+          "statement": "I do not know whether he will join us."
+        },
+        "difficultyName": "hard",
+        "levelId": "ks77s52an7m72ays4jnp2b1z2x802ksj",
+        "order": 16,
+        "question": "Select the conjunction from the sentence.",
+        "questionCode": "421661",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770662621920
+      },
+      {
+        "_creationTime": 1770662621920.4148,
+        "_id": "kn77czdjhknyc9ebd1fffr3n0980tkp1",
+        "createdAt": 1770662621920,
+        "data": {
+          "correctIndex": 0,
+          "explanation": "'Until' shows a time limit.",
+          "options": [
+            "until",
+            "before",
+            "after",
+            "because"
+          ]
+        },
+        "difficultyName": "hard",
+        "levelId": "ks77s52an7m72ays4jnp2b1z2x802ksj",
+        "order": 17,
+        "question": "Which conjunction links actions until a time limit?",
+        "questionCode": "534789",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770662621920
+      },
+      {
+        "_creationTime": 1770662621920.415,
+        "_id": "kn781vjq742d62d48b0b6d21kh80v41v",
+        "createdAt": 1770662621920,
+        "data": {
+          "correctWords": [
+            "until"
+          ],
+          "selectMode": "single",
+          "statement": "They worked until it was quite dark."
+        },
+        "difficultyName": "hard",
+        "levelId": "ks77s52an7m72ays4jnp2b1z2x802ksj",
+        "order": 18,
+        "question": "Select the conjunction from the sentence.",
+        "questionCode": "401276",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770662621920
+      },
+      {
+        "_creationTime": 1770662621920.4153,
+        "_id": "kn70jj94tjk7qee0bxy6jgr9sn80v29f",
+        "createdAt": 1770662621920,
+        "data": {
+          "correctIndex": 0,
+          "explanation": "'So' connects cause and effect.",
+          "options": [
+            "so",
+            "but",
+            "and",
+            "or"
+          ]
+        },
+        "difficultyName": "hard",
+        "levelId": "ks77s52an7m72ays4jnp2b1z2x802ksj",
+        "order": 19,
+        "question": "Which conjunction shows a result caused by weight or reason?",
+        "questionCode": "564781",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770662621920
+      },
+      {
+        "_creationTime": 1770662621920.4155,
+        "_id": "kn7fy0v3h9krx3t8n1j84w4xa980vw0w",
+        "createdAt": 1770662621920,
+        "data": {
+          "correctWords": [
+            "so"
+          ],
+          "selectMode": "single",
+          "statement": "The bag was heavy, so I could not carry it."
+        },
+        "difficultyName": "hard",
+        "levelId": "ks77s52an7m72ays4jnp2b1z2x802ksj",
+        "order": 20,
+        "question": "Select the conjunction from the sentence.",
+        "questionCode": "748484",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770662621920
+      },
+      {
+        "_creationTime": 1770662621920.4158,
+        "_id": "kn73fkfzb1da9fsv4exjx4b86x80vnzj",
+        "createdAt": 1770662621920,
+        "data": {
+          "correctIndex": 0,
+          "explanation": "'Yet' emphasizes contrast.",
+          "options": [
+            "yet",
+            "and",
+            "or",
+            "so"
+          ]
+        },
+        "difficultyName": "hard",
+        "levelId": "ks77s52an7m72ays4jnp2b1z2x802ksj",
+        "order": 21,
+        "question": "Which conjunction expresses contrast similar to 'but' but stronger?",
+        "questionCode": "693890",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770662621920
+      },
+      {
+        "_creationTime": 1770662621920.416,
+        "_id": "kn7fc8cq54fcdpz4eq5ce7kyxx80tmst",
+        "createdAt": 1770662621920,
+        "data": {
+          "correctWords": [
+            "yet"
+          ],
+          "selectMode": "single",
+          "statement": "He is very rich, yet he is not happy."
+        },
+        "difficultyName": "hard",
+        "levelId": "ks77s52an7m72ays4jnp2b1z2x802ksj",
+        "order": 22,
+        "question": "Select the conjunction from the sentence.",
+        "questionCode": "202509",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770662621920
+      },
+      {
+        "_creationTime": 1770662621920.4163,
+        "_id": "kn788k57ya1p5m7tbne6tzk1fn80vrnm",
+        "createdAt": 1770662621920,
+        "data": {
+          "correctIndex": 0,
+          "explanation": "'Or' shows choice.",
+          "options": [
+            "or",
+            "and",
+            "but",
+            "yet"
+          ]
+        },
+        "difficultyName": "hard",
+        "levelId": "ks77s52an7m72ays4jnp2b1z2x802ksj",
+        "order": 23,
+        "question": "Which conjunction shows choice between two alternatives?",
+        "questionCode": "353769",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770662621920
+      },
+      {
+        "_creationTime": 1770662621920.4165,
+        "_id": "kn7d1yq4fx7svhf39scdmzaydn80vmdt",
+        "createdAt": 1770662621920,
+        "data": {
+          "correctWords": [
+            "or"
+          ],
+          "selectMode": "single",
+          "statement": "Do you know whether the letter has been posted or not?"
+        },
+        "difficultyName": "hard",
+        "levelId": "ks77s52an7m72ays4jnp2b1z2x802ksj",
+        "order": 24,
+        "question": "Select the conjunction from the sentence.",
+        "questionCode": "329218",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770662621920
+      },
+      {
+        "_creationTime": 1770662621920.4167,
+        "_id": "kn7d9bb7rpzbbmk09qzgzn28vh80vve1",
+        "createdAt": 1770662621920,
+        "data": {
+          "correctIndex": 0,
+          "explanation": "'Because' directly gives reason.",
+          "options": [
+            "because",
+            "so",
+            "but",
+            "yet"
+          ]
+        },
+        "difficultyName": "hard",
+        "levelId": "ks77s52an7m72ays4jnp2b1z2x802ksj",
+        "order": 25,
+        "question": "Which conjunction shows cause followed immediately by action?",
+        "questionCode": "560091",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770662621920
+      },
+      {
+        "_creationTime": 1770662621920.417,
+        "_id": "kn759abgg5zpw7zzx8xdtf6rxd80tgfn",
+        "createdAt": 1770662621920,
+        "data": {
+          "correctWords": [
+            "because"
+          ],
+          "selectMode": "single",
+          "statement": "Radha got burnt because she was careless."
+        },
+        "difficultyName": "hard",
+        "levelId": "ks77s52an7m72ays4jnp2b1z2x802ksj",
+        "order": 26,
+        "question": "Select the conjunction from the sentence.",
+        "questionCode": "985559",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770662621920
+      },
+      {
+        "_creationTime": 1770662621920.4172,
+        "_id": "kn7ffr0asayjyh9fb66vsr68ss80ttvj",
+        "createdAt": 1770662621920,
+        "data": {
+          "correctIndex": 0,
+          "explanation": "'And' joins equal clauses.",
+          "options": [
+            "and",
+            "because",
+            "unless",
+            "although"
+          ]
+        },
+        "difficultyName": "hard",
+        "levelId": "ks77s52an7m72ays4jnp2b1z2x802ksj",
+        "order": 27,
+        "question": "Which conjunction joins two clauses of equal importance?",
+        "questionCode": "718837",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770662621920
+      },
+      {
+        "_creationTime": 1770662621920.4175,
+        "_id": "kn7azj9kddj02b5rk3zbp5hp1s80tmj4",
+        "createdAt": 1770662621920,
+        "data": {
+          "correctWords": [
+            "and"
+          ],
+          "selectMode": "single",
+          "statement": "I cleaned the board and he wrote on it."
+        },
+        "difficultyName": "hard",
+        "levelId": "ks77s52an7m72ays4jnp2b1z2x802ksj",
+        "order": 28,
+        "question": "Select the conjunction from the sentence.",
+        "questionCode": "213540",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770662621920
+      },
+      {
+        "_creationTime": 1770662621920.4177,
+        "_id": "kn75178tby79wgwezm9twj63n980t7jr",
+        "createdAt": 1770662621920,
+        "data": {
+          "correctIndex": 0,
+          "explanation": "'Though' introduces concession.",
+          "options": [
+            "though",
+            "so",
+            "and",
+            "or"
+          ]
+        },
+        "difficultyName": "hard",
+        "levelId": "ks77s52an7m72ays4jnp2b1z2x802ksj",
+        "order": 29,
+        "question": "Which conjunction introduces concession despite fact?",
+        "questionCode": "249916",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770662621920
+      },
+      {
+        "_creationTime": 1770662621920.418,
+        "_id": "kn7b7qqknjj9dcpsn57mc14szs80t5jv",
+        "createdAt": 1770662621920,
+        "data": {
+          "correctWords": [
+            "though"
+          ],
+          "selectMode": "single",
+          "statement": "Though poor, he never works hard."
+        },
+        "difficultyName": "hard",
+        "levelId": "ks77s52an7m72ays4jnp2b1z2x802ksj",
+        "order": 30,
+        "question": "Select the conjunction from the sentence.",
+        "questionCode": "104275",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770662621920
+      }
+    ],
+    "medium": [
+      {
+        "_creationTime": 1770662621920.4036,
+        "_id": "kn7cwmmam1qg6y8ppee2kecz7580v75a",
+        "createdAt": 1770662621920,
+        "data": {
+          "correctIndex": 2,
+          "explanation": "'But' shows contrast.",
+          "options": [
+            "and",
+            "or",
+            "but",
+            "so"
+          ]
+        },
+        "difficultyName": "medium",
+        "levelId": "ks77s52an7m72ays4jnp2b1z2x802ksj",
+        "order": 1,
+        "question": "Which conjunction shows contrast between two clauses?",
+        "questionCode": "616707",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770662621920
+      },
+      {
+        "_creationTime": 1770662621920.4038,
+        "_id": "kn75vr6rz32prx7myz3n8sza8580v4p8",
+        "createdAt": 1770662621920,
+        "data": {
+          "correctWords": [
+            "but"
+          ],
+          "selectMode": "single",
+          "statement": "I ran fast, but I missed the train."
+        },
+        "difficultyName": "medium",
+        "levelId": "ks77s52an7m72ays4jnp2b1z2x802ksj",
+        "order": 2,
+        "question": "Select the conjunction from the sentence.",
+        "questionCode": "233585",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770662621920
+      },
+      {
+        "_creationTime": 1770662621920.404,
+        "_id": "kn73mk9t61w3d1h5f8r01j8p2980tbdt",
+        "createdAt": 1770662621920,
+        "data": {
+          "correctIndex": 1,
+          "explanation": "'Because' explains reason.",
+          "options": [
+            "so",
+            "because",
+            "or",
+            "yet"
+          ]
+        },
+        "difficultyName": "medium",
+        "levelId": "ks77s52an7m72ays4jnp2b1z2x802ksj",
+        "order": 3,
+        "question": "Which conjunction gives a reason?",
+        "questionCode": "530046",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770662621920
+      },
+      {
+        "_creationTime": 1770662621920.4043,
+        "_id": "kn7fbwea6fjrhe40kemwj6dv7s80vvwb",
+        "createdAt": 1770662621920,
+        "data": {
+          "correctWords": [
+            "because"
+          ],
+          "selectMode": "single",
+          "statement": "Rama failed in the exams because he was ill."
+        },
+        "difficultyName": "medium",
+        "levelId": "ks77s52an7m72ays4jnp2b1z2x802ksj",
+        "order": 4,
+        "question": "Select the conjunction from the sentence.",
+        "questionCode": "220202",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770662621920
+      },
+      {
+        "_creationTime": 1770662621920.4045,
+        "_id": "kn7bq667pe4fnmbcc1hr9n637x80vwa4",
+        "createdAt": 1770662621920,
+        "data": {
+          "correctIndex": 2,
+          "explanation": "'So' shows result.",
+          "options": [
+            "because",
+            "but",
+            "so",
+            "or"
+          ]
+        },
+        "difficultyName": "medium",
+        "levelId": "ks77s52an7m72ays4jnp2b1z2x802ksj",
+        "order": 5,
+        "question": "Which conjunction shows result or effect?",
+        "questionCode": "729807",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770662621920
+      },
+      {
+        "_creationTime": 1770662621920.4048,
+        "_id": "kn75gjg7wmx2zf1y65n7z3aew980t408",
+        "createdAt": 1770662621920,
+        "data": {
+          "correctWords": [
+            "so"
+          ],
+          "selectMode": "single",
+          "statement": "The bag was heavy, so I could not carry it."
+        },
+        "difficultyName": "medium",
+        "levelId": "ks77s52an7m72ays4jnp2b1z2x802ksj",
+        "order": 6,
+        "question": "Select the conjunction from the sentence.",
+        "questionCode": "158592",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770662621920
+      },
+      {
+        "_creationTime": 1770662621920.405,
+        "_id": "kn7ev8w083c3b1bc67xg18rf3n80v48e",
+        "createdAt": 1770662621920,
+        "data": {
+          "correctIndex": 0,
+          "explanation": "'If' introduces condition.",
+          "options": [
+            "if",
+            "and",
+            "but",
+            "yet"
+          ]
+        },
+        "difficultyName": "medium",
+        "levelId": "ks77s52an7m72ays4jnp2b1z2x802ksj",
+        "order": 7,
+        "question": "Which conjunction introduces a condition?",
+        "questionCode": "231271",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770662621920
+      },
+      {
+        "_creationTime": 1770662621920.4053,
+        "_id": "kn7976t9qhymjqp8eeztbv0k3180tna6",
+        "createdAt": 1770662621920,
+        "data": {
+          "correctWords": [
+            "if"
+          ],
+          "selectMode": "single",
+          "statement": "If he comes, I shall stay."
+        },
+        "difficultyName": "medium",
+        "levelId": "ks77s52an7m72ays4jnp2b1z2x802ksj",
+        "order": 8,
+        "question": "Select the conjunction from the sentence.",
+        "questionCode": "153917",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770662621920
+      },
+      {
+        "_creationTime": 1770662621920.4055,
+        "_id": "kn7f0bzhb16w2a5n8j1fmktzyd80vz4a",
+        "createdAt": 1770662621920,
+        "data": {
+          "correctIndex": 0,
+          "explanation": "'Unless' means if not.",
+          "options": [
+            "unless",
+            "because",
+            "though",
+            "and"
+          ]
+        },
+        "difficultyName": "medium",
+        "levelId": "ks77s52an7m72ays4jnp2b1z2x802ksj",
+        "order": 9,
+        "question": "Which conjunction means 'if not'?",
+        "questionCode": "940774",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770662621920
+      },
+      {
+        "_creationTime": 1770662621920.4058,
+        "_id": "kn71phs681249ew45pz85ytqws80tz5v",
+        "createdAt": 1770662621920,
+        "data": {
+          "correctWords": [
+            "unless"
+          ],
+          "selectMode": "single",
+          "statement": "Do not answer unless you are asked."
+        },
+        "difficultyName": "medium",
+        "levelId": "ks77s52an7m72ays4jnp2b1z2x802ksj",
+        "order": 10,
+        "question": "Select the conjunction from the sentence.",
+        "questionCode": "588170",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770662621920
+      },
+      {
+        "_creationTime": 1770662621920.406,
+        "_id": "kn784b948skddqzpayzdx84hn980tg04",
+        "createdAt": 1770662621920,
+        "data": {
+          "correctIndex": 0,
+          "explanation": "'When' shows time.",
+          "options": [
+            "when",
+            "so",
+            "but",
+            "yet"
+          ]
+        },
+        "difficultyName": "medium",
+        "levelId": "ks77s52an7m72ays4jnp2b1z2x802ksj",
+        "order": 11,
+        "question": "Which conjunction shows time?",
+        "questionCode": "100334",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770662621920
+      },
+      {
+        "_creationTime": 1770662621920.4062,
+        "_id": "kn79jt0cc7v59d3xx1kejvm5jx80vwhj",
+        "createdAt": 1770662621920,
+        "data": {
+          "correctWords": [
+            "while"
+          ],
+          "selectMode": "single",
+          "statement": "While I was going down the street, I met him."
+        },
+        "difficultyName": "medium",
+        "levelId": "ks77s52an7m72ays4jnp2b1z2x802ksj",
+        "order": 12,
+        "question": "Select the conjunction from the sentence.",
+        "questionCode": "722320",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770662621920
+      },
+      {
+        "_creationTime": 1770662621920.4065,
+        "_id": "kn73rqxnvd3wsq40sjf8rkajq580tc2s",
+        "createdAt": 1770662621920,
+        "data": {
+          "correctIndex": 0,
+          "explanation": "'Yet' shows contrast.",
+          "options": [
+            "yet",
+            "and",
+            "so",
+            "or"
+          ]
+        },
+        "difficultyName": "medium",
+        "levelId": "ks77s52an7m72ays4jnp2b1z2x802ksj",
+        "order": 13,
+        "question": "Which conjunction shows contrast like 'but'?",
+        "questionCode": "816810",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770662621920
+      },
+      {
+        "_creationTime": 1770662621920.4067,
+        "_id": "kn7d7xfd4n0npsnk4ydz5ry18x80txqc",
+        "createdAt": 1770662621920,
+        "data": {
+          "correctWords": [
+            "yet"
+          ],
+          "selectMode": "single",
+          "statement": "He is very rich, yet he is not happy."
+        },
+        "difficultyName": "medium",
+        "levelId": "ks77s52an7m72ays4jnp2b1z2x802ksj",
+        "order": 14,
+        "question": "Select the conjunction from the sentence.",
+        "questionCode": "475096",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770662621920
+      },
+      {
+        "_creationTime": 1770662621920.407,
+        "_id": "kn7c6s3qx1zs3vg71heyrjwfhn80v3y2",
+        "createdAt": 1770662621920,
+        "data": {
+          "correctIndex": 0,
+          "explanation": "'Before' shows time order.",
+          "options": [
+            "before",
+            "because",
+            "and",
+            "so"
+          ]
+        },
+        "difficultyName": "medium",
+        "levelId": "ks77s52an7m72ays4jnp2b1z2x802ksj",
+        "order": 15,
+        "question": "Which conjunction joins two clauses of time order?",
+        "questionCode": "204687",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770662621920
+      },
+      {
+        "_creationTime": 1770662621920.4072,
+        "_id": "kn79www5k79ye5mkmz6z8ae5qh80vv05",
+        "createdAt": 1770662621920,
+        "data": {
+          "correctWords": [
+            "before"
+          ],
+          "selectMode": "single",
+          "statement": "I ran away before he could catch me."
+        },
+        "difficultyName": "medium",
+        "levelId": "ks77s52an7m72ays4jnp2b1z2x802ksj",
+        "order": 16,
+        "question": "Select the conjunction from the sentence.",
+        "questionCode": "997917",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770662621920
+      },
+      {
+        "_creationTime": 1770662621920.4075,
+        "_id": "kn71j55t378jxm7pvp8wveq54d80t2qa",
+        "createdAt": 1770662621920,
+        "data": {
+          "correctIndex": 0,
+          "explanation": "'Although' shows concession.",
+          "options": [
+            "although",
+            "because",
+            "and",
+            "so"
+          ]
+        },
+        "difficultyName": "medium",
+        "levelId": "ks77s52an7m72ays4jnp2b1z2x802ksj",
+        "order": 17,
+        "question": "Which conjunction shows concession?",
+        "questionCode": "882586",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770662621920
+      },
+      {
+        "_creationTime": 1770662621920.4077,
+        "_id": "kn7cx280esw01jby9g4zp2c9gd80te8d",
+        "createdAt": 1770662621920,
+        "data": {
+          "correctWords": [
+            "although"
+          ],
+          "selectMode": "single",
+          "statement": "He bowled well, although he was tired."
+        },
+        "difficultyName": "medium",
+        "levelId": "ks77s52an7m72ays4jnp2b1z2x802ksj",
+        "order": 18,
+        "question": "Select the conjunction from the sentence.",
+        "questionCode": "712476",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770662621920
+      },
+      {
+        "_creationTime": 1770662621920.408,
+        "_id": "kn7eqs0gg9e4mnb9kq7fj9kp5d80te33",
+        "createdAt": 1770662621920,
+        "data": {
+          "correctIndex": 0,
+          "explanation": "'Or' joins alternatives.",
+          "options": [
+            "or",
+            "and",
+            "but",
+            "so"
+          ]
+        },
+        "difficultyName": "medium",
+        "levelId": "ks77s52an7m72ays4jnp2b1z2x802ksj",
+        "order": 19,
+        "question": "Which conjunction is used to join two alternatives?",
+        "questionCode": "535829",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770662621920
+      },
+      {
+        "_creationTime": 1770662621920.4082,
+        "_id": "kn7dx4etsa9550wjc43yfzt1yh80vnwe",
+        "createdAt": 1770662621920,
+        "data": {
+          "correctWords": [
+            "or"
+          ],
+          "selectMode": "single",
+          "statement": "Is that story true or false?"
+        },
+        "difficultyName": "medium",
+        "levelId": "ks77s52an7m72ays4jnp2b1z2x802ksj",
+        "order": 20,
+        "question": "Select the conjunction from the sentence.",
+        "questionCode": "448420",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770662621920
+      },
+      {
+        "_creationTime": 1770662621920.4084,
+        "_id": "kn753r9yp1hhj730kck3dwyyd580v49z",
+        "createdAt": 1770662621920,
+        "data": {
+          "correctIndex": 0,
+          "explanation": "'As' gives reason.",
+          "options": [
+            "as",
+            "or",
+            "but",
+            "yet"
+          ]
+        },
+        "difficultyName": "medium",
+        "levelId": "ks77s52an7m72ays4jnp2b1z2x802ksj",
+        "order": 21,
+        "question": "Which conjunction gives reason similar to 'because'?",
+        "questionCode": "925244",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770662621920
+      },
+      {
+        "_creationTime": 1770662621920.4087,
+        "_id": "kn7d5385f48hk182zc3vtsscps80vqh2",
+        "createdAt": 1770662621920,
+        "data": {
+          "correctWords": [
+            "as"
+          ],
+          "selectMode": "single",
+          "statement": "I stumbled as I was going downstairs."
+        },
+        "difficultyName": "medium",
+        "levelId": "ks77s52an7m72ays4jnp2b1z2x802ksj",
+        "order": 22,
+        "question": "Select the conjunction from the sentence.",
+        "questionCode": "793938",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770662621920
+      },
+      {
+        "_creationTime": 1770662621920.409,
+        "_id": "kn70t6jvy0ybkdxd8vgf2rqr6980vdns",
+        "createdAt": 1770662621920,
+        "data": {
+          "correctIndex": 0,
+          "explanation": "'Until' shows time limit.",
+          "options": [
+            "until",
+            "because",
+            "so",
+            "but"
+          ]
+        },
+        "difficultyName": "medium",
+        "levelId": "ks77s52an7m72ays4jnp2b1z2x802ksj",
+        "order": 23,
+        "question": "Which conjunction shows sequence until an action ends?",
+        "questionCode": "228849",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770662621920
+      },
+      {
+        "_creationTime": 1770662621920.4092,
+        "_id": "kn70cdrde02da4fqdea07m0mk580trhn",
+        "createdAt": 1770662621920,
+        "data": {
+          "correctWords": [
+            "until"
+          ],
+          "selectMode": "single",
+          "statement": "They worked until it was quite dark."
+        },
+        "difficultyName": "medium",
+        "levelId": "ks77s52an7m72ays4jnp2b1z2x802ksj",
+        "order": 24,
+        "question": "Select the conjunction from the sentence.",
+        "questionCode": "621285",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770662621920
+      },
+      {
+        "_creationTime": 1770662621920.4094,
+        "_id": "kn7ae9zpbw5yz395jfxvpab7g180tw1x",
+        "createdAt": 1770662621920,
+        "data": {
+          "correctIndex": 0,
+          "explanation": "'Whether' introduces uncertainty.",
+          "options": [
+            "whether",
+            "because",
+            "and",
+            "so"
+          ]
+        },
+        "difficultyName": "medium",
+        "levelId": "ks77s52an7m72ays4jnp2b1z2x802ksj",
+        "order": 25,
+        "question": "Which conjunction introduces reported uncertainty?",
+        "questionCode": "872391",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770662621920
+      },
+      {
+        "_creationTime": 1770662621920.4097,
+        "_id": "kn719v26qcpxaxssgzttgqavps80v3bg",
+        "createdAt": 1770662621920,
+        "data": {
+          "correctWords": [
+            "whether"
+          ],
+          "selectMode": "single",
+          "statement": "I do not know whether he will join us."
+        },
+        "difficultyName": "medium",
+        "levelId": "ks77s52an7m72ays4jnp2b1z2x802ksj",
+        "order": 26,
+        "question": "Select the conjunction from the sentence.",
+        "questionCode": "501565",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770662621920
+      },
+      {
+        "_creationTime": 1770662621920.41,
+        "_id": "kn71tb3dcnjag4mqkxakzhrq4s80tky1",
+        "createdAt": 1770662621920,
+        "data": {
+          "correctIndex": 0,
+          "explanation": "'So' links cause and result.",
+          "options": [
+            "so",
+            "and",
+            "but",
+            "or"
+          ]
+        },
+        "difficultyName": "medium",
+        "levelId": "ks77s52an7m72ays4jnp2b1z2x802ksj",
+        "order": 27,
+        "question": "Which conjunction is used to show cause and result?",
+        "questionCode": "507695",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770662621920
+      },
+      {
+        "_creationTime": 1770662621920.4102,
+        "_id": "kn78syg8s595vq8d4sw57ka9q180vxwn",
+        "createdAt": 1770662621920,
+        "data": {
+          "correctWords": [
+            "so"
+          ],
+          "selectMode": "single",
+          "statement": "It rained, so I took a carriage."
+        },
+        "difficultyName": "medium",
+        "levelId": "ks77s52an7m72ays4jnp2b1z2x802ksj",
+        "order": 28,
+        "question": "Select the conjunction from the sentence.",
+        "questionCode": "467264",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770662621920
+      },
+      {
+        "_creationTime": 1770662621920.4104,
+        "_id": "kn7dxj88ab8p6s6101afrkxxah80tmmk",
+        "createdAt": 1770662621920,
+        "data": {
+          "correctIndex": 0,
+          "explanation": "'And' joins actions.",
+          "options": [
+            "and",
+            "because",
+            "yet",
+            "unless"
+          ]
+        },
+        "difficultyName": "medium",
+        "levelId": "ks77s52an7m72ays4jnp2b1z2x802ksj",
+        "order": 29,
+        "question": "Which conjunction connects two actions happening together?",
+        "questionCode": "227304",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770662621920
+      },
+      {
+        "_creationTime": 1770662621920.4106,
+        "_id": "kn7ate951t06k95axxs64yb7en80vc77",
+        "createdAt": 1770662621920,
+        "data": {
+          "correctWords": [
+            "and"
+          ],
+          "selectMode": "single",
+          "statement": "She sang and she went along."
+        },
+        "difficultyName": "medium",
+        "levelId": "ks77s52an7m72ays4jnp2b1z2x802ksj",
+        "order": 30,
+        "question": "Select the conjunction from the sentence.",
+        "questionCode": "934570",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770662621920
+      }
+    ]
+  }
+}

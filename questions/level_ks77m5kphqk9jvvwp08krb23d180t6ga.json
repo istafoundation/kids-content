@@ -1,0 +1,1915 @@
+{
+  "levelId": "ks77m5kphqk9jvvwp08krb23d180t6ga",
+  "version": 0,
+  "publishedAt": 1770756024687,
+  "questions": {
+    "easy": [
+      {
+        "_creationTime": 1770615048803.0205,
+        "_id": "kn79nqmkwzfmthpk11t7geq4sx80tr4h",
+        "createdAt": 1770615048805,
+        "data": {
+          "correctIndex": 2,
+          "explanation": "Playful describes the noun cat.",
+          "options": [
+            "cat",
+            "is",
+            "playful",
+            "the"
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks77m5kphqk9jvvwp08krb23d180t6ga",
+        "order": 1,
+        "question": "Which word is an adjective? \nThe cat is playful.",
+        "questionCode": "762903",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770615048805
+      },
+      {
+        "_creationTime": 1770615326611.8472,
+        "_id": "kn7arb3tw7ndv6bqt1hwnr36m580tdny",
+        "createdAt": 1770615326612,
+        "data": {
+          "correctWords": [
+            "blue",
+            "beautiful"
+          ],
+          "explanation": "",
+          "selectMode": "multiple",
+          "statement": "The blue sky looks beautiful."
+        },
+        "difficultyName": "easy",
+        "levelId": "ks77m5kphqk9jvvwp08krb23d180t6ga",
+        "order": 2,
+        "question": "Select the adjective(s):",
+        "questionCode": "594162",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770615361924
+      },
+      {
+        "_creationTime": 1770615354452.8315,
+        "_id": "kn78zqj1xf35wp8zj6w3g089cd80ttv9",
+        "createdAt": 1770615354453,
+        "data": {
+          "correctWords": [
+            "This",
+            "friendly"
+          ],
+          "explanation": "",
+          "selectMode": "multiple",
+          "statement": "This dog is friendly."
+        },
+        "difficultyName": "easy",
+        "levelId": "ks77m5kphqk9jvvwp08krb23d180t6ga",
+        "order": 3,
+        "question": "Select the adjective(s):",
+        "questionCode": "827774",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770615354453
+      },
+      {
+        "_creationTime": 1770615971689.3525,
+        "_id": "kn7618z0m1nrh9gtbt1vne7g4180vrdd",
+        "createdAt": 1770615971691,
+        "data": {
+          "distractors": [
+            "run",
+            "quickly"
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks77m5kphqk9jvvwp08krb23d180t6ga",
+        "order": 4,
+        "question": "The lion is a {brave} animal.",
+        "questionCode": "148843",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1770615971691
+      },
+      {
+        "_creationTime": 1770615988124.0918,
+        "_id": "kn7ax9w3y63d0988vpa6qxn2ad80tpxc",
+        "createdAt": 1770615988126,
+        "data": {
+          "distractors": [
+            "eat",
+            "loudly"
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks77m5kphqk9jvvwp08krb23d180t6ga",
+        "order": 5,
+        "question": "She wore a {red} dress.",
+        "questionCode": "120325",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1770615988126
+      },
+      {
+        "_creationTime": 1770615457722.9062,
+        "_id": "kn74jdtkytscrddyqeqxcp3m9980vp4x",
+        "createdAt": 1770615457725,
+        "data": {
+          "correctWords": [
+            "two"
+          ],
+          "explanation": "",
+          "selectMode": "single",
+          "statement": "She bought two apples."
+        },
+        "difficultyName": "easy",
+        "levelId": "ks77m5kphqk9jvvwp08krb23d180t6ga",
+        "order": 6,
+        "question": "Select the adjective(s):",
+        "questionCode": "403755",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770615457725
+      },
+      {
+        "_creationTime": 1770615081971.5215,
+        "_id": "kn791n97jnk07bhdy21beezat180vjzm",
+        "createdAt": 1770615081971,
+        "data": {
+          "correctIndex": 2,
+          "explanation": "Red describes the bag.",
+          "options": [
+            "has",
+            "bag",
+            "red",
+            "she"
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks77m5kphqk9jvvwp08krb23d180t6ga",
+        "order": 7,
+        "question": "Choose the adjective: \nShe has a red bag.",
+        "questionCode": "394337",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770615081971
+      },
+      {
+        "_creationTime": 1770616002961.1873,
+        "_id": "kn79g7v5r67cs1z0aa5baemj2h80tntn",
+        "createdAt": 1770616002963,
+        "data": {
+          "distractors": [
+            "run",
+            "jumping"
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks77m5kphqk9jvvwp08krb23d180t6ga",
+        "order": 8,
+        "question": "This is {my} pencil.",
+        "questionCode": "320714",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1770616002963
+      },
+      {
+        "_creationTime": 1770615526911.138,
+        "_id": "kn7bydnyzyhy9bjgakmxhxnx1h80tmtq",
+        "createdAt": 1770615526913,
+        "data": {
+          "correctWords": [
+            "That",
+            "old"
+          ],
+          "explanation": "",
+          "selectMode": "multiple",
+          "statement": "That house is old."
+        },
+        "difficultyName": "easy",
+        "levelId": "ks77m5kphqk9jvvwp08krb23d180t6ga",
+        "order": 9,
+        "question": "Select the adjective(s):",
+        "questionCode": "466313",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770615526913
+      },
+      {
+        "_creationTime": 1770615112882.118,
+        "_id": "kn76bbtcp52433ygqyx048xgax80vrga",
+        "createdAt": 1770615112884,
+        "data": {
+          "correctIndex": 2,
+          "explanation": "My shows ownership.",
+          "options": [
+            "this",
+            "is",
+            "my",
+            "book"
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks77m5kphqk9jvvwp08krb23d180t6ga",
+        "order": 10,
+        "question": "Which adjective shows possession? \nThis is my book.",
+        "questionCode": "259850",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770615112884
+      },
+      {
+        "_creationTime": 1770615480945.6057,
+        "_id": "kn75cphrcvqqc9w8vxer5h5bxs80vh9p",
+        "createdAt": 1770615480947,
+        "data": {
+          "correctWords": [
+            "My",
+            "tall"
+          ],
+          "explanation": "",
+          "selectMode": "multiple",
+          "statement": "My brother is tall."
+        },
+        "difficultyName": "easy",
+        "levelId": "ks77m5kphqk9jvvwp08krb23d180t6ga",
+        "order": 11,
+        "question": "Select the adjective(s):",
+        "questionCode": "572041",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770615480947
+      },
+      {
+        "_creationTime": 1770616019137.7231,
+        "_id": "kn760bqq46nd0grdj09v3xa99h80v5nx",
+        "createdAt": 1770616019140,
+        "data": {
+          "distractors": [
+            "blue",
+            "eat"
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks77m5kphqk9jvvwp08krb23d180t6ga",
+        "order": 12,
+        "question": "He has {many} friends.",
+        "questionCode": "365162",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1770616019140
+      },
+      {
+        "_creationTime": 1770616034129.1028,
+        "_id": "kn747s8hpgpx05xdqa5mgb60vx80tkjz",
+        "createdAt": 1770616034131,
+        "data": {
+          "distractors": [
+            "jump",
+            "very"
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks77m5kphqk9jvvwp08krb23d180t6ga",
+        "order": 13,
+        "question": "The {smart} boy won the prize.",
+        "questionCode": "268893",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1770616034131
+      },
+      {
+        "_creationTime": 1770616051889.0637,
+        "_id": "kn7eh5rq0cgy3z9c72n9nk8ft580tdfy",
+        "createdAt": 1770616051891,
+        "data": {
+          "distractors": [
+            "ran",
+            "slowly"
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks77m5kphqk9jvvwp08krb23d180t6ga",
+        "order": 14,
+        "question": "That is a {big} house.",
+        "questionCode": "316792",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1770616051891
+      },
+      {
+        "_creationTime": 1770615139789.378,
+        "_id": "kn73sj8pmt4a5d8bqygy514afn80vg5q",
+        "createdAt": 1770615139791,
+        "data": {
+          "correctIndex": 2,
+          "explanation": "Cold tells the kind of day.",
+          "options": [
+            "was",
+            "say",
+            "cold",
+            "it"
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks77m5kphqk9jvvwp08krb23d180t6ga",
+        "order": 15,
+        "question": "Which word tells “what kind”? \nIt was a cold day.",
+        "questionCode": "393717",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770615139791
+      },
+      {
+        "_creationTime": 1770615163523.3882,
+        "_id": "kn709x2bwb70bct2zdrdt2bec580tnaj",
+        "createdAt": 1770615163525,
+        "data": {
+          "correctIndex": 1,
+          "explanation": "Ripe describes quality.",
+          "options": [
+            "I have two pens",
+            "This mango is ripe",
+            "That is my house",
+            "We came early"
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks77m5kphqk9jvvwp08krb23d180t6ga",
+        "order": 16,
+        "question": "Which sentence has an adjective of quality?",
+        "questionCode": "580281",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770615163525
+      },
+      {
+        "_creationTime": 1770616068588.1716,
+        "_id": "kn7dy367cbtywq4tf51gkjsbn580v6ce",
+        "createdAt": 1770616068590,
+        "data": {
+          "distractors": [
+            "walk",
+            "singing"
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks77m5kphqk9jvvwp08krb23d180t6ga",
+        "order": 17,
+        "question": "She drank {cold} water.",
+        "questionCode": "224836",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1770616068590
+      },
+      {
+        "_creationTime": 1770615752461.495,
+        "_id": "kn757wbsywqwe2nbgr0t6c4mgd80t62q",
+        "createdAt": 1770615752463,
+        "data": {
+          "correctWords": [
+            "This"
+          ],
+          "explanation": "",
+          "selectMode": "single",
+          "statement": "( This / Run ) book is mine"
+        },
+        "difficultyName": "easy",
+        "levelId": "ks77m5kphqk9jvvwp08krb23d180t6ga",
+        "order": 18,
+        "question": "Select the correct word:",
+        "questionCode": "685195",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770615752463
+      },
+      {
+        "_creationTime": 1770615180819.9368,
+        "_id": "kn768xfxgnm04qkfdapgkpd45h80v8xj",
+        "createdAt": 1770615180822,
+        "data": {
+          "correctIndex": 2,
+          "explanation": "",
+          "options": [
+            "horse",
+            "is",
+            "strong",
+            "the"
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks77m5kphqk9jvvwp08krb23d180t6ga",
+        "order": 19,
+        "question": "Identify the adjective: \nThe horse is strong.",
+        "questionCode": "574198",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770615180822
+      },
+      {
+        "_creationTime": 1770615844554.5615,
+        "_id": "kn783dfnmz6yr3vf8twkjr5qws80v1nh",
+        "createdAt": 1770615844556,
+        "data": {
+          "correctWords": [
+            "three"
+          ],
+          "explanation": "",
+          "selectMode": "single",
+          "statement": "She has ( three / run ) pens"
+        },
+        "difficultyName": "easy",
+        "levelId": "ks77m5kphqk9jvvwp08krb23d180t6ga",
+        "order": 20,
+        "question": "Select the correct word:",
+        "questionCode": "327256",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770615844556
+      },
+      {
+        "_creationTime": 1770615875515.7188,
+        "_id": "kn7dqr47q1abe40f4c0nmaydbd80tfdt",
+        "createdAt": 1770615875517,
+        "data": {
+          "correctWords": [
+            "happy"
+          ],
+          "explanation": "",
+          "selectMode": "single",
+          "statement": "The ( happy / eat ) child laughed"
+        },
+        "difficultyName": "easy",
+        "levelId": "ks77m5kphqk9jvvwp08krb23d180t6ga",
+        "order": 21,
+        "question": "Select the correct word:",
+        "questionCode": "984850",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770615875517
+      },
+      {
+        "_creationTime": 1770616087643.809,
+        "_id": "kn771675qfqfn88k9yfjzejkbx80t5d3",
+        "createdAt": 1770616087647,
+        "data": {
+          "distractors": [
+            "eat",
+            "cry"
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks77m5kphqk9jvvwp08krb23d180t6ga",
+        "order": 22,
+        "question": "The {beautiful} flower smells nice.",
+        "questionCode": "628621",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1770616087647
+      },
+      {
+        "_creationTime": 1770615201362.3052,
+        "_id": "kn73hkjxz8k8z1kg4hjebs4ats80t0dg",
+        "createdAt": 1770615201364,
+        "data": {
+          "correctIndex": 2,
+          "explanation": "",
+          "options": [
+            "boys",
+            "ran",
+            "three",
+            "ran"
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks77m5kphqk9jvvwp08krb23d180t6ga",
+        "order": 23,
+        "question": "Which word answers “how many”?",
+        "questionCode": "354203",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770615201364
+      },
+      {
+        "_creationTime": 1770615897254.9387,
+        "_id": "kn72ktztsjqtj1vq6sxr5hgd0580vztw",
+        "createdAt": 1770615897255,
+        "data": {
+          "correctWords": [
+            "My"
+          ],
+          "explanation": "",
+          "selectMode": "single",
+          "statement": "( My / Jump ) bag is heavy"
+        },
+        "difficultyName": "easy",
+        "levelId": "ks77m5kphqk9jvvwp08krb23d180t6ga",
+        "order": 24,
+        "question": "Select the correct word:",
+        "questionCode": "887297",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770615897255
+      },
+      {
+        "_creationTime": 1770616610663.243,
+        "_id": "kn78tsds0e56qwb6t05wd8c7en80v007",
+        "createdAt": 1770616610665,
+        "data": {
+          "distractors": [
+            "sweet",
+            "jump"
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks77m5kphqk9jvvwp08krb23d180t6ga",
+        "order": 25,
+        "question": "We saw {five} birds.",
+        "questionCode": "278095",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1770616610665
+      },
+      {
+        "_creationTime": 1770615221246.1868,
+        "_id": "kn74hg89nq4qk6cbycgd2xdf2s80v2rw",
+        "createdAt": 1770615221248,
+        "data": {
+          "correctIndex": 1,
+          "explanation": "",
+          "options": [
+            "happy",
+            "this",
+            "many",
+            "good"
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks77m5kphqk9jvvwp08krb23d180t6ga",
+        "order": 26,
+        "question": "Which is a demonstrative adjective?",
+        "questionCode": "382495",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770615221248
+      },
+      {
+        "_creationTime": 1770615242408.1575,
+        "_id": "kn7ajr5mdyh4k630wz6k1b4r4180v7xa",
+        "createdAt": 1770615242410,
+        "data": {
+          "correctIndex": 0,
+          "explanation": "",
+          "options": [
+            "She is my sister",
+            "She is sister my",
+            "She my is sister",
+            "My she sister"
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks77m5kphqk9jvvwp08krb23d180t6ga",
+        "order": 27,
+        "question": "Which adjective is used correctly?",
+        "questionCode": "226816",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770615242410
+      },
+      {
+        "_creationTime": 1770615259314.9497,
+        "_id": "kn78se084a80k73vknj50ms98980txdj",
+        "createdAt": 1770615259317,
+        "data": {
+          "correctIndex": 0,
+          "explanation": "",
+          "options": [
+            "sweet",
+            "run",
+            "pen",
+            "fast"
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks77m5kphqk9jvvwp08krb23d180t6ga",
+        "order": 28,
+        "question": "Which adjective describes taste?",
+        "questionCode": "484967",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770615259317
+      },
+      {
+        "_creationTime": 1770615923680.8792,
+        "_id": "kn768des12ts198a72sdxbphh980v1rr",
+        "createdAt": 1770615923683,
+        "data": {
+          "correctWords": [
+            "sweet"
+          ],
+          "explanation": "",
+          "selectMode": "single",
+          "statement": "The mango is ( sweet / sleep )"
+        },
+        "difficultyName": "easy",
+        "levelId": "ks77m5kphqk9jvvwp08krb23d180t6ga",
+        "order": 29,
+        "question": "Select the correct word:",
+        "questionCode": "114390",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770615923683
+      },
+      {
+        "_creationTime": 1770616630207.2927,
+        "_id": "kn749j0fzc5nkg6nfz3xqzyj1s80tnxt",
+        "createdAt": 1770616630209,
+        "data": {
+          "distractors": [
+            "eat",
+            "loudly"
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks77m5kphqk9jvvwp08krb23d180t6ga",
+        "order": 30,
+        "question": "This is a {short} story.",
+        "questionCode": "214370",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1770616630209
+      }
+    ],
+    "hard": [
+      {
+        "_creationTime": 1770618265745.8477,
+        "_id": "kn74szyrzrx4hzykva96d55sy580vkaa",
+        "createdAt": 1770618265748,
+        "data": {
+          "correctIndex": 2,
+          "explanation": "An adjective is attributive when it comes before the noun it describes. → blue comes before sky.",
+          "options": [
+            "The sky looks blue.",
+            "The sky is blue.",
+            "A blue sky appeared.",
+            "The sky became blue."
+          ]
+        },
+        "difficultyName": "hard",
+        "levelId": "ks77m5kphqk9jvvwp08krb23d180t6ga",
+        "order": 1,
+        "question": "Which sentence uses an attributive adjective?",
+        "questionCode": "413332",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770618265748
+      },
+      {
+        "_creationTime": 1770619191208.3481,
+        "_id": "kn7ecf9m1nab0sk72ncdtsv38180vm81",
+        "createdAt": 1770619191210,
+        "data": {
+          "distractors": [
+            "preciousest",
+            "precious"
+          ]
+        },
+        "difficultyName": "hard",
+        "levelId": "ks77m5kphqk9jvvwp08krb23d180t6ga",
+        "order": 2,
+        "question": "Gold is {more precious} than silver.",
+        "questionCode": "160485",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1770619191210
+      },
+      {
+        "_creationTime": 1770619207231.6184,
+        "_id": "kn735h8sbq5t8jd96z8a4zfce180v657",
+        "createdAt": 1770619207233,
+        "data": {
+          "distractors": [
+            "wider",
+            "wide"
+          ]
+        },
+        "difficultyName": "hard",
+        "levelId": "ks77m5kphqk9jvvwp08krb23d180t6ga",
+        "order": 3,
+        "question": "This is the {widest} road in the city.",
+        "questionCode": "661657",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1770619207233
+      },
+      {
+        "_creationTime": 1770618757415.1194,
+        "_id": "kn75b0qfx1tscht6gn7d7r7wzn80t3at",
+        "createdAt": 1770618757417,
+        "data": {
+          "correctWords": [
+            "wiser",
+            "safer"
+          ],
+          "explanation": "Both are comparative adjectives modifying nouns.",
+          "selectMode": "multiple",
+          "statement": "The wiser leader chose the safer path."
+        },
+        "difficultyName": "hard",
+        "levelId": "ks77m5kphqk9jvvwp08krb23d180t6ga",
+        "order": 4,
+        "question": "Select the correct adjective(s):",
+        "questionCode": "620722",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770618757417
+      },
+      {
+        "_creationTime": 1770618817265.7058,
+        "_id": "kn73p9e6953bbf6e8ayzrws0jx80trcn",
+        "createdAt": 1770618817267,
+        "data": {
+          "correctWords": [
+            "least",
+            "useful"
+          ],
+          "explanation": "Least forms the superlative of comparison for multi-syllable adjectives.",
+          "selectMode": "multiple",
+          "statement": "This is the least useful tool in the kit."
+        },
+        "difficultyName": "hard",
+        "levelId": "ks77m5kphqk9jvvwp08krb23d180t6ga",
+        "order": 5,
+        "question": "Select the correct adjective(s):",
+        "questionCode": "774839",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770618817267
+      },
+      {
+        "_creationTime": 1770619224949.5422,
+        "_id": "kn7fp815zqsw6n08nbvq6jthtx80t7nc",
+        "createdAt": 1770619224951,
+        "data": {
+          "distractors": [
+            "elder",
+            "older"
+          ]
+        },
+        "difficultyName": "hard",
+        "levelId": "ks77m5kphqk9jvvwp08krb23d180t6ga",
+        "order": 6,
+        "question": "He is the {eldest} member of the family.",
+        "questionCode": "135855",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1770619224951
+      },
+      {
+        "_creationTime": 1770618292058.9634,
+        "_id": "kn77g227hgyarwcxyjh9vw3hpn80vpjd",
+        "createdAt": 1770618292061,
+        "data": {
+          "correctIndex": 1,
+          "explanation": "Some adjectives express an absolute quality. Perfect cannot logically be “more” or “most”.",
+          "options": [
+            "tall",
+            "perfect",
+            "fast",
+            "heavy"
+          ]
+        },
+        "difficultyName": "hard",
+        "levelId": "ks77m5kphqk9jvvwp08krb23d180t6ga",
+        "order": 7,
+        "question": "Which adjective does NOT normally admit comparison?",
+        "questionCode": "877342",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770618292061
+      },
+      {
+        "_creationTime": 1770618322886.8953,
+        "_id": "kn7f4ea7653hrn9297pj9p2b8d80v1cf",
+        "createdAt": 1770618322889,
+        "data": {
+          "correctIndex": 2,
+          "explanation": "Older is used for general comparison. Elder is used within a family, not with than.",
+          "options": [
+            "He is elder than me.",
+            "He is eldest than me.",
+            "He is older than me.",
+            "He is elder to me."
+          ]
+        },
+        "difficultyName": "hard",
+        "levelId": "ks77m5kphqk9jvvwp08krb23d180t6ga",
+        "order": 8,
+        "question": "Choose the correct sentence.",
+        "questionCode": "995877",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770618322889
+      },
+      {
+        "_creationTime": 1770618884514.8267,
+        "_id": "kn7bnfsr6jdy8222hmktk5ca9980vf3t",
+        "createdAt": 1770618884517,
+        "data": {
+          "correctWords": [
+            "elder"
+          ],
+          "explanation": "Elder is correctly used for family relationships.",
+          "selectMode": "single",
+          "statement": "The elder brother guided him."
+        },
+        "difficultyName": "hard",
+        "levelId": "ks77m5kphqk9jvvwp08krb23d180t6ga",
+        "order": 9,
+        "question": "Select the correct adjective(s):",
+        "questionCode": "279702",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770618884517
+      },
+      {
+        "_creationTime": 1770619241066.9822,
+        "_id": "kn76nkvawp8j1b6ym0kaqndc9980thw8",
+        "createdAt": 1770619241069,
+        "data": {
+          "distractors": [
+            "heavier",
+            "heaviest"
+          ]
+        },
+        "difficultyName": "hard",
+        "levelId": "ks77m5kphqk9jvvwp08krb23d180t6ga",
+        "order": 10,
+        "question": "No metal is as {heavy} as lead.",
+        "questionCode": "658404",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1770619241069
+      },
+      {
+        "_creationTime": 1770619281663.717,
+        "_id": "kn78dd81f0fwnvq1jff0qkqthh80v16v",
+        "createdAt": 1770619281665,
+        "data": {
+          "distractors": [
+            "confidentest",
+            "confidencer"
+          ]
+        },
+        "difficultyName": "hard",
+        "levelId": "ks77m5kphqk9jvvwp08krb23d180t6ga",
+        "order": 11,
+        "question": "She is {more confident} than her cousin.",
+        "questionCode": "785525",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1770619281665
+      },
+      {
+        "_creationTime": 1770618912104.9407,
+        "_id": "kn74at0a2dvthbqty2p3fn3crs80vcpp",
+        "createdAt": 1770618912107,
+        "data": {
+          "correctWords": [
+            "fierce"
+          ],
+          "explanation": "Adjective of quality in a negative comparison structure.",
+          "selectMode": "single",
+          "statement": "No other animal is as fierce as the tiger."
+        },
+        "difficultyName": "hard",
+        "levelId": "ks77m5kphqk9jvvwp08krb23d180t6ga",
+        "order": 12,
+        "question": "Select the correct adjective(s):",
+        "questionCode": "171396",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770618912107
+      },
+      {
+        "_creationTime": 1770618348664.798,
+        "_id": "kn70chztyfhp7wx7f5t2txdz7s80vvnm",
+        "createdAt": 1770618348666,
+        "data": {
+          "correctIndex": 2,
+          "explanation": "Preferable already contains a comparative sense. Using more/most is incorrect.",
+          "options": [
+            "more preferable",
+            "most preferable",
+            "preferable",
+            "preferablest"
+          ]
+        },
+        "difficultyName": "hard",
+        "levelId": "ks77m5kphqk9jvvwp08krb23d180t6ga",
+        "order": 13,
+        "question": "Which option is grammatically correct?",
+        "questionCode": "941798",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770618348666
+      },
+      {
+        "_creationTime": 1770618961549.0347,
+        "_id": "kn7ftjwwhqt2se45azrs55gkwh80tzcx",
+        "createdAt": 1770618961551,
+        "data": {
+          "correctWords": [
+            "farther"
+          ],
+          "explanation": "Physical distance → farther.",
+          "selectMode": "single",
+          "statement": "He walked ( farther / further ) than before."
+        },
+        "difficultyName": "hard",
+        "levelId": "ks77m5kphqk9jvvwp08krb23d180t6ga",
+        "order": 14,
+        "question": "Select the correct adjective(s):",
+        "questionCode": "339996",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770618961551
+      },
+      {
+        "_creationTime": 1770619300961.7812,
+        "_id": "kn728b6gbnkm3zv1b2mf98v05n80vw8p",
+        "createdAt": 1770619300963,
+        "data": {
+          "distractors": [
+            "worse",
+            "bad"
+          ]
+        },
+        "difficultyName": "hard",
+        "levelId": "ks77m5kphqk9jvvwp08krb23d180t6ga",
+        "order": 15,
+        "question": "This is the {worst} mistake of all.",
+        "questionCode": "308714",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1770619300963
+      },
+      {
+        "_creationTime": 1770618847584.2065,
+        "_id": "kn7cngnryf35jch6msp2229pg980vth4",
+        "createdAt": 1770618847586,
+        "data": {
+          "correctWords": [
+            "braver"
+          ],
+          "explanation": "Comparative adjective used with than.",
+          "selectMode": "multiple",
+          "statement": "Rama is braver than Balram."
+        },
+        "difficultyName": "hard",
+        "levelId": "ks77m5kphqk9jvvwp08krb23d180t6ga",
+        "order": 16,
+        "question": "Select the correct adjective(s):",
+        "questionCode": "872723",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770618847586
+      },
+      {
+        "_creationTime": 1770618406416.4465,
+        "_id": "kn791xcfng0f0r8zsxgv6dh8nh80ts82",
+        "createdAt": 1770618406418,
+        "data": {
+          "correctIndex": 2,
+          "explanation": "worse is irregular → bad → worse → worst.",
+          "options": [
+            "bigger",
+            "happier",
+            "worse",
+            "cleverer"
+          ]
+        },
+        "difficultyName": "hard",
+        "levelId": "ks77m5kphqk9jvvwp08krb23d180t6ga",
+        "order": 17,
+        "question": "Identify the irregular comparative adjective.",
+        "questionCode": "529291",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770618406418
+      },
+      {
+        "_creationTime": 1770618443602.4597,
+        "_id": "kn7be3pyz9gj1pk932ab55qhb580vsyk",
+        "createdAt": 1770618443604,
+        "data": {
+          "correctIndex": 2,
+          "explanation": "This is a degree interchange: Superlative → Negative positive comparison.",
+          "options": [
+            "Lead is heavier than metals.",
+            "Lead is very heavy.",
+            "No metal is as heavy as lead.",
+            "Lead weighs much."
+          ]
+        },
+        "difficultyName": "hard",
+        "levelId": "ks77m5kphqk9jvvwp08krb23d180t6ga",
+        "order": 18,
+        "question": "Which sentence preserves the meaning correctly? \nLead is the heaviest of all metals.",
+        "questionCode": "629506",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770618443604
+      },
+      {
+        "_creationTime": 1770619322931.808,
+        "_id": "kn71ksfc45nn1ffcr82cm9snps80tp9r",
+        "createdAt": 1770619322933,
+        "data": {
+          "distractors": [
+            "more",
+            "very"
+          ]
+        },
+        "difficultyName": "hard",
+        "levelId": "ks77m5kphqk9jvvwp08krb23d180t6ga",
+        "order": 19,
+        "question": "The news was {most} disappointing.",
+        "questionCode": "160930",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1770619322933
+      },
+      {
+        "_creationTime": 1770619339088.9822,
+        "_id": "kn72ehemx9kf02r3c3w7xz165d80vy9w",
+        "createdAt": 1770619339091,
+        "data": {
+          "distractors": [
+            "most",
+            "much"
+          ]
+        },
+        "difficultyName": "hard",
+        "levelId": "ks77m5kphqk9jvvwp08krb23d180t6ga",
+        "order": 20,
+        "question": "Iron is {more} useful than wood.",
+        "questionCode": "663340",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1770619339091
+      },
+      {
+        "_creationTime": 1770618988527.7935,
+        "_id": "kn72qev1pgqmzh3nc2dhtzdvdh80vdq6",
+        "createdAt": 1770618988529,
+        "data": {
+          "correctWords": [
+            "best"
+          ],
+          "explanation": "Comparing with all other solutions → superlative.",
+          "selectMode": "single",
+          "statement": "This is the ( best / better ) solution available."
+        },
+        "difficultyName": "hard",
+        "levelId": "ks77m5kphqk9jvvwp08krb23d180t6ga",
+        "order": 21,
+        "question": "Select the correct adjective(s):",
+        "questionCode": "398741",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770618988529
+      },
+      {
+        "_creationTime": 1770619044424.2666,
+        "_id": "kn72descjqawqq9dwc2zjdbs7580tq68",
+        "createdAt": 1770619044426,
+        "data": {
+          "correctWords": [
+            "more intelligent"
+          ],
+          "explanation": "Long adjectives take more, not -er.",
+          "selectMode": "multiple",
+          "statement": "She is ( more intelligent / intelligenter )."
+        },
+        "difficultyName": "hard",
+        "levelId": "ks77m5kphqk9jvvwp08krb23d180t6ga",
+        "order": 22,
+        "question": "Select the correct adjective(s):",
+        "questionCode": "378806",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770619049581
+      },
+      {
+        "_creationTime": 1770618468418.5361,
+        "_id": "kn7f3psmbmazvkrszz5ftjpcx580ts7p",
+        "createdAt": 1770618468420,
+        "data": {
+          "correctIndex": 2,
+          "explanation": "If a word ends in y preceded by a consonant, y changes to i. happy → happier → happiest",
+          "options": [
+            "big",
+            "sad",
+            "happy",
+            "red"
+          ]
+        },
+        "difficultyName": "hard",
+        "levelId": "ks77m5kphqk9jvvwp08krb23d180t6ga",
+        "order": 23,
+        "question": "Which adjective changes y → i before adding –er / –est?",
+        "questionCode": "865638",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770618468420
+      },
+      {
+        "_creationTime": 1770619359350.5247,
+        "_id": "kn78dgqmr2v68me9mjhsd3v0q980vzjw",
+        "createdAt": 1770619359352,
+        "data": {
+          "distractors": [
+            "shorter",
+            "short"
+          ]
+        },
+        "difficultyName": "hard",
+        "levelId": "ks77m5kphqk9jvvwp08krb23d180t6ga",
+        "order": 24,
+        "question": "This path is the {shortest} to the village.",
+        "questionCode": "722882",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1770619359352
+      },
+      {
+        "_creationTime": 1770619082951.0498,
+        "_id": "kn710c7agmq76f5hb6x9qahtw580vy29",
+        "createdAt": 1770619082954,
+        "data": {
+          "correctWords": [
+            "nearest"
+          ],
+          "explanation": "Refers to distance, not sequence.",
+          "selectMode": "single",
+          "statement": "The ( nearest / next ) station is closed."
+        },
+        "difficultyName": "hard",
+        "levelId": "ks77m5kphqk9jvvwp08krb23d180t6ga",
+        "order": 25,
+        "question": "Select the correct adjective(s):",
+        "questionCode": "859699",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770619082954
+      },
+      {
+        "_creationTime": 1770618497775.254,
+        "_id": "kn7a0bv3rdkb0jcnrpajvrmmw980t40f",
+        "createdAt": 1770618497777,
+        "data": {
+          "correctIndex": 2,
+          "explanation": "Predicative adjectives come after the verb and complete the predicate.",
+          "options": [
+            "A brave soldier",
+            "The brave soldier",
+            "The soldier is brave.",
+            "Brave soldier marched"
+          ]
+        },
+        "difficultyName": "hard",
+        "levelId": "ks77m5kphqk9jvvwp08krb23d180t6ga",
+        "order": 26,
+        "question": "Which sentence contains a predicative adjective?",
+        "questionCode": "577208",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770618497777
+      },
+      {
+        "_creationTime": 1770618689689.2915,
+        "_id": "kn7dbkmnmdwnv9ejbwmgbqtbfh80v8v3",
+        "createdAt": 1770618689691,
+        "data": {
+          "correctIndex": 3,
+          "explanation": "",
+          "options": [
+            "big",
+            "large",
+            "larger",
+            "largest"
+          ]
+        },
+        "difficultyName": "hard",
+        "levelId": "ks77m5kphqk9jvvwp08krb23d180t6ga",
+        "order": 27,
+        "question": "Choose the correct adjective: \nMumbai is the ______ seaport in India.",
+        "questionCode": "967315",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770618689691
+      },
+      {
+        "_creationTime": 1770619146685.9062,
+        "_id": "kn76hqceg5zrt28f4xd6vr08a180vshs",
+        "createdAt": 1770619146687,
+        "data": {
+          "correctWords": [
+            "correct"
+          ],
+          "explanation": "Correct does not normally take degrees.",
+          "selectMode": "single",
+          "statement": "Choose the ( correct / most correct ) answer."
+        },
+        "difficultyName": "hard",
+        "levelId": "ks77m5kphqk9jvvwp08krb23d180t6ga",
+        "order": 28,
+        "question": "Select the correct adjective(s):",
+        "questionCode": "939888",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770619146687
+      },
+      {
+        "_creationTime": 1770618722887.8525,
+        "_id": "kn7b30bwvdrr1fd0e1mtnx6e1n80twdq",
+        "createdAt": 1770618722890,
+        "data": {
+          "correctIndex": 2,
+          "explanation": "Farther → physical distance; Further → abstract or figurative extension",
+          "options": [
+            "tall / taller",
+            "good / better",
+            "farther / further",
+            "big / bigger"
+          ]
+        },
+        "difficultyName": "hard",
+        "levelId": "ks77m5kphqk9jvvwp08krb23d180t6ga",
+        "order": 29,
+        "question": "Which pair of adjectives is commonly confused due to meaning?",
+        "questionCode": "785496",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770618722890
+      },
+      {
+        "_creationTime": 1770619379611.7175,
+        "_id": "kn75ybg8ekvxknpwm9t9rann6n80v683",
+        "createdAt": 1770619379613,
+        "data": {
+          "distractors": [
+            "less risky",
+            "risky"
+          ]
+        },
+        "difficultyName": "hard",
+        "levelId": "ks77m5kphqk9jvvwp08krb23d180t6ga",
+        "order": 30,
+        "question": "He chose the {;east risky} option available.",
+        "questionCode": "978724",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1770619379613
+      }
+    ],
+    "medium": [
+      {
+        "_creationTime": 1770616795766.6033,
+        "_id": "kn763fe85gqg40vmqdbedkmky980tk3e",
+        "createdAt": 1770616795768,
+        "data": {
+          "correctIndex": 2,
+          "explanation": "",
+          "options": [
+            "I",
+            "have",
+            "little",
+            "money"
+          ]
+        },
+        "difficultyName": "medium",
+        "levelId": "ks77m5kphqk9jvvwp08krb23d180t6ga",
+        "order": 1,
+        "question": "Which adjective is of quantity? \nI have little money.",
+        "questionCode": "210974",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770616795768
+      },
+      {
+        "_creationTime": 1770617087465.3667,
+        "_id": "kn70wf6snp9hayx41s81kd9ek980vmwj",
+        "createdAt": 1770617087467,
+        "data": {
+          "correctWords": [
+            "second",
+            "late"
+          ],
+          "explanation": "",
+          "selectMode": "multiple",
+          "statement": "The second train was late."
+        },
+        "difficultyName": "medium",
+        "levelId": "ks77m5kphqk9jvvwp08krb23d180t6ga",
+        "order": 2,
+        "question": "Select the appropriate adjective:",
+        "questionCode": "176951",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770617087467
+      },
+      {
+        "_creationTime": 1770617451340.2063,
+        "_id": "kn77bc9kf08d9xwbqndpb7f5js80t505",
+        "createdAt": 1770617451342,
+        "data": {
+          "distractors": [
+            "widest",
+            "wide"
+          ]
+        },
+        "difficultyName": "medium",
+        "levelId": "ks77m5kphqk9jvvwp08krb23d180t6ga",
+        "order": 3,
+        "question": "This road is {wider} than the other.",
+        "questionCode": "665667",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1770617451342
+      },
+      {
+        "_creationTime": 1770617465348.1584,
+        "_id": "kn7cxsevq6zjndjz9tzd5hwnhd80tmha",
+        "createdAt": 1770617465350,
+        "data": {
+          "distractors": [
+            "tallest",
+            "quickly"
+          ]
+        },
+        "difficultyName": "medium",
+        "levelId": "ks77m5kphqk9jvvwp08krb23d180t6ga",
+        "order": 4,
+        "question": "She drank {some} milk.",
+        "questionCode": "622568",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1770617465350
+      },
+      {
+        "_creationTime": 1770617106588.4814,
+        "_id": "kn76srrtwf1v5vrng5shsqc2w580tqck",
+        "createdAt": 1770617106590,
+        "data": {
+          "correctWords": [
+            "little",
+            "great"
+          ],
+          "explanation": "",
+          "selectMode": "multiple",
+          "statement": "She has little patience but great courage."
+        },
+        "difficultyName": "medium",
+        "levelId": "ks77m5kphqk9jvvwp08krb23d180t6ga",
+        "order": 5,
+        "question": "Select the appropriate adjective:",
+        "questionCode": "300156",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770617106590
+      },
+      {
+        "_creationTime": 1770616831664.2988,
+        "_id": "kn73gzqq2ty7f3trmwtrbknx8580tmm8",
+        "createdAt": 1770616831666,
+        "data": {
+          "correctIndex": 2,
+          "explanation": "",
+          "options": [
+            "long",
+            "longest",
+            "longer",
+            "length"
+          ]
+        },
+        "difficultyName": "medium",
+        "levelId": "ks77m5kphqk9jvvwp08krb23d180t6ga",
+        "order": 6,
+        "question": "Identify the comparative adjective: \nThis road is longer than that one.",
+        "questionCode": "915166",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770616831666
+      },
+      {
+        "_creationTime": 1770617483689.705,
+        "_id": "kn76crmdpxrz5x5ydtv1tys54n80tvve",
+        "createdAt": 1770617483691,
+        "data": {
+          "distractors": [
+            "braver",
+            "bravest"
+          ]
+        },
+        "difficultyName": "medium",
+        "levelId": "ks77m5kphqk9jvvwp08krb23d180t6ga",
+        "order": 7,
+        "question": "The {brave} boy stood first.",
+        "questionCode": "890700",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1770617483691
+      },
+      {
+        "_creationTime": 1770617128498.0557,
+        "_id": "kn79hkk1z9nw7tyj6rt6ctn0ws80vd1g",
+        "createdAt": 1770617128500,
+        "data": {
+          "correctWords": [
+            "Which"
+          ],
+          "explanation": "",
+          "selectMode": "single",
+          "statement": "Which mango do you want?"
+        },
+        "difficultyName": "medium",
+        "levelId": "ks77m5kphqk9jvvwp08krb23d180t6ga",
+        "order": 8,
+        "question": "Select the appropriate adjective:",
+        "questionCode": "411141",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770617128500
+      },
+      {
+        "_creationTime": 1770616855860.5015,
+        "_id": "kn70xh5ze2nx712gc4dzcew89d80t6s1",
+        "createdAt": 1770616855862,
+        "data": {
+          "correctIndex": 2,
+          "explanation": "",
+          "options": [
+            "She is kind",
+            "He drank water",
+            "Three boys ran",
+            "The boy slept"
+          ]
+        },
+        "difficultyName": "medium",
+        "levelId": "ks77m5kphqk9jvvwp08krb23d180t6ga",
+        "order": 9,
+        "question": "Which sentence uses an adjective of number?",
+        "questionCode": "314343",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770616855862
+      },
+      {
+        "_creationTime": 1770617502489.0815,
+        "_id": "kn74h2gqzq4kx460vm442xs0fn80vfzw",
+        "createdAt": 1770617502491,
+        "data": {
+          "distractors": [
+            "taller",
+            "tall"
+          ]
+        },
+        "difficultyName": "medium",
+        "levelId": "ks77m5kphqk9jvvwp08krb23d180t6ga",
+        "order": 10,
+        "question": "He is the {tallest} student in class.",
+        "questionCode": "205418",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1770617502491
+      },
+      {
+        "_creationTime": 1770617148840.9797,
+        "_id": "kn775a8maqaaarp78c6fpjxqa180t2p0",
+        "createdAt": 1770617148843,
+        "data": {
+          "correctWords": [
+            "these",
+            "sweeter",
+            "those"
+          ],
+          "explanation": "",
+          "selectMode": "multiple",
+          "statement": "These apples are sweeter than those."
+        },
+        "difficultyName": "medium",
+        "levelId": "ks77m5kphqk9jvvwp08krb23d180t6ga",
+        "order": 11,
+        "question": "Select the appropriate adjective:",
+        "questionCode": "124513",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770617148843
+      },
+      {
+        "_creationTime": 1770617183976.8904,
+        "_id": "kn7577pt5g9d9468yrbqje9s2580v1kp",
+        "createdAt": 1770617183978,
+        "data": {
+          "correctWords": [
+            "my",
+            "younger",
+            "smarter"
+          ],
+          "explanation": "",
+          "selectMode": "multiple",
+          "statement": "My younger brother is smarter."
+        },
+        "difficultyName": "medium",
+        "levelId": "ks77m5kphqk9jvvwp08krb23d180t6ga",
+        "order": 12,
+        "question": "Select the appropriate adjective:",
+        "questionCode": "866730",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770617183978
+      },
+      {
+        "_creationTime": 1770617542514.9153,
+        "_id": "kn7b3ya0cyzhef746ejgwbemh180vzpc",
+        "createdAt": 1770617542517,
+        "data": {
+          "distractors": [
+            "first",
+            "brave"
+          ]
+        },
+        "difficultyName": "medium",
+        "levelId": "ks77m5kphqk9jvvwp08krb23d180t6ga",
+        "order": 13,
+        "question": "I have {little} time today.",
+        "questionCode": "727064",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1770617542517
+      },
+      {
+        "_creationTime": 1770616871382.576,
+        "_id": "kn78t5s68d3qn5zps2t9b45jgh80tykn",
+        "createdAt": 1770616871384,
+        "data": {
+          "correctIndex": 0,
+          "explanation": "",
+          "options": [
+            "what",
+            "that",
+            "my",
+            "many"
+          ]
+        },
+        "difficultyName": "medium",
+        "levelId": "ks77m5kphqk9jvvwp08krb23d180t6ga",
+        "order": 14,
+        "question": "Which is an interrogative adjective?",
+        "questionCode": "197695",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770616871384
+      },
+      {
+        "_creationTime": 1770617589793.6794,
+        "_id": "kn73wgnz6vswh24ezw21pv56qd80tydr",
+        "createdAt": 1770617589795,
+        "data": {
+          "distractors": [
+            "more",
+            "tray"
+          ]
+        },
+        "difficultyName": "medium",
+        "levelId": "ks77m5kphqk9jvvwp08krb23d180t6ga",
+        "order": 15,
+        "question": "This is my {second} attempt.",
+        "questionCode": "160709",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1770617589795
+      },
+      {
+        "_creationTime": 1770617246430.3645,
+        "_id": "kn7avr13dmeckr0hqt83hghg9n80t01n",
+        "createdAt": 1770617246432,
+        "data": {
+          "correctWords": [
+            "heavier"
+          ],
+          "explanation": "",
+          "selectMode": "single",
+          "statement": "This box is ( heavier / heaviest ) than that"
+        },
+        "difficultyName": "medium",
+        "levelId": "ks77m5kphqk9jvvwp08krb23d180t6ga",
+        "order": 16,
+        "question": "Select the appropriate adjective:",
+        "questionCode": "260434",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770617246432
+      },
+      {
+        "_creationTime": 1770617279023.3796,
+        "_id": "kn7d6nkzdw2qzeaxyvs71jh7cx80vacn",
+        "createdAt": 1770617279025,
+        "data": {
+          "correctWords": [
+            "few"
+          ],
+          "explanation": "",
+          "selectMode": "single",
+          "statement": "She has ( few / first ) friends"
+        },
+        "difficultyName": "medium",
+        "levelId": "ks77m5kphqk9jvvwp08krb23d180t6ga",
+        "order": 17,
+        "question": "Select the appropriate adjective:",
+        "questionCode": "621086",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770617279025
+      },
+      {
+        "_creationTime": 1770617610051.9102,
+        "_id": "kn75qyaxd1t25frj1acc1rqr1580t3f5",
+        "createdAt": 1770617610054,
+        "data": {
+          "distractors": [
+            "more",
+            "many"
+          ]
+        },
+        "difficultyName": "medium",
+        "levelId": "ks77m5kphqk9jvvwp08krb23d180t6ga",
+        "order": 18,
+        "question": "The weather is {pleasant} today.",
+        "questionCode": "828252",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1770617610054
+      },
+      {
+        "_creationTime": 1770616904271.1802,
+        "_id": "kn76948wm2rm7jcx36w92sj0xh80thyg",
+        "createdAt": 1770616904273,
+        "data": {
+          "correctIndex": 2,
+          "explanation": "",
+          "options": [
+            "most interesting",
+            "interesting",
+            "more interesting",
+            "interest"
+          ]
+        },
+        "difficultyName": "medium",
+        "levelId": "ks77m5kphqk9jvvwp08krb23d180t6ga",
+        "order": 19,
+        "question": "Choose the correct comparative form: \nThis book is __________ than that.",
+        "questionCode": "780880",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770616904273
+      },
+      {
+        "_creationTime": 1770617632127.7175,
+        "_id": "kn7ehtqp4atp222rke28fpy7j980v0gf",
+        "createdAt": 1770617632129,
+        "data": {
+          "distractors": [
+            "pretty",
+            "prettiest"
+          ]
+        },
+        "difficultyName": "medium",
+        "levelId": "ks77m5kphqk9jvvwp08krb23d180t6ga",
+        "order": 20,
+        "question": "These flowers are {prettier} than those.",
+        "questionCode": "607497",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1770617645644
+      },
+      {
+        "_creationTime": 1770616920079.9639,
+        "_id": "kn71b37q80f4d3gq5w73snqgr180ta30",
+        "createdAt": 1770616920082,
+        "data": {
+          "correctIndex": 0,
+          "explanation": "",
+          "options": [
+            "this",
+            "mine",
+            "is",
+            "pen"
+          ]
+        },
+        "difficultyName": "medium",
+        "levelId": "ks77m5kphqk9jvvwp08krb23d180t6ga",
+        "order": 21,
+        "question": "Which word is an adjective, not a pronoun? \nThis pen is mine.",
+        "questionCode": "395357",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770616920082
+      },
+      {
+        "_creationTime": 1770617331429.6567,
+        "_id": "kn75k7m25jagre188c2prr1k5580tqgh",
+        "createdAt": 1770617331431,
+        "data": {
+          "correctWords": [
+            "Which"
+          ],
+          "explanation": "",
+          "selectMode": "single",
+          "statement": "( Which / That ) book is yours?"
+        },
+        "difficultyName": "medium",
+        "levelId": "ks77m5kphqk9jvvwp08krb23d180t6ga",
+        "order": 22,
+        "question": "Select the appropriate adjective:",
+        "questionCode": "993084",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770617331431
+      },
+      {
+        "_creationTime": 1770617306245.934,
+        "_id": "kn76swgbady6w6wfce7214rth980vr72",
+        "createdAt": 1770617306248,
+        "data": {
+          "correctWords": [
+            "better"
+          ],
+          "explanation": "",
+          "selectMode": "single",
+          "statement": "He chose the ( better / best ) option"
+        },
+        "difficultyName": "medium",
+        "levelId": "ks77m5kphqk9jvvwp08krb23d180t6ga",
+        "order": 23,
+        "question": "Select the appropriate adjective:",
+        "questionCode": "514968",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770617306248
+      },
+      {
+        "_creationTime": 1770617673546.3652,
+        "_id": "kn70ws3ggsdjtp0mfcrvfp1be980tz4s",
+        "createdAt": 1770617673548,
+        "data": {
+          "distractors": [
+            "correcting",
+            "correctest"
+          ]
+        },
+        "difficultyName": "medium",
+        "levelId": "ks77m5kphqk9jvvwp08krb23d180t6ga",
+        "order": 24,
+        "question": "She chose the {correct} answer.",
+        "questionCode": "927487",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1770617673548
+      },
+      {
+        "_creationTime": 1770616938272.8958,
+        "_id": "kn78hqv3wv70zvtqfyp169hn2n80vj9f",
+        "createdAt": 1770616938275,
+        "data": {
+          "correctIndex": 2,
+          "explanation": "",
+          "options": [
+            "much",
+            "several",
+            "first",
+            "many"
+          ]
+        },
+        "difficultyName": "medium",
+        "levelId": "ks77m5kphqk9jvvwp08krb23d180t6ga",
+        "order": 25,
+        "question": "Which adjective shows order?",
+        "questionCode": "517468",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770616938275
+      },
+      {
+        "_creationTime": 1770616956422.3,
+        "_id": "kn7cst1qyrkt72vn0xk8qvncj180t5b7",
+        "createdAt": 1770616956424,
+        "data": {
+          "correctIndex": 1,
+          "explanation": "",
+          "options": [
+            "has",
+            "sharp",
+            "mind",
+            "she"
+          ]
+        },
+        "difficultyName": "medium",
+        "levelId": "ks77m5kphqk9jvvwp08krb23d180t6ga",
+        "order": 26,
+        "question": "Identify the adjective of quality: \nShe has a sharp mind.",
+        "questionCode": "388477",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770616956424
+      },
+      {
+        "_creationTime": 1770616982764.4355,
+        "_id": "kn76q39whpx2ax3btypw06af2h80v1yb",
+        "createdAt": 1770616982766,
+        "data": {
+          "correctIndex": 2,
+          "explanation": "",
+          "options": [
+            "taller",
+            "tall",
+            "tallest",
+            "most tall"
+          ]
+        },
+        "difficultyName": "medium",
+        "levelId": "ks77m5kphqk9jvvwp08krb23d180t6ga",
+        "order": 27,
+        "question": "Which is the superlative form of “tall”?",
+        "questionCode": "313063",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770616982766
+      },
+      {
+        "_creationTime": 1770617690393.0457,
+        "_id": "kn7evd9fm9ttjbkr91k2nk6dg580twcr",
+        "createdAt": 1770617690395,
+        "data": {
+          "distractors": [
+            "greater",
+            "greatest"
+          ]
+        },
+        "difficultyName": "medium",
+        "levelId": "ks77m5kphqk9jvvwp08krb23d180t6ga",
+        "order": 28,
+        "question": "He has {great} courage.",
+        "questionCode": "612359",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1770617690395
+      },
+      {
+        "_creationTime": 1770617370248.0645,
+        "_id": "kn738wxtez16sfs9pj1tym5mhh80vb0f",
+        "createdAt": 1770617370250,
+        "data": {
+          "correctWords": [
+            "old"
+          ],
+          "explanation": "",
+          "selectMode": "single",
+          "statement": "The ( old / older ) man smiled"
+        },
+        "difficultyName": "medium",
+        "levelId": "ks77m5kphqk9jvvwp08krb23d180t6ga",
+        "order": 29,
+        "question": "Select the appropriate adjective:",
+        "questionCode": "282888",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770617370250
+      },
+      {
+        "_creationTime": 1770617004900.67,
+        "_id": "kn76tcajpd43tnywkxqptdqevh80t7hh",
+        "createdAt": 1770617004902,
+        "data": {
+          "correctIndex": 1,
+          "explanation": "",
+          "options": [
+            "He is elder than me",
+            "He is older than me",
+            "He is eldest than me",
+            "He is elder me"
+          ]
+        },
+        "difficultyName": "medium",
+        "levelId": "ks77m5kphqk9jvvwp08krb23d180t6ga",
+        "order": 30,
+        "question": "Which sentence is correct?",
+        "questionCode": "685481",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770617004902
+      }
+    ]
+  }
+}

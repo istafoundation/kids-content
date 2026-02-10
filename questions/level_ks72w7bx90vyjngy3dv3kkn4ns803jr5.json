@@ -1,0 +1,1948 @@
+{
+  "levelId": "ks72w7bx90vyjngy3dv3kkn4ns803jr5",
+  "version": 0,
+  "publishedAt": 1770756023741,
+  "questions": {
+    "easy": [
+      {
+        "_creationTime": 1770662619879.9124,
+        "_id": "kn728xd3gds9vrzh5fwdtb7r4n80tcvr",
+        "createdAt": 1770662619880,
+        "data": {
+          "correctIndex": 2,
+          "explanation": "Simple Present is used for universal truths like the sun rising.",
+          "options": [
+            "She is eating dinner now.",
+            "They played football yesterday.",
+            "The sun rises in the east.",
+            "We will visit Delhi tomorrow."
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks72w7bx90vyjngy3dv3kkn4ns803jr5",
+        "order": 1,
+        "question": "Which sentence is in the Simple Present Tense?",
+        "questionCode": "764889",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770662619880
+      },
+      {
+        "_creationTime": 1770662619879.9126,
+        "_id": "kn799nzbq8hsphn45796naq4zd80vvhc",
+        "createdAt": 1770662619880,
+        "data": {
+          "correctWords": [
+            "works"
+          ],
+          "selectMode": "single",
+          "statement": "My father works in a bank."
+        },
+        "difficultyName": "easy",
+        "levelId": "ks72w7bx90vyjngy3dv3kkn4ns803jr5",
+        "order": 2,
+        "question": "Select the verb in Simple Present Tense.",
+        "questionCode": "894620",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770662619880
+      },
+      {
+        "_creationTime": 1770662619879.9128,
+        "_id": "kn7eg46ps2xe9had10b5pxbxbh80tnb9",
+        "createdAt": 1770662619880,
+        "data": {
+          "correctIndex": 1,
+          "explanation": "Present Continuous describes actions happening at the moment.",
+          "options": [
+            "Simple Past",
+            "Present Continuous",
+            "Simple Future",
+            "Present Perfect"
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks72w7bx90vyjngy3dv3kkn4ns803jr5",
+        "order": 3,
+        "question": "Which tense is used for actions happening now?",
+        "questionCode": "847562",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770662619880
+      },
+      {
+        "_creationTime": 1770662619879.913,
+        "_id": "kn7e4re4s5jgh4paxa1q4jsemh80vq9f",
+        "createdAt": 1770662619880,
+        "data": {
+          "correctWords": [
+            "are playing"
+          ],
+          "selectMode": "single",
+          "statement": "The children are playing in the park."
+        },
+        "difficultyName": "easy",
+        "levelId": "ks72w7bx90vyjngy3dv3kkn4ns803jr5",
+        "order": 4,
+        "question": "Select the Present Continuous verb.",
+        "questionCode": "593090",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770662619880
+      },
+      {
+        "_creationTime": 1770662619879.9133,
+        "_id": "kn7295sr6mkvj4zt8weax69tjx80vp68",
+        "createdAt": 1770662619880,
+        "data": {
+          "correctIndex": 2,
+          "explanation": "‘Watched’ shows a completed action in the past.",
+          "options": [
+            "I eat lunch at noon.",
+            "She is cooking food.",
+            "We watched a movie last night.",
+            "They will travel tomorrow."
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks72w7bx90vyjngy3dv3kkn4ns803jr5",
+        "order": 5,
+        "question": "Which sentence is in the Simple Past Tense?",
+        "questionCode": "650868",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770662619880
+      },
+      {
+        "_creationTime": 1770662619879.9136,
+        "_id": "kn7757qtybv7npe57h8f6t1r4s80v5w6",
+        "createdAt": 1770662619880,
+        "data": {
+          "correctWords": [
+            "finished"
+          ],
+          "selectMode": "single",
+          "statement": "He finished his homework yesterday."
+        },
+        "difficultyName": "easy",
+        "levelId": "ks72w7bx90vyjngy3dv3kkn4ns803jr5",
+        "order": 6,
+        "question": "Select the Simple Past verb.",
+        "questionCode": "916438",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770662619880
+      },
+      {
+        "_creationTime": 1770662619879.9138,
+        "_id": "kn7a1qvn8wnj3p47s0xprrrrp180vj2s",
+        "createdAt": 1770662619880,
+        "data": {
+          "correctIndex": 2,
+          "explanation": "‘Will’ is used with the base verb to show future actions.",
+          "options": [
+            "was",
+            "is",
+            "will",
+            "has"
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks72w7bx90vyjngy3dv3kkn4ns803jr5",
+        "order": 7,
+        "question": "Which word helps form the Simple Future Tense?",
+        "questionCode": "554616",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770662619880
+      },
+      {
+        "_creationTime": 1770662619879.914,
+        "_id": "kn78qc2hpjm133swd2182nenvx80v01j",
+        "createdAt": 1770662619880,
+        "data": {
+          "correctWords": [
+            "will meet"
+          ],
+          "selectMode": "single",
+          "statement": "We will meet our teacher tomorrow."
+        },
+        "difficultyName": "easy",
+        "levelId": "ks72w7bx90vyjngy3dv3kkn4ns803jr5",
+        "order": 8,
+        "question": "Select the future tense verb.",
+        "questionCode": "969170",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770662619880
+      },
+      {
+        "_creationTime": 1770662619879.9143,
+        "_id": "kn780dvhcz0a2q0w3m1g5ag08s80vghk",
+        "createdAt": 1770662619880,
+        "data": {
+          "correctIndex": 2,
+          "explanation": "Present Perfect links past actions with present results.",
+          "options": [
+            "I finished my homework yesterday.",
+            "I am finishing my homework.",
+            "I have finished my homework.",
+            "I will finish my homework."
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks72w7bx90vyjngy3dv3kkn4ns803jr5",
+        "order": 9,
+        "question": "Which sentence uses Present Perfect Tense?",
+        "questionCode": "788797",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770662619880
+      },
+      {
+        "_creationTime": 1770662619879.9146,
+        "_id": "kn7fdhezcf928gc7jqax9p6r9d80tf52",
+        "createdAt": 1770662619880,
+        "data": {
+          "correctWords": [
+            "has cooked"
+          ],
+          "selectMode": "single",
+          "statement": "She has cooked the dinner."
+        },
+        "difficultyName": "easy",
+        "levelId": "ks72w7bx90vyjngy3dv3kkn4ns803jr5",
+        "order": 10,
+        "question": "Select the Present Perfect verb.",
+        "questionCode": "715252",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770662619880
+      },
+      {
+        "_creationTime": 1770662619879.9148,
+        "_id": "kn70p9par2xx9nk974s80jwnk980tdj7",
+        "createdAt": 1770662619880,
+        "data": {
+          "correctIndex": 1,
+          "explanation": "Past Continuous shows an action that was happening at a specific past time.",
+          "options": [
+            "Simple Past",
+            "Past Continuous",
+            "Present Perfect",
+            "Simple Future"
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks72w7bx90vyjngy3dv3kkn4ns803jr5",
+        "order": 11,
+        "question": "Which tense describes an action continuing in the past?",
+        "questionCode": "574503",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770662619880
+      },
+      {
+        "_creationTime": 1770662619879.915,
+        "_id": "kn7caf5fmajaymr2em8k2az71h80t5z6",
+        "createdAt": 1770662619880,
+        "data": {
+          "correctWords": [
+            "were playing"
+          ],
+          "selectMode": "single",
+          "statement": "They were playing when it started raining."
+        },
+        "difficultyName": "easy",
+        "levelId": "ks72w7bx90vyjngy3dv3kkn4ns803jr5",
+        "order": 12,
+        "question": "Select the Past Continuous verb.",
+        "questionCode": "756914",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770662619880
+      },
+      {
+        "_creationTime": 1770662619879.9153,
+        "_id": "kn72wdxjc6endxd4wem4ycb1n180tr06",
+        "createdAt": 1770662619880,
+        "data": {
+          "correctIndex": 0,
+          "explanation": "Simple Present is used for habits and routines.",
+          "options": [
+            "Simple Present",
+            "Simple Past",
+            "Present Continuous",
+            "Future Tense"
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks72w7bx90vyjngy3dv3kkn4ns803jr5",
+        "order": 13,
+        "question": "Which tense is used for daily routines?",
+        "questionCode": "328689",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770662619880
+      },
+      {
+        "_creationTime": 1770662619879.9155,
+        "_id": "kn73vcgeza59k9awr3v9wdtb6980ttwn",
+        "createdAt": 1770662619880,
+        "data": {
+          "correctWords": [
+            "goes"
+          ],
+          "selectMode": "single",
+          "statement": "She goes to school every day."
+        },
+        "difficultyName": "easy",
+        "levelId": "ks72w7bx90vyjngy3dv3kkn4ns803jr5",
+        "order": 14,
+        "question": "Select the correct tense verb.",
+        "questionCode": "975345",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770662619880
+      },
+      {
+        "_creationTime": 1770662619879.9158,
+        "_id": "kn7b94vfgfn7qj010mqjfjr1b180tbqk",
+        "createdAt": 1770662619880,
+        "data": {
+          "correctIndex": 0,
+          "explanation": "Simple Present is used for habits and routines.",
+          "options": [
+            "Simple Present",
+            "Simple Past",
+            "Present Continuous",
+            "Future Tense"
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks72w7bx90vyjngy3dv3kkn4ns803jr5",
+        "order": 15,
+        "question": "Which tense is used for daily routines?",
+        "questionCode": "642763",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770662619880
+      },
+      {
+        "_creationTime": 1770662619879.916,
+        "_id": "kn744se2rw69nj3n17kqdsbb0580t4j7",
+        "createdAt": 1770662619880,
+        "data": {
+          "correctWords": [
+            "goes"
+          ],
+          "selectMode": "single",
+          "statement": "She goes to school every day."
+        },
+        "difficultyName": "easy",
+        "levelId": "ks72w7bx90vyjngy3dv3kkn4ns803jr5",
+        "order": 16,
+        "question": "Select the correct tense verb.",
+        "questionCode": "795994",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770662619880
+      },
+      {
+        "_creationTime": 1770662619879.9163,
+        "_id": "kn76ffqhzksq1jegwrm3cmcm7980vefe",
+        "createdAt": 1770662619880,
+        "data": {
+          "correctIndex": 0,
+          "explanation": "Simple Present is used for habits and routines.",
+          "options": [
+            "Simple Present",
+            "Simple Past",
+            "Present Continuous",
+            "Future Tense"
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks72w7bx90vyjngy3dv3kkn4ns803jr5",
+        "order": 17,
+        "question": "Which tense is used for daily routines?",
+        "questionCode": "171797",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770662619880
+      },
+      {
+        "_creationTime": 1770662619879.9165,
+        "_id": "kn78xdt6mnszq1vmgd7bex6ydn80ta61",
+        "createdAt": 1770662619880,
+        "data": {
+          "correctWords": [
+            "goes"
+          ],
+          "selectMode": "single",
+          "statement": "She goes to school every day."
+        },
+        "difficultyName": "easy",
+        "levelId": "ks72w7bx90vyjngy3dv3kkn4ns803jr5",
+        "order": 18,
+        "question": "Select the correct tense verb.",
+        "questionCode": "950255",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770662619880
+      },
+      {
+        "_creationTime": 1770662619879.9167,
+        "_id": "kn7a2e631t94g6hvcycqedtqb980v02j",
+        "createdAt": 1770662619880,
+        "data": {
+          "correctIndex": 0,
+          "explanation": "Simple Present is used for habits and routines.",
+          "options": [
+            "Simple Present",
+            "Simple Past",
+            "Present Continuous",
+            "Future Tense"
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks72w7bx90vyjngy3dv3kkn4ns803jr5",
+        "order": 19,
+        "question": "Which tense is used for daily routines?",
+        "questionCode": "200232",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770662619880
+      },
+      {
+        "_creationTime": 1770662619879.917,
+        "_id": "kn75gyah5d9en9bhxphxcgtvns80v68g",
+        "createdAt": 1770662619880,
+        "data": {
+          "correctWords": [
+            "goes"
+          ],
+          "selectMode": "single",
+          "statement": "She goes to school every day."
+        },
+        "difficultyName": "easy",
+        "levelId": "ks72w7bx90vyjngy3dv3kkn4ns803jr5",
+        "order": 20,
+        "question": "Select the correct tense verb.",
+        "questionCode": "359867",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770662619880
+      },
+      {
+        "_creationTime": 1770662619879.9172,
+        "_id": "kn7fs3sjwseqmdbgst5222b62980tr83",
+        "createdAt": 1770662619880,
+        "data": {
+          "correctIndex": 0,
+          "explanation": "Simple Present is used for habits and routines.",
+          "options": [
+            "Simple Present",
+            "Simple Past",
+            "Present Continuous",
+            "Future Tense"
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks72w7bx90vyjngy3dv3kkn4ns803jr5",
+        "order": 21,
+        "question": "Which tense is used for daily routines?",
+        "questionCode": "858084",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770662619880
+      },
+      {
+        "_creationTime": 1770662619879.9175,
+        "_id": "kn7etejf87jg5ya428r7tgqqgn80v81d",
+        "createdAt": 1770662619880,
+        "data": {
+          "correctWords": [
+            "goes"
+          ],
+          "selectMode": "single",
+          "statement": "She goes to school every day."
+        },
+        "difficultyName": "easy",
+        "levelId": "ks72w7bx90vyjngy3dv3kkn4ns803jr5",
+        "order": 22,
+        "question": "Select the correct tense verb.",
+        "questionCode": "765802",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770662619880
+      },
+      {
+        "_creationTime": 1770662619879.9177,
+        "_id": "kn70y9xm0mz88zs1dmvhk1xk5980vejp",
+        "createdAt": 1770662619880,
+        "data": {
+          "correctIndex": 0,
+          "explanation": "Simple Present is used for habits and routines.",
+          "options": [
+            "Simple Present",
+            "Simple Past",
+            "Present Continuous",
+            "Future Tense"
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks72w7bx90vyjngy3dv3kkn4ns803jr5",
+        "order": 23,
+        "question": "Which tense is used for daily routines?",
+        "questionCode": "678365",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770662619880
+      },
+      {
+        "_creationTime": 1770662619879.918,
+        "_id": "kn78jf8xkgyk7n3yxkdcxh3hz180tjqq",
+        "createdAt": 1770662619880,
+        "data": {
+          "correctWords": [
+            "goes"
+          ],
+          "selectMode": "single",
+          "statement": "She goes to school every day."
+        },
+        "difficultyName": "easy",
+        "levelId": "ks72w7bx90vyjngy3dv3kkn4ns803jr5",
+        "order": 24,
+        "question": "Select the correct tense verb.",
+        "questionCode": "596346",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770662619880
+      },
+      {
+        "_creationTime": 1770662619879.9182,
+        "_id": "kn7bq0kta4xaqg8ewxbz0vrrt180v2a9",
+        "createdAt": 1770662619880,
+        "data": {
+          "correctIndex": 0,
+          "explanation": "Simple Present is used for habits and routines.",
+          "options": [
+            "Simple Present",
+            "Simple Past",
+            "Present Continuous",
+            "Future Tense"
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks72w7bx90vyjngy3dv3kkn4ns803jr5",
+        "order": 25,
+        "question": "Which tense is used for daily routines?",
+        "questionCode": "706163",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770662619880
+      },
+      {
+        "_creationTime": 1770662619879.9185,
+        "_id": "kn7btvmyeg7j3p262w0f10tnjx80tjdm",
+        "createdAt": 1770662619880,
+        "data": {
+          "correctWords": [
+            "goes"
+          ],
+          "selectMode": "single",
+          "statement": "She goes to school every day."
+        },
+        "difficultyName": "easy",
+        "levelId": "ks72w7bx90vyjngy3dv3kkn4ns803jr5",
+        "order": 26,
+        "question": "Select the correct tense verb.",
+        "questionCode": "130400",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770662619880
+      },
+      {
+        "_creationTime": 1770662619879.9187,
+        "_id": "kn73xwb9r5nc5nm7enqahwm7g980vc6e",
+        "createdAt": 1770662619880,
+        "data": {
+          "correctIndex": 0,
+          "explanation": "Simple Present is used for habits and routines.",
+          "options": [
+            "Simple Present",
+            "Simple Past",
+            "Present Continuous",
+            "Future Tense"
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks72w7bx90vyjngy3dv3kkn4ns803jr5",
+        "order": 27,
+        "question": "Which tense is used for daily routines?",
+        "questionCode": "655995",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770662619880
+      },
+      {
+        "_creationTime": 1770662619879.919,
+        "_id": "kn7546vnbjf9k4wpm8vfw4yfg980t82a",
+        "createdAt": 1770662619880,
+        "data": {
+          "correctWords": [
+            "goes"
+          ],
+          "selectMode": "single",
+          "statement": "She goes to school every day."
+        },
+        "difficultyName": "easy",
+        "levelId": "ks72w7bx90vyjngy3dv3kkn4ns803jr5",
+        "order": 28,
+        "question": "Select the correct tense verb.",
+        "questionCode": "361496",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770662619880
+      },
+      {
+        "_creationTime": 1770662619879.9192,
+        "_id": "kn70f56rjf185n794xv2cfq3wh80t5sk",
+        "createdAt": 1770662619880,
+        "data": {
+          "correctIndex": 0,
+          "explanation": "Simple Present is used for habits and routines.",
+          "options": [
+            "Simple Present",
+            "Simple Past",
+            "Present Continuous",
+            "Future Tense"
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks72w7bx90vyjngy3dv3kkn4ns803jr5",
+        "order": 29,
+        "question": "Which tense is used for daily routines?",
+        "questionCode": "622998",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770662619880
+      },
+      {
+        "_creationTime": 1770662619879.9194,
+        "_id": "kn74c3pavgz8d925nfnz6v45g980vtzv",
+        "createdAt": 1770662619880,
+        "data": {
+          "correctWords": [
+            "goes"
+          ],
+          "selectMode": "single",
+          "statement": "She goes to school every day."
+        },
+        "difficultyName": "easy",
+        "levelId": "ks72w7bx90vyjngy3dv3kkn4ns803jr5",
+        "order": 30,
+        "question": "Select the correct tense verb.",
+        "questionCode": "666092",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770662619880
+      }
+    ],
+    "hard": [
+      {
+        "_creationTime": 1770662619879.927,
+        "_id": "kn73bvrxx6bsftsqtee9x41chh80t5r3",
+        "createdAt": 1770662619880,
+        "data": {
+          "correctIndex": 1,
+          "explanation": "Present Perfect cannot be used with definite past time expressions like yesterday or last night.",
+          "options": [
+            "I have completed the work yesterday.",
+            "She has already finished the task.",
+            "They have gone last night.",
+            "He has arrived at 6 o’clock."
+          ]
+        },
+        "difficultyName": "hard",
+        "levelId": "ks72w7bx90vyjngy3dv3kkn4ns803jr5",
+        "order": 1,
+        "question": "Which sentence correctly uses Present Perfect without a time marker?",
+        "questionCode": "719051",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770662619880
+      },
+      {
+        "_creationTime": 1770662619879.9272,
+        "_id": "kn7fyw531kyr8djpgtj3cf3wad80vqmt",
+        "createdAt": 1770662619880,
+        "data": {
+          "correctWords": [
+            "have never seen"
+          ],
+          "selectMode": "single",
+          "statement": "We have never seen such a beautiful sunset."
+        },
+        "difficultyName": "hard",
+        "levelId": "ks72w7bx90vyjngy3dv3kkn4ns803jr5",
+        "order": 2,
+        "question": "Select the correct verb phrase.",
+        "questionCode": "707792",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770662619880
+      },
+      {
+        "_creationTime": 1770662619879.9275,
+        "_id": "kn70zytnjket6hexgfdrvt3g8h80ts7z",
+        "createdAt": 1770662619880,
+        "data": {
+          "correctIndex": 2,
+          "explanation": "The longer background action uses Past Continuous; the interrupting action uses Simple Past.",
+          "options": [
+            "She was writing when the teacher enters.",
+            "She wrote when the teacher was entering.",
+            "She was writing when the teacher entered.",
+            "She is writing when the teacher entered."
+          ]
+        },
+        "difficultyName": "hard",
+        "levelId": "ks72w7bx90vyjngy3dv3kkn4ns803jr5",
+        "order": 3,
+        "question": "Which sentence correctly combines Past Continuous and Simple Past?",
+        "questionCode": "648562",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770662619880
+      },
+      {
+        "_creationTime": 1770662619879.9277,
+        "_id": "kn7c82s24qasvfw0g03870hwv580vbvs",
+        "createdAt": 1770662619880,
+        "data": {
+          "correctWords": [
+            "were playing"
+          ],
+          "selectMode": "single",
+          "statement": "The children were playing when it started to rain."
+        },
+        "difficultyName": "hard",
+        "levelId": "ks72w7bx90vyjngy3dv3kkn4ns803jr5",
+        "order": 4,
+        "question": "Select the verb showing the background past action.",
+        "questionCode": "725129",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770662619880
+      },
+      {
+        "_creationTime": 1770662619879.928,
+        "_id": "kn7dkcxahppf9271pz2nhmxmyd80trgz",
+        "createdAt": 1770662619880,
+        "data": {
+          "correctIndex": 2,
+          "explanation": "Simple Present is used for fixed schedules and timetables.",
+          "options": [
+            "I will leave tomorrow.",
+            "I am leaving tomorrow.",
+            "The train leaves at 6 a.m. tomorrow.",
+            "The train is leaving yesterday."
+          ]
+        },
+        "difficultyName": "hard",
+        "levelId": "ks72w7bx90vyjngy3dv3kkn4ns803jr5",
+        "order": 5,
+        "question": "Which sentence uses Simple Present to express future time?",
+        "questionCode": "461432",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770662619880
+      },
+      {
+        "_creationTime": 1770662619879.9282,
+        "_id": "kn7fxa5z1hv32wv208xw517cfs80t8hn",
+        "createdAt": 1770662619880,
+        "data": {
+          "correctWords": [
+            "departs"
+          ],
+          "selectMode": "single",
+          "statement": "The flight departs at midnight."
+        },
+        "difficultyName": "hard",
+        "levelId": "ks72w7bx90vyjngy3dv3kkn4ns803jr5",
+        "order": 6,
+        "question": "Select the verb expressing scheduled future action.",
+        "questionCode": "592813",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770662619880
+      },
+      {
+        "_creationTime": 1770662619879.9285,
+        "_id": "kn70xqrqyjx6vkgj2tfv98yecx80v23e",
+        "createdAt": 1770662619880,
+        "data": {
+          "correctIndex": 2,
+          "explanation": "‘Will’ must be followed by the base verb, not 'has'.",
+          "options": [
+            "He has lived here for ten years.",
+            "They were studying when I called.",
+            "She will has completed the work.",
+            "Water boils at 100°C."
+          ]
+        },
+        "difficultyName": "hard",
+        "levelId": "ks72w7bx90vyjngy3dv3kkn4ns803jr5",
+        "order": 7,
+        "question": "Which sentence is grammatically incorrect?",
+        "questionCode": "125308",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770662619880
+      },
+      {
+        "_creationTime": 1770662619879.9287,
+        "_id": "kn72gcjac2zk4ma80q2q8rqf5d80v43n",
+        "createdAt": 1770662619880,
+        "data": {
+          "correctWords": [
+            "will has finished"
+          ],
+          "selectMode": "single",
+          "statement": "She will has finished the assignment."
+        },
+        "difficultyName": "hard",
+        "levelId": "ks72w7bx90vyjngy3dv3kkn4ns803jr5",
+        "order": 8,
+        "question": "Select the incorrect verb phrase.",
+        "questionCode": "352550",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770662619880
+      },
+      {
+        "_creationTime": 1770662619879.929,
+        "_id": "kn7afeg95fmbe6bhvzweya5dsh80tvej",
+        "createdAt": 1770662619880,
+        "data": {
+          "correctIndex": 1,
+          "explanation": "Past Continuous fits because the action was ongoing when another past action happened.",
+          "options": [
+            "eat",
+            "were eating",
+            "have eaten",
+            "will eat"
+          ]
+        },
+        "difficultyName": "hard",
+        "levelId": "ks72w7bx90vyjngy3dv3kkn4ns803jr5",
+        "order": 9,
+        "question": "Which tense best fits: 'By the time he arrived, we ___ dinner.'",
+        "questionCode": "623895",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770662619880
+      },
+      {
+        "_creationTime": 1770662619879.9292,
+        "_id": "kn738jy6dcb8e53bqcsy99er0n80tt3a",
+        "createdAt": 1770662619880,
+        "data": {
+          "correctWords": [
+            "were watching"
+          ],
+          "selectMode": "single",
+          "statement": "By 8 p.m., they were watching the match."
+        },
+        "difficultyName": "hard",
+        "levelId": "ks72w7bx90vyjngy3dv3kkn4ns803jr5",
+        "order": 10,
+        "question": "Select the correct tense verb.",
+        "questionCode": "446485",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770662619880
+      },
+      {
+        "_creationTime": 1770662619879.9294,
+        "_id": "kn7d8tykvx0pts88pfcp9sf8k980var2",
+        "createdAt": 1770662619880,
+        "data": {
+          "correctIndex": 2,
+          "explanation": "Present Perfect focuses on result or experience, not time.",
+          "options": [
+            "Simple Past",
+            "Past Continuous",
+            "Present Perfect",
+            "Simple Future"
+          ]
+        },
+        "difficultyName": "hard",
+        "levelId": "ks72w7bx90vyjngy3dv3kkn4ns803jr5",
+        "order": 11,
+        "question": "Which tense avoids mentioning exact past time?",
+        "questionCode": "207638",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770662619880
+      },
+      {
+        "_creationTime": 1770662619879.9297,
+        "_id": "kn76awsenw708m9aq9vt783hjs80t1at",
+        "createdAt": 1770662619880,
+        "data": {
+          "correctWords": [
+            "has broken"
+          ],
+          "selectMode": "single",
+          "statement": "He has broken his leg."
+        },
+        "difficultyName": "hard",
+        "levelId": "ks72w7bx90vyjngy3dv3kkn4ns803jr5",
+        "order": 12,
+        "question": "Select the verb phrase showing present result.",
+        "questionCode": "209383",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770662619880
+      },
+      {
+        "_creationTime": 1770662619879.93,
+        "_id": "kn76782yzr3x3b057wj1g9h7ps80vbnk",
+        "createdAt": 1770662619880,
+        "data": {
+          "correctIndex": 2,
+          "explanation": "Present Perfect focuses on result or experience, not time.",
+          "options": [
+            "Simple Past",
+            "Past Continuous",
+            "Present Perfect",
+            "Simple Future"
+          ]
+        },
+        "difficultyName": "hard",
+        "levelId": "ks72w7bx90vyjngy3dv3kkn4ns803jr5",
+        "order": 13,
+        "question": "Which tense avoids mentioning exact past time?",
+        "questionCode": "445902",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770662619880
+      },
+      {
+        "_creationTime": 1770662619879.9302,
+        "_id": "kn77hb0z53scg0fk2jfx5k96w980veyw",
+        "createdAt": 1770662619880,
+        "data": {
+          "correctWords": [
+            "has broken"
+          ],
+          "selectMode": "single",
+          "statement": "He has broken his leg."
+        },
+        "difficultyName": "hard",
+        "levelId": "ks72w7bx90vyjngy3dv3kkn4ns803jr5",
+        "order": 14,
+        "question": "Select the verb phrase showing present result.",
+        "questionCode": "732591",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770662619880
+      },
+      {
+        "_creationTime": 1770662619879.9304,
+        "_id": "kn72hjk8mepp3ww65d9yxgzrt980vh83",
+        "createdAt": 1770662619880,
+        "data": {
+          "correctIndex": 2,
+          "explanation": "Present Perfect focuses on result or experience, not time.",
+          "options": [
+            "Simple Past",
+            "Past Continuous",
+            "Present Perfect",
+            "Simple Future"
+          ]
+        },
+        "difficultyName": "hard",
+        "levelId": "ks72w7bx90vyjngy3dv3kkn4ns803jr5",
+        "order": 15,
+        "question": "Which tense avoids mentioning exact past time?",
+        "questionCode": "220376",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770662619880
+      },
+      {
+        "_creationTime": 1770662619879.9307,
+        "_id": "kn7erhch617vf73gdfbth80w6x80ta85",
+        "createdAt": 1770662619880,
+        "data": {
+          "correctWords": [
+            "has broken"
+          ],
+          "selectMode": "single",
+          "statement": "He has broken his leg."
+        },
+        "difficultyName": "hard",
+        "levelId": "ks72w7bx90vyjngy3dv3kkn4ns803jr5",
+        "order": 16,
+        "question": "Select the verb phrase showing present result.",
+        "questionCode": "156486",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770662619880
+      },
+      {
+        "_creationTime": 1770662619879.931,
+        "_id": "kn7btm1kejwe943y5qs0xmaan180v5gw",
+        "createdAt": 1770662619880,
+        "data": {
+          "correctIndex": 2,
+          "explanation": "Present Perfect focuses on result or experience, not time.",
+          "options": [
+            "Simple Past",
+            "Past Continuous",
+            "Present Perfect",
+            "Simple Future"
+          ]
+        },
+        "difficultyName": "hard",
+        "levelId": "ks72w7bx90vyjngy3dv3kkn4ns803jr5",
+        "order": 17,
+        "question": "Which tense avoids mentioning exact past time?",
+        "questionCode": "652051",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770662619880
+      },
+      {
+        "_creationTime": 1770662619879.9312,
+        "_id": "kn7b0e6f5cxssg7b4jbwz8zm4180vvb3",
+        "createdAt": 1770662619880,
+        "data": {
+          "correctWords": [
+            "has broken"
+          ],
+          "selectMode": "single",
+          "statement": "He has broken his leg."
+        },
+        "difficultyName": "hard",
+        "levelId": "ks72w7bx90vyjngy3dv3kkn4ns803jr5",
+        "order": 18,
+        "question": "Select the verb phrase showing present result.",
+        "questionCode": "393695",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770662619880
+      },
+      {
+        "_creationTime": 1770662619879.9314,
+        "_id": "kn7ftw4219c2vpne9ht6yeyqrn80tn4c",
+        "createdAt": 1770662619880,
+        "data": {
+          "correctIndex": 2,
+          "explanation": "Present Perfect focuses on result or experience, not time.",
+          "options": [
+            "Simple Past",
+            "Past Continuous",
+            "Present Perfect",
+            "Simple Future"
+          ]
+        },
+        "difficultyName": "hard",
+        "levelId": "ks72w7bx90vyjngy3dv3kkn4ns803jr5",
+        "order": 19,
+        "question": "Which tense avoids mentioning exact past time?",
+        "questionCode": "689318",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770662619880
+      },
+      {
+        "_creationTime": 1770662619879.9316,
+        "_id": "kn7fa33yy986efse419xhv75ss80vht7",
+        "createdAt": 1770662619880,
+        "data": {
+          "correctWords": [
+            "has broken"
+          ],
+          "selectMode": "single",
+          "statement": "He has broken his leg."
+        },
+        "difficultyName": "hard",
+        "levelId": "ks72w7bx90vyjngy3dv3kkn4ns803jr5",
+        "order": 20,
+        "question": "Select the verb phrase showing present result.",
+        "questionCode": "496759",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770662619880
+      },
+      {
+        "_creationTime": 1770662619879.932,
+        "_id": "kn7ehwr663tay9d9jwvkgcqn7h80tcy9",
+        "createdAt": 1770662619880,
+        "data": {
+          "correctIndex": 2,
+          "explanation": "Present Perfect focuses on result or experience, not time.",
+          "options": [
+            "Simple Past",
+            "Past Continuous",
+            "Present Perfect",
+            "Simple Future"
+          ]
+        },
+        "difficultyName": "hard",
+        "levelId": "ks72w7bx90vyjngy3dv3kkn4ns803jr5",
+        "order": 21,
+        "question": "Which tense avoids mentioning exact past time?",
+        "questionCode": "155217",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770662619880
+      },
+      {
+        "_creationTime": 1770662619879.9321,
+        "_id": "kn7fzr2b4aev293wbc1ke0p7q580v68c",
+        "createdAt": 1770662619880,
+        "data": {
+          "correctWords": [
+            "has broken"
+          ],
+          "selectMode": "single",
+          "statement": "He has broken his leg."
+        },
+        "difficultyName": "hard",
+        "levelId": "ks72w7bx90vyjngy3dv3kkn4ns803jr5",
+        "order": 22,
+        "question": "Select the verb phrase showing present result.",
+        "questionCode": "477548",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770662619880
+      },
+      {
+        "_creationTime": 1770662619879.9324,
+        "_id": "kn795md61h3ffd9cbt66n3s3ws80tsy0",
+        "createdAt": 1770662619880,
+        "data": {
+          "correctIndex": 2,
+          "explanation": "Present Perfect focuses on result or experience, not time.",
+          "options": [
+            "Simple Past",
+            "Past Continuous",
+            "Present Perfect",
+            "Simple Future"
+          ]
+        },
+        "difficultyName": "hard",
+        "levelId": "ks72w7bx90vyjngy3dv3kkn4ns803jr5",
+        "order": 23,
+        "question": "Which tense avoids mentioning exact past time?",
+        "questionCode": "217136",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770662619880
+      },
+      {
+        "_creationTime": 1770662619879.9326,
+        "_id": "kn764rdxn58184z1gt9vb5396980vhkk",
+        "createdAt": 1770662619880,
+        "data": {
+          "correctWords": [
+            "has broken"
+          ],
+          "selectMode": "single",
+          "statement": "He has broken his leg."
+        },
+        "difficultyName": "hard",
+        "levelId": "ks72w7bx90vyjngy3dv3kkn4ns803jr5",
+        "order": 24,
+        "question": "Select the verb phrase showing present result.",
+        "questionCode": "748890",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770662619880
+      },
+      {
+        "_creationTime": 1770662619879.9329,
+        "_id": "kn744r2kv4wwy6b4chz7tr3w9x80t9c0",
+        "createdAt": 1770662619880,
+        "data": {
+          "correctIndex": 2,
+          "explanation": "Present Perfect focuses on result or experience, not time.",
+          "options": [
+            "Simple Past",
+            "Past Continuous",
+            "Present Perfect",
+            "Simple Future"
+          ]
+        },
+        "difficultyName": "hard",
+        "levelId": "ks72w7bx90vyjngy3dv3kkn4ns803jr5",
+        "order": 25,
+        "question": "Which tense avoids mentioning exact past time?",
+        "questionCode": "768279",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770662619880
+      },
+      {
+        "_creationTime": 1770662619879.933,
+        "_id": "kn73jdsanz4seneqrsd8fekb6580t6jr",
+        "createdAt": 1770662619880,
+        "data": {
+          "correctWords": [
+            "has broken"
+          ],
+          "selectMode": "single",
+          "statement": "He has broken his leg."
+        },
+        "difficultyName": "hard",
+        "levelId": "ks72w7bx90vyjngy3dv3kkn4ns803jr5",
+        "order": 26,
+        "question": "Select the verb phrase showing present result.",
+        "questionCode": "710991",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770662619880
+      },
+      {
+        "_creationTime": 1770662619879.9333,
+        "_id": "kn71v7fbw63sc8vx2b61end36h80vb1q",
+        "createdAt": 1770662619880,
+        "data": {
+          "correctIndex": 2,
+          "explanation": "Present Perfect focuses on result or experience, not time.",
+          "options": [
+            "Simple Past",
+            "Past Continuous",
+            "Present Perfect",
+            "Simple Future"
+          ]
+        },
+        "difficultyName": "hard",
+        "levelId": "ks72w7bx90vyjngy3dv3kkn4ns803jr5",
+        "order": 27,
+        "question": "Which tense avoids mentioning exact past time?",
+        "questionCode": "170642",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770662619880
+      },
+      {
+        "_creationTime": 1770662619879.9336,
+        "_id": "kn7ahjssmpvshe4ny0gajxcxh980v2g3",
+        "createdAt": 1770662619880,
+        "data": {
+          "correctWords": [
+            "has broken"
+          ],
+          "selectMode": "single",
+          "statement": "He has broken his leg."
+        },
+        "difficultyName": "hard",
+        "levelId": "ks72w7bx90vyjngy3dv3kkn4ns803jr5",
+        "order": 28,
+        "question": "Select the verb phrase showing present result.",
+        "questionCode": "836808",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770662619880
+      },
+      {
+        "_creationTime": 1770662619879.9338,
+        "_id": "kn787cqvbxsjt5e3sj466kracn80vh2w",
+        "createdAt": 1770662619880,
+        "data": {
+          "correctIndex": 2,
+          "explanation": "Present Perfect focuses on result or experience, not time.",
+          "options": [
+            "Simple Past",
+            "Past Continuous",
+            "Present Perfect",
+            "Simple Future"
+          ]
+        },
+        "difficultyName": "hard",
+        "levelId": "ks72w7bx90vyjngy3dv3kkn4ns803jr5",
+        "order": 29,
+        "question": "Which tense avoids mentioning exact past time?",
+        "questionCode": "747143",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770662619880
+      },
+      {
+        "_creationTime": 1770662619879.934,
+        "_id": "kn784q9817p2rj6164ws3fwm7s80t1fc",
+        "createdAt": 1770662619880,
+        "data": {
+          "correctWords": [
+            "has broken"
+          ],
+          "selectMode": "single",
+          "statement": "He has broken his leg."
+        },
+        "difficultyName": "hard",
+        "levelId": "ks72w7bx90vyjngy3dv3kkn4ns803jr5",
+        "order": 30,
+        "question": "Select the verb phrase showing present result.",
+        "questionCode": "110962",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770662619880
+      }
+    ],
+    "medium": [
+      {
+        "_creationTime": 1770662619879.9197,
+        "_id": "kn74vgt0sqbg4h2k22k09bx1n180v1yh",
+        "createdAt": 1770662619880,
+        "data": {
+          "correctIndex": 1,
+          "explanation": "Present Perfect is used when the time is not mentioned and the result is important.",
+          "options": [
+            "I have met him yesterday.",
+            "She has finished her work.",
+            "They finished their work now.",
+            "He was finishing his work."
+          ]
+        },
+        "difficultyName": "medium",
+        "levelId": "ks72w7bx90vyjngy3dv3kkn4ns803jr5",
+        "order": 1,
+        "question": "Which sentence correctly uses the Present Perfect Tense?",
+        "questionCode": "900431",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770662619880
+      },
+      {
+        "_creationTime": 1770662619879.92,
+        "_id": "kn72fvvxqe1xp12a96ghtrezc580vtpv",
+        "createdAt": 1770662619880,
+        "data": {
+          "correctWords": [
+            "has left"
+          ],
+          "selectMode": "single",
+          "statement": "The train has already left the station."
+        },
+        "difficultyName": "medium",
+        "levelId": "ks72w7bx90vyjngy3dv3kkn4ns803jr5",
+        "order": 2,
+        "question": "Select the correct tense verb.",
+        "questionCode": "491316",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770662619880
+      },
+      {
+        "_creationTime": 1770662619879.9202,
+        "_id": "kn7cmnbp515w9jypqjcdxx2gq980vsee",
+        "createdAt": 1770662619880,
+        "data": {
+          "correctIndex": 2,
+          "explanation": "Past Continuous describes actions happening at a particular time in the past.",
+          "options": [
+            "I eat breakfast every day.",
+            "She is reading now.",
+            "They were watching TV at 8 p.m.",
+            "He will travel tomorrow."
+          ]
+        },
+        "difficultyName": "medium",
+        "levelId": "ks72w7bx90vyjngy3dv3kkn4ns803jr5",
+        "order": 3,
+        "question": "Which sentence shows an action happening at a specific time in the past?",
+        "questionCode": "727674",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770662619880
+      },
+      {
+        "_creationTime": 1770662619879.9204,
+        "_id": "kn7awx1hckbzas2wprqvb04gz980tbzq",
+        "createdAt": 1770662619880,
+        "data": {
+          "correctWords": [
+            "were studying"
+          ],
+          "selectMode": "single",
+          "statement": "We were studying when the lights went out."
+        },
+        "difficultyName": "medium",
+        "levelId": "ks72w7bx90vyjngy3dv3kkn4ns803jr5",
+        "order": 4,
+        "question": "Select the Past Continuous verb phrase.",
+        "questionCode": "463394",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770662619880
+      },
+      {
+        "_creationTime": 1770662619879.9207,
+        "_id": "kn747mmg5fejdhr2zmqxnvt9nd80vkb5",
+        "createdAt": 1770662619880,
+        "data": {
+          "correctIndex": 2,
+          "explanation": "Simple Future uses 'will' with the base form of the verb.",
+          "options": [
+            "She will goes to school tomorrow.",
+            "They are play tomorrow.",
+            "I will call you later.",
+            "He calling you later."
+          ]
+        },
+        "difficultyName": "medium",
+        "levelId": "ks72w7bx90vyjngy3dv3kkn4ns803jr5",
+        "order": 5,
+        "question": "Which sentence uses Simple Future correctly?",
+        "questionCode": "210555",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770662619880
+      },
+      {
+        "_creationTime": 1770662619879.921,
+        "_id": "kn79es7ygpf2903ax9s377w4yd80t5s8",
+        "createdAt": 1770662619880,
+        "data": {
+          "correctWords": [
+            "will complete"
+          ],
+          "selectMode": "single",
+          "statement": "I will complete the project next week."
+        },
+        "difficultyName": "medium",
+        "levelId": "ks72w7bx90vyjngy3dv3kkn4ns803jr5",
+        "order": 6,
+        "question": "Select the future tense verb phrase.",
+        "questionCode": "513477",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770662619880
+      },
+      {
+        "_creationTime": 1770662619879.9211,
+        "_id": "kn7bvq01kea01gxqwv337kmrpx80v1yt",
+        "createdAt": 1770662619880,
+        "data": {
+          "correctIndex": 2,
+          "explanation": "‘Are living’ is Present Continuous, not Simple Present.",
+          "options": [
+            "Water boils at 100°C.",
+            "She teaches English.",
+            "They are living in Delhi.",
+            "The sun sets in the west."
+          ]
+        },
+        "difficultyName": "medium",
+        "levelId": "ks72w7bx90vyjngy3dv3kkn4ns803jr5",
+        "order": 7,
+        "question": "Which sentence is NOT in Simple Present Tense?",
+        "questionCode": "698630",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770662619880
+      },
+      {
+        "_creationTime": 1770662619879.9214,
+        "_id": "kn77zhk8pp1zc648d15cybxz4h80tnhh",
+        "createdAt": 1770662619880,
+        "data": {
+          "correctWords": [
+            "drives"
+          ],
+          "selectMode": "single",
+          "statement": "My brother drives a truck."
+        },
+        "difficultyName": "medium",
+        "levelId": "ks72w7bx90vyjngy3dv3kkn4ns803jr5",
+        "order": 8,
+        "question": "Select the Simple Present verb.",
+        "questionCode": "123779",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770662619880
+      },
+      {
+        "_creationTime": 1770662619879.9216,
+        "_id": "kn7a7vhyjqd6xyf53mqdbk67fn80t0kc",
+        "createdAt": 1770662619880,
+        "data": {
+          "correctIndex": 2,
+          "explanation": "Past Continuous is used for the longer action; Simple Past for the shorter action.",
+          "options": [
+            "I was sleeping when the phone rings.",
+            "I slept when the phone was ringing.",
+            "I was sleeping when the phone rang.",
+            "I am sleeping when the phone rang."
+          ]
+        },
+        "difficultyName": "medium",
+        "levelId": "ks72w7bx90vyjngy3dv3kkn4ns803jr5",
+        "order": 9,
+        "question": "Which sentence correctly mixes Past Continuous and Simple Past?",
+        "questionCode": "615843",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770662619880
+      },
+      {
+        "_creationTime": 1770662619879.9219,
+        "_id": "kn71nsxxf95j9df2qb6dmq1das80vhdc",
+        "createdAt": 1770662619880,
+        "data": {
+          "correctWords": [
+            "was cooking"
+          ],
+          "selectMode": "single",
+          "statement": "She was cooking when the guests arrived."
+        },
+        "difficultyName": "medium",
+        "levelId": "ks72w7bx90vyjngy3dv3kkn4ns803jr5",
+        "order": 10,
+        "question": "Select the correct tense verb.",
+        "questionCode": "846357",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770662619880
+      },
+      {
+        "_creationTime": 1770662619879.922,
+        "_id": "kn7169fx9whcn0ke0sde9jhfx180vkdn",
+        "createdAt": 1770662619880,
+        "data": {
+          "correctIndex": 2,
+          "explanation": "Present Perfect links a past action to a present result.",
+          "options": [
+            "Simple Past",
+            "Present Continuous",
+            "Present Perfect",
+            "Simple Future"
+          ]
+        },
+        "difficultyName": "medium",
+        "levelId": "ks72w7bx90vyjngy3dv3kkn4ns803jr5",
+        "order": 11,
+        "question": "Which tense is used for actions with results in the present?",
+        "questionCode": "781127",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770662619880
+      },
+      {
+        "_creationTime": 1770662619879.9224,
+        "_id": "kn7a8g8wa7gspwmr7h0ajvm2s980vzxw",
+        "createdAt": 1770662619880,
+        "data": {
+          "correctWords": [
+            "have cleaned"
+          ],
+          "selectMode": "single",
+          "statement": "They have cleaned the room."
+        },
+        "difficultyName": "medium",
+        "levelId": "ks72w7bx90vyjngy3dv3kkn4ns803jr5",
+        "order": 12,
+        "question": "Select the correct verb phrase.",
+        "questionCode": "831620",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770662619880
+      },
+      {
+        "_creationTime": 1770662619879.9226,
+        "_id": "kn72g9p6n21csets83xzxd9ke180vxxw",
+        "createdAt": 1770662619880,
+        "data": {
+          "correctIndex": 2,
+          "explanation": "Present Perfect links a past action to a present result.",
+          "options": [
+            "Simple Past",
+            "Present Continuous",
+            "Present Perfect",
+            "Simple Future"
+          ]
+        },
+        "difficultyName": "medium",
+        "levelId": "ks72w7bx90vyjngy3dv3kkn4ns803jr5",
+        "order": 13,
+        "question": "Which tense is used for actions with results in the present?",
+        "questionCode": "922314",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770662619880
+      },
+      {
+        "_creationTime": 1770662619879.9229,
+        "_id": "kn7a76fkxnxs1z387gh7209xn180v21r",
+        "createdAt": 1770662619880,
+        "data": {
+          "correctWords": [
+            "have cleaned"
+          ],
+          "selectMode": "single",
+          "statement": "They have cleaned the room."
+        },
+        "difficultyName": "medium",
+        "levelId": "ks72w7bx90vyjngy3dv3kkn4ns803jr5",
+        "order": 14,
+        "question": "Select the correct verb phrase.",
+        "questionCode": "910796",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770662619880
+      },
+      {
+        "_creationTime": 1770662619879.923,
+        "_id": "kn758r57yhrye0smm9pt99c8qx80vhff",
+        "createdAt": 1770662619880,
+        "data": {
+          "correctIndex": 2,
+          "explanation": "Present Perfect links a past action to a present result.",
+          "options": [
+            "Simple Past",
+            "Present Continuous",
+            "Present Perfect",
+            "Simple Future"
+          ]
+        },
+        "difficultyName": "medium",
+        "levelId": "ks72w7bx90vyjngy3dv3kkn4ns803jr5",
+        "order": 15,
+        "question": "Which tense is used for actions with results in the present?",
+        "questionCode": "352928",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770662619880
+      },
+      {
+        "_creationTime": 1770662619879.9233,
+        "_id": "kn7bzymhvxyv395f3sahfe7qgn80vc4j",
+        "createdAt": 1770662619880,
+        "data": {
+          "correctWords": [
+            "have cleaned"
+          ],
+          "selectMode": "single",
+          "statement": "They have cleaned the room."
+        },
+        "difficultyName": "medium",
+        "levelId": "ks72w7bx90vyjngy3dv3kkn4ns803jr5",
+        "order": 16,
+        "question": "Select the correct verb phrase.",
+        "questionCode": "587565",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770662619880
+      },
+      {
+        "_creationTime": 1770662619879.9236,
+        "_id": "kn7evtt9fq34zrxy3w9s8knrsx80tdyj",
+        "createdAt": 1770662619880,
+        "data": {
+          "correctIndex": 2,
+          "explanation": "Present Perfect links a past action to a present result.",
+          "options": [
+            "Simple Past",
+            "Present Continuous",
+            "Present Perfect",
+            "Simple Future"
+          ]
+        },
+        "difficultyName": "medium",
+        "levelId": "ks72w7bx90vyjngy3dv3kkn4ns803jr5",
+        "order": 17,
+        "question": "Which tense is used for actions with results in the present?",
+        "questionCode": "510683",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770662619880
+      },
+      {
+        "_creationTime": 1770662619879.9238,
+        "_id": "kn7br2w7jxpqj84rdvfj1j2tbd80vdf8",
+        "createdAt": 1770662619880,
+        "data": {
+          "correctWords": [
+            "have cleaned"
+          ],
+          "selectMode": "single",
+          "statement": "They have cleaned the room."
+        },
+        "difficultyName": "medium",
+        "levelId": "ks72w7bx90vyjngy3dv3kkn4ns803jr5",
+        "order": 18,
+        "question": "Select the correct verb phrase.",
+        "questionCode": "111421",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770662619880
+      },
+      {
+        "_creationTime": 1770662619879.924,
+        "_id": "kn7d5tmbwwkd0w72jq7w0mw6ex80tcg7",
+        "createdAt": 1770662619880,
+        "data": {
+          "correctIndex": 2,
+          "explanation": "Present Perfect links a past action to a present result.",
+          "options": [
+            "Simple Past",
+            "Present Continuous",
+            "Present Perfect",
+            "Simple Future"
+          ]
+        },
+        "difficultyName": "medium",
+        "levelId": "ks72w7bx90vyjngy3dv3kkn4ns803jr5",
+        "order": 19,
+        "question": "Which tense is used for actions with results in the present?",
+        "questionCode": "327919",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770662619880
+      },
+      {
+        "_creationTime": 1770662619879.9243,
+        "_id": "kn76a1yes1w2tbak5fx792hjk980tqkm",
+        "createdAt": 1770662619880,
+        "data": {
+          "correctWords": [
+            "have cleaned"
+          ],
+          "selectMode": "single",
+          "statement": "They have cleaned the room."
+        },
+        "difficultyName": "medium",
+        "levelId": "ks72w7bx90vyjngy3dv3kkn4ns803jr5",
+        "order": 20,
+        "question": "Select the correct verb phrase.",
+        "questionCode": "685558",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770662619880
+      },
+      {
+        "_creationTime": 1770662619879.9246,
+        "_id": "kn72erh3ac3z8s47f9a5x436b580va3e",
+        "createdAt": 1770662619880,
+        "data": {
+          "correctIndex": 2,
+          "explanation": "Present Perfect links a past action to a present result.",
+          "options": [
+            "Simple Past",
+            "Present Continuous",
+            "Present Perfect",
+            "Simple Future"
+          ]
+        },
+        "difficultyName": "medium",
+        "levelId": "ks72w7bx90vyjngy3dv3kkn4ns803jr5",
+        "order": 21,
+        "question": "Which tense is used for actions with results in the present?",
+        "questionCode": "552880",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770662619880
+      },
+      {
+        "_creationTime": 1770662619879.9248,
+        "_id": "kn7b0m3swzrjdt0097gb93cxns80tq6b",
+        "createdAt": 1770662619880,
+        "data": {
+          "correctWords": [
+            "have cleaned"
+          ],
+          "selectMode": "single",
+          "statement": "They have cleaned the room."
+        },
+        "difficultyName": "medium",
+        "levelId": "ks72w7bx90vyjngy3dv3kkn4ns803jr5",
+        "order": 22,
+        "question": "Select the correct verb phrase.",
+        "questionCode": "605709",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770662619880
+      },
+      {
+        "_creationTime": 1770662619879.925,
+        "_id": "kn77cr1bqvhjxsyk28rtde869h80vhjr",
+        "createdAt": 1770662619880,
+        "data": {
+          "correctIndex": 2,
+          "explanation": "Present Perfect links a past action to a present result.",
+          "options": [
+            "Simple Past",
+            "Present Continuous",
+            "Present Perfect",
+            "Simple Future"
+          ]
+        },
+        "difficultyName": "medium",
+        "levelId": "ks72w7bx90vyjngy3dv3kkn4ns803jr5",
+        "order": 23,
+        "question": "Which tense is used for actions with results in the present?",
+        "questionCode": "749662",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770662619880
+      },
+      {
+        "_creationTime": 1770662619879.9253,
+        "_id": "kn77jf2n892x51c64cdh5tzak580tx3e",
+        "createdAt": 1770662619880,
+        "data": {
+          "correctWords": [
+            "have cleaned"
+          ],
+          "selectMode": "single",
+          "statement": "They have cleaned the room."
+        },
+        "difficultyName": "medium",
+        "levelId": "ks72w7bx90vyjngy3dv3kkn4ns803jr5",
+        "order": 24,
+        "question": "Select the correct verb phrase.",
+        "questionCode": "965635",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770662619880
+      },
+      {
+        "_creationTime": 1770662619879.9255,
+        "_id": "kn75ckfdye5tgmppxy04sb51a980v011",
+        "createdAt": 1770662619880,
+        "data": {
+          "correctIndex": 2,
+          "explanation": "Present Perfect links a past action to a present result.",
+          "options": [
+            "Simple Past",
+            "Present Continuous",
+            "Present Perfect",
+            "Simple Future"
+          ]
+        },
+        "difficultyName": "medium",
+        "levelId": "ks72w7bx90vyjngy3dv3kkn4ns803jr5",
+        "order": 25,
+        "question": "Which tense is used for actions with results in the present?",
+        "questionCode": "767979",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770662619880
+      },
+      {
+        "_creationTime": 1770662619879.9258,
+        "_id": "kn7d19vhnjc7rfex0hx4dypmr980tqp5",
+        "createdAt": 1770662619880,
+        "data": {
+          "correctWords": [
+            "have cleaned"
+          ],
+          "selectMode": "single",
+          "statement": "They have cleaned the room."
+        },
+        "difficultyName": "medium",
+        "levelId": "ks72w7bx90vyjngy3dv3kkn4ns803jr5",
+        "order": 26,
+        "question": "Select the correct verb phrase.",
+        "questionCode": "581865",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770662619880
+      },
+      {
+        "_creationTime": 1770662619879.926,
+        "_id": "kn73nhe7j3qqh8dyv7ndge19j580vwa3",
+        "createdAt": 1770662619880,
+        "data": {
+          "correctIndex": 2,
+          "explanation": "Present Perfect links a past action to a present result.",
+          "options": [
+            "Simple Past",
+            "Present Continuous",
+            "Present Perfect",
+            "Simple Future"
+          ]
+        },
+        "difficultyName": "medium",
+        "levelId": "ks72w7bx90vyjngy3dv3kkn4ns803jr5",
+        "order": 27,
+        "question": "Which tense is used for actions with results in the present?",
+        "questionCode": "619285",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770662619880
+      },
+      {
+        "_creationTime": 1770662619879.9263,
+        "_id": "kn7enmefn30973tv3d6r5x4ky980t6mx",
+        "createdAt": 1770662619880,
+        "data": {
+          "correctWords": [
+            "have cleaned"
+          ],
+          "selectMode": "single",
+          "statement": "They have cleaned the room."
+        },
+        "difficultyName": "medium",
+        "levelId": "ks72w7bx90vyjngy3dv3kkn4ns803jr5",
+        "order": 28,
+        "question": "Select the correct verb phrase.",
+        "questionCode": "998678",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770662619880
+      },
+      {
+        "_creationTime": 1770662619879.9265,
+        "_id": "kn78v70ybcp52krk6z9yhk8z3d80vgh3",
+        "createdAt": 1770662619880,
+        "data": {
+          "correctIndex": 2,
+          "explanation": "Present Perfect links a past action to a present result.",
+          "options": [
+            "Simple Past",
+            "Present Continuous",
+            "Present Perfect",
+            "Simple Future"
+          ]
+        },
+        "difficultyName": "medium",
+        "levelId": "ks72w7bx90vyjngy3dv3kkn4ns803jr5",
+        "order": 29,
+        "question": "Which tense is used for actions with results in the present?",
+        "questionCode": "366531",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770662619880
+      },
+      {
+        "_creationTime": 1770662619879.9268,
+        "_id": "kn7dt7hbg19mptwasz0mw71y5s80vsrq",
+        "createdAt": 1770662619880,
+        "data": {
+          "correctWords": [
+            "have cleaned"
+          ],
+          "selectMode": "single",
+          "statement": "They have cleaned the room."
+        },
+        "difficultyName": "medium",
+        "levelId": "ks72w7bx90vyjngy3dv3kkn4ns803jr5",
+        "order": 30,
+        "question": "Select the correct verb phrase.",
+        "questionCode": "370306",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770662619880
+      }
+    ]
+  }
+}

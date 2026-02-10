@@ -1,0 +1,1910 @@
+{
+  "levelId": "ks7d5gdwexpvznay9p5dndkcyd80td0b",
+  "version": 0,
+  "publishedAt": 1770756024769,
+  "questions": {
+    "easy": [
+      {
+        "_creationTime": 1770620520386.9324,
+        "_id": "kn79a98vqnavp0cz8h9t7tprt580tnxn",
+        "createdAt": 1770620520389,
+        "data": {
+          "correctWords": [
+            "a"
+          ],
+          "explanation": "Profession → a.",
+          "selectMode": "single",
+          "statement": "She is ( a / an / the / no article ) teacher."
+        },
+        "difficultyName": "easy",
+        "levelId": "ks7d5gdwexpvznay9p5dndkcyd80td0b",
+        "order": 1,
+        "question": "Select the correct article:",
+        "questionCode": "399754",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770620520389
+      },
+      {
+        "_creationTime": 1770620940802.7068,
+        "_id": "kn7b1rcj9p82ycdrme2f86sk9h80t5e3",
+        "createdAt": 1770620940804,
+        "data": {
+          "distractors": [
+            "a",
+            "the"
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks7d5gdwexpvznay9p5dndkcyd80td0b",
+        "order": 2,
+        "question": "He is {an} engineer.",
+        "questionCode": "754342",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1770620940804
+      },
+      {
+        "_creationTime": 1770620966544.252,
+        "_id": "kn7ce73a2sbtt8ccv2szdskh4580tnda",
+        "createdAt": 1770620966546,
+        "data": {
+          "distractors": [
+            "an",
+            "the"
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks7d5gdwexpvznay9p5dndkcyd80td0b",
+        "order": 3,
+        "question": "I saw {a} bird on the tree.",
+        "questionCode": "359986",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1770620966546
+      },
+      {
+        "_creationTime": 1770620203664.6548,
+        "_id": "kn708zq9abd8354tqna2dkbwbs80tv47",
+        "createdAt": 1770620203666,
+        "data": {
+          "correctIndex": 1,
+          "explanation": "Hour starts with a vowel sound, so an is used.",
+          "options": [
+            "a",
+            "an",
+            "the",
+            "no article"
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks7d5gdwexpvznay9p5dndkcyd80td0b",
+        "order": 4,
+        "question": "He waited for ___ hour before the train arrived.",
+        "questionCode": "117300",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770620203666
+      },
+      {
+        "_creationTime": 1770620559646.194,
+        "_id": "kn7cnafxrnp952v4athgvd1hw580tdq9",
+        "createdAt": 1770620559648,
+        "data": {
+          "correctWords": [
+            "an"
+          ],
+          "explanation": "Silent h.",
+          "selectMode": "single",
+          "statement": "He waited for a / an hour."
+        },
+        "difficultyName": "easy",
+        "levelId": "ks7d5gdwexpvznay9p5dndkcyd80td0b",
+        "order": 5,
+        "question": "Select the correct word:",
+        "questionCode": "284483",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770620559648
+      },
+      {
+        "_creationTime": 1770620599086.8118,
+        "_id": "kn75rg0zxanf7g8s3vq3k519q180t7j5",
+        "createdAt": 1770620599089,
+        "data": {
+          "correctWords": [
+            "The"
+          ],
+          "explanation": "Moon is unique.",
+          "selectMode": "single",
+          "statement": "( A / An / The ) moon looks beautiful tonight"
+        },
+        "difficultyName": "easy",
+        "levelId": "ks7d5gdwexpvznay9p5dndkcyd80td0b",
+        "order": 6,
+        "question": "Select the article used for unique objects:",
+        "questionCode": "445491",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770620599089
+      },
+      {
+        "_creationTime": 1770621005112.2112,
+        "_id": "kn7brtxc4262anhjf0hfffs7d980tna4",
+        "createdAt": 1770621005114,
+        "data": {
+          "distractors": [
+            "a",
+            "the"
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks7d5gdwexpvznay9p5dndkcyd80td0b",
+        "order": 7,
+        "question": "She waited for {an} hour.",
+        "questionCode": "289873",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1770621005114
+      },
+      {
+        "_creationTime": 1770621024819.4106,
+        "_id": "kn727hhjpszhwpzrjrchf8gsks80ta3y",
+        "createdAt": 1770621024821,
+        "data": {
+          "distractors": [
+            "A",
+            "An"
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks7d5gdwexpvznay9p5dndkcyd80td0b",
+        "order": 8,
+        "question": "{The} sun gives us heat.",
+        "questionCode": "397131",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1770621024821
+      },
+      {
+        "_creationTime": 1770620221498.245,
+        "_id": "kn73j3585pv53by9gcpb46rfn180t55z",
+        "createdAt": 1770620221500,
+        "data": {
+          "correctIndex": 0,
+          "explanation": "Professions use a/an.",
+          "options": [
+            "a",
+            "an",
+            "the",
+            "no article"
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks7d5gdwexpvznay9p5dndkcyd80td0b",
+        "order": 9,
+        "question": "My father is ___ doctor.",
+        "questionCode": "941591",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770620221500
+      },
+      {
+        "_creationTime": 1770621045686.073,
+        "_id": "kn70vg4jag121jtnfpvhxn07t580tez8",
+        "createdAt": 1770621045688,
+        "data": {
+          "distractors": [
+            "an",
+            "the"
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks7d5gdwexpvznay9p5dndkcyd80td0b",
+        "order": 10,
+        "question": "My aunt is {a} nurse.",
+        "questionCode": "702002",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1770621045688
+      },
+      {
+        "_creationTime": 1770620241818.9292,
+        "_id": "kn72c9vgr3g9c1h0tb79ct2h1s80tqq8",
+        "createdAt": 1770620241819,
+        "data": {
+          "correctIndex": 2,
+          "explanation": "Umbrella begins with a vowel sound.",
+          "options": [
+            "a",
+            "the",
+            "an",
+            "no article"
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks7d5gdwexpvznay9p5dndkcyd80td0b",
+        "order": 11,
+        "question": "She bought ___ umbrella from the shop.",
+        "questionCode": "319394",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770620241819
+      },
+      {
+        "_creationTime": 1770620679319.9326,
+        "_id": "kn7492ygr7hhs21z4ssjbsra8x80ts49",
+        "createdAt": 1770620679322,
+        "data": {
+          "correctWords": [
+            "an"
+          ],
+          "explanation": "Vowel sound.",
+          "selectMode": "single",
+          "statement": "She is ( a / an ) artist."
+        },
+        "difficultyName": "easy",
+        "levelId": "ks7d5gdwexpvznay9p5dndkcyd80td0b",
+        "order": 12,
+        "question": "Select the correct word from the sentence:",
+        "questionCode": "709486",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770620679322
+      },
+      {
+        "_creationTime": 1770621095566.1016,
+        "_id": "kn77q115c3dhy36q97xzscp57s80v7hc",
+        "createdAt": 1770621095568,
+        "data": {
+          "distractors": [
+            "a",
+            "the"
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks7d5gdwexpvznay9p5dndkcyd80td0b",
+        "order": 13,
+        "question": "He ate {an} apple.",
+        "questionCode": "996321",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1770621095568
+      },
+      {
+        "_creationTime": 1770621114323.3306,
+        "_id": "kn7190bf43794heds6ppypf9rs80vjwb",
+        "createdAt": 1770621114325,
+        "data": {
+          "distractors": [
+            "a",
+            "the"
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks7d5gdwexpvznay9p5dndkcyd80td0b",
+        "order": 14,
+        "question": "She bought {an} umbrella.",
+        "questionCode": "695849",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1770621114325
+      },
+      {
+        "_creationTime": 1770620626622.4072,
+        "_id": "kn72kj6mcqaa2p3rmx6y3dfhax80v2am",
+        "createdAt": 1770620626624,
+        "data": {
+          "correctWords": [
+            "a"
+          ],
+          "explanation": "Consonant sound.",
+          "selectMode": "single",
+          "statement": "He bought ( a / an / the ) pen."
+        },
+        "difficultyName": "easy",
+        "levelId": "ks7d5gdwexpvznay9p5dndkcyd80td0b",
+        "order": 15,
+        "question": "Select the correct article:",
+        "questionCode": "917258",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770620626624
+      },
+      {
+        "_creationTime": 1770620729479.4526,
+        "_id": "kn778frx9dvrfz9chk40eb5a3580vn6v",
+        "createdAt": 1770620729481,
+        "data": {
+          "correctWords": [
+            "a"
+          ],
+          "explanation": "First mention.",
+          "selectMode": "single",
+          "statement": "I saw ( a / an / the ) dog in the street."
+        },
+        "difficultyName": "easy",
+        "levelId": "ks7d5gdwexpvznay9p5dndkcyd80td0b",
+        "order": 16,
+        "question": "Select the correct article:",
+        "questionCode": "452971",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770620729481
+      },
+      {
+        "_creationTime": 1770620266025.115,
+        "_id": "kn717m4g9nt40773vy5xja7bz980t2we",
+        "createdAt": 1770620266027,
+        "data": {
+          "correctIndex": 2,
+          "explanation": "The sun is a unique object → the.",
+          "options": [
+            "A",
+            "An",
+            "The",
+            "No article"
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks7d5gdwexpvznay9p5dndkcyd80td0b",
+        "order": 17,
+        "question": "___ sun rises in the east.",
+        "questionCode": "230784",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770620266027
+      },
+      {
+        "_creationTime": 1770620295188.3662,
+        "_id": "kn752vdespn5mgnhvj3r1b8w2s80temc",
+        "createdAt": 1770620295191,
+        "data": {
+          "correctIndex": 1,
+          "explanation": "Elephant starts with a vowel sound.",
+          "options": [
+            "a",
+            "an",
+            "the",
+            "no article"
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks7d5gdwexpvznay9p5dndkcyd80td0b",
+        "order": 18,
+        "question": "I saw ___ elephant in the zoo.",
+        "questionCode": "920212",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770620295191
+      },
+      {
+        "_creationTime": 1770620760043.894,
+        "_id": "kn71fv686nrtwtmw31tqmd4mcs80v8m5",
+        "createdAt": 1770620760050,
+        "data": {
+          "correctWords": [
+            "a"
+          ],
+          "explanation": "Singular descriptive noun.",
+          "selectMode": "single",
+          "statement": "He is ( a / an / the ) clever boy."
+        },
+        "difficultyName": "easy",
+        "levelId": "ks7d5gdwexpvznay9p5dndkcyd80td0b",
+        "order": 19,
+        "question": "Choose the correct option:",
+        "questionCode": "779432",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770620760050
+      },
+      {
+        "_creationTime": 1770621132887.1936,
+        "_id": "kn7bny8g50316h3pqwxt8gr5kh80v24f",
+        "createdAt": 1770621132889,
+        "data": {
+          "distractors": [
+            "a",
+            "the"
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks7d5gdwexpvznay9p5dndkcyd80td0b",
+        "order": 20,
+        "question": "He is {an} honest boy.",
+        "questionCode": "823972",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1770621132889
+      },
+      {
+        "_creationTime": 1770620315272.5461,
+        "_id": "kn7ftf3tnch2tc80mqajp82qgx80vjck",
+        "createdAt": 1770620315274,
+        "data": {
+          "correctIndex": 1,
+          "explanation": "Silent h → vowel sound.",
+          "options": [
+            "a",
+            "an",
+            "the",
+            "no article"
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks7d5gdwexpvznay9p5dndkcyd80td0b",
+        "order": 21,
+        "question": "He is ___ honest man.",
+        "questionCode": "551811",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770620315274
+      },
+      {
+        "_creationTime": 1770620356081.5115,
+        "_id": "kn74wkn3btsaydxyjzr38t1b3x80va29",
+        "createdAt": 1770620356083,
+        "data": {
+          "correctIndex": 0,
+          "explanation": "First mention, singular countable noun.",
+          "options": [
+            "a",
+            "an",
+            "the",
+            "no article"
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks7d5gdwexpvznay9p5dndkcyd80td0b",
+        "order": 22,
+        "question": "She has ___ blue dress.",
+        "questionCode": "529564",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770620356083
+      },
+      {
+        "_creationTime": 1770620794320.9238,
+        "_id": "kn75n4hvbes8hg6f8ae8nn97w180vnyr",
+        "createdAt": 1770620794323,
+        "data": {
+          "correctWords": [
+            "an"
+          ],
+          "explanation": "Vowel sound.",
+          "selectMode": "single",
+          "statement": "She found ( a / an ) egg in the nest."
+        },
+        "difficultyName": "easy",
+        "levelId": "ks7d5gdwexpvznay9p5dndkcyd80td0b",
+        "order": 23,
+        "question": "Select the correct article:",
+        "questionCode": "252300",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770620794323
+      },
+      {
+        "_creationTime": 1770620377341.3186,
+        "_id": "kn72g1gt5wq5keegse06w2k9nd80v9jp",
+        "createdAt": 1770620377343,
+        "data": {
+          "correctIndex": 1,
+          "explanation": "Engineer begins with a vowel sound.",
+          "options": [
+            "a",
+            "an",
+            "the",
+            "no article"
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks7d5gdwexpvznay9p5dndkcyd80td0b",
+        "order": 24,
+        "question": "My uncle is ___ engineer.",
+        "questionCode": "767614",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770620377343
+      },
+      {
+        "_creationTime": 1770621155222.332,
+        "_id": "kn75sz0wft2q1vbv65qf2s324180t384",
+        "createdAt": 1770621155224,
+        "data": {
+          "distractors": [
+            "an",
+            "the"
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks7d5gdwexpvznay9p5dndkcyd80td0b",
+        "order": 25,
+        "question": "I saw {a} cat.",
+        "questionCode": "932754",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1770621155224
+      },
+      {
+        "_creationTime": 1770620823857.9238,
+        "_id": "kn798cmba84h8ycc6m7pxg6f7x80v393",
+        "createdAt": 1770620823859,
+        "data": {
+          "correctWords": [
+            "a"
+          ],
+          "explanation": "Consonant sound.",
+          "selectMode": "single",
+          "statement": "My brother is ( a / an ) pilot."
+        },
+        "difficultyName": "easy",
+        "levelId": "ks7d5gdwexpvznay9p5dndkcyd80td0b",
+        "order": 26,
+        "question": "Select the correct word:",
+        "questionCode": "230503",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770620823859
+      },
+      {
+        "_creationTime": 1770620406043.9949,
+        "_id": "kn75t05d7b9712e97ybpvdfwhx80v8zx",
+        "createdAt": 1770620406046,
+        "data": {
+          "correctIndex": 2,
+          "explanation": "Famous monument → the.",
+          "options": [
+            "A",
+            "An",
+            "The",
+            "No article"
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks7d5gdwexpvznay9p5dndkcyd80td0b",
+        "order": 27,
+        "question": "___ Taj Mahal is in India.",
+        "questionCode": "836811",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770620406046
+      },
+      {
+        "_creationTime": 1770620432274.7544,
+        "_id": "kn7542q6qtwc2tw2qaf8gcg4h180tk3m",
+        "createdAt": 1770620432274,
+        "data": {
+          "correctIndex": 1,
+          "explanation": "Vowel sound → an.",
+          "options": [
+            "a",
+            "an",
+            "the",
+            "no article"
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks7d5gdwexpvznay9p5dndkcyd80td0b",
+        "order": 28,
+        "question": "I ate ___ apple for breakfast.",
+        "questionCode": "292437",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770620432274
+      },
+      {
+        "_creationTime": 1770620869812.814,
+        "_id": "kn79fa2yd79z5zjmb34b48kv1980vqq8",
+        "createdAt": 1770620869815,
+        "data": {
+          "correctWords": [
+            "The"
+          ],
+          "explanation": "Unique noun.",
+          "selectMode": "single",
+          "statement": "( A / An / The ) Earth moves around the sun."
+        },
+        "difficultyName": "easy",
+        "levelId": "ks7d5gdwexpvznay9p5dndkcyd80td0b",
+        "order": 29,
+        "question": "Choose the correct article:",
+        "questionCode": "445200",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770620869815
+      },
+      {
+        "_creationTime": 1770621169744.9258,
+        "_id": "kn729n2mphcnc49crst2tn2g7180txtq",
+        "createdAt": 1770621169747,
+        "data": {
+          "distractors": [
+            "a",
+            "an"
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks7d5gdwexpvznay9p5dndkcyd80td0b",
+        "order": 30,
+        "question": "{The} moon shines at night.",
+        "questionCode": "719394",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1770621169747
+      }
+    ],
+    "hard": [
+      {
+        "_creationTime": 1770623887932.0686,
+        "_id": "kn7cwnp88j7x91y3absh5zye4x80tw3d",
+        "createdAt": 1770623887934,
+        "data": {
+          "distractors": [
+            "the",
+            "an"
+          ]
+        },
+        "difficultyName": "hard",
+        "levelId": "ks7d5gdwexpvznay9p5dndkcyd80td0b",
+        "order": 1,
+        "question": "He is {a} Shakespeare of modern drama.",
+        "questionCode": "680009",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1770623887934
+      },
+      {
+        "_creationTime": 1770622573915.0344,
+        "_id": "kn7f7hkx78tqtaf06dr4101yyh80t228",
+        "createdAt": 1770622573917,
+        "data": {
+          "correctIndex": 1,
+          "explanation": "Single article → same person.",
+          "options": [
+            "Two people",
+            "Same person",
+            "Incorrect sentence",
+            "No meaning"
+          ]
+        },
+        "difficultyName": "hard",
+        "levelId": "ks7d5gdwexpvznay9p5dndkcyd80td0b",
+        "order": 2,
+        "question": "The secretary and accountant was dismissed. \nThis sentence means:",
+        "questionCode": "845823",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770622573917
+      },
+      {
+        "_creationTime": 1770623064910.6199,
+        "_id": "kn72gr658wpp8gca7tk2t33zbh80tc06",
+        "createdAt": 1770623064913,
+        "data": {
+          "correctWords": [
+            "a"
+          ],
+          "explanation": "",
+          "selectMode": "single",
+          "statement": "He is ( a / an / the ) Newton of our school."
+        },
+        "difficultyName": "hard",
+        "levelId": "ks7d5gdwexpvznay9p5dndkcyd80td0b",
+        "order": 3,
+        "question": "Select the correct article:",
+        "questionCode": "377159",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770623064913
+      },
+      {
+        "_creationTime": 1770623905883.7998,
+        "_id": "kn763n13rwtf97cxf1n4dvz2rh80v1p2",
+        "createdAt": 1770623905885,
+        "data": {
+          "distractors": [
+            "a",
+            "no article"
+          ]
+        },
+        "difficultyName": "hard",
+        "levelId": "ks7d5gdwexpvznay9p5dndkcyd80td0b",
+        "order": 4,
+        "question": "The poet and {the} philosopher were invited.",
+        "questionCode": "844832",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1770623905885
+      },
+      {
+        "_creationTime": 1770623134546.8003,
+        "_id": "kn75emtkn245gnk0hj80879tvx80vpd6",
+        "createdAt": 1770623134548,
+        "data": {
+          "correctWords": [
+            "no article"
+          ],
+          "explanation": "",
+          "selectMode": "single",
+          "statement": "He is ( a / an / the / no article ) better leader than manager."
+        },
+        "difficultyName": "hard",
+        "levelId": "ks7d5gdwexpvznay9p5dndkcyd80td0b",
+        "order": 5,
+        "question": "Select the correct article:",
+        "questionCode": "524999",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770623134548
+      },
+      {
+        "_creationTime": 1770623942154.8462,
+        "_id": "kn7042gg4dkye42mjsan0jwpen80vjn8",
+        "createdAt": 1770623942157,
+        "data": {
+          "distractors": [
+            "a",
+            "no article"
+          ]
+        },
+        "difficultyName": "hard",
+        "levelId": "ks7d5gdwexpvznay9p5dndkcyd80td0b",
+        "order": 6,
+        "question": "The red and {the} white roses were sold.",
+        "questionCode": "674454",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1770623942157
+      },
+      {
+        "_creationTime": 1770623218591.5322,
+        "_id": "kn7apcm6yj3gqh2nepccqrt95d80tyak",
+        "createdAt": 1770623218593,
+        "data": {
+          "correctWords": [
+            "a"
+          ],
+          "explanation": "",
+          "selectMode": "single",
+          "statement": "She is ( a / an / the ) Mozart of the violin."
+        },
+        "difficultyName": "hard",
+        "levelId": "ks7d5gdwexpvznay9p5dndkcyd80td0b",
+        "order": 7,
+        "question": "Choose the correct article:",
+        "questionCode": "866649",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770623218593
+      },
+      {
+        "_creationTime": 1770623923383.2725,
+        "_id": "kn73jc35f41hkdmyefn9jeqc2n80tc3p",
+        "createdAt": 1770623923385,
+        "data": {
+          "distractors": [
+            "a",
+            "the"
+          ]
+        },
+        "difficultyName": "hard",
+        "levelId": "ks7d5gdwexpvznay9p5dndkcyd80td0b",
+        "order": 8,
+        "question": "Wellington was {no article} greater soldier than statesman.",
+        "questionCode": "859209",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1770623923385
+      },
+      {
+        "_creationTime": 1770623959811.9927,
+        "_id": "kn77yj1xm4fk72rzd538r2ba9h80vrzd",
+        "createdAt": 1770623959814,
+        "data": {
+          "distractors": [
+            "a",
+            "no article"
+          ]
+        },
+        "difficultyName": "hard",
+        "levelId": "ks7d5gdwexpvznay9p5dndkcyd80td0b",
+        "order": 9,
+        "question": "He was {the} orator and leader of his age.",
+        "questionCode": "946387",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1770623959814
+      },
+      {
+        "_creationTime": 1770623392016.8506,
+        "_id": "kn75x9xpyq66kjvpvkedd15g8n80tx95",
+        "createdAt": 1770623392017,
+        "data": {
+          "correctWords": [
+            "the"
+          ],
+          "explanation": "One article before two connected nouns shows one person holding two offices.",
+          "selectMode": "single",
+          "statement": "He was elected ( a / an / the / no article ) secretary and treasurer of the association."
+        },
+        "difficultyName": "hard",
+        "levelId": "ks7d5gdwexpvznay9p5dndkcyd80td0b",
+        "order": 10,
+        "question": "Select the appropriate article :",
+        "questionCode": "985805",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770623392017
+      },
+      {
+        "_creationTime": 1770622604153.7478,
+        "_id": "kn70c41vr3w40ntgqc0w20x6h980vt3f",
+        "createdAt": 1770622604155,
+        "data": {
+          "correctIndex": 2,
+          "explanation": "",
+          "options": [
+            "One person",
+            "Same job",
+            "Two different people",
+            "Incorrect"
+          ]
+        },
+        "difficultyName": "hard",
+        "levelId": "ks7d5gdwexpvznay9p5dndkcyd80td0b",
+        "order": 11,
+        "question": "The secretary and the accountant were dismissed.",
+        "questionCode": "902065",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770622604155
+      },
+      {
+        "_creationTime": 1770623981378.598,
+        "_id": "kn71kmgeyk77qywqs13g1azb3n80vmm4",
+        "createdAt": 1770623981380,
+        "data": {
+          "distractors": [
+            "a",
+            "an",
+            "no article"
+          ]
+        },
+        "difficultyName": "hard",
+        "levelId": "ks7d5gdwexpvznay9p5dndkcyd80td0b",
+        "order": 12,
+        "question": "The secretary and {the} accountant were present.",
+        "questionCode": "481374",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1770623981380
+      },
+      {
+        "_creationTime": 1770622623251.8213,
+        "_id": "kn78hed8pqgs5h8dgzrthry6d580tq8q",
+        "createdAt": 1770622623253,
+        "data": {
+          "correctIndex": 3,
+          "explanation": "General comparison.",
+          "options": [
+            "a",
+            "an",
+            "the",
+            "no article"
+          ]
+        },
+        "difficultyName": "hard",
+        "levelId": "ks7d5gdwexpvznay9p5dndkcyd80td0b",
+        "order": 13,
+        "question": "He is a better soldier than ___ statesman.",
+        "questionCode": "870509",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770622623253
+      },
+      {
+        "_creationTime": 1770623433502.5513,
+        "_id": "kn71r10kmhgekp4fg64dgcqers80v5gd",
+        "createdAt": 1770623433504,
+        "data": {
+          "correctWords": [
+            "a"
+          ],
+          "explanation": "Proper noun used as a common noun to show comparison.",
+          "selectMode": "single",
+          "statement": "She is ( a / an / the ) Shakespeare of modern theatre."
+        },
+        "difficultyName": "hard",
+        "levelId": "ks7d5gdwexpvznay9p5dndkcyd80td0b",
+        "order": 14,
+        "question": "Select the appropriate article :",
+        "questionCode": "464562",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770623433504
+      },
+      {
+        "_creationTime": 1770623162345.6655,
+        "_id": "kn7ehrm0fbmh5jhmsd0ct2y3g180taz8",
+        "createdAt": 1770623162347,
+        "data": {
+          "correctWords": [
+            "a"
+          ],
+          "explanation": "",
+          "selectMode": "single",
+          "statement": "He was ( a / an / the ) hero of his time."
+        },
+        "difficultyName": "hard",
+        "levelId": "ks7d5gdwexpvznay9p5dndkcyd80td0b",
+        "order": 15,
+        "question": "Select the correct word:",
+        "questionCode": "914533",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770623162347
+      },
+      {
+        "_creationTime": 1770622655546,
+        "_id": "kn71fvn3hgjcnrq3t6cpbwj39h80tzss",
+        "createdAt": 1770622655548,
+        "data": {
+          "correctIndex": 1,
+          "explanation": "",
+          "options": [
+            "Two roses",
+            "One rose with two colours",
+            "Incorrect",
+            "No meaning"
+          ]
+        },
+        "difficultyName": "hard",
+        "levelId": "ks7d5gdwexpvznay9p5dndkcyd80td0b",
+        "order": 16,
+        "question": "The red and white rose means:",
+        "questionCode": "131585",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770622655548
+      },
+      {
+        "_creationTime": 1770622682538.2715,
+        "_id": "kn7e8ej3h2ns1tdg3kff4twthh80v0jw",
+        "createdAt": 1770622682540,
+        "data": {
+          "correctIndex": 1,
+          "explanation": "",
+          "options": [
+            "One rose",
+            "Two roses",
+            "Same flower",
+            "Incorrect"
+          ]
+        },
+        "difficultyName": "hard",
+        "levelId": "ks7d5gdwexpvznay9p5dndkcyd80td0b",
+        "order": 17,
+        "question": "The red and the white rose means:",
+        "questionCode": "903948",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770622682540
+      },
+      {
+        "_creationTime": 1770623998005.9878,
+        "_id": "kn7frt82pn4b8nttvdw9vx3m9x80ve0m",
+        "createdAt": 1770623998008,
+        "data": {
+          "distractors": [
+            "the",
+            "an"
+          ]
+        },
+        "difficultyName": "hard",
+        "levelId": "ks7d5gdwexpvznay9p5dndkcyd80td0b",
+        "order": 18,
+        "question": "He is {a} Shakespeare of modern drama.",
+        "questionCode": "314215",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1770623998008
+      },
+      {
+        "_creationTime": 1770623473128.9792,
+        "_id": "kn766tbhxjtbdy91346g8e1hc980vtp8",
+        "createdAt": 1770623473131,
+        "data": {
+          "correctWords": [
+            "the"
+          ],
+          "explanation": "Article repeated → two different people, verb agrees with the nearer noun.",
+          "selectMode": "single",
+          "statement": "The poet and ( a / an / the ) philosopher has been invited."
+        },
+        "difficultyName": "hard",
+        "levelId": "ks7d5gdwexpvznay9p5dndkcyd80td0b",
+        "order": 19,
+        "question": "Select the appropriate article :",
+        "questionCode": "358186",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770623473131
+      },
+      {
+        "_creationTime": 1770622707712.8586,
+        "_id": "kn7dqc373xd8searp9my5d7h9980tf49",
+        "createdAt": 1770622707715,
+        "data": {
+          "correctIndex": 3,
+          "explanation": "",
+          "options": [
+            "a",
+            "an",
+            "the",
+            "no article"
+          ]
+        },
+        "difficultyName": "hard",
+        "levelId": "ks7d5gdwexpvznay9p5dndkcyd80td0b",
+        "order": 20,
+        "question": "Wellington was ___ greater soldier than statesman.",
+        "questionCode": "819886",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770622707715
+      },
+      {
+        "_creationTime": 1770624014991.9622,
+        "_id": "kn786q2da878s3sthhrts12n7580vs1q",
+        "createdAt": 1770624014994,
+        "data": {
+          "distractors": [
+            "a",
+            "no article",
+            "an"
+          ]
+        },
+        "difficultyName": "hard",
+        "levelId": "ks7d5gdwexpvznay9p5dndkcyd80td0b",
+        "order": 21,
+        "question": "The father and {the} mother arrived late.",
+        "questionCode": "463722",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1770624014994
+      },
+      {
+        "_creationTime": 1770622723520.333,
+        "_id": "kn7cc1neybnqaffc4y15drwge580t87j",
+        "createdAt": 1770622723522,
+        "data": {
+          "correctIndex": 0,
+          "explanation": "Proper noun used as common noun.",
+          "options": [
+            "a",
+            "an",
+            "the",
+            "no article"
+          ]
+        },
+        "difficultyName": "hard",
+        "levelId": "ks7d5gdwexpvznay9p5dndkcyd80td0b",
+        "order": 22,
+        "question": "He is ___ Shakespeare of our time.",
+        "questionCode": "860223",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770622723522
+      },
+      {
+        "_creationTime": 1770623628945.4546,
+        "_id": "kn7f93fh0rtrdqvdted6eanvnd80tax4",
+        "createdAt": 1770623628947,
+        "data": {
+          "correctWords": [
+            "a"
+          ],
+          "explanation": "Proper noun turned into a common noun for comparison.",
+          "selectMode": "single",
+          "statement": "She is ( a / an / the ) Newton of her generation."
+        },
+        "difficultyName": "hard",
+        "levelId": "ks7d5gdwexpvznay9p5dndkcyd80td0b",
+        "order": 23,
+        "question": "Select the appropriate article :",
+        "questionCode": "209252",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770623628947
+      },
+      {
+        "_creationTime": 1770624037279.5925,
+        "_id": "kn7fmxs28wetdnff3jaf9m7m5n80tfhq",
+        "createdAt": 1770624037281,
+        "data": {
+          "distractors": [
+            "a",
+            "the",
+            "an"
+          ]
+        },
+        "difficultyName": "hard",
+        "levelId": "ks7d5gdwexpvznay9p5dndkcyd80td0b",
+        "order": 24,
+        "question": "She is {no article} better singer than dancer.",
+        "questionCode": "599855",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1770624037281
+      },
+      {
+        "_creationTime": 1770622776942.6804,
+        "_id": "kn78r9vqyhdes9sj7rtw1a8c9580vdnk",
+        "createdAt": 1770622776944,
+        "data": {
+          "correctIndex": 1,
+          "explanation": "",
+          "options": [
+            "One language",
+            "Two languages",
+            "Incorrect",
+            "Same origin"
+          ]
+        },
+        "difficultyName": "hard",
+        "levelId": "ks7d5gdwexpvznay9p5dndkcyd80td0b",
+        "order": 25,
+        "question": "The French and English languages means:",
+        "questionCode": "574440",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770622855470
+      },
+      {
+        "_creationTime": 1770622877819.962,
+        "_id": "kn7arep6d30qd4knqnjkdedpch80vhd6",
+        "createdAt": 1770622877822,
+        "data": {
+          "correctIndex": 1,
+          "explanation": "",
+          "options": [
+            "One language",
+            "Two languages",
+            "Same country",
+            "No meaning"
+          ]
+        },
+        "difficultyName": "hard",
+        "levelId": "ks7d5gdwexpvznay9p5dndkcyd80td0b",
+        "order": 26,
+        "question": "The French and the English languages implies:",
+        "questionCode": "447638",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770622877822
+      },
+      {
+        "_creationTime": 1770624066661.0955,
+        "_id": "kn7bvpafg0g1c6fdq332x4mdh980tfq9",
+        "createdAt": 1770624066664,
+        "data": {
+          "distractors": [
+            "a",
+            "an",
+            "no article"
+          ]
+        },
+        "difficultyName": "hard",
+        "levelId": "ks7d5gdwexpvznay9p5dndkcyd80td0b",
+        "order": 27,
+        "question": "The writer and {the} editor has resigned.",
+        "questionCode": "842205",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1770624066664
+      },
+      {
+        "_creationTime": 1770623521386.7627,
+        "_id": "kn7c4hpa8ypmtwk3dfy9k7v7hd80vgaa",
+        "createdAt": 1770623521388,
+        "data": {
+          "correctWords": [
+            "the"
+          ],
+          "explanation": "Article repeated → two different roles, two people.",
+          "selectMode": "single",
+          "statement": "The teacher and ( a / an / the ) guide were absent today."
+        },
+        "difficultyName": "hard",
+        "levelId": "ks7d5gdwexpvznay9p5dndkcyd80td0b",
+        "order": 28,
+        "question": "Select the appropriate article :",
+        "questionCode": "734806",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770623576277
+      },
+      {
+        "_creationTime": 1770623661161.1826,
+        "_id": "kn70169wwkr04243zaqsm0b2qh80vr7f",
+        "createdAt": 1770623661163,
+        "data": {
+          "correctWords": [
+            "the"
+          ],
+          "explanation": "Repetition clarifies two separate roles, possibly two people.",
+          "selectMode": "single",
+          "statement": "The writer and ( a / an / the ) editor has resigned."
+        },
+        "difficultyName": "hard",
+        "levelId": "ks7d5gdwexpvznay9p5dndkcyd80td0b",
+        "order": 29,
+        "question": "Select the appropriate article :",
+        "questionCode": "445450",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770623661163
+      },
+      {
+        "_creationTime": 1770622899431.5059,
+        "_id": "kn75n8w83th5efxp048y3nk4ss80vn16",
+        "createdAt": 1770622899433,
+        "data": {
+          "correctIndex": 1,
+          "explanation": "",
+          "options": [
+            "Two people",
+            "One person with two roles",
+            "Incorrect",
+            "No meaning"
+          ]
+        },
+        "difficultyName": "hard",
+        "levelId": "ks7d5gdwexpvznay9p5dndkcyd80td0b",
+        "order": 30,
+        "question": "He was the orator and statesman of his age means:",
+        "questionCode": "789535",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770622899433
+      }
+    ],
+    "medium": [
+      {
+        "_creationTime": 1770621321234.8796,
+        "_id": "kn7872ea0jzt9vs1a1vjxpej9h80v08s",
+        "createdAt": 1770621321237,
+        "data": {
+          "correctIndex": 3,
+          "explanation": "Plural noun in general sense → no article.",
+          "options": [
+            "an",
+            "an",
+            "the",
+            "no article"
+          ]
+        },
+        "difficultyName": "medium",
+        "levelId": "ks7d5gdwexpvznay9p5dndkcyd80td0b",
+        "order": 1,
+        "question": "Children like chocolates. \nWhich article is correct before Children?",
+        "questionCode": "411356",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770621321237
+      },
+      {
+        "_creationTime": 1770622126437.723,
+        "_id": "kn7f9ev67vrx7sz7d3wbe9f86x80v256",
+        "createdAt": 1770622126439,
+        "data": {
+          "distractors": [
+            "a",
+            "the"
+          ]
+        },
+        "difficultyName": "medium",
+        "levelId": "ks7d5gdwexpvznay9p5dndkcyd80td0b",
+        "order": 2,
+        "question": "He went to {no article} school to study.",
+        "questionCode": "888064",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1770622126439
+      },
+      {
+        "_creationTime": 1770622148283.0637,
+        "_id": "kn78yxaz74ah59w7dwv0dj52h980vp7j",
+        "createdAt": 1770622148285,
+        "data": {
+          "distractors": [
+            "A",
+            "An"
+          ]
+        },
+        "difficultyName": "medium",
+        "levelId": "ks7d5gdwexpvznay9p5dndkcyd80td0b",
+        "order": 3,
+        "question": "{The} poor deserve respect.",
+        "questionCode": "151633",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1770622148285
+      },
+      {
+        "_creationTime": 1770621739308.225,
+        "_id": "kn74k91qk0qk02xm0395raases80tj2a",
+        "createdAt": 1770621739310,
+        "data": {
+          "correctWords": [
+            "no article"
+          ],
+          "explanation": "Prison for main purpose.",
+          "selectMode": "single",
+          "statement": "He went to { a / an / the / no article } prison for theft."
+        },
+        "difficultyName": "medium",
+        "levelId": "ks7d5gdwexpvznay9p5dndkcyd80td0b",
+        "order": 4,
+        "question": "Select the correct article:",
+        "questionCode": "198280",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770621739310
+      },
+      {
+        "_creationTime": 1770621787594.2668,
+        "_id": "kn7d31hvpe2xwk2hzsksh3tmjx80t178",
+        "createdAt": 1770621787596,
+        "data": {
+          "correctWords": [
+            "The"
+          ],
+          "explanation": "",
+          "selectMode": "single",
+          "statement": "( A / An / The ) milk in the glass is warm."
+        },
+        "difficultyName": "medium",
+        "levelId": "ks7d5gdwexpvznay9p5dndkcyd80td0b",
+        "order": 5,
+        "question": "Select the correct choice:",
+        "questionCode": "452811",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770621787596
+      },
+      {
+        "_creationTime": 1770622185189.0225,
+        "_id": "kn7cxw5z96xd31w6whh2crw8vx80vq09",
+        "createdAt": 1770622185191,
+        "data": {
+          "distractors": [
+            "a",
+            "an"
+          ]
+        },
+        "difficultyName": "medium",
+        "levelId": "ks7d5gdwexpvznay9p5dndkcyd80td0b",
+        "order": 6,
+        "question": "She is learning {no article} French.",
+        "questionCode": "501417",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1770622185191
+      },
+      {
+        "_creationTime": 1770621367441.4753,
+        "_id": "kn763vks0eg8j2atymexbgyqe580v4c2",
+        "createdAt": 1770621367443,
+        "data": {
+          "correctIndex": 3,
+          "explanation": "Hospital for its main purpose → no article.",
+          "options": [
+            "a",
+            "an",
+            "the",
+            "no article"
+          ]
+        },
+        "difficultyName": "medium",
+        "levelId": "ks7d5gdwexpvznay9p5dndkcyd80td0b",
+        "order": 7,
+        "question": "He went to ___ hospital for treatment.",
+        "questionCode": "455161",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770621376333
+      },
+      {
+        "_creationTime": 1770621406785.022,
+        "_id": "kn7ct7ckvq7d16b9jykmqdcbm580vb4h",
+        "createdAt": 1770621406787,
+        "data": {
+          "correctIndex": 2,
+          "explanation": "Names of rivers take The.",
+          "options": [
+            "A",
+            "An",
+            "The",
+            "No Article"
+          ]
+        },
+        "difficultyName": "medium",
+        "levelId": "ks7d5gdwexpvznay9p5dndkcyd80td0b",
+        "order": 8,
+        "question": "___ Ganga is considered holy.",
+        "questionCode": "596452",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770621406787
+      },
+      {
+        "_creationTime": 1770622221842.0269,
+        "_id": "kn7ch0hgggnrzt7kwzcay211ex80vtb6",
+        "createdAt": 1770622221844,
+        "data": {
+          "distractors": [
+            "a",
+            "an",
+            "no article"
+          ]
+        },
+        "difficultyName": "medium",
+        "levelId": "ks7d5gdwexpvznay9p5dndkcyd80td0b",
+        "order": 9,
+        "question": "He drank {the} milk in the cup.",
+        "questionCode": "633465",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1770622221844
+      },
+      {
+        "_creationTime": 1770622235565.263,
+        "_id": "kn729cryxdzy6y7r6t4t8rg65980vvrs",
+        "createdAt": 1770622235567,
+        "data": {
+          "distractors": [
+            "a",
+            "an"
+          ]
+        },
+        "difficultyName": "medium",
+        "levelId": "ks7d5gdwexpvznay9p5dndkcyd80td0b",
+        "order": 10,
+        "question": "We visited {the} Red Sea.",
+        "questionCode": "691659",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1770622235567
+      },
+      {
+        "_creationTime": 1770621828903.5918,
+        "_id": "kn72yce35zq81avsnqbksfy39n80vexq",
+        "createdAt": 1770621828905,
+        "data": {
+          "correctWords": [
+            "no article"
+          ],
+          "explanation": "",
+          "selectMode": "single",
+          "statement": "We learn ( a / an / the / no article ) Tamil at school."
+        },
+        "difficultyName": "medium",
+        "levelId": "ks7d5gdwexpvznay9p5dndkcyd80td0b",
+        "order": 11,
+        "question": "Select the correct article:",
+        "questionCode": "106923",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770621828905
+      },
+      {
+        "_creationTime": 1770621429030.4355,
+        "_id": "kn7856xaw31zys2n1fwk86vtb980v4d0",
+        "createdAt": 1770621429032,
+        "data": {
+          "correctIndex": 3,
+          "explanation": "Languages → no article.",
+          "options": [
+            "a",
+            "an",
+            "the",
+            "no article"
+          ]
+        },
+        "difficultyName": "medium",
+        "levelId": "ks7d5gdwexpvznay9p5dndkcyd80td0b",
+        "order": 12,
+        "question": "She is learning ___ English.",
+        "questionCode": "525956",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770621429032
+      },
+      {
+        "_creationTime": 1770621878669.7854,
+        "_id": "kn75s6qyw5t61qcn228gsgmwrx80tdds",
+        "createdAt": 1770621878672,
+        "data": {
+          "correctWords": [
+            "The"
+          ],
+          "explanation": "",
+          "selectMode": "single",
+          "statement": "( A / An / The ) rich should help the poor."
+        },
+        "difficultyName": "medium",
+        "levelId": "ks7d5gdwexpvznay9p5dndkcyd80td0b",
+        "order": 13,
+        "question": "Select the word that completes the sentence:",
+        "questionCode": "569892",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770621878672
+      },
+      {
+        "_creationTime": 1770621904544.5132,
+        "_id": "kn7bzpm00fhg8cj4pgwpftyghs80tqg4",
+        "createdAt": 1770621904544,
+        "data": {
+          "correctWords": [
+            "the"
+          ],
+          "explanation": "",
+          "selectMode": "single",
+          "statement": "He went to ( a / an / the ) market to buy vegetables"
+        },
+        "difficultyName": "medium",
+        "levelId": "ks7d5gdwexpvznay9p5dndkcyd80td0b",
+        "order": 14,
+        "question": "Choose the correct option:",
+        "questionCode": "535996",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770621904544
+      },
+      {
+        "_creationTime": 1770621446719.2954,
+        "_id": "kn761b0hmwdxd9hjx4pkzwcqy980v97t",
+        "createdAt": 1770621446721,
+        "data": {
+          "correctIndex": 2,
+          "explanation": "Particular quantity of uncountable noun.",
+          "options": [
+            "a",
+            "an",
+            "the",
+            "no article"
+          ]
+        },
+        "difficultyName": "medium",
+        "levelId": "ks7d5gdwexpvznay9p5dndkcyd80td0b",
+        "order": 15,
+        "question": "He bought ___ sugar from the shop.",
+        "questionCode": "836314",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770621446721
+      },
+      {
+        "_creationTime": 1770621468704.9226,
+        "_id": "kn779p9h2mcz61skntny4422xd80v6eb",
+        "createdAt": 1770621468707,
+        "data": {
+          "correctIndex": 3,
+          "explanation": "Abstract noun in general sense.",
+          "options": [
+            "A",
+            "An",
+            "The",
+            "No article"
+          ]
+        },
+        "difficultyName": "medium",
+        "levelId": "ks7d5gdwexpvznay9p5dndkcyd80td0b",
+        "order": 16,
+        "question": "___ honesty is the best policy.",
+        "questionCode": "200497",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770621468707
+      },
+      {
+        "_creationTime": 1770622268503.896,
+        "_id": "kn7aw191x18vr61eqarf8kgbhs80v768",
+        "createdAt": 1770622268506,
+        "data": {
+          "distractors": [
+            "the",
+            "a"
+          ]
+        },
+        "difficultyName": "medium",
+        "levelId": "ks7d5gdwexpvznay9p5dndkcyd80td0b",
+        "order": 17,
+        "question": "{No article} honesty is valued everywhere.",
+        "questionCode": "135043",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1770622268506
+      },
+      {
+        "_creationTime": 1770621934367.5432,
+        "_id": "kn782q7zrxmj54k6w8b13tcds980vdt1",
+        "createdAt": 1770621934369,
+        "data": {
+          "correctWords": [
+            "a"
+          ],
+          "explanation": "",
+          "selectMode": "single",
+          "statement": "Gold is ( a / an / the / no article ) precious metal"
+        },
+        "difficultyName": "medium",
+        "levelId": "ks7d5gdwexpvznay9p5dndkcyd80td0b",
+        "order": 18,
+        "question": "Select the correct article:",
+        "questionCode": "717499",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770621934369
+      },
+      {
+        "_creationTime": 1770621505518.0425,
+        "_id": "kn7523kethtgmy6hzfm2x2rt1180tvzx",
+        "createdAt": 1770621505520,
+        "data": {
+          "correctIndex": 3,
+          "explanation": "",
+          "options": [
+            "a",
+            "an",
+            "the",
+            "no article"
+          ]
+        },
+        "difficultyName": "medium",
+        "levelId": "ks7d5gdwexpvznay9p5dndkcyd80td0b",
+        "order": 19,
+        "question": "We went to ___ school to study.",
+        "questionCode": "945425",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770621505520
+      },
+      {
+        "_creationTime": 1770622298753.2207,
+        "_id": "kn714khnqkkqx32z7nq0r5rb7180vymf",
+        "createdAt": 1770622298763,
+        "data": {
+          "distractors": [
+            "a",
+            "an",
+            "the"
+          ]
+        },
+        "difficultyName": "medium",
+        "levelId": "ks7d5gdwexpvznay9p5dndkcyd80td0b",
+        "order": 20,
+        "question": "He went to {no article} hospital for treatment.",
+        "questionCode": "775413",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1770622298763
+      },
+      {
+        "_creationTime": 1770622316104.8865,
+        "_id": "kn76mzg8g4md38d0mrw607x8p980vaqj",
+        "createdAt": 1770622316107,
+        "data": {
+          "distractors": [
+            "a",
+            "no article"
+          ]
+        },
+        "difficultyName": "medium",
+        "levelId": "ks7d5gdwexpvznay9p5dndkcyd80td0b",
+        "order": 21,
+        "question": "She bought {the} sugar from the shop.",
+        "questionCode": "388010",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1770622316107
+      },
+      {
+        "_creationTime": 1770621966396.8757,
+        "_id": "kn7118vmke647a8n26k21q8mgd80vrkd",
+        "createdAt": 1770621966399,
+        "data": {
+          "correctWords": [
+            "the"
+          ],
+          "explanation": "",
+          "selectMode": "single",
+          "statement": "He stayed in ( a / an / the / no article ) hospital to see his uncle."
+        },
+        "difficultyName": "medium",
+        "levelId": "ks7d5gdwexpvznay9p5dndkcyd80td0b",
+        "order": 22,
+        "question": "Choose the correct word:",
+        "questionCode": "302882",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770621966399
+      },
+      {
+        "_creationTime": 1770621526048.9104,
+        "_id": "kn7c1xt6gxwnsmqcmkn63zxm6180tcam",
+        "createdAt": 1770621526051,
+        "data": {
+          "correctIndex": 2,
+          "explanation": "Adjective acting as noun.",
+          "options": [
+            "a",
+            "an",
+            "the",
+            "no article"
+          ]
+        },
+        "difficultyName": "medium",
+        "levelId": "ks7d5gdwexpvznay9p5dndkcyd80td0b",
+        "order": 23,
+        "question": "The teacher praised ___ brave.",
+        "questionCode": "825821",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770621526051
+      },
+      {
+        "_creationTime": 1770622335388.002,
+        "_id": "kn7cywh0mpzx9bffb4zxag4m2x80vn9h",
+        "createdAt": 1770622335389,
+        "data": {
+          "distractors": [
+            "a",
+            "the"
+          ]
+        },
+        "difficultyName": "medium",
+        "levelId": "ks7d5gdwexpvznay9p5dndkcyd80td0b",
+        "order": 24,
+        "question": "We eat {no article} dinner at night.",
+        "questionCode": "587909",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1770622335389
+      },
+      {
+        "_creationTime": 1770621547528.7227,
+        "_id": "kn7976j96d0svdmrcpm3q2gry980vyfs",
+        "createdAt": 1770621547530,
+        "data": {
+          "correctIndex": 0,
+          "explanation": "",
+          "options": [
+            "a",
+            "an",
+            "the",
+            "no article"
+          ]
+        },
+        "difficultyName": "medium",
+        "levelId": "ks7d5gdwexpvznay9p5dndkcyd80td0b",
+        "order": 25,
+        "question": "He lives near ___ Himalayas.",
+        "questionCode": "221034",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770621547530
+      },
+      {
+        "_creationTime": 1770621999541.22,
+        "_id": "kn7d9v5a1397s9dv07anvh1ezh80v2b7",
+        "createdAt": 1770621999543,
+        "data": {
+          "correctWords": [
+            "the"
+          ],
+          "explanation": "",
+          "selectMode": "single",
+          "statement": "We crossed ( a / an / the ) Indian Ocean."
+        },
+        "difficultyName": "medium",
+        "levelId": "ks7d5gdwexpvznay9p5dndkcyd80td0b",
+        "order": 26,
+        "question": "Select the correct article:",
+        "questionCode": "357261",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770621999543
+      },
+      {
+        "_creationTime": 1770622367078.1082,
+        "_id": "kn77kqgvq4ddx93mr4qt1g4xwh80tn45",
+        "createdAt": 1770622367080,
+        "data": {
+          "distractors": [
+            "A",
+            "An",
+            "No article"
+          ]
+        },
+        "difficultyName": "medium",
+        "levelId": "ks7d5gdwexpvznay9p5dndkcyd80td0b",
+        "order": 27,
+        "question": "{The} children are playing outside.",
+        "questionCode": "774061",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1770622367080
+      },
+      {
+        "_creationTime": 1770622049251.3628,
+        "_id": "kn750x0nx0qc1yjzthpadm0k9580trph",
+        "createdAt": 1770622049253,
+        "data": {
+          "correctWords": [
+            "no article"
+          ],
+          "explanation": "",
+          "selectMode": "single",
+          "statement": "( article / no article ) Dinner is ready."
+        },
+        "difficultyName": "medium",
+        "levelId": "ks7d5gdwexpvznay9p5dndkcyd80td0b",
+        "order": 28,
+        "question": "Choose the correct option:",
+        "questionCode": "287482",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770622049253
+      },
+      {
+        "_creationTime": 1770621700439.8303,
+        "_id": "kn77bdkqw28m69bd38fmemq2ad80tds3",
+        "createdAt": 1770621700441,
+        "data": {
+          "correctIndex": 2,
+          "explanation": "Specific reference.",
+          "options": [
+            "a",
+            "an",
+            "the",
+            "no article"
+          ]
+        },
+        "difficultyName": "medium",
+        "levelId": "ks7d5gdwexpvznay9p5dndkcyd80td0b",
+        "order": 29,
+        "question": "She returned ___ book I gave her.",
+        "questionCode": "887675",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770621700441
+      },
+      {
+        "_creationTime": 1770622074080.8687,
+        "_id": "kn75p2bxbc9y982mtck07qfgp580vtad",
+        "createdAt": 1770622074083,
+        "data": {
+          "correctWords": [
+            "the"
+          ],
+          "explanation": "",
+          "selectMode": "single",
+          "statement": "He bought ( a / an / the ) computer we discussed."
+        },
+        "difficultyName": "medium",
+        "levelId": "ks7d5gdwexpvznay9p5dndkcyd80td0b",
+        "order": 30,
+        "question": "Select the correct article:",
+        "questionCode": "721508",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770622074083
+      }
+    ]
+  }
+}

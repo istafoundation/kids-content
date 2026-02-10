@@ -1,0 +1,636 @@
+[
+  {
+    "_id": "ks7d82z0n6wm92s3dp7m8ddajx7zkz9v",
+    "levelNumber": 1,
+    "name": "Build the Basics",
+    "description": "Start your learning journey!",
+    "groupId": "mh77tbd8t2h55d7dbcjz384bhx80pbw9",
+    "isEnabled": true,
+    "difficulties": [
+      {
+        "displayName": "Easy",
+        "name": "easy",
+        "order": 1,
+        "requiredScore": 75
+      },
+      {
+        "displayName": "Medium",
+        "name": "medium",
+        "order": 2,
+        "requiredScore": 55
+      },
+      {
+        "displayName": "Hard",
+        "name": "hard",
+        "order": 3,
+        "requiredScore": 30
+      }
+    ],
+    "theme": {
+      "color": "#4CAF50",
+      "emoji": "🌟"
+    },
+    "totalQuestions": 90,
+    "questionsVersion": 0
+  },
+  {
+    "_id": "ks73ge2y158xwnr79qm8dck57s7zka79",
+    "levelNumber": 2,
+    "name": "Nouns & Pronouns",
+    "description": "Noun is the name of any person, place, thing or feeling. PRONOUN is any word which is used instead of NOUN.",
+    "groupId": "mh77tbd8t2h55d7dbcjz384bhx80pbw9",
+    "isEnabled": true,
+    "difficulties": [
+      {
+        "displayName": "Easy",
+        "name": "easy",
+        "order": 1,
+        "requiredScore": 75
+      },
+      {
+        "displayName": "Medium",
+        "name": "medium",
+        "order": 2,
+        "requiredScore": 55
+      },
+      {
+        "displayName": "Hard",
+        "name": "hard",
+        "order": 3,
+        "requiredScore": 30
+      }
+    ],
+    "totalQuestions": 90,
+    "questionsVersion": 0
+  },
+  {
+    "_id": "ks7cz1ncbb7atf999n5y2jad517zxb38",
+    "levelNumber": 3,
+    "name": "Basic Pronouns",
+    "description": "Now it's time to learn Pronouns in depth",
+    "groupId": "mh77tbd8t2h55d7dbcjz384bhx80pbw9",
+    "isEnabled": true,
+    "difficulties": [
+      {
+        "displayName": "Easy",
+        "name": "easy",
+        "order": 1,
+        "requiredScore": 75
+      },
+      {
+        "displayName": "Medium",
+        "name": "medium",
+        "order": 2,
+        "requiredScore": 55
+      },
+      {
+        "displayName": "Hard",
+        "name": "hard",
+        "order": 3,
+        "requiredScore": 30
+      }
+    ],
+    "totalQuestions": 90,
+    "questionsVersion": 0
+  },
+  {
+    "_id": "ks75qmkmdnkegcy3q8z8xtqv317zy3zv",
+    "levelNumber": 4,
+    "name": "Adjectives",
+    "description": "adjectives",
+    "groupId": "mh77tbd8t2h55d7dbcjz384bhx80pbw9",
+    "isEnabled": true,
+    "difficulties": [
+      {
+        "displayName": "Easy",
+        "name": "easy",
+        "order": 1,
+        "requiredScore": 75
+      },
+      {
+        "displayName": "Medium",
+        "name": "medium",
+        "order": 2,
+        "requiredScore": 55
+      },
+      {
+        "displayName": "Hard",
+        "name": "hard",
+        "order": 3,
+        "requiredScore": 30
+      }
+    ],
+    "totalQuestions": 90,
+    "questionsVersion": 0
+  },
+  {
+    "_id": "ks78cdn3wg2nw4gvrhc4smxaxx7zzre0",
+    "levelNumber": 5,
+    "name": "Articles",
+    "description": "Learn about articles...",
+    "groupId": "mh77tbd8t2h55d7dbcjz384bhx80pbw9",
+    "isEnabled": true,
+    "difficulties": [
+      {
+        "displayName": "Easy",
+        "name": "easy",
+        "order": 1,
+        "requiredScore": 75
+      },
+      {
+        "displayName": "Medium",
+        "name": "medium",
+        "order": 2,
+        "requiredScore": 55
+      },
+      {
+        "displayName": "Hard",
+        "name": "hard",
+        "order": 3,
+        "requiredScore": 30
+      }
+    ],
+    "totalQuestions": 90,
+    "questionsVersion": 0
+  },
+  {
+    "_id": "ks75btrxjryqep69g5z69a6bms7zyzq2",
+    "levelNumber": 6,
+    "name": "Verbs",
+    "description": "verbs",
+    "groupId": "mh77tbd8t2h55d7dbcjz384bhx80pbw9",
+    "isEnabled": true,
+    "difficulties": [
+      {
+        "displayName": "Easy",
+        "name": "easy",
+        "order": 1,
+        "requiredScore": 75
+      },
+      {
+        "displayName": "Medium",
+        "name": "medium",
+        "order": 2,
+        "requiredScore": 55
+      },
+      {
+        "displayName": "Hard",
+        "name": "hard",
+        "order": 3,
+        "requiredScore": 30
+      }
+    ],
+    "totalQuestions": 90,
+    "questionsVersion": 0
+  },
+  {
+    "_id": "ks79x34415jc31hwf6zkvs4tm17zyts6",
+    "levelNumber": 7,
+    "name": "Infinitives Basics",
+    "description": "infinitives",
+    "groupId": "mh77tbd8t2h55d7dbcjz384bhx80pbw9",
+    "isEnabled": true,
+    "difficulties": [
+      {
+        "displayName": "Easy",
+        "name": "easy",
+        "order": 1,
+        "requiredScore": 75
+      },
+      {
+        "displayName": "Medium",
+        "name": "medium",
+        "order": 2,
+        "requiredScore": 55
+      },
+      {
+        "displayName": "Hard",
+        "name": "hard",
+        "order": 3,
+        "requiredScore": 30
+      }
+    ],
+    "totalQuestions": 90,
+    "questionsVersion": 0
+  },
+  {
+    "_id": "ks7bm3xry49endkyvgyhzwdsen7zycv2",
+    "levelNumber": 8,
+    "name": "Gerund",
+    "description": "gerund",
+    "groupId": "mh77tbd8t2h55d7dbcjz384bhx80pbw9",
+    "isEnabled": true,
+    "difficulties": [
+      {
+        "displayName": "Easy",
+        "name": "easy",
+        "order": 1,
+        "requiredScore": 75
+      },
+      {
+        "displayName": "Medium",
+        "name": "medium",
+        "order": 2,
+        "requiredScore": 55
+      },
+      {
+        "displayName": "Hard",
+        "name": "hard",
+        "order": 3,
+        "requiredScore": 30
+      }
+    ],
+    "totalQuestions": 90,
+    "questionsVersion": 0
+  },
+  {
+    "_id": "ks78m8qz7c1hhkwpcqcq3j8yxn7zy8z7",
+    "levelNumber": 9,
+    "name": "Participles",
+    "description": "Learn basics on Participles",
+    "groupId": "mh77tbd8t2h55d7dbcjz384bhx80pbw9",
+    "isEnabled": true,
+    "difficulties": [
+      {
+        "displayName": "Easy",
+        "name": "easy",
+        "order": 1,
+        "requiredScore": 75
+      },
+      {
+        "displayName": "Medium",
+        "name": "medium",
+        "order": 2,
+        "requiredScore": 55
+      },
+      {
+        "displayName": "Hard",
+        "name": "hard",
+        "order": 3,
+        "requiredScore": 30
+      }
+    ],
+    "totalQuestions": 90,
+    "questionsVersion": 0
+  },
+  {
+    "_id": "ks72w7bx90vyjngy3dv3kkn4ns803jr5",
+    "levelNumber": 10,
+    "name": "Tenses",
+    "description": "tenses",
+    "groupId": "mh77tbd8t2h55d7dbcjz384bhx80pbw9",
+    "isEnabled": true,
+    "difficulties": [
+      {
+        "displayName": "Easy",
+        "name": "easy",
+        "order": 1,
+        "requiredScore": 75
+      },
+      {
+        "displayName": "Medium",
+        "name": "medium",
+        "order": 2,
+        "requiredScore": 55
+      },
+      {
+        "displayName": "Hard",
+        "name": "hard",
+        "order": 3,
+        "requiredScore": 30
+      }
+    ],
+    "totalQuestions": 90,
+    "questionsVersion": 0
+  },
+  {
+    "_id": "ks73tp2ttnfgtye8ahcsj9e901803rq7",
+    "levelNumber": 11,
+    "name": "Adverbs",
+    "description": "Let's learn something interesting",
+    "groupId": "mh77tbd8t2h55d7dbcjz384bhx80pbw9",
+    "isEnabled": true,
+    "difficulties": [
+      {
+        "displayName": "Easy",
+        "name": "easy",
+        "order": 1,
+        "requiredScore": 75
+      },
+      {
+        "displayName": "Medium",
+        "name": "medium",
+        "order": 2,
+        "requiredScore": 55
+      },
+      {
+        "displayName": "Hard",
+        "name": "hard",
+        "order": 3,
+        "requiredScore": 30
+      }
+    ],
+    "totalQuestions": 90,
+    "questionsVersion": 0
+  },
+  {
+    "_id": "ks74g9gefv5m04em76tgzt2ye5803pws",
+    "levelNumber": 12,
+    "name": "Prepositions",
+    "description": "Let's now learn prepositions",
+    "groupId": "mh77tbd8t2h55d7dbcjz384bhx80pbw9",
+    "isEnabled": true,
+    "difficulties": [
+      {
+        "displayName": "Easy",
+        "name": "easy",
+        "order": 1,
+        "requiredScore": 75
+      },
+      {
+        "displayName": "Medium",
+        "name": "medium",
+        "order": 2,
+        "requiredScore": 55
+      },
+      {
+        "displayName": "Hard",
+        "name": "hard",
+        "order": 3,
+        "requiredScore": 30
+      }
+    ],
+    "totalQuestions": 90,
+    "questionsVersion": 0
+  },
+  {
+    "_id": "ks77s52an7m72ays4jnp2b1z2x802ksj",
+    "levelNumber": 13,
+    "name": "Conjunctions",
+    "description": "Let's learn something subtle now",
+    "groupId": "mh77tbd8t2h55d7dbcjz384bhx80pbw9",
+    "isEnabled": true,
+    "difficulties": [
+      {
+        "displayName": "Easy",
+        "name": "easy",
+        "order": 1,
+        "requiredScore": 75
+      },
+      {
+        "displayName": "Medium",
+        "name": "medium",
+        "order": 2,
+        "requiredScore": 55
+      },
+      {
+        "displayName": "Hard",
+        "name": "hard",
+        "order": 3,
+        "requiredScore": 30
+      }
+    ],
+    "totalQuestions": 90,
+    "questionsVersion": 0
+  },
+  {
+    "_id": "ks771k8zq46hbppev6mnhken91803r7e",
+    "levelNumber": 14,
+    "name": "Interjections",
+    "description": "",
+    "groupId": "mh77tbd8t2h55d7dbcjz384bhx80pbw9",
+    "isEnabled": true,
+    "difficulties": [
+      {
+        "displayName": "Easy",
+        "name": "easy",
+        "order": 1,
+        "requiredScore": 75
+      },
+      {
+        "displayName": "Medium",
+        "name": "medium",
+        "order": 2,
+        "requiredScore": 55
+      },
+      {
+        "displayName": "Hard",
+        "name": "hard",
+        "order": 3,
+        "requiredScore": 30
+      }
+    ],
+    "totalQuestions": 90,
+    "questionsVersion": 0
+  },
+  {
+    "_id": "ks78q27mkqb2qh6whqwgtmqqk980r0zx",
+    "levelNumber": 15,
+    "name": "Nouns: Gender and Number",
+    "description": "Let's sharpen the blade now",
+    "groupId": "mh76vsmvqn4b6x5h2vnknst8fx80p099",
+    "isEnabled": true,
+    "difficulties": [
+      {
+        "displayName": "Easy",
+        "name": "easy",
+        "order": 1,
+        "requiredScore": 75
+      },
+      {
+        "displayName": "Medium",
+        "name": "medium",
+        "order": 2,
+        "requiredScore": 55
+      },
+      {
+        "displayName": "Hard",
+        "name": "hard",
+        "order": 3,
+        "requiredScore": 30
+      }
+    ],
+    "totalQuestions": 90,
+    "questionsVersion": 0
+  },
+  {
+    "_id": "ks79zfx3j2jg8vgvjaaqn1gec180v8fe",
+    "levelNumber": 16,
+    "name": "Nouns: Case",
+    "description": "",
+    "groupId": "mh76vsmvqn4b6x5h2vnknst8fx80p099",
+    "isEnabled": true,
+    "difficulties": [
+      {
+        "displayName": "Easy",
+        "name": "easy",
+        "order": 1,
+        "requiredScore": 75
+      },
+      {
+        "displayName": "Medium",
+        "name": "medium",
+        "order": 2,
+        "requiredScore": 55
+      },
+      {
+        "displayName": "Hard",
+        "name": "hard",
+        "order": 3,
+        "requiredScore": 30
+      }
+    ],
+    "totalQuestions": 90,
+    "questionsVersion": 0
+  },
+  {
+    "_id": "ks7b5x1myjb42sqbp3v1dkehth80tv9g",
+    "levelNumber": 17,
+    "name": "Intermediate Pronouns",
+    "description": "",
+    "groupId": "mh76vsmvqn4b6x5h2vnknst8fx80p099",
+    "isEnabled": true,
+    "difficulties": [
+      {
+        "displayName": "Easy",
+        "name": "easy",
+        "order": 1,
+        "requiredScore": 75
+      },
+      {
+        "displayName": "Medium",
+        "name": "medium",
+        "order": 2,
+        "requiredScore": 55
+      },
+      {
+        "displayName": "Hard",
+        "name": "hard",
+        "order": 3,
+        "requiredScore": 30
+      }
+    ],
+    "totalQuestions": 90,
+    "questionsVersion": 0
+  },
+  {
+    "_id": "ks77m5kphqk9jvvwp08krb23d180t6ga",
+    "levelNumber": 18,
+    "name": "Intermediate Adjectives",
+    "description": "",
+    "groupId": "mh76vsmvqn4b6x5h2vnknst8fx80p099",
+    "isEnabled": true,
+    "difficulties": [
+      {
+        "displayName": "Easy",
+        "name": "easy",
+        "order": 1,
+        "requiredScore": 75
+      },
+      {
+        "displayName": "Medium",
+        "name": "medium",
+        "order": 2,
+        "requiredScore": 55
+      },
+      {
+        "displayName": "Hard",
+        "name": "hard",
+        "order": 3,
+        "requiredScore": 30
+      }
+    ],
+    "totalQuestions": 90,
+    "questionsVersion": 0
+  },
+  {
+    "_id": "ks7d5gdwexpvznay9p5dndkcyd80td0b",
+    "levelNumber": 19,
+    "name": "Intermediate Articles",
+    "description": "",
+    "groupId": "mh76vsmvqn4b6x5h2vnknst8fx80p099",
+    "isEnabled": true,
+    "difficulties": [
+      {
+        "displayName": "Easy",
+        "name": "easy",
+        "order": 1,
+        "requiredScore": 75
+      },
+      {
+        "displayName": "Medium",
+        "name": "medium",
+        "order": 2,
+        "requiredScore": 55
+      },
+      {
+        "displayName": "Hard",
+        "name": "hard",
+        "order": 3,
+        "requiredScore": 30
+      }
+    ],
+    "totalQuestions": 90,
+    "questionsVersion": 0
+  },
+  {
+    "_id": "ks76w74vv0sxmy4vc57ketg23n80vnny",
+    "levelNumber": 20,
+    "name": "Intermediate Verbs",
+    "description": "",
+    "groupId": "mh76vsmvqn4b6x5h2vnknst8fx80p099",
+    "isEnabled": true,
+    "difficulties": [
+      {
+        "displayName": "Easy",
+        "name": "easy",
+        "order": 1,
+        "requiredScore": 75
+      },
+      {
+        "displayName": "Medium",
+        "name": "medium",
+        "order": 2,
+        "requiredScore": 55
+      },
+      {
+        "displayName": "Hard",
+        "name": "hard",
+        "order": 3,
+        "requiredScore": 30
+      }
+    ],
+    "totalQuestions": 90,
+    "questionsVersion": 0
+  },
+  {
+    "_id": "ks74t9xhczq82f61x7b3vk5z9580w4hh",
+    "levelNumber": 21,
+    "name": "Tests",
+    "description": "",
+    "groupId": "mh76vsmvqn4b6x5h2vnknst8fx80p099",
+    "isEnabled": true,
+    "difficulties": [
+      {
+        "displayName": "Easy",
+        "name": "easy",
+        "order": 1,
+        "requiredScore": 75
+      },
+      {
+        "displayName": "Medium",
+        "name": "medium",
+        "order": 2,
+        "requiredScore": 55
+      },
+      {
+        "displayName": "Hard",
+        "name": "hard",
+        "order": 3,
+        "requiredScore": 30
+      }
+    ],
+    "totalQuestions": 1,
+    "questionsVersion": 1
+  }
+]

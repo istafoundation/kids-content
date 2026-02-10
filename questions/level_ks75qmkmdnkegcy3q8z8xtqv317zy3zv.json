@@ -1,0 +1,1941 @@
+{
+  "levelId": "ks75qmkmdnkegcy3q8z8xtqv317zy3zv",
+  "version": 0,
+  "publishedAt": 1770756023165,
+  "questions": {
+    "easy": [
+      {
+        "_creationTime": 1770662615595.3608,
+        "_id": "kn77e1qk4zm9fc9tcvpv2k7hhh80t5qt",
+        "createdAt": 1770662615595,
+        "data": {
+          "correctIndex": 1,
+          "explanation": "An adjective describes a noun. Clever describes a person.",
+          "options": [
+            "boy",
+            "clever",
+            "run",
+            "school"
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks75qmkmdnkegcy3q8z8xtqv317zy3zv",
+        "order": 1,
+        "question": "Which word is an adjective?",
+        "questionCode": "897892",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770662615595
+      },
+      {
+        "_creationTime": 1770662615595.361,
+        "_id": "kn761kc2ybcnvrcm0qtxe09q7180vnf5",
+        "createdAt": 1770662615595,
+        "data": {
+          "correctWords": [
+            "clever"
+          ],
+          "selectMode": "single",
+          "statement": "Balu is a clever boy."
+        },
+        "difficultyName": "easy",
+        "levelId": "ks75qmkmdnkegcy3q8z8xtqv317zy3zv",
+        "order": 2,
+        "question": "Select the adjective from the sentence.",
+        "questionCode": "434628",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770662615595
+      },
+      {
+        "_creationTime": 1770662615595.3613,
+        "_id": "kn70m7xt8qkx1ce763nm9ryh6h80vsm4",
+        "createdAt": 1770662615595,
+        "data": {
+          "correctIndex": 0,
+          "explanation": "Red describes the colour of the rose.",
+          "options": [
+            "red",
+            "smell",
+            "garden",
+            "grow"
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks75qmkmdnkegcy3q8z8xtqv317zy3zv",
+        "order": 3,
+        "question": "Which word describes the noun rose?",
+        "questionCode": "622477",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770662615595
+      },
+      {
+        "_creationTime": 1770662615595.3616,
+        "_id": "kn70b4183fj909xb1a30vc2rj180v6v5",
+        "createdAt": 1770662615595,
+        "data": {
+          "correctWords": [
+            "red"
+          ],
+          "selectMode": "single",
+          "statement": "She has a red rose."
+        },
+        "difficultyName": "easy",
+        "levelId": "ks75qmkmdnkegcy3q8z8xtqv317zy3zv",
+        "order": 4,
+        "question": "Select the adjective from the sentence.",
+        "questionCode": "653161",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770662615595
+      },
+      {
+        "_creationTime": 1770662615595.3618,
+        "_id": "kn74mss9m3rqzp7k0dsy8ydznh80tewt",
+        "createdAt": 1770662615595,
+        "data": {
+          "correctIndex": 1,
+          "explanation": "Heavy describes the noun metal.",
+          "options": [
+            "metal",
+            "heavy",
+            "lead",
+            "iron"
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks75qmkmdnkegcy3q8z8xtqv317zy3zv",
+        "order": 5,
+        "question": "Which word is a describing word?",
+        "questionCode": "989233",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770662615595
+      },
+      {
+        "_creationTime": 1770662615595.362,
+        "_id": "kn775knrz4cvyzjpanwgbqgss580ty29",
+        "createdAt": 1770662615595,
+        "data": {
+          "solution": "red,clever,small"
+        },
+        "difficultyName": "easy",
+        "levelId": "ks75qmkmdnkegcy3q8z8xtqv317zy3zv",
+        "order": 6,
+        "question": "Find following Adjectives from the grid : RED, CLEVER and SMALL",
+        "questionCode": "570356",
+        "questionType": "grid",
+        "status": "active",
+        "updatedAt": 1770662615595
+      },
+      {
+        "_creationTime": 1770662615595.3623,
+        "_id": "kn7ae61r59xjrf5a8e0ykyk36180tc7w",
+        "createdAt": 1770662615595,
+        "data": {
+          "correctWords": [
+            "noble"
+          ],
+          "selectMode": "single",
+          "statement": "The horse is a noble animal."
+        },
+        "difficultyName": "easy",
+        "levelId": "ks75qmkmdnkegcy3q8z8xtqv317zy3zv",
+        "order": 7,
+        "question": "Select the adjective from the sentence.",
+        "questionCode": "948262",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770662615595
+      },
+      {
+        "_creationTime": 1770662615595.3625,
+        "_id": "kn7888pfzdx8h7b7yq52ghxg3980vdgm",
+        "createdAt": 1770662615595,
+        "data": {
+          "correctIndex": 1,
+          "explanation": "Small describes the boy.",
+          "options": [
+            "boy",
+            "small",
+            "play",
+            "friend"
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks75qmkmdnkegcy3q8z8xtqv317zy3zv",
+        "order": 8,
+        "question": "Which word tells what kind of boy?",
+        "questionCode": "418766",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770662615595
+      },
+      {
+        "_creationTime": 1770662615595.3628,
+        "_id": "kn723z5f1ewpt911asxwg7xf1580vyqn",
+        "createdAt": 1770662615595,
+        "data": {
+          "correctWords": [
+            "big",
+            "sweet"
+          ],
+          "selectMode": "boxed",
+          "statement": "big boy sweet sing"
+        },
+        "difficultyName": "easy",
+        "levelId": "ks75qmkmdnkegcy3q8z8xtqv317zy3zv",
+        "order": 9,
+        "question": "Select all the adjectives from the list.",
+        "questionCode": "701652",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770662615595
+      },
+      {
+        "_creationTime": 1770662615595.363,
+        "_id": "kn7a3pps1m2n1p0zs0ryx5x4r580vp36",
+        "createdAt": 1770662615595,
+        "data": {
+          "correctIndex": 1,
+          "explanation": "Black describes a noun like dog.",
+          "options": [
+            "dog",
+            "black",
+            "bark",
+            "run"
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks75qmkmdnkegcy3q8z8xtqv317zy3zv",
+        "order": 10,
+        "question": "Which word is an adjective?",
+        "questionCode": "786152",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770662615595
+      },
+      {
+        "_creationTime": 1770662615595.3633,
+        "_id": "kn7bb4y0x4x4bzbb0fmsx4v0f980t5vk",
+        "createdAt": 1770662615595,
+        "data": {
+          "correctWords": [
+            "blue"
+          ],
+          "selectMode": "single",
+          "statement": "The sky is blue."
+        },
+        "difficultyName": "easy",
+        "levelId": "ks75qmkmdnkegcy3q8z8xtqv317zy3zv",
+        "order": 11,
+        "question": "Select the adjective from the sentence.",
+        "questionCode": "529781",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770662615595
+      },
+      {
+        "_creationTime": 1770662615595.3635,
+        "_id": "kn76g7bkvvy8nrv2g57zx704xd80tgnr",
+        "createdAt": 1770662615595,
+        "data": {
+          "correctIndex": 1,
+          "explanation": "",
+          "options": [
+            "cut",
+            "sharp",
+            "up",
+            "hold"
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks75qmkmdnkegcy3q8z8xtqv317zy3zv",
+        "order": 12,
+        "question": "Which word describes the noun knife?",
+        "questionCode": "106856",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770662615595
+      },
+      {
+        "_creationTime": 1770662615595.3638,
+        "_id": "kn79mbmqs73shbpk0v97m6eted80t269",
+        "createdAt": 1770662615595,
+        "data": {
+          "correctWords": [
+            "sweet"
+          ],
+          "selectMode": "single",
+          "statement": "She has a sweet voice."
+        },
+        "difficultyName": "easy",
+        "levelId": "ks75qmkmdnkegcy3q8z8xtqv317zy3zv",
+        "order": 13,
+        "question": "Select the adjective from the sentence.",
+        "questionCode": "123361",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770662615595
+      },
+      {
+        "_creationTime": 1770662615595.364,
+        "_id": "kn72eaxbjdpdf1pfhkb1s98gmh80thy2",
+        "createdAt": 1770662615595,
+        "data": {
+          "correctIndex": 1,
+          "explanation": "Hard describes the noun stone.",
+          "options": [
+            "stone",
+            "hard",
+            "break",
+            "hit"
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks75qmkmdnkegcy3q8z8xtqv317zy3zv",
+        "order": 14,
+        "question": "Which word is a describing word?",
+        "questionCode": "939763",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770662615595
+      },
+      {
+        "_creationTime": 1770662615595.3643,
+        "_id": "kn77hspvr4tqvb6bmxd4w6wsks80t353",
+        "createdAt": 1770662615595,
+        "data": {
+          "correctWords": [
+            "big"
+          ],
+          "selectMode": "single",
+          "statement": "This is a big house."
+        },
+        "difficultyName": "easy",
+        "levelId": "ks75qmkmdnkegcy3q8z8xtqv317zy3zv",
+        "order": 15,
+        "question": "Select the adjective from the sentence.",
+        "questionCode": "662292",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770662615595
+      },
+      {
+        "_creationTime": 1770662615595.3645,
+        "_id": "kn75tkwqxgbj48vvpjea7s9vq580t6gn",
+        "createdAt": 1770662615595,
+        "data": {
+          "correctIndex": 0,
+          "explanation": "Ripe describes the condition of the mango.",
+          "options": [
+            "ripe",
+            "eat",
+            "tree",
+            "grow"
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks75qmkmdnkegcy3q8z8xtqv317zy3zv",
+        "order": 16,
+        "question": "Which word describes the noun mango?",
+        "questionCode": "400245",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770662615595
+      },
+      {
+        "_creationTime": 1770662615595.3647,
+        "_id": "kn75bms3eghyqq3fsr2xsqmt0n80v314",
+        "createdAt": 1770662615595,
+        "data": {
+          "correctWords": [
+            "Ripe",
+            "sweet"
+          ],
+          "selectMode": "multiple",
+          "statement": "Ripe mangoes taste sweet."
+        },
+        "difficultyName": "easy",
+        "levelId": "ks75qmkmdnkegcy3q8z8xtqv317zy3zv",
+        "order": 17,
+        "question": "Select the adjective from the sentence.",
+        "questionCode": "868832",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770662615595
+      },
+      {
+        "_creationTime": 1770662615595.365,
+        "_id": "kn78f13t9g52vnrqt2c0wr4f0x80vak2",
+        "createdAt": 1770662615595,
+        "data": {
+          "correctIndex": 1,
+          "explanation": "Brave describes a person.",
+          "options": [
+            "child",
+            "brave",
+            "bravery",
+            "act"
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks75qmkmdnkegcy3q8z8xtqv317zy3zv",
+        "order": 18,
+        "question": "Which word is an adjective?",
+        "questionCode": "431597",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770662615595
+      },
+      {
+        "_creationTime": 1770662615595.3652,
+        "_id": "kn7e5hs0yrbdhdkc6spfe6j9bh80tvtc",
+        "createdAt": 1770662615595,
+        "data": {
+          "correctWords": [
+            "brave"
+          ],
+          "selectMode": "single",
+          "statement": "The brave soldier won the prize."
+        },
+        "difficultyName": "easy",
+        "levelId": "ks75qmkmdnkegcy3q8z8xtqv317zy3zv",
+        "order": 19,
+        "question": "Select the adjective from the sentence.",
+        "questionCode": "815407",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770662615595
+      },
+      {
+        "_creationTime": 1770662615595.3655,
+        "_id": "kn7cnwp49f694mwr5vh10qvxtd80tazc",
+        "createdAt": 1770662615595,
+        "data": {
+          "correctIndex": 1,
+          "explanation": "Beautiful describes the flower.",
+          "options": [
+            "smell",
+            "beautiful",
+            "garden",
+            "grow"
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks75qmkmdnkegcy3q8z8xtqv317zy3zv",
+        "order": 20,
+        "question": "Which word describes the noun flower?",
+        "questionCode": "986686",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770662615595
+      },
+      {
+        "_creationTime": 1770662615595.3657,
+        "_id": "kn72s7331v68d6ba5f2zz0ym4980tfq9",
+        "createdAt": 1770662615595,
+        "data": {
+          "correctWords": [
+            "beautiful"
+          ],
+          "selectMode": "single",
+          "statement": "She picked a beautiful flower."
+        },
+        "difficultyName": "easy",
+        "levelId": "ks75qmkmdnkegcy3q8z8xtqv317zy3zv",
+        "order": 21,
+        "question": "Select the adjective from the sentence.",
+        "questionCode": "281383",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770662615595
+      },
+      {
+        "_creationTime": 1770662615595.366,
+        "_id": "kn73n9gmebwzas3a863s848qxn80vpwz",
+        "createdAt": 1770662615595,
+        "data": {
+          "correctIndex": 1,
+          "explanation": "Heavy describes the noun box.",
+          "options": [
+            "box",
+            "heavy",
+            "lift",
+            "carry"
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks75qmkmdnkegcy3q8z8xtqv317zy3zv",
+        "order": 22,
+        "question": "Which word is a describing word?",
+        "questionCode": "450425",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770662615595
+      },
+      {
+        "_creationTime": 1770662615595.3662,
+        "_id": "kn7avycgbpjx861hqn61xzpwgd80t885",
+        "createdAt": 1770662615595,
+        "data": {
+          "correctWords": [
+            "heavy"
+          ],
+          "selectMode": "single",
+          "statement": "The box is heavy."
+        },
+        "difficultyName": "easy",
+        "levelId": "ks75qmkmdnkegcy3q8z8xtqv317zy3zv",
+        "order": 23,
+        "question": "Select the adjective from the sentence.",
+        "questionCode": "313134",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770662615595
+      },
+      {
+        "_creationTime": 1770662615595.3665,
+        "_id": "kn71smknk24vrx2ay317c528m180ttn9",
+        "createdAt": 1770662615595,
+        "data": {
+          "correctIndex": 1,
+          "explanation": "Long describes the road.",
+          "options": [
+            "walk",
+            "long",
+            "travel",
+            "bus"
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks75qmkmdnkegcy3q8z8xtqv317zy3zv",
+        "order": 24,
+        "question": "Which word describes the noun road?",
+        "questionCode": "617791",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770662615595
+      },
+      {
+        "_creationTime": 1770662615595.3667,
+        "_id": "kn751h557nfcbc5txerwbw5v1x80vsjz",
+        "createdAt": 1770662615595,
+        "data": {
+          "correctWords": [
+            "long"
+          ],
+          "selectMode": "single",
+          "statement": "It is a long road."
+        },
+        "difficultyName": "easy",
+        "levelId": "ks75qmkmdnkegcy3q8z8xtqv317zy3zv",
+        "order": 25,
+        "question": "Select the adjective from the sentence.",
+        "questionCode": "894980",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770662615595
+      },
+      {
+        "_creationTime": 1770662615595.367,
+        "_id": "kn7bffn0210n5psgmbevnr2gjh80t25a",
+        "createdAt": 1770662615595,
+        "data": {
+          "correctIndex": 1,
+          "explanation": "Cold describes the noun ice.",
+          "options": [
+            "ice",
+            "cold",
+            "melt",
+            "water"
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks75qmkmdnkegcy3q8z8xtqv317zy3zv",
+        "order": 26,
+        "question": "Which word is an adjective?",
+        "questionCode": "735988",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770662615595
+      },
+      {
+        "_creationTime": 1770662615595.3672,
+        "_id": "kn7e65fe33dzhpy2nkpbr3y3g180tq7b",
+        "createdAt": 1770662615595,
+        "data": {
+          "correctWords": [
+            "Cold"
+          ],
+          "selectMode": "single",
+          "statement": "Cold ice melts slowly."
+        },
+        "difficultyName": "easy",
+        "levelId": "ks75qmkmdnkegcy3q8z8xtqv317zy3zv",
+        "order": 27,
+        "question": "Select the adjective from the sentence.",
+        "questionCode": "203196",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770662615595
+      },
+      {
+        "_creationTime": 1770662615595.3674,
+        "_id": "kn7cmv7z5ssx7v2ebgyrnczrx180vrba",
+        "createdAt": 1770662615595,
+        "data": {
+          "correctWords": [
+            "loud"
+          ],
+          "selectMode": "single",
+          "statement": "There was a loud noise."
+        },
+        "difficultyName": "easy",
+        "levelId": "ks75qmkmdnkegcy3q8z8xtqv317zy3zv",
+        "order": 28,
+        "question": "Select the adjective from the sentence.",
+        "questionCode": "416494",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770662615595
+      },
+      {
+        "_creationTime": 1770662615595.3677,
+        "_id": "kn7a4h7e5jrrn3475f679jmg2180ttxr",
+        "createdAt": 1770662615595,
+        "data": {
+          "correctWords": [
+            "clear"
+          ],
+          "selectMode": "boxed",
+          "statement": "drink clear river flow"
+        },
+        "difficultyName": "easy",
+        "levelId": "ks75qmkmdnkegcy3q8z8xtqv317zy3zv",
+        "order": 29,
+        "question": "Which word describes the noun water?",
+        "questionCode": "148942",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770662615595
+      },
+      {
+        "_creationTime": 1770662615595.368,
+        "_id": "kn75ef3vsh1j8sbabwgjec2cxd80tsqn",
+        "createdAt": 1770662615595,
+        "data": {
+          "correctWords": [
+            "Sweet"
+          ],
+          "selectMode": "single",
+          "statement": "Sweet fruits are healthy."
+        },
+        "difficultyName": "easy",
+        "levelId": "ks75qmkmdnkegcy3q8z8xtqv317zy3zv",
+        "order": 30,
+        "question": "Select the adjective from the sentence.",
+        "questionCode": "881641",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770662615595
+      }
+    ],
+    "hard": [
+      {
+        "_creationTime": 1770662615595.3755,
+        "_id": "kn7dkjgjyw7m8zd7rd7z508tan80tqrc",
+        "createdAt": 1770662615595,
+        "data": {
+          "correctIndex": 1,
+          "explanation": "Which becomes an interrogative adjective when it comes before a noun and asks a question, e.g., Which book?",
+          "options": [
+            "red",
+            "which",
+            "mine",
+            "myself"
+          ]
+        },
+        "difficultyName": "hard",
+        "levelId": "ks75qmkmdnkegcy3q8z8xtqv317zy3zv",
+        "order": 1,
+        "question": "Which word is an interrogative adjective?",
+        "questionCode": "191882",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770662615595
+      },
+      {
+        "_creationTime": 1770662615595.3757,
+        "_id": "kn70wn212d0yxmfh50b4g8r4d180t150",
+        "createdAt": 1770662615595,
+        "data": {
+          "correctWords": [
+            "Which"
+          ],
+          "selectMode": "single",
+          "statement": "Which road leads to the station?"
+        },
+        "difficultyName": "hard",
+        "levelId": "ks75qmkmdnkegcy3q8z8xtqv317zy3zv",
+        "order": 2,
+        "question": "Select the interrogative adjective from the sentence.",
+        "questionCode": "815564",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770662615595
+      },
+      {
+        "_creationTime": 1770662615595.376,
+        "_id": "kn7bmdhvxt489t2fdjmbxnjwd580t497",
+        "createdAt": 1770662615595,
+        "data": {
+          "correctIndex": 2,
+          "explanation": "My shows ownership and comes before a noun. Mine is a pronoun, not an adjective.",
+          "options": [
+            "mine",
+            "me",
+            "my",
+            "myself"
+          ]
+        },
+        "difficultyName": "hard",
+        "levelId": "ks75qmkmdnkegcy3q8z8xtqv317zy3zv",
+        "order": 3,
+        "question": "Which word is a possessive adjective?",
+        "questionCode": "366569",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770662615595
+      },
+      {
+        "_creationTime": 1770662615595.3762,
+        "_id": "kn7cpm7m4k2g82w4609hj0jjk180t6x0",
+        "createdAt": 1770662615595,
+        "data": {
+          "correctWords": [
+            "my"
+          ],
+          "selectMode": "single",
+          "statement": "This is my bicycle."
+        },
+        "difficultyName": "hard",
+        "levelId": "ks75qmkmdnkegcy3q8z8xtqv317zy3zv",
+        "order": 4,
+        "question": "Select the possessive adjective from the sentence.",
+        "questionCode": "973903",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770662615595
+      },
+      {
+        "_creationTime": 1770662615595.3765,
+        "_id": "kn739a3j0zrqhhacd88jv5sr8980vm6m",
+        "createdAt": 1770662615595,
+        "data": {
+          "correctIndex": 1,
+          "explanation": "Comparative adjectives compare two things and usually end in -er for short adjectives.",
+          "options": [
+            "This box is heavy",
+            "This box is heavier than that one",
+            "This box is the heaviest",
+            "This box is more heavy"
+          ]
+        },
+        "difficultyName": "hard",
+        "levelId": "ks75qmkmdnkegcy3q8z8xtqv317zy3zv",
+        "order": 5,
+        "question": "Which sentence correctly uses a comparative adjective?",
+        "questionCode": "818105",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770662615595
+      },
+      {
+        "_creationTime": 1770662615595.3767,
+        "_id": "kn72tmre3pmcmf264xm933n61n80tj16",
+        "createdAt": 1770662615595,
+        "data": {
+          "correctIndex": 2,
+          "explanation": "Superlative adjectives compare three or more nouns to indicate the extreme limit of a quality. Superlative adjectives compare more than two and often end in -est.",
+          "options": [
+            "tall",
+            "taller",
+            "tallest",
+            "more tall"
+          ]
+        },
+        "difficultyName": "hard",
+        "levelId": "ks75qmkmdnkegcy3q8z8xtqv317zy3zv",
+        "order": 6,
+        "question": "Which word is a superlative adjective?",
+        "questionCode": "216802",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770662615595
+      },
+      {
+        "_creationTime": 1770662615595.377,
+        "_id": "kn73cnsh781awvnnfrqxx7nfe980tqee",
+        "createdAt": 1770662615595,
+        "data": {
+          "correctWords": [
+            "highest"
+          ],
+          "selectMode": "single",
+          "statement": "Mount Everest is the highest mountain."
+        },
+        "difficultyName": "hard",
+        "levelId": "ks75qmkmdnkegcy3q8z8xtqv317zy3zv",
+        "order": 7,
+        "question": "Select the adjective from the sentence.",
+        "questionCode": "837404",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770662615595
+      },
+      {
+        "_creationTime": 1770662615595.3772,
+        "_id": "kn7768t5h3mx20m5n1pn4h21fd80tmv8",
+        "createdAt": 1770662615595,
+        "data": {
+          "correctIndex": 1,
+          "explanation": "Better is the comparative form of good and is irregular.",
+          "options": [
+            "good",
+            "better",
+            "best",
+            "well"
+          ]
+        },
+        "difficultyName": "hard",
+        "levelId": "ks75qmkmdnkegcy3q8z8xtqv317zy3zv",
+        "order": 8,
+        "question": "Which word is a comparative adjective?",
+        "questionCode": "258138",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770662615595
+      },
+      {
+        "_creationTime": 1770662615595.3774,
+        "_id": "kn71wvyg3czvcy6j7pgjedebd580tvc6",
+        "createdAt": 1770662615595,
+        "data": {
+          "correctWords": [
+            "better"
+          ],
+          "selectMode": "single",
+          "statement": "This solution is better than the last one."
+        },
+        "difficultyName": "hard",
+        "levelId": "ks75qmkmdnkegcy3q8z8xtqv317zy3zv",
+        "order": 9,
+        "question": "Select the adjective from the sentence.",
+        "questionCode": "331706",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770662615595
+      },
+      {
+        "_creationTime": 1770662615595.3777,
+        "_id": "kn77xsjtgrf7ak0fbsf0zg43ps80tfnh",
+        "createdAt": 1770662615595,
+        "data": {
+          "correctIndex": 2,
+          "explanation": "Good has irregular forms: good → better → best.",
+          "options": [
+            "goodest",
+            "better",
+            "best",
+            "most good"
+          ]
+        },
+        "difficultyName": "hard",
+        "levelId": "ks75qmkmdnkegcy3q8z8xtqv317zy3zv",
+        "order": 10,
+        "question": "Which word is the superlative form of \"good\" ?",
+        "questionCode": "232975",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770662615595
+      },
+      {
+        "_creationTime": 1770662615595.378,
+        "_id": "kn70mcz1nrqddfsvfcs76exszx80t9bs",
+        "createdAt": 1770662615595,
+        "data": {
+          "correctWords": [
+            "best"
+          ],
+          "selectMode": "single",
+          "statement": "She is the best singer in the class."
+        },
+        "difficultyName": "hard",
+        "levelId": "ks75qmkmdnkegcy3q8z8xtqv317zy3zv",
+        "order": 11,
+        "question": "Select the adjective from the sentence.",
+        "questionCode": "461810",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770662615595
+      },
+      {
+        "_creationTime": 1770662615595.3782,
+        "_id": "kn771tzvpvh8dg2j4jaf7r03q180t56g",
+        "createdAt": 1770662615595,
+        "data": {
+          "correctIndex": 1,
+          "explanation": "For short adjectives like long, the comparative form uses -er.",
+          "options": [
+            "long",
+            "longer",
+            "longest",
+            "more long"
+          ]
+        },
+        "difficultyName": "hard",
+        "levelId": "ks75qmkmdnkegcy3q8z8xtqv317zy3zv",
+        "order": 12,
+        "question": "Which word correctly completes the comparison? \nThis road is ______ than that one.",
+        "questionCode": "607332",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770662615595
+      },
+      {
+        "_creationTime": 1770662615595.3784,
+        "_id": "kn70e7vwmteeytv4kn40h3kvnn80v3bc",
+        "createdAt": 1770662615595,
+        "data": {
+          "correctIndex": 2,
+          "explanation": "Superlative adjectives compare three or more nouns to indicate the extreme limit of a quality",
+          "options": [
+            "This is more cold day",
+            "This is colder day",
+            "This is the coldest day",
+            "This is coldest than yesterday"
+          ]
+        },
+        "difficultyName": "hard",
+        "levelId": "ks75qmkmdnkegcy3q8z8xtqv317zy3zv",
+        "order": 13,
+        "question": "Which sentence uses a superlative adjective correctly?",
+        "questionCode": "650788",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770662615595
+      },
+      {
+        "_creationTime": 1770662615595.3787,
+        "_id": "kn7380f64bnz6vd11rqkntc69n80v943",
+        "createdAt": 1770662615595,
+        "data": {
+          "correctIndex": 2,
+          "explanation": "Far becomes farther/further and farthest/furthest, not farer.",
+          "options": [
+            "tall",
+            "small",
+            "far",
+            "young"
+          ]
+        },
+        "difficultyName": "hard",
+        "levelId": "ks75qmkmdnkegcy3q8z8xtqv317zy3zv",
+        "order": 14,
+        "question": "Which adjective has irregular comparison?",
+        "questionCode": "435577",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770662615595
+      },
+      {
+        "_creationTime": 1770662615595.379,
+        "_id": "kn74dzdrbfamhjda4avbanf0d580tpav",
+        "createdAt": 1770662615595,
+        "data": {
+          "correctWords": [
+            "farther"
+          ],
+          "selectMode": "single",
+          "statement": "My house is farther from school."
+        },
+        "difficultyName": "hard",
+        "levelId": "ks75qmkmdnkegcy3q8z8xtqv317zy3zv",
+        "order": 15,
+        "question": "Select the adjective from the sentence.",
+        "questionCode": "494184",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770662615595
+      },
+      {
+        "_creationTime": 1770662615595.3792,
+        "_id": "kn75bc6533sw64hr7ghnd0gy8h80vgwv",
+        "createdAt": 1770662615595,
+        "data": {
+          "correctIndex": 1,
+          "explanation": "Elder is used for family relationships and not followed by than.",
+          "options": [
+            "He is elderer than me",
+            "He is the elder brother",
+            "He is more elder",
+            "He is elderest"
+          ]
+        },
+        "difficultyName": "hard",
+        "levelId": "ks75qmkmdnkegcy3q8z8xtqv317zy3zv",
+        "order": 16,
+        "question": "Which sentence uses elder correctly?",
+        "questionCode": "117932",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770662615595
+      },
+      {
+        "_creationTime": 1770662615595.3794,
+        "_id": "kn729gcy7v1g6pp1gg068g4fks80tfwy",
+        "createdAt": 1770662615595,
+        "data": {
+          "correctWords": [
+            "smallest"
+          ],
+          "selectMode": "single",
+          "statement": "This is the smallest room in the house."
+        },
+        "difficultyName": "hard",
+        "levelId": "ks75qmkmdnkegcy3q8z8xtqv317zy3zv",
+        "order": 17,
+        "question": "Select the adjective from the sentence.",
+        "questionCode": "132846",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770662615595
+      },
+      {
+        "_creationTime": 1770662615595.3796,
+        "_id": "kn79qeyyyjczegf2mt9x3nj13180tq7c",
+        "createdAt": 1770662615595,
+        "data": {
+          "solution": "good,better,best"
+        },
+        "difficultyName": "hard",
+        "levelId": "ks75qmkmdnkegcy3q8z8xtqv317zy3zv",
+        "order": 18,
+        "question": "Find all Degrees of Comparison for : Good",
+        "questionCode": "992893",
+        "questionType": "grid",
+        "status": "active",
+        "updatedAt": 1770662615595
+      },
+      {
+        "_creationTime": 1770662615595.38,
+        "_id": "kn783aryxhfxq17s7pdgrwv2cx80tne9",
+        "createdAt": 1770662615595,
+        "data": {
+          "correctIndex": 1,
+          "explanation": "Her comes before a noun and shows ownership, e.g., her book.",
+          "options": [
+            "hers",
+            "her",
+            "herself",
+            "she"
+          ]
+        },
+        "difficultyName": "hard",
+        "levelId": "ks75qmkmdnkegcy3q8z8xtqv317zy3zv",
+        "order": 19,
+        "question": "Which word is a possessive adjective?",
+        "questionCode": "179389",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770662615595
+      },
+      {
+        "_creationTime": 1770662615595.3801,
+        "_id": "kn7c2rdtatj3e8df6s0wzdpchx80tz38",
+        "createdAt": 1770662615595,
+        "data": {
+          "correctWords": [
+            "Their"
+          ],
+          "selectMode": "single",
+          "statement": "Their team won the match."
+        },
+        "difficultyName": "hard",
+        "levelId": "ks75qmkmdnkegcy3q8z8xtqv317zy3zv",
+        "order": 20,
+        "question": "Select the possessive adjective from the sentence.",
+        "questionCode": "508640",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770662615595
+      },
+      {
+        "_creationTime": 1770662615595.3804,
+        "_id": "kn7b4508wmaghz4hyevq861fcd80tv9n",
+        "createdAt": 1770662615595,
+        "data": {
+          "correctIndex": 0,
+          "explanation": "What becomes an adjective when it comes before a noun, e.g., What time?",
+          "options": [
+            "what",
+            "what is",
+            "whatever",
+            "that"
+          ]
+        },
+        "difficultyName": "hard",
+        "levelId": "ks75qmkmdnkegcy3q8z8xtqv317zy3zv",
+        "order": 21,
+        "question": "Which word is an interrogative adjective?",
+        "questionCode": "274358",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770662615595
+      },
+      {
+        "_creationTime": 1770662615595.3806,
+        "_id": "kn763re834f9hpge8nqy7vk9xd80vrps",
+        "createdAt": 1770662615595,
+        "data": {
+          "correctWords": [
+            "What"
+          ],
+          "selectMode": "single",
+          "statement": "What colour do you like?"
+        },
+        "difficultyName": "hard",
+        "levelId": "ks75qmkmdnkegcy3q8z8xtqv317zy3zv",
+        "order": 22,
+        "question": "Select the interrogative adjective from the sentence.",
+        "questionCode": "260773",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770662615595
+      },
+      {
+        "_creationTime": 1770662615595.3809,
+        "_id": "kn7chrwtdkfjjnfp8wh1j2kxcn80vept",
+        "createdAt": 1770662615595,
+        "data": {
+          "correctIndex": 2,
+          "explanation": "Some two-syllable adjectives form comparison using more.",
+          "options": [
+            "more happier",
+            "most happier",
+            "more happy",
+            "happyer"
+          ]
+        },
+        "difficultyName": "hard",
+        "levelId": "ks75qmkmdnkegcy3q8z8xtqv317zy3zv",
+        "order": 23,
+        "question": "Which sentence correctly uses more?",
+        "questionCode": "281789",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770662615595
+      },
+      {
+        "_creationTime": 1770662615595.381,
+        "_id": "kn720nec1s2ypy5qs7d617s0mn80tq9t",
+        "createdAt": 1770662615595,
+        "data": {
+          "solution": "worst"
+        },
+        "difficultyName": "hard",
+        "levelId": "ks75qmkmdnkegcy3q8z8xtqv317zy3zv",
+        "order": 24,
+        "question": "Find the superlative of bad?",
+        "questionCode": "111700",
+        "questionType": "grid",
+        "status": "active",
+        "updatedAt": 1770662615595
+      },
+      {
+        "_creationTime": 1770662615595.3813,
+        "_id": "kn7bzad59dxy2rcc0qr19bbj6h80thdb",
+        "createdAt": 1770662615595,
+        "data": {
+          "correctIndex": 1,
+          "explanation": "An interrogative adjective must come before a noun.",
+          "options": [
+            "Which is your book?",
+            "Which book is yours?",
+            "Which yours book?",
+            "Which you book?"
+          ]
+        },
+        "difficultyName": "hard",
+        "levelId": "ks75qmkmdnkegcy3q8z8xtqv317zy3zv",
+        "order": 25,
+        "question": "Which sentence uses an interrogative adjective correctly?",
+        "questionCode": "667611",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770662615595
+      },
+      {
+        "_creationTime": 1770662615595.3816,
+        "_id": "kn7856qrfw1t28d4nj6kwvdh0n80vqpe",
+        "createdAt": 1770662615595,
+        "data": {
+          "correctWords": [
+            "most",
+            "interesting"
+          ],
+          "selectMode": "single",
+          "statement": "This is the most interesting story."
+        },
+        "difficultyName": "hard",
+        "levelId": "ks75qmkmdnkegcy3q8z8xtqv317zy3zv",
+        "order": 26,
+        "question": "Select the adjective from the sentence.",
+        "questionCode": "238540",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770662615595
+      },
+      {
+        "_creationTime": 1770662615595.3818,
+        "_id": "kn7dwy3kyzrrhmy495fbhg83mx80vrpr",
+        "createdAt": 1770662615595,
+        "data": {
+          "correctIndex": 1,
+          "explanation": "Comparative adjectives are used when comparing two things.",
+          "options": [
+            "tall",
+            "taller",
+            "tallest",
+            "most tall"
+          ]
+        },
+        "difficultyName": "hard",
+        "levelId": "ks75qmkmdnkegcy3q8z8xtqv317zy3zv",
+        "order": 27,
+        "question": "Which adjective compares two objects only?",
+        "questionCode": "601817",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770662615595
+      },
+      {
+        "_creationTime": 1770662615595.382,
+        "_id": "kn7b4kr1s7ee4bef0v74kaypmh80t3rv",
+        "createdAt": 1770662615595,
+        "data": {
+          "correctIndex": 2,
+          "explanation": "Comparatives use -er + than.",
+          "options": [
+            "She is more taller",
+            "She is tallest than her sister",
+            "She is taller than her sister",
+            "She is tall than her sister"
+          ]
+        },
+        "difficultyName": "hard",
+        "levelId": "ks75qmkmdnkegcy3q8z8xtqv317zy3zv",
+        "order": 28,
+        "question": "Which sentence is grammatically correct?",
+        "questionCode": "567721",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770662615595
+      },
+      {
+        "_creationTime": 1770662615595.3823,
+        "_id": "kn7ddwp6hdbzws14yxb1n3ppdh80txcg",
+        "createdAt": 1770662615595,
+        "data": {
+          "correctWords": [
+            "oldest"
+          ],
+          "selectMode": "single",
+          "statement": "This is our oldest tree."
+        },
+        "difficultyName": "hard",
+        "levelId": "ks75qmkmdnkegcy3q8z8xtqv317zy3zv",
+        "order": 29,
+        "question": "Select the adjective from the sentence.",
+        "questionCode": "514761",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770662615595
+      },
+      {
+        "_creationTime": 1770662615595.3826,
+        "_id": "kn7es81tvdnbxknwtdwmfy81ys80t7ke",
+        "createdAt": 1770662615595,
+        "data": {
+          "correctIndex": 1,
+          "explanation": "Good has irregular forms; best is the correct superlative.",
+          "options": [
+            "This is the more best option",
+            "This is the best option",
+            "This is bestest option",
+            "This is more better option"
+          ]
+        },
+        "difficultyName": "hard",
+        "levelId": "ks75qmkmdnkegcy3q8z8xtqv317zy3zv",
+        "order": 30,
+        "question": "Which sentence uses comparison correctly?",
+        "questionCode": "753498",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770662615595
+      }
+    ],
+    "medium": [
+      {
+        "_creationTime": 1770662615595.3682,
+        "_id": "kn70y55qfgxn86d5jzkxxdpmpd80v15a",
+        "createdAt": 1770662615595,
+        "data": {
+          "correctIndex": 1,
+          "explanation": "Many tells how many people or things there are, so it is an adjective of number.",
+          "options": [
+            "sweet",
+            "many",
+            "heavy",
+            "honest"
+          ]
+        },
+        "difficultyName": "medium",
+        "levelId": "ks75qmkmdnkegcy3q8z8xtqv317zy3zv",
+        "order": 1,
+        "question": "Which word is an adjective of number?",
+        "questionCode": "240278",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770662615595
+      },
+      {
+        "_creationTime": 1770662615595.3684,
+        "_id": "kn77ksx9erhpq3qga2m7yj3djd80v4jt",
+        "createdAt": 1770662615595,
+        "data": {
+          "correctWords": [
+            "five"
+          ],
+          "selectMode": "single",
+          "statement": "There are five fingers on my hand."
+        },
+        "difficultyName": "medium",
+        "levelId": "ks75qmkmdnkegcy3q8z8xtqv317zy3zv",
+        "order": 2,
+        "question": "Select the adjective from the sentence.",
+        "questionCode": "784752",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770662615595
+      },
+      {
+        "_creationTime": 1770662615595.3687,
+        "_id": "kn74vna3g8zm22vd26r32qs64n80vgyp",
+        "createdAt": 1770662615595,
+        "data": {
+          "correctIndex": 2,
+          "explanation": "Some tells how much of something there is, not the exact number.",
+          "options": [
+            "tall",
+            "red",
+            "some",
+            "brave"
+          ]
+        },
+        "difficultyName": "medium",
+        "levelId": "ks75qmkmdnkegcy3q8z8xtqv317zy3zv",
+        "order": 3,
+        "question": "Which word is an adjective of quantity?",
+        "questionCode": "841401",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770662615595
+      },
+      {
+        "_creationTime": 1770662615595.369,
+        "_id": "kn72hswrys6m8e5rwx6rzz883x80tk87",
+        "createdAt": 1770662615595,
+        "data": {
+          "correctWords": [
+            "some"
+          ],
+          "selectMode": "single",
+          "statement": "There is some milk in the glass."
+        },
+        "difficultyName": "medium",
+        "levelId": "ks75qmkmdnkegcy3q8z8xtqv317zy3zv",
+        "order": 4,
+        "question": "Select the adjective from the sentence.",
+        "questionCode": "891672",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770662615595
+      },
+      {
+        "_creationTime": 1770662615595.3691,
+        "_id": "kn750hajfy3c3sgpngy0rhs89180v72v",
+        "createdAt": 1770662615595,
+        "data": {
+          "correctIndex": 2,
+          "explanation": "Honest tells what kind of person someone is.",
+          "options": [
+            "many",
+            "little",
+            "honest",
+            "three"
+          ]
+        },
+        "difficultyName": "medium",
+        "levelId": "ks75qmkmdnkegcy3q8z8xtqv317zy3zv",
+        "order": 5,
+        "question": "Which word is an adjective of quality?",
+        "questionCode": "777116",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770662615595
+      },
+      {
+        "_creationTime": 1770662615595.3694,
+        "_id": "kn76z62kn5dmr5qe07t2f80qt180v698",
+        "createdAt": 1770662615595,
+        "data": {
+          "correctWords": [
+            "honest"
+          ],
+          "selectMode": "single",
+          "statement": "He is an honest man."
+        },
+        "difficultyName": "medium",
+        "levelId": "ks75qmkmdnkegcy3q8z8xtqv317zy3zv",
+        "order": 6,
+        "question": "Select the adjective from the sentence.",
+        "questionCode": "870388",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770662615595
+      },
+      {
+        "_creationTime": 1770662615595.3696,
+        "_id": "kn7cdev2pw7bwn09e06jtqkz3s80vc31",
+        "createdAt": 1770662615595,
+        "data": {
+          "correctIndex": 2,
+          "explanation": "This points out a particular noun placed near the speaker.",
+          "options": [
+            "sweet",
+            "my",
+            "this",
+            "many"
+          ]
+        },
+        "difficultyName": "medium",
+        "levelId": "ks75qmkmdnkegcy3q8z8xtqv317zy3zv",
+        "order": 7,
+        "question": "Which word is a demonstrative adjective?",
+        "questionCode": "289752",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770662615595
+      },
+      {
+        "_creationTime": 1770662615595.3699,
+        "_id": "kn75r8bpka63py536xmgksxad980tpwm",
+        "createdAt": 1770662615595,
+        "data": {
+          "correctWords": [
+            "This",
+            "interesting"
+          ],
+          "selectMode": "multiple",
+          "statement": "This book is very interesting."
+        },
+        "difficultyName": "medium",
+        "levelId": "ks75qmkmdnkegcy3q8z8xtqv317zy3zv",
+        "order": 8,
+        "question": "Select the adjective from the sentence.",
+        "questionCode": "595317",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770662615595
+      },
+      {
+        "_creationTime": 1770662615595.37,
+        "_id": "kn7200k0e0rwdtzgg5e0g975ds80tt5d",
+        "createdAt": 1770662615595,
+        "data": {
+          "correctIndex": 2,
+          "explanation": "Few tells number, though not exact.",
+          "options": [
+            "little",
+            "blue",
+            "few",
+            "kind"
+          ]
+        },
+        "difficultyName": "medium",
+        "levelId": "ks75qmkmdnkegcy3q8z8xtqv317zy3zv",
+        "order": 9,
+        "question": "Which word tells how many?",
+        "questionCode": "923967",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770662615595
+      },
+      {
+        "_creationTime": 1770662615595.3704,
+        "_id": "kn7c4yhwnth7nbyf2hfx0w252n80t5er",
+        "createdAt": 1770662615595,
+        "data": {
+          "correctWords": [
+            "Few"
+          ],
+          "selectMode": "single",
+          "statement": "Few students were absent today."
+        },
+        "difficultyName": "medium",
+        "levelId": "ks75qmkmdnkegcy3q8z8xtqv317zy3zv",
+        "order": 10,
+        "question": "Select the adjective from the sentence.",
+        "questionCode": "504612",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770662615595
+      },
+      {
+        "_creationTime": 1770662615595.3706,
+        "_id": "kn7497dv28745esz1s3x608qrh80th3z",
+        "createdAt": 1770662615595,
+        "data": {
+          "correctWords": [
+            "much"
+          ],
+          "selectMode": "single",
+          "statement": "There is not much water left."
+        },
+        "difficultyName": "medium",
+        "levelId": "ks75qmkmdnkegcy3q8z8xtqv317zy3zv",
+        "order": 11,
+        "question": "Select the adjective from the sentence.",
+        "questionCode": "849390",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770662615595
+      },
+      {
+        "_creationTime": 1770662615595.3708,
+        "_id": "kn7fk68k5d2g7nrg06g79z3sx580ven3",
+        "createdAt": 1770662615595,
+        "data": {
+          "correctIndex": 0,
+          "explanation": "These points out nearby plural nouns.",
+          "options": [
+            "these",
+            "mine",
+            "they",
+            "us"
+          ]
+        },
+        "difficultyName": "medium",
+        "levelId": "ks75qmkmdnkegcy3q8z8xtqv317zy3zv",
+        "order": 12,
+        "question": "Which word is a demonstrative adjective?",
+        "questionCode": "462414",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770662615595
+      },
+      {
+        "_creationTime": 1770662615595.371,
+        "_id": "kn7f3pfxh9pgntvd5fd22aarnh80vetp",
+        "createdAt": 1770662615595,
+        "data": {
+          "correctWords": [
+            "These",
+            "fresh"
+          ],
+          "selectMode": "multiple",
+          "statement": "These apples are fresh."
+        },
+        "difficultyName": "medium",
+        "levelId": "ks75qmkmdnkegcy3q8z8xtqv317zy3zv",
+        "order": 13,
+        "question": "Select the adjective from the sentence.",
+        "questionCode": "241436",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770662615595
+      },
+      {
+        "_creationTime": 1770662615595.3713,
+        "_id": "kn7fa8qy9azcmkg38vrd8trjvn80vs24",
+        "createdAt": 1770662615595,
+        "data": {
+          "correctIndex": 1,
+          "explanation": "First is an adjective of number showing order.",
+          "options": [
+            "many",
+            "first",
+            "some",
+            "much"
+          ]
+        },
+        "difficultyName": "medium",
+        "levelId": "ks75qmkmdnkegcy3q8z8xtqv317zy3zv",
+        "order": 14,
+        "question": "Which word tells how many in order of placement?",
+        "questionCode": "903275",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770662615595
+      },
+      {
+        "_creationTime": 1770662615595.3716,
+        "_id": "kn79snevs40pkv6pxz19p17tz980vkfe",
+        "createdAt": 1770662615595,
+        "data": {
+          "correctWords": [
+            "first"
+          ],
+          "selectMode": "single",
+          "statement": "He stood first in the class."
+        },
+        "difficultyName": "medium",
+        "levelId": "ks75qmkmdnkegcy3q8z8xtqv317zy3zv",
+        "order": 15,
+        "question": "Select the adjective from the sentence.",
+        "questionCode": "972315",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770662615595
+      },
+      {
+        "_creationTime": 1770662615595.3718,
+        "_id": "kn772rqvcw11nn25mstrww6q5d80vkaq",
+        "createdAt": 1770662615595,
+        "data": {
+          "correctIndex": 0,
+          "explanation": "Enough tells the amount needed.",
+          "options": [
+            "enough",
+            "fast",
+            "red",
+            "tall"
+          ]
+        },
+        "difficultyName": "medium",
+        "levelId": "ks75qmkmdnkegcy3q8z8xtqv317zy3zv",
+        "order": 16,
+        "question": "Which word is an adjective of quantity?",
+        "questionCode": "936680",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770662615595
+      },
+      {
+        "_creationTime": 1770662615595.372,
+        "_id": "kn701t6bxxbr3erj47vd0y95jh80va4r",
+        "createdAt": 1770662615595,
+        "data": {
+          "correctIndex": 2,
+          "explanation": "That points to an object that is far away.",
+          "options": [
+            "this",
+            "these",
+            "that",
+            "my"
+          ]
+        },
+        "difficultyName": "medium",
+        "levelId": "ks75qmkmdnkegcy3q8z8xtqv317zy3zv",
+        "order": 17,
+        "question": "Which word is a demonstrative adjective for far objects?",
+        "questionCode": "869509",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770662615595
+      },
+      {
+        "_creationTime": 1770662615595.3723,
+        "_id": "kn7cpkf1bwk594wryd4s7swd0d80v2vw",
+        "createdAt": 1770662615595,
+        "data": {
+          "correctWords": [
+            "That"
+          ],
+          "selectMode": "single",
+          "statement": "That building is very old."
+        },
+        "difficultyName": "medium",
+        "levelId": "ks75qmkmdnkegcy3q8z8xtqv317zy3zv",
+        "order": 18,
+        "question": "Select the adjective from the sentence.",
+        "questionCode": "874178",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770662615595
+      },
+      {
+        "_creationTime": 1770662615595.3726,
+        "_id": "kn78kt4wvefbstsr5hdnhs963180vbww",
+        "createdAt": 1770662615595,
+        "data": {
+          "correctIndex": 2,
+          "explanation": "Five gives an exact number.",
+          "options": [
+            "many",
+            "few",
+            "five",
+            "some"
+          ]
+        },
+        "difficultyName": "medium",
+        "levelId": "ks75qmkmdnkegcy3q8z8xtqv317zy3zv",
+        "order": 19,
+        "question": "Which word tells how many exactly?",
+        "questionCode": "470001",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770662615595
+      },
+      {
+        "_creationTime": 1770662615595.3728,
+        "_id": "kn75we331fc8fm9wsttrbyt93580t78g",
+        "createdAt": 1770662615595,
+        "data": {
+          "correctWords": [
+            "two"
+          ],
+          "selectMode": "single",
+          "statement": "She bought two pens."
+        },
+        "difficultyName": "medium",
+        "levelId": "ks75qmkmdnkegcy3q8z8xtqv317zy3zv",
+        "order": 20,
+        "question": "Select the adjective from the sentence.",
+        "questionCode": "713617",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770662615595
+      },
+      {
+        "_creationTime": 1770662615595.373,
+        "_id": "kn7f1mbvc9zpfrcr8d053bapzx80t6yf",
+        "createdAt": 1770662615595,
+        "data": {
+          "correctWords": [
+            "little"
+          ],
+          "selectMode": "single",
+          "statement": "There is little sugar left."
+        },
+        "difficultyName": "medium",
+        "levelId": "ks75qmkmdnkegcy3q8z8xtqv317zy3zv",
+        "order": 21,
+        "question": "Select the adjective from the sentence.",
+        "questionCode": "112216",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770662615595
+      },
+      {
+        "_creationTime": 1770662615595.3733,
+        "_id": "kn73baz4t11egznpvn23a2x87s80v09q",
+        "createdAt": 1770662615595,
+        "data": {
+          "correctIndex": 2,
+          "explanation": "Kind describes what sort of person someone is.",
+          "options": [
+            "some",
+            "three",
+            "kind",
+            "many"
+          ]
+        },
+        "difficultyName": "medium",
+        "levelId": "ks75qmkmdnkegcy3q8z8xtqv317zy3zv",
+        "order": 22,
+        "question": "Which word is an adjective of quality?",
+        "questionCode": "249345",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770662615595
+      },
+      {
+        "_creationTime": 1770662615595.3735,
+        "_id": "kn7beakc0btx8r0sq54jh04zmd80vhd2",
+        "createdAt": 1770662615595,
+        "data": {
+          "correctWords": [
+            "kind"
+          ],
+          "selectMode": "single",
+          "statement": "She is a kind teacher."
+        },
+        "difficultyName": "medium",
+        "levelId": "ks75qmkmdnkegcy3q8z8xtqv317zy3zv",
+        "order": 23,
+        "question": "Select the adjective from the sentence.",
+        "questionCode": "232227",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770662615595
+      },
+      {
+        "_creationTime": 1770662615595.3738,
+        "_id": "kn71zkesgxfkkhmpakh3tr354580vrcd",
+        "createdAt": 1770662615595,
+        "data": {
+          "correctIndex": 0,
+          "explanation": "Those points to plural nouns that are far away.",
+          "options": [
+            "those",
+            "ours",
+            "us",
+            "we"
+          ]
+        },
+        "difficultyName": "medium",
+        "levelId": "ks75qmkmdnkegcy3q8z8xtqv317zy3zv",
+        "order": 24,
+        "question": "Which word is a demonstrative adjective?",
+        "questionCode": "348757",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770662615595
+      },
+      {
+        "_creationTime": 1770662615595.374,
+        "_id": "kn79at3aqe6qtth9vx01x05sfn80vykf",
+        "createdAt": 1770662615595,
+        "data": {
+          "correctWords": [
+            "Those"
+          ],
+          "selectMode": "single",
+          "statement": "Those houses are very old."
+        },
+        "difficultyName": "medium",
+        "levelId": "ks75qmkmdnkegcy3q8z8xtqv317zy3zv",
+        "order": 25,
+        "question": "Select the adjective from the sentence.",
+        "questionCode": "760914",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770662615595
+      },
+      {
+        "_creationTime": 1770662615595.3743,
+        "_id": "kn74wsj6tjm8q702nchn410cad80ttpg",
+        "createdAt": 1770662615595,
+        "data": {
+          "correctWords": [
+            "Many"
+          ],
+          "selectMode": "single",
+          "statement": "Many people attended the meeting."
+        },
+        "difficultyName": "medium",
+        "levelId": "ks75qmkmdnkegcy3q8z8xtqv317zy3zv",
+        "order": 26,
+        "question": "Select the adjective from the sentence.",
+        "questionCode": "893362",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770662615595
+      },
+      {
+        "_creationTime": 1770662615595.3745,
+        "_id": "kn735qrqh17vtnqrhsp7hwr6bd80t623",
+        "createdAt": 1770662615595,
+        "data": {
+          "correctIndex": 0,
+          "explanation": "Second shows order, so it is an adjective of number.",
+          "options": [
+            "second",
+            "sweet",
+            "heavy",
+            "kind"
+          ]
+        },
+        "difficultyName": "medium",
+        "levelId": "ks75qmkmdnkegcy3q8z8xtqv317zy3zv",
+        "order": 27,
+        "question": "Which word is an adjective of number?",
+        "questionCode": "302386",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770662615595
+      },
+      {
+        "_creationTime": 1770662615595.3748,
+        "_id": "kn74wv9dq23k95nx114a2qxqpd80vc6n",
+        "createdAt": 1770662615595,
+        "data": {
+          "correctWords": [
+            "second"
+          ],
+          "selectMode": "single",
+          "statement": "She won the second prize."
+        },
+        "difficultyName": "medium",
+        "levelId": "ks75qmkmdnkegcy3q8z8xtqv317zy3zv",
+        "order": 28,
+        "question": "Select the adjective from the sentence.",
+        "questionCode": "502047",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770662615595
+      },
+      {
+        "_creationTime": 1770662615595.375,
+        "_id": "kn7b8d86rheg37y8mknp8n7bmh80v5je",
+        "createdAt": 1770662615595,
+        "data": {
+          "correctIndex": 0,
+          "explanation": "Some tells an indefinite quantity.",
+          "options": [
+            "some",
+            "strong",
+            "sharp",
+            "tall"
+          ]
+        },
+        "difficultyName": "medium",
+        "levelId": "ks75qmkmdnkegcy3q8z8xtqv317zy3zv",
+        "order": 29,
+        "question": "Which word is an adjective of quantity?",
+        "questionCode": "378952",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770662615595
+      },
+      {
+        "_creationTime": 1770662615595.3752,
+        "_id": "kn73bb7s4m93maph3bkt88gv7d80vayv",
+        "createdAt": 1770662615595,
+        "data": {
+          "correctIndex": 0,
+          "explanation": "This points to a noun near the speaker.",
+          "options": [
+            "this",
+            "he",
+            "mine",
+            "who"
+          ]
+        },
+        "difficultyName": "medium",
+        "levelId": "ks75qmkmdnkegcy3q8z8xtqv317zy3zv",
+        "order": 30,
+        "question": "Which word is a demonstrative adjective?",
+        "questionCode": "193642",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770662615595
+      }
+    ]
+  }
+}

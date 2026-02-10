@@ -1,0 +1,1945 @@
+{
+  "levelId": "ks7bm3xry49endkyvgyhzwdsen7zycv2",
+  "version": 0,
+  "publishedAt": 1770756023586,
+  "questions": {
+    "easy": [
+      {
+        "_creationTime": 1770662618494.8472,
+        "_id": "kn711v65tg1nqsbspc93zeqgpd80vyme",
+        "createdAt": 1770662618495,
+        "data": {
+          "correctIndex": 1,
+          "explanation": "A gerund is formed by adding -ing to the base verb (e.g., swim -> swimming) but it behaves as a noun (subject, object, or complement) in the sentence. For example: \"Swimming is fun\" (Subject).",
+          "options": [
+            "A verb ending in -ed that acts as an adjective.",
+            "A verb ending in -ing that functions as a noun.",
+            "A verb preceded by \"to\" that functions as a noun.",
+            "A verb ending in -ing that acts as a main verb to show continuous action."
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks7bm3xry49endkyvgyhzwdsen7zycv2",
+        "order": 1,
+        "question": "What is a gerund in English grammar?",
+        "questionCode": "728546",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770662618495
+      },
+      {
+        "_creationTime": 1770662618494.8474,
+        "_id": "kn732kbdgae0n2vqqjxnpsdqc980vbbx",
+        "createdAt": 1770662618495,
+        "data": {
+          "correctIndex": 1,
+          "explanation": "A gerund is made by adding -ing to a verb.",
+          "options": [
+            "swim",
+            "swimming",
+            "swam",
+            "swims"
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks7bm3xry49endkyvgyhzwdsen7zycv2",
+        "order": 2,
+        "question": "Which word is a gerund?",
+        "questionCode": "775125",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770662618495
+      },
+      {
+        "_creationTime": 1770662618494.8477,
+        "_id": "kn7d35pq1jcet95h1cnfx8hjv980vkfz",
+        "createdAt": 1770662618495,
+        "data": {
+          "correctWords": [
+            "swimming"
+          ],
+          "selectMode": "single",
+          "statement": "I like swimming."
+        },
+        "difficultyName": "easy",
+        "levelId": "ks7bm3xry49endkyvgyhzwdsen7zycv2",
+        "order": 3,
+        "question": "Select the gerund from the sentence.",
+        "questionCode": "389792",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770662618495
+      },
+      {
+        "_creationTime": 1770662618494.848,
+        "_id": "kn7an73jc0deqmaff0tq661k9x80tfrx",
+        "createdAt": 1770662618495,
+        "data": {
+          "correctIndex": 2,
+          "explanation": "Dancing is a verb with -ing used as a noun.",
+          "options": [
+            "dance",
+            "danced",
+            "dancing",
+            "dancer"
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks7bm3xry49endkyvgyhzwdsen7zycv2",
+        "order": 4,
+        "question": "Which word is a gerund?",
+        "questionCode": "140383",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770662618495
+      },
+      {
+        "_creationTime": 1770662618494.8481,
+        "_id": "kn7d115j8qx8k9ec6ccnmk3rp180v8f6",
+        "createdAt": 1770662618495,
+        "data": {
+          "correctWords": [
+            "dancing"
+          ],
+          "selectMode": "single",
+          "statement": "She loves dancing."
+        },
+        "difficultyName": "easy",
+        "levelId": "ks7bm3xry49endkyvgyhzwdsen7zycv2",
+        "order": 5,
+        "question": "Select the gerund from the sentence.",
+        "questionCode": "841046",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770662618495
+      },
+      {
+        "_creationTime": 1770662618494.8484,
+        "_id": "kn79ra9yejck1vv5htskh3vpqn80t5zj",
+        "createdAt": 1770662618495,
+        "data": {
+          "correctIndex": 2,
+          "explanation": "A gerund must end with -ing.",
+          "options": [
+            "reading",
+            "writing",
+            "eat",
+            "playing"
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks7bm3xry49endkyvgyhzwdsen7zycv2",
+        "order": 6,
+        "question": "Which word is NOT a gerund?",
+        "questionCode": "860532",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770662618495
+      },
+      {
+        "_creationTime": 1770662618494.8486,
+        "_id": "kn7076hcce4n5725heqkkmyv2980trss",
+        "createdAt": 1770662618495,
+        "data": {
+          "correctWords": [
+            "reading"
+          ],
+          "selectMode": "single",
+          "statement": "He likes reading stories."
+        },
+        "difficultyName": "easy",
+        "levelId": "ks7bm3xry49endkyvgyhzwdsen7zycv2",
+        "order": 7,
+        "question": "Select the gerund from the sentence.",
+        "questionCode": "315356",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770662618495
+      },
+      {
+        "_creationTime": 1770662618494.8489,
+        "_id": "kn7fe6r7fdbc2qdp6qt2t6x2ds80v1x1",
+        "createdAt": 1770662618495,
+        "data": {
+          "correctIndex": 2,
+          "explanation": "Playing is a verb-noun form.",
+          "options": [
+            "play",
+            "player",
+            "playing",
+            "played"
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks7bm3xry49endkyvgyhzwdsen7zycv2",
+        "order": 8,
+        "question": "Which word is a gerund?",
+        "questionCode": "395233",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770662618495
+      },
+      {
+        "_creationTime": 1770662618494.849,
+        "_id": "kn7fmc8sx1vst88nebab863y9n80v6yf",
+        "createdAt": 1770662618495,
+        "data": {
+          "correctWords": [
+            "playing"
+          ],
+          "selectMode": "single",
+          "statement": "Children love playing football."
+        },
+        "difficultyName": "easy",
+        "levelId": "ks7bm3xry49endkyvgyhzwdsen7zycv2",
+        "order": 9,
+        "question": "Select the gerund from the sentence.",
+        "questionCode": "594514",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770662618495
+      },
+      {
+        "_creationTime": 1770662618494.8494,
+        "_id": "kn726v25a8k25n5edjy201cqmh80vg52",
+        "createdAt": 1770662618495,
+        "data": {
+          "correctIndex": 2,
+          "explanation": "Cooking is made from cook + ing.",
+          "options": [
+            "cook",
+            "cooked",
+            "cooking",
+            "cooks"
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks7bm3xry49endkyvgyhzwdsen7zycv2",
+        "order": 10,
+        "question": "Which word shows a gerund?",
+        "questionCode": "894854",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770662618495
+      },
+      {
+        "_creationTime": 1770662618494.8496,
+        "_id": "kn7161q2586bab5608ftxzryjn80v081",
+        "createdAt": 1770662618495,
+        "data": {
+          "correctWords": [
+            "cooking"
+          ],
+          "selectMode": "single",
+          "statement": "She enjoys cooking food."
+        },
+        "difficultyName": "easy",
+        "levelId": "ks7bm3xry49endkyvgyhzwdsen7zycv2",
+        "order": 11,
+        "question": "Select the gerund from the sentence.",
+        "questionCode": "720843",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770662618495
+      },
+      {
+        "_creationTime": 1770662618494.8499,
+        "_id": "kn74ghv6ckafzbaa4yfwbx10ns80ve7m",
+        "createdAt": 1770662618495,
+        "data": {
+          "correctIndex": 2,
+          "explanation": "Singing names an activity.",
+          "options": [
+            "sing",
+            "song",
+            "singing",
+            "singer"
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks7bm3xry49endkyvgyhzwdsen7zycv2",
+        "order": 12,
+        "question": "Which word is a gerund?",
+        "questionCode": "510808",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770662618495
+      },
+      {
+        "_creationTime": 1770662618494.85,
+        "_id": "kn7dypv8y9m58n7maz59bv964x80vm76",
+        "createdAt": 1770662618495,
+        "data": {
+          "correctWords": [
+            "singing"
+          ],
+          "selectMode": "single",
+          "statement": "He likes singing songs."
+        },
+        "difficultyName": "easy",
+        "levelId": "ks7bm3xry49endkyvgyhzwdsen7zycv2",
+        "order": 13,
+        "question": "Select the gerund from the sentence.",
+        "questionCode": "144580",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770662618495
+      },
+      {
+        "_creationTime": 1770662618494.8503,
+        "_id": "kn7drresgn1b8d4v78abt3657580vf87",
+        "createdAt": 1770662618495,
+        "data": {
+          "correctIndex": 1,
+          "explanation": "Riding is a verb used as a noun.",
+          "options": [
+            "ride",
+            "riding",
+            "rider",
+            "rode"
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks7bm3xry49endkyvgyhzwdsen7zycv2",
+        "order": 14,
+        "question": "Which word is a gerund?",
+        "questionCode": "408141",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770662618495
+      },
+      {
+        "_creationTime": 1770662618494.8506,
+        "_id": "kn788tpnga9184zqchttgp35tn80tm6a",
+        "createdAt": 1770662618495,
+        "data": {
+          "correctWords": [
+            "riding"
+          ],
+          "selectMode": "single",
+          "statement": "Rama likes riding a bicycle."
+        },
+        "difficultyName": "easy",
+        "levelId": "ks7bm3xry49endkyvgyhzwdsen7zycv2",
+        "order": 15,
+        "question": "Select the gerund from the sentence.",
+        "questionCode": "245523",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770662618495
+      },
+      {
+        "_creationTime": 1770662618494.8508,
+        "_id": "kn74ggacwd6pb9xeqvk0km53kx80vhk3",
+        "createdAt": 1770662618495,
+        "data": {
+          "correctIndex": 2,
+          "explanation": "Reading is the activity name.",
+          "options": [
+            "read",
+            "reader",
+            "reading",
+            "reads"
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks7bm3xry49endkyvgyhzwdsen7zycv2",
+        "order": 16,
+        "question": "Which word is a gerund?",
+        "questionCode": "640617",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770662618495
+      },
+      {
+        "_creationTime": 1770662618494.851,
+        "_id": "kn7ds80q739vva2qgv3qnfwqt580v468",
+        "createdAt": 1770662618495,
+        "data": {
+          "correctWords": [
+            "reading"
+          ],
+          "selectMode": "single",
+          "statement": "My favourite hobby is reading."
+        },
+        "difficultyName": "easy",
+        "levelId": "ks7bm3xry49endkyvgyhzwdsen7zycv2",
+        "order": 17,
+        "question": "Select the gerund from the sentence.",
+        "questionCode": "628252",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770662618495
+      },
+      {
+        "_creationTime": 1770662618494.8513,
+        "_id": "kn77csb3csk5m8z3gvmfyamns180v9p7",
+        "createdAt": 1770662618495,
+        "data": {
+          "correctIndex": 3,
+          "explanation": "Painting is a verb-noun.",
+          "options": [
+            "paint",
+            "painter",
+            "painted",
+            "painting"
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks7bm3xry49endkyvgyhzwdsen7zycv2",
+        "order": 18,
+        "question": "Which word is a gerund?",
+        "questionCode": "893290",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770662618495
+      },
+      {
+        "_creationTime": 1770662618494.8516,
+        "_id": "kn722cx0qt0j0y478zv7a2xj9980tmy0",
+        "createdAt": 1770662618495,
+        "data": {
+          "correctWords": [
+            "painting"
+          ],
+          "selectMode": "single",
+          "statement": "She is good at painting."
+        },
+        "difficultyName": "easy",
+        "levelId": "ks7bm3xry49endkyvgyhzwdsen7zycv2",
+        "order": 19,
+        "question": "Select the gerund from the sentence.",
+        "questionCode": "713816",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770662618495
+      },
+      {
+        "_creationTime": 1770662618494.8518,
+        "_id": "kn74cm565q1jq3dqhks9cgtnp580tg3r",
+        "createdAt": 1770662618495,
+        "data": {
+          "correctIndex": 2,
+          "explanation": "Fishing names an activity.",
+          "options": [
+            "fish",
+            "fished",
+            "fishing",
+            "fishes"
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks7bm3xry49endkyvgyhzwdsen7zycv2",
+        "order": 20,
+        "question": "Which word is a gerund?",
+        "questionCode": "114898",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770662618495
+      },
+      {
+        "_creationTime": 1770662618494.852,
+        "_id": "kn7dsmz1b4hwr45p81krw115t980t5m6",
+        "createdAt": 1770662618495,
+        "data": {
+          "correctWords": [
+            "fishing"
+          ],
+          "selectMode": "single",
+          "statement": "He enjoys fishing in the river."
+        },
+        "difficultyName": "easy",
+        "levelId": "ks7bm3xry49endkyvgyhzwdsen7zycv2",
+        "order": 21,
+        "question": "Select the gerund from the sentence.",
+        "questionCode": "411429",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770662618495
+      },
+      {
+        "_creationTime": 1770662618494.8523,
+        "_id": "kn77797y660rbm5ybvcjcxzazd80vptj",
+        "createdAt": 1770662618495,
+        "data": {
+          "correctIndex": 2,
+          "explanation": "Sleeping is a verb used as a noun.",
+          "options": [
+            "sleep",
+            "slept",
+            "sleeping",
+            "sleeps"
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks7bm3xry49endkyvgyhzwdsen7zycv2",
+        "order": 22,
+        "question": "Which word is a gerund?",
+        "questionCode": "164964",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770662618495
+      },
+      {
+        "_creationTime": 1770662618494.8525,
+        "_id": "kn796zm2zshz7v32yghsf9dxg980t3ra",
+        "createdAt": 1770662618495,
+        "data": {
+          "correctWords": [
+            "sleeping"
+          ],
+          "selectMode": "single",
+          "statement": "My dog loves sleeping by the fire."
+        },
+        "difficultyName": "easy",
+        "levelId": "ks7bm3xry49endkyvgyhzwdsen7zycv2",
+        "order": 23,
+        "question": "Select the gerund from the sentence.",
+        "questionCode": "665189",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770662618495
+      },
+      {
+        "_creationTime": 1770662618494.8528,
+        "_id": "kn7a4361zvkkmx36de61atah4n80v6r7",
+        "createdAt": 1770662618495,
+        "data": {
+          "correctIndex": 1,
+          "explanation": "Laughing is the -ing form used as a noun.",
+          "options": [
+            "laugh",
+            "laughing",
+            "laughed",
+            "laughs"
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks7bm3xry49endkyvgyhzwdsen7zycv2",
+        "order": 24,
+        "question": "Which word is a gerund?",
+        "questionCode": "412747",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770662618495
+      },
+      {
+        "_creationTime": 1770662618494.853,
+        "_id": "kn73h7wcn6zvt08whadz48qtsx80vvt4",
+        "createdAt": 1770662618495,
+        "data": {
+          "correctWords": [
+            "laughing"
+          ],
+          "selectMode": "single",
+          "statement": "Children enjoy laughing together."
+        },
+        "difficultyName": "easy",
+        "levelId": "ks7bm3xry49endkyvgyhzwdsen7zycv2",
+        "order": 25,
+        "question": "Select the gerund from the sentence.",
+        "questionCode": "831546",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770662618495
+      },
+      {
+        "_creationTime": 1770662618494.8533,
+        "_id": "kn78x411jy7sxasykxb17my70x80vq8w",
+        "createdAt": 1770662618495,
+        "data": {
+          "correctWords": [
+            "Travelling"
+          ],
+          "selectMode": "single",
+          "statement": "Travelling widens our knowledge."
+        },
+        "difficultyName": "easy",
+        "levelId": "ks7bm3xry49endkyvgyhzwdsen7zycv2",
+        "order": 26,
+        "question": "Select the gerund from the sentence.",
+        "questionCode": "454200",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770662618495
+      },
+      {
+        "_creationTime": 1770662618494.8535,
+        "_id": "kn7fd7jtb94zj8ddygq8tkcc8n80tv9k",
+        "createdAt": 1770662618495,
+        "data": {
+          "correctIndex": 1,
+          "explanation": "Flying is formed with -ing.",
+          "options": [
+            "fly",
+            "flying",
+            "flew",
+            "flies"
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks7bm3xry49endkyvgyhzwdsen7zycv2",
+        "order": 27,
+        "question": "Which word is a gerund?",
+        "questionCode": "840277",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770662618495
+      },
+      {
+        "_creationTime": 1770662618494.8538,
+        "_id": "kn744sk85an4h76g1nk5d76r5x80tk3r",
+        "createdAt": 1770662618495,
+        "data": {
+          "correctWords": [
+            "Flying"
+          ],
+          "selectMode": "single",
+          "statement": "Flying makes me nervous."
+        },
+        "difficultyName": "easy",
+        "levelId": "ks7bm3xry49endkyvgyhzwdsen7zycv2",
+        "order": 28,
+        "question": "Select the gerund from the sentence.",
+        "questionCode": "545846",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770662618495
+      },
+      {
+        "_creationTime": 1770662618494.854,
+        "_id": "kn78wh677w75979mbyse9psw1180tswd",
+        "createdAt": 1770662618495,
+        "data": {
+          "correctIndex": 2,
+          "explanation": "Waiting ends in -ing and acts like a noun.",
+          "options": [
+            "wait",
+            "waited",
+            "waiting",
+            "waits"
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks7bm3xry49endkyvgyhzwdsen7zycv2",
+        "order": 29,
+        "question": "Which word is a gerund?",
+        "questionCode": "397728",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770662618495
+      },
+      {
+        "_creationTime": 1770662618494.8542,
+        "_id": "kn74s7emy2nbteppa6vkzq3z1980t67a",
+        "createdAt": 1770662618495,
+        "data": {
+          "correctWords": [
+            "waiting"
+          ],
+          "selectMode": "single",
+          "statement": "There is no use in waiting."
+        },
+        "difficultyName": "easy",
+        "levelId": "ks7bm3xry49endkyvgyhzwdsen7zycv2",
+        "order": 30,
+        "question": "Select the gerund from the sentence.",
+        "questionCode": "158896",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770662618495
+      }
+    ],
+    "hard": [
+      {
+        "_creationTime": 1770662618494.8618,
+        "_id": "kn7ar832eq3k1v293dwr5fy76x80vtne",
+        "createdAt": 1770662618495,
+        "data": {
+          "correctIndex": 2,
+          "explanation": "Swimming names an activity and acts like a noun.",
+          "options": [
+            "is",
+            "good",
+            "swimming",
+            "health"
+          ]
+        },
+        "difficultyName": "hard",
+        "levelId": "ks7bm3xry49endkyvgyhzwdsen7zycv2",
+        "order": 1,
+        "question": "Which word is a gerund in the sentence? \nSwimming is good for health.",
+        "questionCode": "734695",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770662618495
+      },
+      {
+        "_creationTime": 1770662618494.862,
+        "_id": "kn72094c1drn1z45c53cpnddv980vcrr",
+        "createdAt": 1770662618495,
+        "data": {
+          "correctWords": [
+            "Walking"
+          ],
+          "selectMode": "single",
+          "statement": "Walking every day keeps us fit."
+        },
+        "difficultyName": "hard",
+        "levelId": "ks7bm3xry49endkyvgyhzwdsen7zycv2",
+        "order": 2,
+        "question": "Select the gerund from the sentence.",
+        "questionCode": "791385",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770662618495
+      },
+      {
+        "_creationTime": 1770662618494.8623,
+        "_id": "kn77wjw99j5fs68wz4jdrrw1r180vfq5",
+        "createdAt": 1770662618495,
+        "data": {
+          "correctIndex": 1,
+          "explanation": "After enjoys, we use the -ing form.",
+          "options": [
+            "He enjoys to swim",
+            "He enjoys swimming",
+            "He enjoy swim",
+            "He enjoying swim"
+          ]
+        },
+        "difficultyName": "hard",
+        "levelId": "ks7bm3xry49endkyvgyhzwdsen7zycv2",
+        "order": 3,
+        "question": "Which sentence uses a gerund correctly?",
+        "questionCode": "717458",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770662618495
+      },
+      {
+        "_creationTime": 1770662618494.8625,
+        "_id": "kn71ka733054jt9xp0ks9t1dqh80tea2",
+        "createdAt": 1770662618495,
+        "data": {
+          "correctWords": [
+            "painting"
+          ],
+          "selectMode": "single",
+          "statement": "She enjoys painting pictures."
+        },
+        "difficultyName": "hard",
+        "levelId": "ks7bm3xry49endkyvgyhzwdsen7zycv2",
+        "order": 4,
+        "question": "Select the gerund from the sentence.",
+        "questionCode": "794060",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770662618495
+      },
+      {
+        "_creationTime": 1770662618494.8628,
+        "_id": "kn7cp6ydd4rs116mhdhjhptq5n80vwqm",
+        "createdAt": 1770662618495,
+        "data": {
+          "correctIndex": 3,
+          "explanation": "After for, the -ing form is used as a noun.",
+          "options": [
+            "boy",
+            "punished",
+            "for",
+            "lying"
+          ]
+        },
+        "difficultyName": "hard",
+        "levelId": "ks7bm3xry49endkyvgyhzwdsen7zycv2",
+        "order": 5,
+        "question": "Which word is a gerund here? \nThe boy was punished for lying.",
+        "questionCode": "957968",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770662618495
+      },
+      {
+        "_creationTime": 1770662618494.863,
+        "_id": "kn70k0qsts22yy2nr8y781mejh80tz7f",
+        "createdAt": 1770662618495,
+        "data": {
+          "correctWords": [
+            "saying"
+          ],
+          "selectMode": "single",
+          "statement": "He left without saying goodbye."
+        },
+        "difficultyName": "hard",
+        "levelId": "ks7bm3xry49endkyvgyhzwdsen7zycv2",
+        "order": 6,
+        "question": "Select the gerund from the sentence.",
+        "questionCode": "890203",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770662618495
+      },
+      {
+        "_creationTime": 1770662618494.8633,
+        "_id": "kn70ysq00xa5shk695mc6y8fb180vn7k",
+        "createdAt": 1770662618495,
+        "data": {
+          "correctIndex": 1,
+          "explanation": "Here, smoking means he gave up the habit.",
+          "options": [
+            "He stopped to smoke",
+            "He stopped smoking",
+            "Both are same",
+            "Neither is correct"
+          ]
+        },
+        "difficultyName": "hard",
+        "levelId": "ks7bm3xry49endkyvgyhzwdsen7zycv2",
+        "order": 7,
+        "question": "Which sentence shows a difference in meaning?",
+        "questionCode": "331234",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770662618495
+      },
+      {
+        "_creationTime": 1770662618494.8635,
+        "_id": "kn7emcp3vcvmsaxadvj47bnth980trf6",
+        "createdAt": 1770662618495,
+        "data": {
+          "correctWords": [
+            "smoking"
+          ],
+          "selectMode": "single",
+          "statement": "The man stopped smoking."
+        },
+        "difficultyName": "hard",
+        "levelId": "ks7bm3xry49endkyvgyhzwdsen7zycv2",
+        "order": 8,
+        "question": "Select the gerund from the sentence.",
+        "questionCode": "617009",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770662618495
+      },
+      {
+        "_creationTime": 1770662618494.8638,
+        "_id": "kn7ejdtnkjkv3mhavfbpmy0k4180tx4p",
+        "createdAt": 1770662618495,
+        "data": {
+          "correctIndex": 1,
+          "explanation": "After avoided, we use the -ing form.",
+          "options": [
+            "She avoided to answer",
+            "She avoided answering",
+            "She avoid answer",
+            "She avoiding answer"
+          ]
+        },
+        "difficultyName": "hard",
+        "levelId": "ks7bm3xry49endkyvgyhzwdsen7zycv2",
+        "order": 9,
+        "question": "Which sentence correctly uses a gerund after a verb?",
+        "questionCode": "465122",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770662618495
+      },
+      {
+        "_creationTime": 1770662618494.864,
+        "_id": "kn72cjx5s22hfsbyjtr8btf6cn80t933",
+        "createdAt": 1770662618495,
+        "data": {
+          "correctWords": [
+            "meeting"
+          ],
+          "selectMode": "single",
+          "statement": "He avoided meeting her."
+        },
+        "difficultyName": "hard",
+        "levelId": "ks7bm3xry49endkyvgyhzwdsen7zycv2",
+        "order": 10,
+        "question": "Select the gerund from the sentence.",
+        "questionCode": "808766",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770662618495
+      },
+      {
+        "_creationTime": 1770662618494.8643,
+        "_id": "kn77ewgacysqthc5a4bc2tn4js80tt7r",
+        "createdAt": 1770662618495,
+        "data": {
+          "correctIndex": 0,
+          "explanation": "Reading acts as the subject of the sentence.",
+          "options": [
+            "reading",
+            "before",
+            "bed",
+            "relaxing"
+          ]
+        },
+        "difficultyName": "hard",
+        "levelId": "ks7bm3xry49endkyvgyhzwdsen7zycv2",
+        "order": 11,
+        "question": "Which word is a gerund here? \nReading before bed is relaxing.",
+        "questionCode": "857418",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770662618495
+      },
+      {
+        "_creationTime": 1770662618494.8645,
+        "_id": "kn73z441h9tc7yratgzwvv8jq580vxm9",
+        "createdAt": 1770662618495,
+        "data": {
+          "correctWords": [
+            "Climbing"
+          ],
+          "selectMode": "single",
+          "statement": "Climbing mountains needs courage."
+        },
+        "difficultyName": "hard",
+        "levelId": "ks7bm3xry49endkyvgyhzwdsen7zycv2",
+        "order": 12,
+        "question": "Select the gerund from the sentence.",
+        "questionCode": "379689",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770662618495
+      },
+      {
+        "_creationTime": 1770662618494.8647,
+        "_id": "kn7d5rfrp6mfexrjhk598eb75d80v08y",
+        "createdAt": 1770662618495,
+        "data": {
+          "correctIndex": 1,
+          "explanation": "Here, locking shows the action already remembered.",
+          "options": [
+            "I remember to lock the door",
+            "I remember locking the door",
+            "Both are correct",
+            "None are correct"
+          ]
+        },
+        "difficultyName": "hard",
+        "levelId": "ks7bm3xry49endkyvgyhzwdsen7zycv2",
+        "order": 13,
+        "question": "Which sentence is correct?",
+        "questionCode": "471953",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770662618495
+      },
+      {
+        "_creationTime": 1770662618494.865,
+        "_id": "kn78bm8dwvrykb7ahvbdbzmjsx80v68c",
+        "createdAt": 1770662618495,
+        "data": {
+          "correctWords": [
+            "meeting"
+          ],
+          "selectMode": "single",
+          "statement": "She remembers meeting him."
+        },
+        "difficultyName": "hard",
+        "levelId": "ks7bm3xry49endkyvgyhzwdsen7zycv2",
+        "order": 14,
+        "question": "Select the gerund from the sentence.",
+        "questionCode": "750499",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770662618495
+      },
+      {
+        "_creationTime": 1770662618494.8652,
+        "_id": "kn73hkaw38agqfqxnfgbchen0h80vzfx",
+        "createdAt": 1770662618495,
+        "data": {
+          "correctIndex": 2,
+          "explanation": "After of, the activity form is used.",
+          "options": [
+            "afraid",
+            "of",
+            "falling",
+            "he"
+          ]
+        },
+        "difficultyName": "hard",
+        "levelId": "ks7bm3xry49endkyvgyhzwdsen7zycv2",
+        "order": 15,
+        "question": "Which word is a gerund after a preposition? \nHe is afraid of falling.",
+        "questionCode": "914191",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770662618495
+      },
+      {
+        "_creationTime": 1770662618494.8655,
+        "_id": "kn7285yjy20ahyp3m5msejgsrs80vx4t",
+        "createdAt": 1770662618495,
+        "data": {
+          "correctWords": [
+            "learning"
+          ],
+          "selectMode": "single",
+          "statement": "She is interested in learning music."
+        },
+        "difficultyName": "hard",
+        "levelId": "ks7bm3xry49endkyvgyhzwdsen7zycv2",
+        "order": 16,
+        "question": "Select the gerund from the sentence.",
+        "questionCode": "758602",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770662618495
+      },
+      {
+        "_creationTime": 1770662618494.8657,
+        "_id": "kn74y2ha9gkn4gp6axjdfgjkc580v81e",
+        "createdAt": 1770662618495,
+        "data": {
+          "correctIndex": 1,
+          "explanation": "Running acts like the name of an activity.",
+          "options": [
+            "He is running",
+            "Running is fun",
+            "He runs fast",
+            "The race started"
+          ]
+        },
+        "difficultyName": "hard",
+        "levelId": "ks7bm3xry49endkyvgyhzwdsen7zycv2",
+        "order": 17,
+        "question": "Which sentence uses a gerund as a subject?",
+        "questionCode": "518852",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770662618495
+      },
+      {
+        "_creationTime": 1770662618494.866,
+        "_id": "kn7933nqtbv5wc69dvfnypff6980trt8",
+        "createdAt": 1770662618495,
+        "data": {
+          "correctWords": [
+            "Eating"
+          ],
+          "selectMode": "single",
+          "statement": "Eating too much junk food is unhealthy."
+        },
+        "difficultyName": "hard",
+        "levelId": "ks7bm3xry49endkyvgyhzwdsen7zycv2",
+        "order": 18,
+        "question": "Select the gerund from the sentence.",
+        "questionCode": "591646",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770662618495
+      },
+      {
+        "_creationTime": 1770662618494.8662,
+        "_id": "kn7d8hcfqgnrd7g4wn8y2921hn80t258",
+        "createdAt": 1770662618495,
+        "data": {
+          "correctIndex": 1,
+          "explanation": "After finished, we use the -ing form.",
+          "options": [
+            "She finished to write",
+            "She finished writing",
+            "She finish write",
+            "She finishing write"
+          ]
+        },
+        "difficultyName": "hard",
+        "levelId": "ks7bm3xry49endkyvgyhzwdsen7zycv2",
+        "order": 19,
+        "question": "Which sentence is correct?",
+        "questionCode": "511243",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770662618495
+      },
+      {
+        "_creationTime": 1770662618494.8665,
+        "_id": "kn71bxjaneqjcrxqny63aaaddx80v32n",
+        "createdAt": 1770662618495,
+        "data": {
+          "correctWords": [
+            "doing"
+          ],
+          "selectMode": "single",
+          "statement": "He finished doing his homework."
+        },
+        "difficultyName": "hard",
+        "levelId": "ks7bm3xry49endkyvgyhzwdsen7zycv2",
+        "order": 20,
+        "question": "Select the gerund from the sentence.",
+        "questionCode": "935559",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770662618495
+      },
+      {
+        "_creationTime": 1770662618494.8667,
+        "_id": "kn770qqapypmj3nyscv0dfkapn80tqba",
+        "createdAt": 1770662618495,
+        "data": {
+          "correctIndex": 1,
+          "explanation": "Running is the -ing form used as a noun.",
+          "options": [
+            "to run",
+            "running",
+            "ran",
+            "runs"
+          ]
+        },
+        "difficultyName": "hard",
+        "levelId": "ks7bm3xry49endkyvgyhzwdsen7zycv2",
+        "order": 21,
+        "question": "Which word is a gerund?",
+        "questionCode": "828614",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770662618495
+      },
+      {
+        "_creationTime": 1770662618494.867,
+        "_id": "kn731f31z362ydc43q2v4nd5n580ty69",
+        "createdAt": 1770662618495,
+        "data": {
+          "correctWords": [
+            "waiting"
+          ],
+          "selectMode": "single",
+          "statement": "The children are tired of waiting."
+        },
+        "difficultyName": "hard",
+        "levelId": "ks7bm3xry49endkyvgyhzwdsen7zycv2",
+        "order": 22,
+        "question": "Select the gerund from the sentence.",
+        "questionCode": "893496",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770662618495
+      },
+      {
+        "_creationTime": 1770662618494.8672,
+        "_id": "kn7d4q9pk253h7wmas0njv38mh80v8n3",
+        "createdAt": 1770662618495,
+        "data": {
+          "correctIndex": 1,
+          "explanation": "After insisted, an activity name is used.",
+          "options": [
+            "He insisted to go",
+            "He insisted going",
+            "He insist go",
+            "He insisting go"
+          ]
+        },
+        "difficultyName": "hard",
+        "levelId": "ks7bm3xry49endkyvgyhzwdsen7zycv2",
+        "order": 23,
+        "question": "Which sentence shows correct use of gerund?",
+        "questionCode": "687638",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770662618495
+      },
+      {
+        "_creationTime": 1770662618494.8674,
+        "_id": "kn7b2p2kz7q8snn8vakwnvtw2980tf9a",
+        "createdAt": 1770662618495,
+        "data": {
+          "correctWords": [
+            "paying"
+          ],
+          "selectMode": "single",
+          "statement": "She insisted on paying the bill."
+        },
+        "difficultyName": "hard",
+        "levelId": "ks7bm3xry49endkyvgyhzwdsen7zycv2",
+        "order": 24,
+        "question": "Select the gerund from the sentence.",
+        "questionCode": "899637",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770662618495
+      },
+      {
+        "_creationTime": 1770662618494.8677,
+        "_id": "kn78tm70zfz9dx6z7zeg9r8b4980v59f",
+        "createdAt": 1770662618495,
+        "data": {
+          "correctIndex": 0,
+          "explanation": "Watching names an activity.",
+          "options": [
+            "Watching",
+            "TV",
+            "much",
+            "harmful"
+          ]
+        },
+        "difficultyName": "hard",
+        "levelId": "ks7bm3xry49endkyvgyhzwdsen7zycv2",
+        "order": 25,
+        "question": "Which word is a gerund here? \nWatching TV too much is harmful.",
+        "questionCode": "451118",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770662618495
+      },
+      {
+        "_creationTime": 1770662618494.868,
+        "_id": "kn7dqjw629bx01mantfx22trrx80v1bd",
+        "createdAt": 1770662618495,
+        "data": {
+          "correctWords": [
+            "talking"
+          ],
+          "selectMode": "single",
+          "statement": "He stopped talking when the teacher came."
+        },
+        "difficultyName": "hard",
+        "levelId": "ks7bm3xry49endkyvgyhzwdsen7zycv2",
+        "order": 26,
+        "question": "Select the gerund from the sentence.",
+        "questionCode": "936280",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770662618495
+      },
+      {
+        "_creationTime": 1770662618494.8682,
+        "_id": "kn78xw3k09d57w9zd5p2ks4d2580v65g",
+        "createdAt": 1770662618495,
+        "data": {
+          "correctIndex": 1,
+          "explanation": "Here, eating means he gave up the activity.",
+          "options": [
+            "He stopped to eat",
+            "He stopped eating",
+            "Both are same",
+            "Both are same"
+          ]
+        },
+        "difficultyName": "hard",
+        "levelId": "ks7bm3xry49endkyvgyhzwdsen7zycv2",
+        "order": 27,
+        "question": "Which sentence shows a meaning change?",
+        "questionCode": "245155",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770662618495
+      },
+      {
+        "_creationTime": 1770662618494.8684,
+        "_id": "kn7ftxvrkcep3eqng9wawrchqs80tn2m",
+        "createdAt": 1770662618495,
+        "data": {
+          "correctWords": [
+            "cheating"
+          ],
+          "selectMode": "single",
+          "statement": "She was punished for cheating."
+        },
+        "difficultyName": "hard",
+        "levelId": "ks7bm3xry49endkyvgyhzwdsen7zycv2",
+        "order": 28,
+        "question": "Select the gerund from the sentence.",
+        "questionCode": "860028",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770662618495
+      },
+      {
+        "_creationTime": 1770662618494.8687,
+        "_id": "kn7a7fjdxw9p6a6vgjrpmhp1g980v1jk",
+        "createdAt": 1770662618495,
+        "data": {
+          "correctIndex": 1,
+          "explanation": "After dislike, we use the -ing form.",
+          "options": [
+            "I dislike to wait",
+            "I dislike waiting",
+            "I dislike wait",
+            "I disliking wait"
+          ]
+        },
+        "difficultyName": "hard",
+        "levelId": "ks7bm3xry49endkyvgyhzwdsen7zycv2",
+        "order": 29,
+        "question": "Which sentence uses a gerund correctly?",
+        "questionCode": "680890",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770662618495
+      },
+      {
+        "_creationTime": 1770662618494.869,
+        "_id": "kn714xmdhzb5sehwvkbp4bd48s80tg4m",
+        "createdAt": 1770662618495,
+        "data": {
+          "correctWords": [
+            "losing"
+          ],
+          "selectMode": "single",
+          "statement": "He dislikes losing games."
+        },
+        "difficultyName": "hard",
+        "levelId": "ks7bm3xry49endkyvgyhzwdsen7zycv2",
+        "order": 30,
+        "question": "Select the gerund from the sentence.",
+        "questionCode": "138787",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770662618495
+      }
+    ],
+    "medium": [
+      {
+        "_creationTime": 1770662618494.8545,
+        "_id": "kn78646dk000tg7azefj8sfw0180v5he",
+        "createdAt": 1770662618495,
+        "data": {
+          "correctIndex": 2,
+          "explanation": "A gerund ends with -ing and names an activity.",
+          "options": [
+            "read",
+            "reader",
+            "reading",
+            "reads"
+          ]
+        },
+        "difficultyName": "medium",
+        "levelId": "ks7bm3xry49endkyvgyhzwdsen7zycv2",
+        "order": 1,
+        "question": "Which word is a gerund?",
+        "questionCode": "265265",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770662618495
+      },
+      {
+        "_creationTime": 1770662618494.8547,
+        "_id": "kn794bnxz1kmqqnvsdvdxky5mh80tqy2",
+        "createdAt": 1770662618495,
+        "data": {
+          "correctWords": [
+            "reading"
+          ],
+          "selectMode": "single",
+          "statement": "I enjoy reading books."
+        },
+        "difficultyName": "medium",
+        "levelId": "ks7bm3xry49endkyvgyhzwdsen7zycv2",
+        "order": 2,
+        "question": "Select the gerund from the sentence.",
+        "questionCode": "149510",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770662618495
+      },
+      {
+        "_creationTime": 1770662618494.855,
+        "_id": "kn72a0948rvabd0bjv3rwav03180t078",
+        "createdAt": 1770662618495,
+        "data": {
+          "correctWords": [
+            "singing"
+          ],
+          "selectMode": "single",
+          "statement": "She is fond of singing."
+        },
+        "difficultyName": "medium",
+        "levelId": "ks7bm3xry49endkyvgyhzwdsen7zycv2",
+        "order": 3,
+        "question": "Which word comes after a preposition here?",
+        "questionCode": "507319",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770662618495
+      },
+      {
+        "_creationTime": 1770662618494.8552,
+        "_id": "kn74tx1bz5z7rrat3y1t9aj32180t9d3",
+        "createdAt": 1770662618495,
+        "data": {
+          "correctWords": [
+            "drawing"
+          ],
+          "selectMode": "single",
+          "statement": "He is good at drawing."
+        },
+        "difficultyName": "medium",
+        "levelId": "ks7bm3xry49endkyvgyhzwdsen7zycv2",
+        "order": 4,
+        "question": "Select the gerund from the sentence.",
+        "questionCode": "861761",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770662618495
+      },
+      {
+        "_creationTime": 1770662618494.8555,
+        "_id": "kn70k9hfzvj91c77cp5383ymyn80tah6",
+        "createdAt": 1770662618495,
+        "data": {
+          "correctIndex": 2,
+          "explanation": "Playing is the name of an activity.",
+          "options": [
+            "He runs fast",
+            "She sang well",
+            "Playing is fun",
+            "The bell rang"
+          ]
+        },
+        "difficultyName": "medium",
+        "levelId": "ks7bm3xry49endkyvgyhzwdsen7zycv2",
+        "order": 5,
+        "question": "Which sentence contains a gerund?",
+        "questionCode": "584232",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770662618495
+      },
+      {
+        "_creationTime": 1770662618494.8557,
+        "_id": "kn7ar8jpcpeax2wb3abnhvsyss80tdd1",
+        "createdAt": 1770662618495,
+        "data": {
+          "correctWords": [
+            "Playing"
+          ],
+          "selectMode": "single",
+          "statement": "Playing outside is healthy."
+        },
+        "difficultyName": "medium",
+        "levelId": "ks7bm3xry49endkyvgyhzwdsen7zycv2",
+        "order": 6,
+        "question": "Select the gerund from the sentence.",
+        "questionCode": "194718",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770662618495
+      },
+      {
+        "_creationTime": 1770662618494.856,
+        "_id": "kn79q0amakzfaznh19z0pvzfjh80vcsv",
+        "createdAt": 1770662618495,
+        "data": {
+          "correctIndex": 3,
+          "explanation": "Cooking names an activity.",
+          "options": [
+            "cook",
+            "cooker",
+            "cooked",
+            "cooking"
+          ]
+        },
+        "difficultyName": "medium",
+        "levelId": "ks7bm3xry49endkyvgyhzwdsen7zycv2",
+        "order": 7,
+        "question": "Which word is a gerund?",
+        "questionCode": "572277",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770662618495
+      },
+      {
+        "_creationTime": 1770662618494.8562,
+        "_id": "kn76z8qm9se6f9sswwd0vb5bxx80v4qp",
+        "createdAt": 1770662618495,
+        "data": {
+          "correctWords": [
+            "cooking"
+          ],
+          "selectMode": "single",
+          "statement": "She enjoys cooking for her family."
+        },
+        "difficultyName": "medium",
+        "levelId": "ks7bm3xry49endkyvgyhzwdsen7zycv2",
+        "order": 8,
+        "question": "Select the gerund from the sentence.",
+        "questionCode": "557815",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770662618495
+      },
+      {
+        "_creationTime": 1770662618494.8564,
+        "_id": "kn76hwzs1a6vtjz3nmj411j4dx80tt25",
+        "createdAt": 1770662618495,
+        "data": {
+          "correctIndex": 1,
+          "explanation": "After likes, we use a gerund.",
+          "options": [
+            "He likes play",
+            "He likes playing",
+            "He like played",
+            "He liking play"
+          ]
+        },
+        "difficultyName": "medium",
+        "levelId": "ks7bm3xry49endkyvgyhzwdsen7zycv2",
+        "order": 9,
+        "question": "Which sentence uses a gerund after a verb?",
+        "questionCode": "145983",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770662618495
+      },
+      {
+        "_creationTime": 1770662618494.8567,
+        "_id": "kn7fe7dnjsyh4bpn92y6r02bhs80v0hs",
+        "createdAt": 1770662618495,
+        "data": {
+          "correctWords": [
+            "waiting"
+          ],
+          "selectMode": "single",
+          "statement": "Children dislike waiting."
+        },
+        "difficultyName": "medium",
+        "levelId": "ks7bm3xry49endkyvgyhzwdsen7zycv2",
+        "order": 10,
+        "question": "Select the gerund from the sentence.",
+        "questionCode": "142390",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770662618495
+      },
+      {
+        "_creationTime": 1770662618494.857,
+        "_id": "kn7412qr90p1f49eph4f6wm5rn80vzvf",
+        "createdAt": 1770662618495,
+        "data": {
+          "correctIndex": 3,
+          "explanation": "Swimming names an activity.",
+          "options": [
+            "swim",
+            "swimmer",
+            "swam",
+            "swimming"
+          ]
+        },
+        "difficultyName": "medium",
+        "levelId": "ks7bm3xry49endkyvgyhzwdsen7zycv2",
+        "order": 11,
+        "question": "Which word is a gerund?",
+        "questionCode": "288995",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770662618495
+      },
+      {
+        "_creationTime": 1770662618494.8572,
+        "_id": "kn72k29xck36wq5cbt1kn3b8ns80v5er",
+        "createdAt": 1770662618495,
+        "data": {
+          "correctWords": [
+            "Swimming"
+          ],
+          "selectMode": "single",
+          "statement": "Swimming keeps us fit."
+        },
+        "difficultyName": "medium",
+        "levelId": "ks7bm3xry49endkyvgyhzwdsen7zycv2",
+        "order": 12,
+        "question": "Select the gerund from the sentence.",
+        "questionCode": "352867",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770662618495
+      },
+      {
+        "_creationTime": 1770662618494.8574,
+        "_id": "kn78ptc7mcjkvh0mrdhgq356s980vkex",
+        "createdAt": 1770662618495,
+        "data": {
+          "correctIndex": 2,
+          "explanation": "After without, we use a gerund.",
+          "options": [
+            "left",
+            "without",
+            "saying",
+            "goodbye"
+          ]
+        },
+        "difficultyName": "medium",
+        "levelId": "ks7bm3xry49endkyvgyhzwdsen7zycv2",
+        "order": 13,
+        "question": "Which word is a gerund after a preposition? \nHe left without saying goodbye.",
+        "questionCode": "151773",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770662618495
+      },
+      {
+        "_creationTime": 1770662618494.8577,
+        "_id": "kn776ctvs9bgz9q5p86peynwch80vh33",
+        "createdAt": 1770662618495,
+        "data": {
+          "correctWords": [
+            "thinking"
+          ],
+          "selectMode": "single",
+          "statement": "She spoke without thinking."
+        },
+        "difficultyName": "medium",
+        "levelId": "ks7bm3xry49endkyvgyhzwdsen7zycv2",
+        "order": 14,
+        "question": "Select the gerund from the sentence.",
+        "questionCode": "152595",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770662618495
+      },
+      {
+        "_creationTime": 1770662618494.858,
+        "_id": "kn71cwthz1008yayxdf9tkdtc980v133",
+        "createdAt": 1770662618495,
+        "data": {
+          "correctIndex": 1,
+          "explanation": "After avoids, we use a gerund.",
+          "options": [
+            "He avoids to speak",
+            "He avoids speaking",
+            "He avoid speak",
+            "He avoiding speak"
+          ]
+        },
+        "difficultyName": "medium",
+        "levelId": "ks7bm3xry49endkyvgyhzwdsen7zycv2",
+        "order": 15,
+        "question": "Which sentence correctly uses a gerund?",
+        "questionCode": "137553",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770662618495
+      },
+      {
+        "_creationTime": 1770662618494.8582,
+        "_id": "kn76qb7nstn42wxny7q8kx5hz580teyp",
+        "createdAt": 1770662618495,
+        "data": {
+          "correctWords": [
+            "answering"
+          ],
+          "selectMode": "single",
+          "statement": "The boy avoided answering the question."
+        },
+        "difficultyName": "medium",
+        "levelId": "ks7bm3xry49endkyvgyhzwdsen7zycv2",
+        "order": 16,
+        "question": "Select the gerund from the sentence.",
+        "questionCode": "143133",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770662618495
+      },
+      {
+        "_creationTime": 1770662618494.8584,
+        "_id": "kn70v5vxwz6k1vk10jm03sx0n580ty9w",
+        "createdAt": 1770662618495,
+        "data": {
+          "correctIndex": 3,
+          "explanation": "Travelling names an activity.",
+          "options": [
+            "travel",
+            "traveller",
+            "travelled",
+            "travelling"
+          ]
+        },
+        "difficultyName": "medium",
+        "levelId": "ks7bm3xry49endkyvgyhzwdsen7zycv2",
+        "order": 17,
+        "question": "Which word is a gerund?",
+        "questionCode": "566188",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770662618495
+      },
+      {
+        "_creationTime": 1770662618494.8586,
+        "_id": "kn78g4vfa2mrj2nshnctd4hb6s80t5hv",
+        "createdAt": 1770662618495,
+        "data": {
+          "correctWords": [
+            "Travelling"
+          ],
+          "selectMode": "single",
+          "statement": "Travelling teaches us many things."
+        },
+        "difficultyName": "medium",
+        "levelId": "ks7bm3xry49endkyvgyhzwdsen7zycv2",
+        "order": 18,
+        "question": "Select the gerund from the sentence.",
+        "questionCode": "818212",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770662618495
+      },
+      {
+        "_creationTime": 1770662618494.859,
+        "_id": "kn77j9rbhyb32rnk81ytmmxth580tpv6",
+        "createdAt": 1770662618495,
+        "data": {
+          "correctIndex": 2,
+          "explanation": "Walking comes after the preposition of.",
+          "options": [
+            "She sings well",
+            "He jumped high",
+            "They are tired of walking",
+            "The dog barked"
+          ]
+        },
+        "difficultyName": "medium",
+        "levelId": "ks7bm3xry49endkyvgyhzwdsen7zycv2",
+        "order": 19,
+        "question": "Which sentence contains a gerund after a preposition?",
+        "questionCode": "473139",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770662618495
+      },
+      {
+        "_creationTime": 1770662618494.8591,
+        "_id": "kn7cfcm4xy2xx6ba0esfnehc4180tkrw",
+        "createdAt": 1770662618495,
+        "data": {
+          "correctWords": [
+            "walking"
+          ],
+          "selectMode": "single",
+          "statement": "He is tired of walking."
+        },
+        "difficultyName": "medium",
+        "levelId": "ks7bm3xry49endkyvgyhzwdsen7zycv2",
+        "order": 20,
+        "question": "Select the gerund from the sentence.",
+        "questionCode": "284140",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770662618495
+      },
+      {
+        "_creationTime": 1770662618494.8594,
+        "_id": "kn711j0qfg7ec4vy8gypznc47n80vfhp",
+        "createdAt": 1770662618495,
+        "data": {
+          "correctIndex": 2,
+          "explanation": "Helping is a verb used as a noun.",
+          "options": [
+            "help",
+            "helpful",
+            "helping",
+            "helped"
+          ]
+        },
+        "difficultyName": "medium",
+        "levelId": "ks7bm3xry49endkyvgyhzwdsen7zycv2",
+        "order": 21,
+        "question": "Which word is a gerund?",
+        "questionCode": "636636",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770662618495
+      },
+      {
+        "_creationTime": 1770662618494.8596,
+        "_id": "kn709wcgyy8cqjemeqgjk849f580vqfa",
+        "createdAt": 1770662618495,
+        "data": {
+          "correctWords": [
+            "Helping"
+          ],
+          "selectMode": "single",
+          "statement": "Helping others makes us happy."
+        },
+        "difficultyName": "medium",
+        "levelId": "ks7bm3xry49endkyvgyhzwdsen7zycv2",
+        "order": 22,
+        "question": "Select the gerund from the sentence.",
+        "questionCode": "984592",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770662618495
+      },
+      {
+        "_creationTime": 1770662618494.8599,
+        "_id": "kn768h4n145zv64fp3jpty9byd80tnj9",
+        "createdAt": 1770662618495,
+        "data": {
+          "correctIndex": 1,
+          "explanation": "Waiting ends with -ing and names an action.",
+          "options": [
+            "wait",
+            "waiting",
+            "waited",
+            "waits"
+          ]
+        },
+        "difficultyName": "medium",
+        "levelId": "ks7bm3xry49endkyvgyhzwdsen7zycv2",
+        "order": 23,
+        "question": "Which word is a gerund?",
+        "questionCode": "265714",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770662618495
+      },
+      {
+        "_creationTime": 1770662618494.86,
+        "_id": "kn75k7bhhd0m0bnqe0kkxjyac180tthg",
+        "createdAt": 1770662618495,
+        "data": {
+          "correctWords": [
+            "waiting"
+          ],
+          "selectMode": "single",
+          "statement": "There is no use in waiting."
+        },
+        "difficultyName": "medium",
+        "levelId": "ks7bm3xry49endkyvgyhzwdsen7zycv2",
+        "order": 24,
+        "question": "Select the gerund from the sentence.",
+        "questionCode": "146997",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770662618495
+      },
+      {
+        "_creationTime": 1770662618494.8604,
+        "_id": "kn79t3zqyyh5fygvk8b3de2b8580t6q4",
+        "createdAt": 1770662618495,
+        "data": {
+          "correctIndex": 1,
+          "explanation": "After finished, we use a gerund.",
+          "options": [
+            "She finished to read",
+            "She finished reading",
+            "She finish read",
+            "She finishing read"
+          ]
+        },
+        "difficultyName": "medium",
+        "levelId": "ks7bm3xry49endkyvgyhzwdsen7zycv2",
+        "order": 25,
+        "question": "Which sentence correctly uses a gerund?",
+        "questionCode": "194226",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770662618495
+      },
+      {
+        "_creationTime": 1770662618494.8606,
+        "_id": "kn70f3jdxy2ww2632j7rfgx2nn80twtj",
+        "createdAt": 1770662618495,
+        "data": {
+          "correctWords": [
+            "writing"
+          ],
+          "selectMode": "single",
+          "statement": "He finished writing the letter."
+        },
+        "difficultyName": "medium",
+        "levelId": "ks7bm3xry49endkyvgyhzwdsen7zycv2",
+        "order": 26,
+        "question": "Select the gerund from the sentence.",
+        "questionCode": "630484",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770662618495
+      },
+      {
+        "_creationTime": 1770662618494.8608,
+        "_id": "kn7cf654jpfm1qvfn5rbcxc91h80vsp4",
+        "createdAt": 1770662618495,
+        "data": {
+          "correctIndex": 3,
+          "explanation": "Speaking names an activity.",
+          "options": [
+            "speak",
+            "speaker",
+            "spoke",
+            "speaking"
+          ]
+        },
+        "difficultyName": "medium",
+        "levelId": "ks7bm3xry49endkyvgyhzwdsen7zycv2",
+        "order": 27,
+        "question": "Which word is a gerund?",
+        "questionCode": "746702",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770662618495
+      },
+      {
+        "_creationTime": 1770662618494.861,
+        "_id": "kn7a1aaappppqts0d0xnfr62m980vwa1",
+        "createdAt": 1770662618495,
+        "data": {
+          "correctWords": [
+            "speaking"
+          ],
+          "selectMode": "single",
+          "statement": "She is afraid of speaking in public."
+        },
+        "difficultyName": "medium",
+        "levelId": "ks7bm3xry49endkyvgyhzwdsen7zycv2",
+        "order": 28,
+        "question": "Select the gerund from the sentence.",
+        "questionCode": "394937",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770662618495
+      },
+      {
+        "_creationTime": 1770662618494.8613,
+        "_id": "kn7cakydpme734y3k8q7am9rds80vxcg",
+        "createdAt": 1770662618495,
+        "data": {
+          "correctIndex": 1,
+          "explanation": "Running is the subject of the sentence.",
+          "options": [
+            "He laughed loudly",
+            "Running is good exercise",
+            "She sang a song",
+            "The sun rose"
+          ]
+        },
+        "difficultyName": "medium",
+        "levelId": "ks7bm3xry49endkyvgyhzwdsen7zycv2",
+        "order": 29,
+        "question": "Which sentence has a gerund as the subject?",
+        "questionCode": "691098",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770662618495
+      },
+      {
+        "_creationTime": 1770662618494.8616,
+        "_id": "kn77bfb56xgj1bpmnrcxc6d2rn80tdhw",
+        "createdAt": 1770662618495,
+        "data": {
+          "correctWords": [
+            "Running"
+          ],
+          "selectMode": "single",
+          "statement": "Running keeps the body fit."
+        },
+        "difficultyName": "medium",
+        "levelId": "ks7bm3xry49endkyvgyhzwdsen7zycv2",
+        "order": 30,
+        "question": "Select the gerund from the sentence.",
+        "questionCode": "606632",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770662618495
+      }
+    ]
+  }
+}

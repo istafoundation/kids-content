@@ -1,0 +1,1906 @@
+{
+  "levelId": "ks79zfx3j2jg8vgvjaaqn1gec180v8fe",
+  "version": 0,
+  "publishedAt": 1770756024425,
+  "questions": {
+    "easy": [
+      {
+        "_creationTime": 1770601930339.3728,
+        "_id": "kn76qn1fe3bbnw2xghm83vpqdx80v91v",
+        "createdAt": 1770601930341,
+        "data": {
+          "correctIndex": 2,
+          "explanation": "The subject doing the action is in the Nominative Case.",
+          "options": [
+            "broke",
+            "glass",
+            "Rama",
+            "the"
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks79zfx3j2jg8vgvjaaqn1gec180v8fe",
+        "order": 1,
+        "question": "In the sentence “Rama broke the glass”, which word is in the Nominative Case?",
+        "questionCode": "952560",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770601930341
+      },
+      {
+        "_creationTime": 1770601955522.4158,
+        "_id": "kn7d16w9k5m4q0r8me0z7sevnd80v5fk",
+        "createdAt": 1770601955524,
+        "data": {
+          "correctIndex": 2,
+          "explanation": "The object receiving the action is in the Objective Case.",
+          "options": [
+            "cat",
+            "chased",
+            "mouse",
+            "the"
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks79zfx3j2jg8vgvjaaqn1gec180v8fe",
+        "order": 2,
+        "question": "Which word is in the Objective Case in “The cat chased the mouse”?",
+        "questionCode": "405816",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770601955524
+      },
+      {
+        "_creationTime": 1770601979118.325,
+        "_id": "kn7e3vsp7vp9gdhbgb9w5qpbg980vcxg",
+        "createdAt": 1770601979120,
+        "data": {
+          "correctWords": [
+            "Mohan"
+          ],
+          "explanation": "Mohan is the subject.",
+          "selectMode": "single",
+          "statement": "Mohan plays cricket."
+        },
+        "difficultyName": "easy",
+        "levelId": "ks79zfx3j2jg8vgvjaaqn1gec180v8fe",
+        "order": 3,
+        "question": "Select the Nominative Case noun:",
+        "questionCode": "226982",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770601979120
+      },
+      {
+        "_creationTime": 1770602041490.7815,
+        "_id": "kn75gq3k6s6x7t52f62ey6cpe980tq39",
+        "createdAt": 1770602041493,
+        "data": {
+          "distractors": [
+            "Objective",
+            "Possessive"
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks79zfx3j2jg8vgvjaaqn1gec180v8fe",
+        "order": 4,
+        "question": "The subject of a sentence is in the {Nominative} Case.",
+        "questionCode": "311784",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1770602049106
+      },
+      {
+        "_creationTime": 1770602081274.1655,
+        "_id": "kn76jah9g4wm60qbw24cs1x30n80tmar",
+        "createdAt": 1770602081276,
+        "data": {
+          "correctIndex": 1,
+          "explanation": "“boy’s” shows ownership.",
+          "options": [
+            "The boy runs fast.",
+            "The boy’s bag is heavy.",
+            "The boy ran home.",
+            "The boy laughed."
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks79zfx3j2jg8vgvjaaqn1gec180v8fe",
+        "order": 5,
+        "question": "Which sentence shows Possessive Case?",
+        "questionCode": "937664",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770602081276
+      },
+      {
+        "_creationTime": 1770602105936.6824,
+        "_id": "kn795pv53rygzavcfngm5mk1fs80tv0m",
+        "createdAt": 1770602105938,
+        "data": {
+          "correctWords": [
+            "boy"
+          ],
+          "explanation": "“boy” receives the action.",
+          "selectMode": "single",
+          "statement": "The teacher scolded the boy"
+        },
+        "difficultyName": "easy",
+        "levelId": "ks79zfx3j2jg8vgvjaaqn1gec180v8fe",
+        "order": 6,
+        "question": "Select the Objective Case noun:",
+        "questionCode": "431483",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770602105938
+      },
+      {
+        "_creationTime": 1770602143159.5127,
+        "_id": "kn7b5y0kgn0rsz1w61jwasn99580tgdt",
+        "createdAt": 1770602143161,
+        "data": {
+          "correctWords": [
+            "Anita’s"
+          ],
+          "explanation": "Shows ownership.",
+          "selectMode": "single",
+          "statement": "This is Anita’s pencil."
+        },
+        "difficultyName": "easy",
+        "levelId": "ks79zfx3j2jg8vgvjaaqn1gec180v8fe",
+        "order": 7,
+        "question": "Select the Possessive noun:",
+        "questionCode": "362627",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770602143161
+      },
+      {
+        "_creationTime": 1770602225872.6267,
+        "_id": "kn75cr31tz91jb43n5442a1axd80tftk",
+        "createdAt": 1770602225874,
+        "data": {
+          "distractors": [
+            "Nominative",
+            "Possessive"
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks79zfx3j2jg8vgvjaaqn1gec180v8fe",
+        "order": 8,
+        "question": "The object of a verb is in the {Objective} Case.",
+        "questionCode": "247667",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1770602231899
+      },
+      {
+        "_creationTime": 1770602286330.361,
+        "_id": "kn7c8f43egk7s2heb7trhjv92s80veax",
+        "createdAt": 1770602286332,
+        "data": {
+          "correctIndex": 3,
+          "explanation": "“book” receives the action.",
+          "options": [
+            "She",
+            "reads",
+            "a",
+            "book"
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks79zfx3j2jg8vgvjaaqn1gec180v8fe",
+        "order": 9,
+        "question": "In “She reads a book”, which is the Objective Case noun?",
+        "questionCode": "667698",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770602286332
+      },
+      {
+        "_creationTime": 1770602319669.6687,
+        "_id": "kn74kntswcmgs5pkyvxjkn87hh80vh4p",
+        "createdAt": 1770602319671,
+        "data": {
+          "correctWords": [
+            "bird"
+          ],
+          "explanation": "Subject = Nominative Case.",
+          "selectMode": "single",
+          "statement": "The bird flew away."
+        },
+        "difficultyName": "easy",
+        "levelId": "ks79zfx3j2jg8vgvjaaqn1gec180v8fe",
+        "order": 10,
+        "question": "Select the subject:",
+        "questionCode": "726019",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770602319671
+      },
+      {
+        "_creationTime": 1770602346093.1528,
+        "_id": "kn7czxzjybeq58r0g8t56zf0k980vs51",
+        "createdAt": 1770602346095,
+        "data": {
+          "correctWords": [
+            "door"
+          ],
+          "explanation": "Object of the verb.",
+          "selectMode": "single",
+          "statement": "He opened the door."
+        },
+        "difficultyName": "easy",
+        "levelId": "ks79zfx3j2jg8vgvjaaqn1gec180v8fe",
+        "order": 11,
+        "question": "Select the object:",
+        "questionCode": "458709",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770602346095
+      },
+      {
+        "_creationTime": 1770602376438.29,
+        "_id": "kn713ce9y7cm11s9tdv3wxeyrx80tbme",
+        "createdAt": 1770602376440,
+        "data": {
+          "correctIndex": 2,
+          "explanation": "Proper noun used as subject.",
+          "options": [
+            "him",
+            "her",
+            "Ravi",
+            "them"
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks79zfx3j2jg8vgvjaaqn1gec180v8fe",
+        "order": 12,
+        "question": "Which word is in Nominative Case?",
+        "questionCode": "923273",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770602376440
+      },
+      {
+        "_creationTime": 1770602407242.1963,
+        "_id": "kn7esgt4jc6ckvsj2vnyr13r0580tbh8",
+        "createdAt": 1770602407247,
+        "data": {
+          "correctIndex": 1,
+          "explanation": "It is the object of the verb.",
+          "options": [
+            "Nominative",
+            "Objective",
+            "Possessive",
+            "Verb"
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks79zfx3j2jg8vgvjaaqn1gec180v8fe",
+        "order": 13,
+        "question": "In “The dog bit the man”, what is “the man”?",
+        "questionCode": "391584",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770602407247
+      },
+      {
+        "_creationTime": 1770602491872.0105,
+        "_id": "kn78rwwzvvyf2q8805rc4e3fvd80vjvr",
+        "createdAt": 1770602491874,
+        "data": {
+          "distractors": [
+            "Nominative",
+            "Objective"
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks79zfx3j2jg8vgvjaaqn1gec180v8fe",
+        "order": 14,
+        "question": "A noun showing ownership is in the {Possessive} Case.",
+        "questionCode": "522175",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1770602491874
+      },
+      {
+        "_creationTime": 1770602523574.4856,
+        "_id": "kn75m5ah7mmaw2mjgcbpqjks8n80th07",
+        "createdAt": 1770602523581,
+        "data": {
+          "distractors": [
+            "Nominative",
+            "Possessive"
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks79zfx3j2jg8vgvjaaqn1gec180v8fe",
+        "order": 15,
+        "question": "In “The boy kicked the ball”, “the ball” is {Objective} Case.",
+        "questionCode": "909504",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1770602523581
+      },
+      {
+        "_creationTime": 1770602547569.4666,
+        "_id": "kn72y2qcw7a0ejbbzmbyarfyf180vbe6",
+        "createdAt": 1770602547571,
+        "data": {
+          "distractors": [
+            "Objective",
+            "Possessive"
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks79zfx3j2jg8vgvjaaqn1gec180v8fe",
+        "order": 16,
+        "question": "In “Ravi is running”, “Ravi” is in the {Nominative} Case.",
+        "questionCode": "527697",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1770602547571
+      },
+      {
+        "_creationTime": 1770602601072.6042,
+        "_id": "kn707k7ksxtv3s6jnde2jz8bvn80tjhx",
+        "createdAt": 1770602601074,
+        "data": {
+          "correctIndex": 0,
+          "explanation": "For non-living things, “of” is preferred.",
+          "options": [
+            "The leg of the chair",
+            "The chair’s leg",
+            "The chair leg",
+            "Chair leg’s"
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks79zfx3j2jg8vgvjaaqn1gec180v8fe",
+        "order": 17,
+        "question": "Which sentence uses Possessive Case correctly?",
+        "questionCode": "645590",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770602601074
+      },
+      {
+        "_creationTime": 1770602626171.4658,
+        "_id": "kn746cgcg9g2ng289fpamrs06180twb2",
+        "createdAt": 1770602626173,
+        "data": {
+          "correctIndex": 2,
+          "explanation": "“me” is an object pronoun.",
+          "options": [
+            "I",
+            "we",
+            "me",
+            "he"
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks79zfx3j2jg8vgvjaaqn1gec180v8fe",
+        "order": 18,
+        "question": "Which pronoun is Objective Case?",
+        "questionCode": "391890",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770602626173
+      },
+      {
+        "_creationTime": 1770602669791.4868,
+        "_id": "kn73ygd2gdcnnm5zx28y5q785d80tyfr",
+        "createdAt": 1770602669793,
+        "data": {
+          "correctWords": [
+            "dog's"
+          ],
+          "explanation": "Ownership is shown.",
+          "selectMode": "single",
+          "statement": "The dog’s tail is long."
+        },
+        "difficultyName": "easy",
+        "levelId": "ks79zfx3j2jg8vgvjaaqn1gec180v8fe",
+        "order": 19,
+        "question": "Select the possessive word:",
+        "questionCode": "902135",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770602669793
+      },
+      {
+        "_creationTime": 1770602694551.4827,
+        "_id": "kn7e1yc4cz6pxv5qdaj2752q9d80tmdb",
+        "createdAt": 1770602694553,
+        "data": {
+          "correctWords": [
+            "Children"
+          ],
+          "explanation": "Subject of the sentence.",
+          "selectMode": "single",
+          "statement": "Children are playing."
+        },
+        "difficultyName": "easy",
+        "levelId": "ks79zfx3j2jg8vgvjaaqn1gec180v8fe",
+        "order": 20,
+        "question": "Select the Nominative noun:",
+        "questionCode": "158256",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770602694553
+      },
+      {
+        "_creationTime": 1770602770184.9763,
+        "_id": "kn75g4crftnbn7hdgc7aba5r9d80vnsj",
+        "createdAt": 1770602770187,
+        "data": {
+          "distractors": [
+            "Nominative",
+            "Demonstrative"
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks79zfx3j2jg8vgvjaaqn1gec180v8fe",
+        "order": 21,
+        "question": "“My father’s car” uses the {Possessive} Case.",
+        "questionCode": "369901",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1770602770187
+      },
+      {
+        "_creationTime": 1770602718048.8516,
+        "_id": "kn79nnxdfsavz1kem1wpn7zhk580v65t",
+        "createdAt": 1770602718050,
+        "data": {
+          "correctWords": [
+            "Rita's"
+          ],
+          "explanation": "Possessive Case answers “Whose?”",
+          "selectMode": "single",
+          "statement": "Rita’s house is big."
+        },
+        "difficultyName": "easy",
+        "levelId": "ks79zfx3j2jg8vgvjaaqn1gec180v8fe",
+        "order": 22,
+        "question": "Select the Objective Case noun:",
+        "questionCode": "648797",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770602718050
+      },
+      {
+        "_creationTime": 1770602822673.8264,
+        "_id": "kn77qrd6e89ye7fqchrtfbwcqs80tfst",
+        "createdAt": 1770602822675,
+        "data": {
+          "distractors": [
+            "Nominative",
+            "Objective"
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks79zfx3j2jg8vgvjaaqn1gec180v8fe",
+        "order": 23,
+        "question": "The word that comes after the verb is usually in the {Objective} Case.",
+        "questionCode": "149491",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1770602822675
+      },
+      {
+        "_creationTime": 1770602892372.045,
+        "_id": "kn7ckg7bs5fh856q1f1xysbd8180v8nz",
+        "createdAt": 1770602892377,
+        "data": {
+          "correctIndex": 0,
+          "explanation": "Subject of the sentence.",
+          "options": [
+            "girl",
+            "sings",
+            "the",
+            "none"
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks79zfx3j2jg8vgvjaaqn1gec180v8fe",
+        "order": 24,
+        "question": "In “The girl sings”, which word is Nominative Case?",
+        "questionCode": "358942",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770602892377
+      },
+      {
+        "_creationTime": 1770602928531.2263,
+        "_id": "kn7fsz08njh7mpazh90fre8y1n80vwqg",
+        "createdAt": 1770602928533,
+        "data": {
+          "correctWords": [
+            "Rita’s"
+          ],
+          "explanation": "Possessive Case answers “Whose?\"",
+          "selectMode": "single",
+          "statement": "Rita’s house is big."
+        },
+        "difficultyName": "easy",
+        "levelId": "ks79zfx3j2jg8vgvjaaqn1gec180v8fe",
+        "order": 25,
+        "question": "Select the word answering “Whose?”",
+        "questionCode": "280752",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770602928533
+      },
+      {
+        "_creationTime": 1770603009006.905,
+        "_id": "kn77yr1cnp1c160z68k10c3wq580vhga",
+        "createdAt": 1770603009008,
+        "data": {
+          "distractors": [
+            "Nominative",
+            "Objective"
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks79zfx3j2jg8vgvjaaqn1gec180v8fe",
+        "order": 26,
+        "question": "Apostrophe + s is used to form the {Possessive} Case.",
+        "questionCode": "583919",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1770603009008
+      },
+      {
+        "_creationTime": 1770603059570.0437,
+        "_id": "kn74m0dzhsepnvd7gdrtf50wxx80txc1",
+        "createdAt": 1770603059572,
+        "data": {
+          "distractors": [
+            "Nominative",
+            "Possessive"
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks79zfx3j2jg8vgvjaaqn1gec180v8fe",
+        "order": 27,
+        "question": "In “She hit him”, “him” is in the {Objective} Case.",
+        "questionCode": "832033",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1770603059572
+      },
+      {
+        "_creationTime": 1770603097022.1345,
+        "_id": "kn7etkgw93kjfx42k8k6m6yrzn80v1a6",
+        "createdAt": 1770603097024,
+        "data": {
+          "correctWords": [
+            "sun"
+          ],
+          "explanation": "Doer of the action.",
+          "selectMode": "single",
+          "statement": "The sun rises"
+        },
+        "difficultyName": "easy",
+        "levelId": "ks79zfx3j2jg8vgvjaaqn1gec180v8fe",
+        "order": 28,
+        "question": "Select the subject:",
+        "questionCode": "485537",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770603097024
+      },
+      {
+        "_creationTime": 1770603143310.1775,
+        "_id": "kn71m73vmqw71hj2vfs2c9t9rd80td2c",
+        "createdAt": 1770603143312,
+        "data": {
+          "correctIndex": 1,
+          "explanation": "Apostrophe after plural noun shows possession.",
+          "options": [
+            "boys",
+            "boys'",
+            "boy",
+            "boy's"
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks79zfx3j2jg8vgvjaaqn1gec180v8fe",
+        "order": 29,
+        "question": "Which shows ownership?",
+        "questionCode": "139367",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770603143312
+      },
+      {
+        "_creationTime": 1770603186249.1985,
+        "_id": "kn7eatsx302h0rzhxtpg1kmqzx80tnen",
+        "createdAt": 1770603186251,
+        "data": {
+          "distractors": [
+            "Possessive",
+            "Objective"
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks79zfx3j2jg8vgvjaaqn1gec180v8fe",
+        "order": 30,
+        "question": "The noun answering “Who did it?” is in the {Nominative} Case.",
+        "questionCode": "536965",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1770603186251
+      }
+    ],
+    "hard": [
+      {
+        "_creationTime": 1770606247498.1895,
+        "_id": "kn7cyff0famakec8n8e61ar2vn80vw29",
+        "createdAt": 1770606247500,
+        "data": {
+          "correctIndex": 0,
+          "explanation": "The possessive case here does not show ownership but relation.",
+          "options": [
+            "ownership",
+            "association",
+            "action related to the child",
+            "identity"
+          ]
+        },
+        "difficultyName": "hard",
+        "levelId": "ks79zfx3j2jg8vgvjaaqn1gec180v8fe",
+        "order": 1,
+        "question": "In the sentence “The child’s murder was hanged”, the possessive noun does NOT indicate",
+        "questionCode": "564333",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770606247500
+      },
+      {
+        "_creationTime": 1770606276855.705,
+        "_id": "kn72v51f0h6nwg3y6sq4yv949180tweg",
+        "createdAt": 1770606276858,
+        "data": {
+          "correctWords": [
+            "road"
+          ],
+          "explanation": "Follows the preposition “across”.",
+          "selectMode": "single",
+          "statement": "The dog ran across the road."
+        },
+        "difficultyName": "hard",
+        "levelId": "ks79zfx3j2jg8vgvjaaqn1gec180v8fe",
+        "order": 2,
+        "question": "Select the noun in the Objective Case:",
+        "questionCode": "700683",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770606281720
+      },
+      {
+        "_creationTime": 1770606374655.4177,
+        "_id": "kn79ead5fd9jta78cqg9xasp3980v5g5",
+        "createdAt": 1770606374657,
+        "data": {
+          "distractors": [
+            "Nominative",
+            "Possessive"
+          ]
+        },
+        "difficultyName": "hard",
+        "levelId": "ks79zfx3j2jg8vgvjaaqn1gec180v8fe",
+        "order": 3,
+        "question": "A noun following the preposition “of” is usually in the {Objective} Case.",
+        "questionCode": "564727",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1770606374657
+      },
+      {
+        "_creationTime": 1770606462748.8623,
+        "_id": "kn76yakqa911p50j7hvmcyfw4x80vgh9",
+        "createdAt": 1770606462751,
+        "data": {
+          "correctWords": [
+            "bazaar"
+          ],
+          "explanation": "Subject of the sentence.",
+          "selectMode": "single",
+          "statement": "The bazaar was full of people."
+        },
+        "difficultyName": "hard",
+        "levelId": "ks79zfx3j2jg8vgvjaaqn1gec180v8fe",
+        "order": 4,
+        "question": "Select the noun in the Nominative Case:",
+        "questionCode": "436388",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770606462751
+      },
+      {
+        "_creationTime": 1770607169286.5027,
+        "_id": "kn7ezy5xyp7dv54pqbmt50tztd80tw6r",
+        "createdAt": 1770607169288,
+        "data": {
+          "correctIndex": 3,
+          "explanation": "“boy” is the subject of the sentence.",
+          "options": [
+            "The teacher punished the boy.",
+            "The boy was punished by the teacher.",
+            "The boy’s bag is missing.",
+            "The boy was late."
+          ]
+        },
+        "difficultyName": "hard",
+        "levelId": "ks79zfx3j2jg8vgvjaaqn1gec180v8fe",
+        "order": 5,
+        "question": "Which sentence contains a noun in the Nominative Case?",
+        "questionCode": "563468",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770607169288
+      },
+      {
+        "_creationTime": 1770606481592.1885,
+        "_id": "kn7b3qh3v6cdzh6gbe6w56ppch80tq2r",
+        "createdAt": 1770606481594,
+        "data": {
+          "correctWords": [
+            "kilo's"
+          ],
+          "explanation": "Possessive can denote weight.",
+          "selectMode": "single",
+          "statement": "A kilo’s weight was added."
+        },
+        "difficultyName": "hard",
+        "levelId": "ks79zfx3j2jg8vgvjaaqn1gec180v8fe",
+        "order": 6,
+        "question": "Select the Possessive Case noun denoting weight:",
+        "questionCode": "563665",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770606481594
+      },
+      {
+        "_creationTime": 1770606438142.7,
+        "_id": "kn77xc5m0c1z8fv11fbqfyjvt180tgjm",
+        "createdAt": 1770606438144,
+        "data": {
+          "distractors": [
+            "relation",
+            "association"
+          ]
+        },
+        "difficultyName": "hard",
+        "levelId": "ks79zfx3j2jg8vgvjaaqn1gec180v8fe",
+        "order": 7,
+        "question": "The Possessive Case does not always show {ownership}.",
+        "questionCode": "394586",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1770606438144
+      },
+      {
+        "_creationTime": 1770607913946.4846,
+        "_id": "kn74mwz5y1ynsxc3ckectm5b6980tsds",
+        "createdAt": 1770607913948,
+        "data": {
+          "correctWords": [
+            "cats"
+          ],
+          "explanation": "Subject performing the action.",
+          "selectMode": "single",
+          "statement": "Few cats like cold water."
+        },
+        "difficultyName": "hard",
+        "levelId": "ks79zfx3j2jg8vgvjaaqn1gec180v8fe",
+        "order": 8,
+        "question": "Select the subject of the sentence:",
+        "questionCode": "544944",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770607913948
+      },
+      {
+        "_creationTime": 1770607640041.6257,
+        "_id": "kn77wa95edm1p42ey8d725tz1580ts36",
+        "createdAt": 1770607640043,
+        "data": {
+          "correctIndex": 2,
+          "explanation": "“me” is the indirect object.",
+          "options": [
+            "She",
+            "game",
+            "me",
+            "gift"
+          ]
+        },
+        "difficultyName": "hard",
+        "levelId": "ks79zfx3j2jg8vgvjaaqn1gec180v8fe",
+        "order": 9,
+        "question": "In “She gave me a gift”, which word is in the Objective Case?",
+        "questionCode": "148878",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770607640043
+      },
+      {
+        "_creationTime": 1770607671382.829,
+        "_id": "kn7bgqvtvphp13ejh3bascfz2h80vsjj",
+        "createdAt": 1770607671384,
+        "data": {
+          "correctIndex": 1,
+          "explanation": "Apostrophe + s shows possession for plural nouns not ending in s.",
+          "options": [
+            "children",
+            "children’s",
+            "childrens",
+            "child"
+          ]
+        },
+        "difficultyName": "hard",
+        "levelId": "ks79zfx3j2jg8vgvjaaqn1gec180v8fe",
+        "order": 10,
+        "question": "Which word is in the Possessive Case?",
+        "questionCode": "229453",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770607671384
+      },
+      {
+        "_creationTime": 1770607897805.9382,
+        "_id": "kn704jrdhqqzz03gn7g60fresx80t4qa",
+        "createdAt": 1770607897809,
+        "data": {
+          "correctWords": [
+            "student"
+          ],
+          "explanation": "Object of the verb.",
+          "selectMode": "single",
+          "statement": "The teacher called the student."
+        },
+        "difficultyName": "hard",
+        "levelId": "ks79zfx3j2jg8vgvjaaqn1gec180v8fe",
+        "order": 11,
+        "question": "Select the word answering “Whom?”",
+        "questionCode": "459366",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770607897809
+      },
+      {
+        "_creationTime": 1770608097408.8977,
+        "_id": "kn7fjpnh9d93h775t5v17bea0s80tybc",
+        "createdAt": 1770608097410,
+        "data": {
+          "distractors": [
+            "Objective",
+            "Possessive"
+          ]
+        },
+        "difficultyName": "hard",
+        "levelId": "ks79zfx3j2jg8vgvjaaqn1gec180v8fe",
+        "order": 12,
+        "question": "In “The boy was punished”, “boy” is in the {Nominative} Case.",
+        "questionCode": "173310",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1770608097410
+      },
+      {
+        "_creationTime": 1770607697119.8833,
+        "_id": "kn7crt0t6yxpz94vnh50r8txcn80t7ar",
+        "createdAt": 1770607697122,
+        "data": {
+          "correctIndex": 2,
+          "explanation": "“bird’s” shows ownership of the nest.",
+          "options": [
+            "children",
+            "bird",
+            "bird's",
+            "nest"
+          ]
+        },
+        "difficultyName": "hard",
+        "levelId": "ks79zfx3j2jg8vgvjaaqn1gec180v8fe",
+        "order": 13,
+        "question": "In the sentence “The children found a bird’s nest”, which noun is Possessive?",
+        "questionCode": "800486",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770607697122
+      },
+      {
+        "_creationTime": 1770608125269.3674,
+        "_id": "kn7fn3xxrhjq24rp516e2f3h0s80tpf7",
+        "createdAt": 1770608125272,
+        "data": {
+          "distractors": [
+            "ess",
+            "y"
+          ]
+        },
+        "difficultyName": "hard",
+        "levelId": "ks79zfx3j2jg8vgvjaaqn1gec180v8fe",
+        "order": 14,
+        "question": "Apostrophe alone is used for plural possessive nouns ending in {s}.",
+        "questionCode": "165506",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1770608125272
+      },
+      {
+        "_creationTime": 1770607944914.3408,
+        "_id": "kn74hyhmmy9ckc19xr6gbccwfx80tsbn",
+        "createdAt": 1770607944918,
+        "data": {
+          "correctWords": [
+            "cats"
+          ],
+          "explanation": "Subject performing the action.",
+          "selectMode": "single",
+          "statement": "Few cats like cold water."
+        },
+        "difficultyName": "hard",
+        "levelId": "ks79zfx3j2jg8vgvjaaqn1gec180v8fe",
+        "order": 15,
+        "question": "Select the Objective Case noun after a preposition:",
+        "questionCode": "325196",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770607944918
+      },
+      {
+        "_creationTime": 1770608026448.472,
+        "_id": "kn7b0ksbt9b2safb8meheczgz180vvkq",
+        "createdAt": 1770608026450,
+        "data": {
+          "correctWords": [
+            "children"
+          ],
+          "explanation": "Comes after the preposition “with”.",
+          "selectMode": "single",
+          "statement": "She was playing with the children."
+        },
+        "difficultyName": "hard",
+        "levelId": "ks79zfx3j2jg8vgvjaaqn1gec180v8fe",
+        "order": 16,
+        "question": "Select the Objective Case noun:",
+        "questionCode": "359762",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770608026450
+      },
+      {
+        "_creationTime": 1770607725429.8596,
+        "_id": "kn7bx51bx8ejjrt984nwt4d7f980t34x",
+        "createdAt": 1770607725430,
+        "data": {
+          "correctIndex": 1,
+          "explanation": "“her” is the correct objective form.",
+          "options": [
+            "He gave she a book.",
+            "He gave her a book.",
+            "He gave she book.",
+            "He gave hers a book."
+          ]
+        },
+        "difficultyName": "hard",
+        "levelId": "ks79zfx3j2jg8vgvjaaqn1gec180v8fe",
+        "order": 17,
+        "question": "Which sentence uses the Objective Case correctly?",
+        "questionCode": "401790",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770607725430
+      },
+      {
+        "_creationTime": 1770607962214.0532,
+        "_id": "kn7enwz7wt1ch31bc5e79r2swd80tg3e",
+        "createdAt": 1770607962216,
+        "data": {
+          "correctWords": [
+            "me"
+          ],
+          "explanation": "Nouns after prepositions are objective.",
+          "selectMode": "single",
+          "statement": "He arrived before me."
+        },
+        "difficultyName": "hard",
+        "levelId": "ks79zfx3j2jg8vgvjaaqn1gec180v8fe",
+        "order": 18,
+        "question": "Select the Objective Case noun after a preposition:",
+        "questionCode": "723340",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770607962216
+      },
+      {
+        "_creationTime": 1770608156308.02,
+        "_id": "kn7709rdp39ahy1e1j3bmxsehn80veja",
+        "createdAt": 1770608156310,
+        "data": {
+          "distractors": [
+            "Nominative",
+            "Possessive"
+          ]
+        },
+        "difficultyName": "hard",
+        "levelId": "ks79zfx3j2jg8vgvjaaqn1gec180v8fe",
+        "order": 19,
+        "question": "In “He struck him”, “him” is in the {Objective} Case.",
+        "questionCode": "391939",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1770608156310
+      },
+      {
+        "_creationTime": 1770608254455.3315,
+        "_id": "kn7b5qfnnefj2w4afffvz8yhd580t9sz",
+        "createdAt": 1770608254460,
+        "data": {
+          "distractors": [
+            "where",
+            "what",
+            "when"
+          ]
+        },
+        "difficultyName": "hard",
+        "levelId": "ks79zfx3j2jg8vgvjaaqn1gec180v8fe",
+        "order": 20,
+        "question": "The Possessive Case often answers the question {whose}.",
+        "questionCode": "462468",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1770608254460
+      },
+      {
+        "_creationTime": 1770607748140.4822,
+        "_id": "kn76a021e6qmsjryaeb72ma50n80te04",
+        "createdAt": 1770607748143,
+        "data": {
+          "correctIndex": 1,
+          "explanation": "“bazaar” is the subject of the verb “is”.",
+          "options": [
+            "people",
+            "bazaar",
+            "full",
+            "of"
+          ]
+        },
+        "difficultyName": "hard",
+        "levelId": "ks79zfx3j2jg8vgvjaaqn1gec180v8fe",
+        "order": 21,
+        "question": "Which noun is in the Nominative Case in “The bazaar is full of people”?",
+        "questionCode": "364371",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770607748143
+      },
+      {
+        "_creationTime": 1770607983105.2656,
+        "_id": "kn7bypy596541nsepw6rsxgsq180tnmp",
+        "createdAt": 1770607983110,
+        "data": {
+          "correctWords": [
+            "boys’"
+          ],
+          "explanation": "Apostrophe after plural noun ending in s.",
+          "selectMode": "single",
+          "statement": "The boys’ hostel is nearby."
+        },
+        "difficultyName": "hard",
+        "levelId": "ks79zfx3j2jg8vgvjaaqn1gec180v8fe",
+        "order": 22,
+        "question": "Select the Possessive noun (plural):",
+        "questionCode": "564227",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770607983110
+      },
+      {
+        "_creationTime": 1770608289638.029,
+        "_id": "kn74fwxsb5t19sz11ay2d7nmqh80vqq2",
+        "createdAt": 1770608289640,
+        "data": {
+          "distractors": [
+            "after"
+          ]
+        },
+        "difficultyName": "hard",
+        "levelId": "ks79zfx3j2jg8vgvjaaqn1gec180v8fe",
+        "order": 23,
+        "question": "The subject of a sentence generally comes {before} the verb.",
+        "questionCode": "503725",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1770608289640
+      },
+      {
+        "_creationTime": 1770607786539.33,
+        "_id": "kn7bp3s02nydjqr74q5ceaw9ks80t2mc",
+        "createdAt": 1770607786539,
+        "data": {
+          "correctIndex": 1,
+          "explanation": "For non-living things, possession is usually shown using “of”.",
+          "options": [
+            "The table’s leg is broken.",
+            "The leg of the table is broken.",
+            "The table leg’s is broken.",
+            "The tables’ leg broke."
+          ]
+        },
+        "difficultyName": "hard",
+        "levelId": "ks79zfx3j2jg8vgvjaaqn1gec180v8fe",
+        "order": 24,
+        "question": "Which sentence shows Possessive Case for a non-living thing correctly?",
+        "questionCode": "658319",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770607786539
+      },
+      {
+        "_creationTime": 1770608332481.5566,
+        "_id": "kn70hzdr4y7wadr4anjrz7dkds80vgn4",
+        "createdAt": 1770608332483,
+        "data": {
+          "distractors": [
+            "Nominative",
+            "Possessive"
+          ]
+        },
+        "difficultyName": "hard",
+        "levelId": "ks79zfx3j2jg8vgvjaaqn1gec180v8fe",
+        "order": 25,
+        "question": "In “The horse kicked the boy”, “boy” is in the {Objective} Case.",
+        "questionCode": "600556",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1770608332483
+      },
+      {
+        "_creationTime": 1770608047429.8699,
+        "_id": "kn7ayqk6qgj577ptcvcb4y07p180v1ap",
+        "createdAt": 1770608047432,
+        "data": {
+          "correctWords": [
+            "day's"
+          ],
+          "explanation": "Possessive Case can denote time.",
+          "selectMode": "single",
+          "statement": "A day’s march is tiring"
+        },
+        "difficultyName": "hard",
+        "levelId": "ks79zfx3j2jg8vgvjaaqn1gec180v8fe",
+        "order": 26,
+        "question": "Select the noun showing ownership of time:",
+        "questionCode": "779622",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770608047432
+      },
+      {
+        "_creationTime": 1770608000902.7795,
+        "_id": "kn76xv5rb0kj8y5wcwxr5ase5d80tp9y",
+        "createdAt": 1770608000904,
+        "data": {
+          "correctWords": [
+            "Milk"
+          ],
+          "explanation": "Subject of the sentence.",
+          "selectMode": "single",
+          "statement": "Milk is the best food."
+        },
+        "difficultyName": "hard",
+        "levelId": "ks79zfx3j2jg8vgvjaaqn1gec180v8fe",
+        "order": 27,
+        "question": "Select the Nominative Case noun:",
+        "questionCode": "164894",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770608000904
+      },
+      {
+        "_creationTime": 1770607809052.4863,
+        "_id": "kn74bhrprb28vvz25c3nh5zz0980tw01",
+        "createdAt": 1770607809055,
+        "data": {
+          "correctIndex": 3,
+          "explanation": "Nouns after prepositions are in the Objective Case.",
+          "options": [
+            "he",
+            "proud",
+            "of",
+            "success"
+          ]
+        },
+        "difficultyName": "hard",
+        "levelId": "ks79zfx3j2jg8vgvjaaqn1gec180v8fe",
+        "order": 28,
+        "question": "In “He was proud of his success”, which word is in the Objective Case?",
+        "questionCode": "621880",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770607809055
+      },
+      {
+        "_creationTime": 1770607845705.2737,
+        "_id": "kn79vcc6jxyb4sjh3d3e6sq1kd80vfp5",
+        "createdAt": 1770607845707,
+        "data": {
+          "correctIndex": 1,
+          "explanation": "“boy” is nominative; “book” is objective.",
+          "options": [
+            "The boy slept.",
+            "The boy read a book.",
+            "The boy’s book is new.",
+            "The boy was tired."
+          ]
+        },
+        "difficultyName": "hard",
+        "levelId": "ks79zfx3j2jg8vgvjaaqn1gec180v8fe",
+        "order": 29,
+        "question": "Which sentence has both Nominative and Objective Case nouns?",
+        "questionCode": "157714",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770607845707
+      },
+      {
+        "_creationTime": 1770608478507.0002,
+        "_id": "kn77ks3a79ykj73nna12j2b4p580t0xq",
+        "createdAt": 1770608478511,
+        "data": {
+          "distractors": [
+            "verbs",
+            "pronoun"
+          ]
+        },
+        "difficultyName": "hard",
+        "levelId": "ks79zfx3j2jg8vgvjaaqn1gec180v8fe",
+        "order": 30,
+        "question": "The case of a noun depends on its {function} in the sentence.",
+        "questionCode": "724693",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1770608478511
+      }
+    ],
+    "medium": [
+      {
+        "_creationTime": 1770603905286.838,
+        "_id": "kn75atv3aps5vpqhwbgcbhtbmx80vpjv",
+        "createdAt": 1770603905288,
+        "data": {
+          "correctWords": [
+            "wife"
+          ],
+          "explanation": "“wife” is the subject.",
+          "selectMode": "single",
+          "statement": "The farmer’s wife jumped out of bed."
+        },
+        "difficultyName": "medium",
+        "levelId": "ks79zfx3j2jg8vgvjaaqn1gec180v8fe",
+        "order": 1,
+        "question": "Select the noun in the Nominative Case:",
+        "questionCode": "885467",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770603905288
+      },
+      {
+        "_creationTime": 1770604023113.0657,
+        "_id": "kn7akdv3eg8k3syr51xq01hmbs80tat6",
+        "createdAt": 1770604023115,
+        "data": {
+          "distractors": [
+            "thy",
+            "though"
+          ]
+        },
+        "difficultyName": "medium",
+        "levelId": "ks79zfx3j2jg8vgvjaaqn1gec180v8fe",
+        "order": 2,
+        "question": "In passive sentences, the doer may come after the word {by}.",
+        "questionCode": "343579",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1770604023115
+      },
+      {
+        "_creationTime": 1770604659697.022,
+        "_id": "kn70vbwd2m1xxy7bqt57z3rrex80tkwy",
+        "createdAt": 1770604659699,
+        "data": {
+          "correctIndex": 2,
+          "explanation": "“thief” receives the action of the verb.",
+          "options": [
+            "police",
+            "arrested",
+            "theif",
+            "the"
+          ]
+        },
+        "difficultyName": "medium",
+        "levelId": "ks79zfx3j2jg8vgvjaaqn1gec180v8fe",
+        "order": 3,
+        "question": "In the sentence “The police arrested the thief”, which word is in the Objective Case?",
+        "questionCode": "630379",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770604659699
+      },
+      {
+        "_creationTime": 1770604686897.6218,
+        "_id": "kn7c2vd58d992nk1p7bqaham7980vj0v",
+        "createdAt": 1770604686899,
+        "data": {
+          "correctIndex": 3,
+          "explanation": "“boy” is the subject of the sentence.",
+          "options": [
+            "The teacher punished the boy.",
+            "The boy was punished by the teacher.",
+            "The boy’s bag is missing.",
+            "The boy was late."
+          ]
+        },
+        "difficultyName": "medium",
+        "levelId": "ks79zfx3j2jg8vgvjaaqn1gec180v8fe",
+        "order": 4,
+        "question": "Which sentence contains a noun in the Nominative Case?",
+        "questionCode": "497171",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770604686899
+      },
+      {
+        "_creationTime": 1770604051301.0234,
+        "_id": "kn79tst2gn37y59v8j7v9mak7180t2r7",
+        "createdAt": 1770604051302,
+        "data": {
+          "distractors": [
+            "Nominative",
+            "Possessive"
+          ]
+        },
+        "difficultyName": "medium",
+        "levelId": "ks79zfx3j2jg8vgvjaaqn1gec180v8fe",
+        "order": 5,
+        "question": "A noun following a preposition is in the {Objective} Case.",
+        "questionCode": "524349",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1770604051302
+      },
+      {
+        "_creationTime": 1770604712374.5007,
+        "_id": "kn76fkfgkvmq9tq26wp1jsxx2n80vt1m",
+        "createdAt": 1770604712376,
+        "data": {
+          "correctIndex": 2,
+          "explanation": "“me” is the indirect object.",
+          "options": [
+            "She",
+            "gave",
+            "me",
+            "gift"
+          ]
+        },
+        "difficultyName": "medium",
+        "levelId": "ks79zfx3j2jg8vgvjaaqn1gec180v8fe",
+        "order": 6,
+        "question": "In “She gave me a gift”, which word is in the Objective Case?",
+        "questionCode": "405806",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770604712376
+      },
+      {
+        "_creationTime": 1770604810577.0317,
+        "_id": "kn73t0sbsjx9nzp7sqarag0bnd80vdcz",
+        "createdAt": 1770604810579,
+        "data": {
+          "distractors": [
+            "Objective",
+            "Possessive"
+          ]
+        },
+        "difficultyName": "medium",
+        "levelId": "ks79zfx3j2jg8vgvjaaqn1gec180v8fe",
+        "order": 7,
+        "question": "In “The boy was punished”, “boy” is in the {Nominative} Case.",
+        "questionCode": "200369",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1770604810579
+      },
+      {
+        "_creationTime": 1770604741379.1028,
+        "_id": "kn76p61g76jz5tsj8z01m3cz6980vszv",
+        "createdAt": 1770604741381,
+        "data": {
+          "correctWords": [
+            "milk"
+          ],
+          "explanation": "It receives the action.",
+          "selectMode": "single",
+          "statement": "The cat drank the milk."
+        },
+        "difficultyName": "medium",
+        "levelId": "ks79zfx3j2jg8vgvjaaqn1gec180v8fe",
+        "order": 8,
+        "question": "Select the noun in the Objective Case:",
+        "questionCode": "234958",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770604741381
+      },
+      {
+        "_creationTime": 1770604759372.7136,
+        "_id": "kn76sv1dwkf19r5fsdfhw2ykcn80vf85",
+        "createdAt": 1770604759374,
+        "data": {
+          "correctWords": [
+            "girl's"
+          ],
+          "explanation": "Shows ownership.",
+          "selectMode": "single",
+          "statement": "The girl’s voice is sweet."
+        },
+        "difficultyName": "medium",
+        "levelId": "ks79zfx3j2jg8vgvjaaqn1gec180v8fe",
+        "order": 9,
+        "question": "Select the Possessive Case noun:",
+        "questionCode": "548078",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770604759374
+      },
+      {
+        "_creationTime": 1770604889104.83,
+        "_id": "kn7ca1tyrqd3gwecmhdqpak19d80vnnf",
+        "createdAt": 1770604889105,
+        "data": {
+          "distractors": [
+            "a",
+            "ess"
+          ]
+        },
+        "difficultyName": "medium",
+        "levelId": "ks79zfx3j2jg8vgvjaaqn1gec180v8fe",
+        "order": 10,
+        "question": "Apostrophe alone is used for plural possessive nouns ending in {s}.",
+        "questionCode": "976707",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1770604889105
+      },
+      {
+        "_creationTime": 1770605020740.4805,
+        "_id": "kn7ex053he3fzjwvb2ddcza8k180vx1f",
+        "createdAt": 1770605020742,
+        "data": {
+          "correctIndex": 1,
+          "explanation": "Apostrophe + s shows possession for plural nouns not ending in s",
+          "options": [
+            "children",
+            "children’s",
+            "childrens",
+            "child"
+          ]
+        },
+        "difficultyName": "medium",
+        "levelId": "ks79zfx3j2jg8vgvjaaqn1gec180v8fe",
+        "order": 11,
+        "question": "Which word is in the Possessive Case?",
+        "questionCode": "819067",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770605020742
+      },
+      {
+        "_creationTime": 1770605112413.593,
+        "_id": "kn7dwan7qy2s2z01sah8xdsdf980v89f",
+        "createdAt": 1770605112415,
+        "data": {
+          "distractors": [
+            "Nominative",
+            "Possessive"
+          ]
+        },
+        "difficultyName": "medium",
+        "levelId": "ks79zfx3j2jg8vgvjaaqn1gec180v8fe",
+        "order": 12,
+        "question": "In “He struck him”, “him” is in the {Objective} Case.",
+        "questionCode": "218950",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1770605112415
+      },
+      {
+        "_creationTime": 1770605069395.6956,
+        "_id": "kn769zj7w6623d5d95w8y2mke980tfsc",
+        "createdAt": 1770605069398,
+        "data": {
+          "correctIndex": 2,
+          "explanation": "“bird’s” shows ownership of the nest.",
+          "options": [
+            "children",
+            "bird",
+            "bird's",
+            "nest"
+          ]
+        },
+        "difficultyName": "medium",
+        "levelId": "ks79zfx3j2jg8vgvjaaqn1gec180v8fe",
+        "order": 13,
+        "question": "In the sentence “The children found a bird’s nest”, which noun is Possessive?",
+        "questionCode": "561530",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770605069398
+      },
+      {
+        "_creationTime": 1770605140542.7532,
+        "_id": "kn71jvj8r7bj570ne7jm9rg3qn80vfgk",
+        "createdAt": 1770605140544,
+        "data": {
+          "distractors": [
+            "what",
+            "where"
+          ]
+        },
+        "difficultyName": "medium",
+        "levelId": "ks79zfx3j2jg8vgvjaaqn1gec180v8fe",
+        "order": 14,
+        "question": "The Possessive Case often answers the question {whose}.",
+        "questionCode": "811749",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1770605140544
+      },
+      {
+        "_creationTime": 1770605229515.666,
+        "_id": "kn70yjzw8p3cmhxeknrcp20xxs80t4vx",
+        "createdAt": 1770605229517,
+        "data": {
+          "correctIndex": 1,
+          "explanation": "“her” is the correct objective form.",
+          "options": [
+            "He gave she a book.",
+            "He gave her a book.",
+            "He gave she book.",
+            "He gave hers a book."
+          ]
+        },
+        "difficultyName": "medium",
+        "levelId": "ks79zfx3j2jg8vgvjaaqn1gec180v8fe",
+        "order": 15,
+        "question": "Which sentence uses the Objective Case correctly?",
+        "questionCode": "224504",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770605229517
+      },
+      {
+        "_creationTime": 1770605191081.634,
+        "_id": "kn7dx64730w400twf8jpsda65h80tsm1",
+        "createdAt": 1770605191083,
+        "data": {
+          "distractors": [
+            "Nominative",
+            "Objective"
+          ]
+        },
+        "difficultyName": "medium",
+        "levelId": "ks79zfx3j2jg8vgvjaaqn1gec180v8fe",
+        "order": 16,
+        "question": "In “The children’s toys are broken”, “children’s” is {Possessive} Case.",
+        "questionCode": "131879",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1770605191083
+      },
+      {
+        "_creationTime": 1770605324751.3228,
+        "_id": "kn76yw9561w8e9rchjynm0vv8980t4nh",
+        "createdAt": 1770605324753,
+        "data": {
+          "correctWords": [
+            "student"
+          ],
+          "explanation": "Object of the verb.",
+          "selectMode": "single",
+          "statement": "The teacher called the student."
+        },
+        "difficultyName": "medium",
+        "levelId": "ks79zfx3j2jg8vgvjaaqn1gec180v8fe",
+        "order": 17,
+        "question": "Select the word answering “Whom?”",
+        "questionCode": "364238",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770605324753
+      },
+      {
+        "_creationTime": 1770605351633.2307,
+        "_id": "kn756m38znda37pbdf745y0gps80vvc0",
+        "createdAt": 1770605351635,
+        "data": {
+          "correctWords": [
+            "cats"
+          ],
+          "explanation": "Subject performing the action.",
+          "selectMode": "single",
+          "statement": "Few cats like cold water."
+        },
+        "difficultyName": "medium",
+        "levelId": "ks79zfx3j2jg8vgvjaaqn1gec180v8fe",
+        "order": 18,
+        "question": "Select the subject of the sentence:",
+        "questionCode": "847126",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770605351635
+      },
+      {
+        "_creationTime": 1770605255068.6802,
+        "_id": "kn7abr7eqge3qceq6ka4kwbm9980tnnw",
+        "createdAt": 1770605255071,
+        "data": {
+          "correctIndex": 1,
+          "explanation": "“bazaar” is the subject of the verb “is”.",
+          "options": [
+            "people",
+            "bazaar",
+            "full",
+            "of"
+          ]
+        },
+        "difficultyName": "medium",
+        "levelId": "ks79zfx3j2jg8vgvjaaqn1gec180v8fe",
+        "order": 19,
+        "question": "Which noun is in the Nominative Case in “The bazaar is full of people”?",
+        "questionCode": "476634",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770605255071
+      },
+      {
+        "_creationTime": 1770605375642.34,
+        "_id": "kn7eay5xg9yf2z42nhb8m2m9bd80vj8z",
+        "createdAt": 1770605375644,
+        "data": {
+          "correctWords": [
+            "me"
+          ],
+          "explanation": "Nouns after prepositions are objective.",
+          "selectMode": "single",
+          "statement": "He arrived before me."
+        },
+        "difficultyName": "medium",
+        "levelId": "ks79zfx3j2jg8vgvjaaqn1gec180v8fe",
+        "order": 20,
+        "question": "Select the Objective Case noun after a preposition:",
+        "questionCode": "501197",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770605375644
+      },
+      {
+        "_creationTime": 1770605431930.9011,
+        "_id": "kn7924rrbbwvttg6qphmvxyh5h80t9ez",
+        "createdAt": 1770605431933,
+        "data": {
+          "correctIndex": 1,
+          "explanation": "For non-living things, possession is usually shown using “of”.",
+          "options": [
+            "The table’s leg is broken.",
+            "The leg of the table is broken.",
+            "The table leg’s is broken.",
+            "The tables’ leg broke."
+          ]
+        },
+        "difficultyName": "medium",
+        "levelId": "ks79zfx3j2jg8vgvjaaqn1gec180v8fe",
+        "order": 21,
+        "question": "Which sentence shows Possessive Case for a non-living thing correctly?",
+        "questionCode": "170177",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770605431933
+      },
+      {
+        "_creationTime": 1770605613536.4885,
+        "_id": "kn7bjs1d966wca1tbkze8g14px80vtak",
+        "createdAt": 1770605613539,
+        "data": {
+          "distractors": [
+            "after",
+            "start",
+            "close"
+          ]
+        },
+        "difficultyName": "medium",
+        "levelId": "ks79zfx3j2jg8vgvjaaqn1gec180v8fe",
+        "order": 22,
+        "question": "The subject of a sentence generally comes {before} the verb.",
+        "questionCode": "913666",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1770605613539
+      },
+      {
+        "_creationTime": 1770605497645.898,
+        "_id": "kn7fc4jm47da9fs18vanxcd5x580vpvp",
+        "createdAt": 1770605497648,
+        "data": {
+          "correctWords": [
+            "boys’"
+          ],
+          "explanation": "Apostrophe after plural noun ending in s.",
+          "selectMode": "single",
+          "statement": "The boys’ hostel is nearby."
+        },
+        "difficultyName": "medium",
+        "levelId": "ks79zfx3j2jg8vgvjaaqn1gec180v8fe",
+        "order": 23,
+        "question": "Select the Possessive noun (plural):",
+        "questionCode": "854291",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770605497648
+      },
+      {
+        "_creationTime": 1770605456244.9565,
+        "_id": "kn72wbr7gfjrxbhz4n1swss8h980vbjt",
+        "createdAt": 1770605456246,
+        "data": {
+          "correctIndex": 3,
+          "explanation": "Nouns after prepositions are in the Objective Case.",
+          "options": [
+            "he",
+            "proud",
+            "of",
+            "success"
+          ]
+        },
+        "difficultyName": "medium",
+        "levelId": "ks79zfx3j2jg8vgvjaaqn1gec180v8fe",
+        "order": 24,
+        "question": "In “He was proud of his success”, which word is in the Objective Case?",
+        "questionCode": "760754",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770605456246
+      },
+      {
+        "_creationTime": 1770605642568.2805,
+        "_id": "kn78me9tz3w07ndp9wann0rs7x80tq7g",
+        "createdAt": 1770605642570,
+        "data": {
+          "distractors": [
+            "Nominative",
+            "Possessive"
+          ]
+        },
+        "difficultyName": "medium",
+        "levelId": "ks79zfx3j2jg8vgvjaaqn1gec180v8fe",
+        "order": 25,
+        "question": "In “The horse kicked the boy”, “boy” is in the {Objective} Case.",
+        "questionCode": "573797",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1770605642570
+      },
+      {
+        "_creationTime": 1770605516628.809,
+        "_id": "kn79ktrawn1t46xbz85kme6ma980t0v9",
+        "createdAt": 1770605516630,
+        "data": {
+          "correctWords": [
+            "Milk"
+          ],
+          "explanation": "Subject of the sentence.",
+          "selectMode": "single",
+          "statement": "Milk is the best food."
+        },
+        "difficultyName": "medium",
+        "levelId": "ks79zfx3j2jg8vgvjaaqn1gec180v8fe",
+        "order": 26,
+        "question": "Select the Nominative Case noun:",
+        "questionCode": "627209",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770605516630
+      },
+      {
+        "_creationTime": 1770605851620.1316,
+        "_id": "kn75fcz4519x8tb3bq3jf56g1980t2kc",
+        "createdAt": 1770605851622,
+        "data": {
+          "correctIndex": 1,
+          "explanation": "“boy” is nominative; “book” is objective.",
+          "options": [
+            "The boy slept.",
+            "The boy read a book.",
+            "The boy’s book is new.",
+            "The boy was tired."
+          ]
+        },
+        "difficultyName": "medium",
+        "levelId": "ks79zfx3j2jg8vgvjaaqn1gec180v8fe",
+        "order": 27,
+        "question": "Which sentence has both Nominative and Objective Case nouns?",
+        "questionCode": "177841",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1770605851622
+      },
+      {
+        "_creationTime": 1770605538121.5369,
+        "_id": "kn76c1ebxsfx4bs3a0ks3vrhbh80tmt5",
+        "createdAt": 1770605538123,
+        "data": {
+          "correctWords": [
+            "children"
+          ],
+          "explanation": "Comes after the preposition “with”.",
+          "selectMode": "single",
+          "statement": "She was playing with the children."
+        },
+        "difficultyName": "medium",
+        "levelId": "ks79zfx3j2jg8vgvjaaqn1gec180v8fe",
+        "order": 28,
+        "question": "Select the Objective Case noun:",
+        "questionCode": "983226",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770605538123
+      },
+      {
+        "_creationTime": 1770605714556.525,
+        "_id": "kn74qzge09te93s2wbv9dqc1hs80t156",
+        "createdAt": 1770605714558,
+        "data": {
+          "distractors": [
+            "start",
+            "auction"
+          ]
+        },
+        "difficultyName": "medium",
+        "levelId": "ks79zfx3j2jg8vgvjaaqn1gec180v8fe",
+        "order": 29,
+        "question": "The case of a noun depends on its {function} in the sentence.",
+        "questionCode": "606579",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1770605714558
+      },
+      {
+        "_creationTime": 1770605798221.0312,
+        "_id": "kn7f0kxyf4che0f7m30w04kw7h80vg96",
+        "createdAt": 1770605798223,
+        "data": {
+          "correctWords": [
+            "day's"
+          ],
+          "explanation": "Possessive Case can denote time.",
+          "selectMode": "single",
+          "statement": "A day’s march is tiring."
+        },
+        "difficultyName": "medium",
+        "levelId": "ks79zfx3j2jg8vgvjaaqn1gec180v8fe",
+        "order": 30,
+        "question": "Select the noun showing ownership of time:",
+        "questionCode": "252197",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1770605798223
+      }
+    ]
+  }
+}
