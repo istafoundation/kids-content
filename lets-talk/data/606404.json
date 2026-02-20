@@ -1,0 +1,35 @@
+{
+  "id": "606404",
+  "title": "General Conversation",
+  "botAvatar": "🤖",
+  "steps": [
+    {
+      "speaker": "bot",
+      "text": "Hey man, How are you ?",
+      "audioUrl": "lets-talk/audio/606404-step0.opus"
+    },
+    {
+      "speaker": "user",
+      "text": "Good, How about you ?"
+    },
+    {
+      "speaker": "bot",
+      "text": "Nice to hear bro",
+      "audioUrl": "lets-talk/audio/606404-step2.opus"
+    },
+    {
+      "speaker": "bot",
+      "text": "How was school ?",
+      "audioUrl": "lets-talk/audio/606404-step3.opus"
+    },
+    {
+      "speaker": "user",
+      "text": "Not bad actually."
+    },
+    {
+      "speaker": "bot",
+      "text": "Nice to hear man, Talk to you later tomorrow.",
+      "audioUrl": "lets-talk/audio/606404-step5.opus"
+    }
+  ]
+}
