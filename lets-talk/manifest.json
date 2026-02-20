@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "baseUrl": "https://istafoundation.github.io/kids-content/",
+  "levels": [
+    {
+      "id": "374126",
+      "path": "data/374126.json"
+    }
+  ],
+  "lastUpdated": "2026-02-20T02:42:13.075Z"
+}

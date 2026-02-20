@@ -1,0 +1,35 @@
+{
+  "id": "374126",
+  "title": "Greetings",
+  "botAvatar": "🤖",
+  "steps": [
+    {
+      "speaker": "bot",
+      "text": "How are you ?",
+      "audioUrl": "lets-talk/audio/374126-step0.opus"
+    },
+    {
+      "speaker": "user",
+      "text": "I am good. What about you"
+    },
+    {
+      "speaker": "bot",
+      "text": "I am great too. Thank you.",
+      "audioUrl": "lets-talk/audio/374126-step2.opus"
+    },
+    {
+      "speaker": "bot",
+      "text": "So how was your day ?",
+      "audioUrl": "lets-talk/audio/374126-step3.opus"
+    },
+    {
+      "speaker": "user",
+      "text": "It was great."
+    },
+    {
+      "speaker": "bot",
+      "text": "good good.",
+      "audioUrl": "lets-talk/audio/374126-step5.opus"
+    }
+  ]
+}
