@@ -1,7 +1,7 @@
 {
   "levelId": "ks78cdn3wg2nw4gvrhc4smxaxx7zzre0",
-  "version": 0,
-  "publishedAt": 1770756023274,
+  "version": 4,
+  "publishedAt": 1771812548544,
   "questions": {
     "easy": [
       {
@@ -200,7 +200,7 @@
         "questionCode": "248309",
         "questionType": "mcq",
         "status": "active",
-        "updatedAt": 1770662616341
+        "updatedAt": 1770991774564
       },
       {
         "_creationTime": 1770662616341.098,
@@ -208,9 +208,11 @@
         "createdAt": 1770662616341,
         "data": {
           "correctWords": [
-            "an"
+            "an",
+            "the"
           ],
-          "selectMode": "single",
+          "explanation": "",
+          "selectMode": "multiple",
           "statement": "We saw an elephant in the zoo."
         },
         "difficultyName": "easy",
@@ -220,7 +222,7 @@
         "questionCode": "181892",
         "questionType": "select",
         "status": "active",
-        "updatedAt": 1770662616341
+        "updatedAt": 1770991764647
       },
       {
         "_creationTime": 1770662616341.0981,
@@ -404,6 +406,7 @@
             "a",
             "the"
           ],
+          "explanation": "",
           "selectMode": "multiple",
           "statement": "I saw a dog. The dog was barking."
         },
@@ -414,7 +417,7 @@
         "questionCode": "868512",
         "questionType": "select",
         "status": "active",
-        "updatedAt": 1770662616341
+        "updatedAt": 1770991831007
       },
       {
         "_creationTime": 1770662616341.1003,
@@ -1355,7 +1358,8 @@
             "a",
             "the"
           ],
-          "selectMode": "single",
+          "explanation": "",
+          "selectMode": "multiple",
           "statement": "I saw a bird in the garden."
         },
         "difficultyName": "medium",
@@ -1365,7 +1369,7 @@
         "questionCode": "395920",
         "questionType": "select",
         "status": "active",
-        "updatedAt": 1770662616341
+        "updatedAt": 1770991861094
       },
       {
         "_creationTime": 1770662616341.1035,

@@ -151,7 +151,7 @@
       }
     ],
     "totalQuestions": 90,
-    "questionsVersion": 0
+    "questionsVersion": 4
   },
   {
     "_id": "ks75btrxjryqep69g5z69a6bms7zyzq2",
@@ -602,35 +602,5 @@
     ],
     "totalQuestions": 90,
     "questionsVersion": 0
-  },
-  {
-    "_id": "ks74t9xhczq82f61x7b3vk5z9580w4hh",
-    "levelNumber": 21,
-    "name": "Tests",
-    "description": "",
-    "groupId": "mh76vsmvqn4b6x5h2vnknst8fx80p099",
-    "isEnabled": true,
-    "difficulties": [
-      {
-        "displayName": "Easy",
-        "name": "easy",
-        "order": 1,
-        "requiredScore": 75
-      },
-      {
-        "displayName": "Medium",
-        "name": "medium",
-        "order": 2,
-        "requiredScore": 55
-      },
-      {
-        "displayName": "Hard",
-        "name": "hard",
-        "order": 3,
-        "requiredScore": 30
-      }
-    ],
-    "totalQuestions": 1,
-    "questionsVersion": 1
   }
 ]
