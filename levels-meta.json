@@ -602,5 +602,34 @@
     ],
     "totalQuestions": 90,
     "questionsVersion": 0
+  },
+  {
+    "_id": "ks75pz1qw2xr7r768mfyj2xy8d81q8g5",
+    "levelNumber": 21,
+    "name": "Ayooooooo",
+    "groupId": "mh76vsmvqn4b6x5h2vnknst8fx80p099",
+    "isEnabled": true,
+    "difficulties": [
+      {
+        "displayName": "Easy",
+        "name": "easy",
+        "order": 1,
+        "requiredScore": 75
+      },
+      {
+        "displayName": "Medium",
+        "name": "medium",
+        "order": 2,
+        "requiredScore": 55
+      },
+      {
+        "displayName": "Hard",
+        "name": "hard",
+        "order": 3,
+        "requiredScore": 30
+      }
+    ],
+    "totalQuestions": 1,
+    "questionsVersion": 1
   }
 ]
