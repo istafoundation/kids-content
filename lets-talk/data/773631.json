@@ -1,0 +1,367 @@
+{
+  "id": "773631",
+  "title": "Morning Routine",
+  "botAvatar": "🤖",
+  "steps": [
+    {
+      "speaker": "bot",
+      "text": "Good morning!",
+      "audioUrl": "lets-talk/audio/773631-step0.opus"
+    },
+    {
+      "speaker": "user",
+      "text": "Good morning! How are you?"
+    },
+    {
+      "speaker": "bot",
+      "text": "I am fine.",
+      "audioUrl": "lets-talk/audio/773631-step2.opus"
+    },
+    {
+      "speaker": "user",
+      "text": "That is good. Did you sleep well?"
+    },
+    {
+      "speaker": "bot",
+      "text": "Yes, I slept well.",
+      "audioUrl": "lets-talk/audio/773631-step4.opus"
+    },
+    {
+      "speaker": "user",
+      "text": "Nice! What time did you wake up?"
+    },
+    {
+      "speaker": "bot",
+      "text": "I woke up at 7 o’clock.",
+      "audioUrl": "lets-talk/audio/773631-step6.opus"
+    },
+    {
+      "speaker": "user",
+      "text": "That is good. I woke up at 6 o’clock."
+    },
+    {
+      "speaker": "bot",
+      "text": "Oh nice! What did you do first?",
+      "audioUrl": "lets-talk/audio/773631-step8.opus"
+    },
+    {
+      "speaker": "user",
+      "text": "First, I brushed my teeth."
+    },
+    {
+      "speaker": "bot",
+      "text": "Did you use toothpaste?",
+      "audioUrl": "lets-talk/audio/773631-step10.opus"
+    },
+    {
+      "speaker": "user",
+      "text": "Yes, I used toothpaste and a brush."
+    },
+    {
+      "speaker": "bot",
+      "text": "Good! What did you do after that?",
+      "audioUrl": "lets-talk/audio/773631-step12.opus"
+    },
+    {
+      "speaker": "user",
+      "text": "I washed my face."
+    },
+    {
+      "speaker": "bot",
+      "text": "Did you open the window?",
+      "audioUrl": "lets-talk/audio/773631-step14.opus"
+    },
+    {
+      "speaker": "user",
+      "text": "Yes, I opened the window for fresh air."
+    },
+    {
+      "speaker": "bot",
+      "text": "That is nice. Did you drink water?",
+      "audioUrl": "lets-talk/audio/773631-step16.opus"
+    },
+    {
+      "speaker": "user",
+      "text": "Yes, I drank a glass of water."
+    },
+    {
+      "speaker": "bot",
+      "text": "What did you eat for breakfast?",
+      "audioUrl": "lets-talk/audio/773631-step18.opus"
+    },
+    {
+      "speaker": "user",
+      "text": "I ate bread and butter."
+    },
+    {
+      "speaker": "bot",
+      "text": "Did you drink milk?",
+      "audioUrl": "lets-talk/audio/773631-step20.opus"
+    },
+    {
+      "speaker": "user",
+      "text": "Yes, I drank a glass of milk."
+    },
+    {
+      "speaker": "bot",
+      "text": "Who was sitting on the chair near you?",
+      "audioUrl": "lets-talk/audio/773631-step22.opus"
+    },
+    {
+      "speaker": "user",
+      "text": "My mother was sitting on the chair."
+    },
+    {
+      "speaker": "bot",
+      "text": "Did you close the door before leaving?",
+      "audioUrl": "lets-talk/audio/773631-step24.opus"
+    },
+    {
+      "speaker": "user",
+      "text": "Yes, I closed the door."
+    },
+    {
+      "speaker": "bot",
+      "text": "Did you pack your school bag?",
+      "audioUrl": "lets-talk/audio/773631-step26.opus"
+    },
+    {
+      "speaker": "user",
+      "text": "Yes, I packed my books and pencil box."
+    },
+    {
+      "speaker": "bot",
+      "text": "How did you go to school?",
+      "audioUrl": "lets-talk/audio/773631-step28.opus"
+    },
+    {
+      "speaker": "user",
+      "text": "I went by school bus."
+    },
+    {
+      "speaker": "bot",
+      "text": "Who sits next to you in class?",
+      "audioUrl": "lets-talk/audio/773631-step30.opus"
+    },
+    {
+      "speaker": "user",
+      "text": "My friend Rahul sits next to me."
+    },
+    {
+      "speaker": "bot",
+      "text": "What is on your table?",
+      "audioUrl": "lets-talk/audio/773631-step32.opus"
+    },
+    {
+      "speaker": "user",
+      "text": "My book, pen, and water bottle are on my table."
+    },
+    {
+      "speaker": "bot",
+      "text": "Did you write with a pencil or pen?",
+      "audioUrl": "lets-talk/audio/773631-step34.opus"
+    },
+    {
+      "speaker": "user",
+      "text": "I wrote with a pencil."
+    },
+    {
+      "speaker": "bot",
+      "text": "Did you talk to your teacher?",
+      "audioUrl": "lets-talk/audio/773631-step36.opus"
+    },
+    {
+      "speaker": "user",
+      "text": "Yes, I asked my teacher a question."
+    },
+    {
+      "speaker": "bot",
+      "text": "What did you ask?",
+      "audioUrl": "lets-talk/audio/773631-step38.opus"
+    },
+    {
+      "speaker": "user",
+      "text": "I asked about homework."
+    },
+    {
+      "speaker": "bot",
+      "text": "What did you do after school?",
+      "audioUrl": "lets-talk/audio/773631-step40.opus"
+    },
+    {
+      "speaker": "user",
+      "text": "I played with my ball."
+    },
+    {
+      "speaker": "bot",
+      "text": "Did you sit on a chair or on the floor?",
+      "audioUrl": "lets-talk/audio/773631-step42.opus"
+    },
+    {
+      "speaker": "user",
+      "text": "I sat on the floor."
+    },
+    {
+      "speaker": "bot",
+      "text": "Did you watch TV?",
+      "audioUrl": "lets-talk/audio/773631-step44.opus"
+    },
+    {
+      "speaker": "user",
+      "text": "Yes, I watched TV for some time."
+    },
+    {
+      "speaker": "bot",
+      "text": "What did you watch?",
+      "audioUrl": "lets-talk/audio/773631-step46.opus"
+    },
+    {
+      "speaker": "user",
+      "text": "I watched a cartoon."
+    },
+    {
+      "speaker": "bot",
+      "text": "Did you help at home?",
+      "audioUrl": "lets-talk/audio/773631-step48.opus"
+    },
+    {
+      "speaker": "user",
+      "text": "Yes, I helped to clean the table."
+    },
+    {
+      "speaker": "bot",
+      "text": "Did you open the door for someone?",
+      "audioUrl": "lets-talk/audio/773631-step50.opus"
+    },
+    {
+      "speaker": "user",
+      "text": "Yes, I opened the door for my father."
+    },
+    {
+      "speaker": "bot",
+      "text": "What did you eat at night?",
+      "audioUrl": "lets-talk/audio/773631-step52.opus"
+    },
+    {
+      "speaker": "user",
+      "text": "I ate rice and vegetables."
+    },
+    {
+      "speaker": "bot",
+      "text": "Did you wash your hands before eating?",
+      "audioUrl": "lets-talk/audio/773631-step54.opus"
+    },
+    {
+      "speaker": "user",
+      "text": "Yes, I washed my hands with soap."
+    },
+    {
+      "speaker": "bot",
+      "text": "Did you drink water after food?",
+      "audioUrl": "lets-talk/audio/773631-step56.opus"
+    },
+    {
+      "speaker": "user",
+      "text": "Yes, I drank water."
+    },
+    {
+      "speaker": "bot",
+      "text": "What did you do before sleeping?",
+      "audioUrl": "lets-talk/audio/773631-step58.opus"
+    },
+    {
+      "speaker": "user",
+      "text": "I brushed my teeth again."
+    },
+    {
+      "speaker": "bot",
+      "text": "Did you close the window?",
+      "audioUrl": "lets-talk/audio/773631-step60.opus"
+    },
+    {
+      "speaker": "user",
+      "text": "Yes, I closed the window."
+    },
+    {
+      "speaker": "bot",
+      "text": "Did you switch off the light?",
+      "audioUrl": "lets-talk/audio/773631-step62.opus"
+    },
+    {
+      "speaker": "user",
+      "text": "Yes, I switched off the light."
+    },
+    {
+      "speaker": "bot",
+      "text": "Did you keep your bag near the chair?",
+      "audioUrl": "lets-talk/audio/773631-step64.opus"
+    },
+    {
+      "speaker": "user",
+      "text": "Yes, I kept my bag near the chair."
+    },
+    {
+      "speaker": "bot",
+      "text": "What time did you sleep?",
+      "audioUrl": "lets-talk/audio/773631-step66.opus"
+    },
+    {
+      "speaker": "user",
+      "text": "I slept at 9 o’clock."
+    },
+    {
+      "speaker": "bot",
+      "text": "I am feeling sleepy.",
+      "audioUrl": "lets-talk/audio/773631-step68.opus"
+    },
+    {
+      "speaker": "user",
+      "text": "Did you brush your teeth?"
+    },
+    {
+      "speaker": "bot",
+      "text": "Yes, I did.",
+      "audioUrl": "lets-talk/audio/773631-step70.opus"
+    },
+    {
+      "speaker": "user",
+      "text": "Did you close the door?"
+    },
+    {
+      "speaker": "bot",
+      "text": "Not yet.",
+      "audioUrl": "lets-talk/audio/773631-step72.opus"
+    },
+    {
+      "speaker": "user",
+      "text": "Please close the door."
+    },
+    {
+      "speaker": "bot",
+      "text": "Okay, I closed it.",
+      "audioUrl": "lets-talk/audio/773631-step74.opus"
+    },
+    {
+      "speaker": "user",
+      "text": "Did you switch off the fan?"
+    },
+    {
+      "speaker": "bot",
+      "text": "Yes, I switched it off.",
+      "audioUrl": "lets-talk/audio/773631-step76.opus"
+    },
+    {
+      "speaker": "user",
+      "text": "Good. Now you can sleep."
+    },
+    {
+      "speaker": "bot",
+      "text": "Thank you for talking to me.",
+      "audioUrl": "lets-talk/audio/773631-step78.opus"
+    },
+    {
+      "speaker": "user",
+      "text": "You are welcome. See you tomorrow!"
+    }
+  ]
+}
