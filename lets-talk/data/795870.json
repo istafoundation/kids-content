@@ -1,0 +1,207 @@
+{
+  "id": "795870",
+  "title": "Friends Conversation",
+  "botAvatar": "🤖",
+  "steps": [
+    {
+      "speaker": "bot",
+      "text": "Hi!"
+    },
+    {
+      "speaker": "user",
+      "text": "Hi! How are you?"
+    },
+    {
+      "speaker": "bot",
+      "text": "I am good."
+    },
+    {
+      "speaker": "user",
+      "text": "That is nice. How was your day?"
+    },
+    {
+      "speaker": "bot",
+      "text": "My day was good."
+    },
+    {
+      "speaker": "user",
+      "text": "What did you do in school?"
+    },
+    {
+      "speaker": "bot",
+      "text": "I had English class."
+    },
+    {
+      "speaker": "user",
+      "text": "Oh nice! Did you read a book?"
+    },
+    {
+      "speaker": "bot",
+      "text": "Yes, I read a small story."
+    },
+    {
+      "speaker": "user",
+      "text": "That is great. I also read a story."
+    },
+    {
+      "speaker": "bot",
+      "text": "What subject do you like?"
+    },
+    {
+      "speaker": "user",
+      "text": "I like English. What about you?"
+    },
+    {
+      "speaker": "bot",
+      "text": "I like Maths."
+    },
+    {
+      "speaker": "user",
+      "text": "Maths is fun. Do you like numbers?"
+    },
+    {
+      "speaker": "bot",
+      "text": "Yes, I like big numbers."
+    },
+    {
+      "speaker": "user",
+      "text": "That is good. I like writing words."
+    },
+    {
+      "speaker": "bot",
+      "text": "Who sits near you in class?"
+    },
+    {
+      "speaker": "user",
+      "text": "My friend sits near me."
+    },
+    {
+      "speaker": "bot",
+      "text": "Do you share your pencil?"
+    },
+    {
+      "speaker": "user",
+      "text": "Yes, I share my pencil and eraser."
+    },
+    {
+      "speaker": "bot",
+      "text": "What did you bring for lunch?"
+    },
+    {
+      "speaker": "user",
+      "text": "I brought rice and vegetables."
+    },
+    {
+      "speaker": "bot",
+      "text": "Did you drink water?"
+    },
+    {
+      "speaker": "user",
+      "text": "Yes, I drank water from my bottle."
+    },
+    {
+      "speaker": "bot",
+      "text": "What did you do after school?"
+    },
+    {
+      "speaker": "user",
+      "text": "I played with my ball."
+    },
+    {
+      "speaker": "bot",
+      "text": "Did you play outside?"
+    },
+    {
+      "speaker": "user",
+      "text": "Yes, I played near my house."
+    },
+    {
+      "speaker": "bot",
+      "text": "Did you sit on a chair later?"
+    },
+    {
+      "speaker": "user",
+      "text": "Yes, I sat on a chair and did homework."
+    },
+    {
+      "speaker": "bot",
+      "text": "Did you open the door when you came home?"
+    },
+    {
+      "speaker": "user",
+      "text": "Yes, I opened the door."
+    },
+    {
+      "speaker": "bot",
+      "text": "Did you wash your hands?"
+    },
+    {
+      "speaker": "user",
+      "text": "Yes, I washed my hands with soap."
+    },
+    {
+      "speaker": "bot",
+      "text": "Do you like watching TV?"
+    },
+    {
+      "speaker": "user",
+      "text": "Yes, I like watching cartoons."
+    },
+    {
+      "speaker": "bot",
+      "text": "Today I felt happy."
+    },
+    {
+      "speaker": "user",
+      "text": "Why did you feel happy?"
+    },
+    {
+      "speaker": "bot",
+      "text": "Because I got a star from teacher."
+    },
+    {
+      "speaker": "user",
+      "text": "That is great! I am proud of you."
+    },
+    {
+      "speaker": "bot",
+      "text": "I am feeling hungry now."
+    },
+    {
+      "speaker": "user",
+      "text": "What will you eat?"
+    },
+    {
+      "speaker": "bot",
+      "text": "I will eat a banana."
+    },
+    {
+      "speaker": "user",
+      "text": "Do you like bananas?"
+    },
+    {
+      "speaker": "bot",
+      "text": "Yes, I like bananas."
+    },
+    {
+      "speaker": "user",
+      "text": "It is getting dark."
+    },
+    {
+      "speaker": "bot",
+      "text": "I need to go home."
+    },
+    {
+      "speaker": "user",
+      "text": "Okay. See you tomorrow at school."
+    },
+    {
+      "speaker": "bot",
+      "text": "See you tomorrow!"
+    },
+    {
+      "speaker": "user",
+      "text": "Good night! Sleep well."
+    }
+  ]
+}
