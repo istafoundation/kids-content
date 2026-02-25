@@ -1,0 +1,327 @@
+{
+  "id": "946746",
+  "title": "Birthday Conversation",
+  "botAvatar": "🤖",
+  "steps": [
+    {
+      "speaker": "bot",
+      "text": "Hi! Are you coming to my birthday party?"
+    },
+    {
+      "speaker": "user",
+      "text": "Yes! I am very excited."
+    },
+    {
+      "speaker": "bot",
+      "text": "The party is at my house."
+    },
+    {
+      "speaker": "user",
+      "text": "What time should I come?"
+    },
+    {
+      "speaker": "bot",
+      "text": "Please come at 5 o’clock."
+    },
+    {
+      "speaker": "user",
+      "text": "Okay, I will come at 5."
+    },
+    {
+      "speaker": "bot",
+      "text": "Will you bring a gift?"
+    },
+    {
+      "speaker": "user",
+      "text": "Yes, I have a small gift for you."
+    },
+    {
+      "speaker": "bot",
+      "text": "Thank you!"
+    },
+    {
+      "speaker": "user",
+      "text": "You are welcome."
+    },
+    {
+      "speaker": "bot",
+      "text": "Do you like chocolate cake?"
+    },
+    {
+      "speaker": "user",
+      "text": "Yes, I love chocolate cake."
+    },
+    {
+      "speaker": "bot",
+      "text": "My cake is big and round."
+    },
+    {
+      "speaker": "user",
+      "text": "Wow! That sounds nice."
+    },
+    {
+      "speaker": "bot",
+      "text": "There will be balloons."
+    },
+    {
+      "speaker": "user",
+      "text": "I like colorful balloons."
+    },
+    {
+      "speaker": "bot",
+      "text": "Will you help me blow balloons?"
+    },
+    {
+      "speaker": "user",
+      "text": "Yes, I will help you."
+    },
+    {
+      "speaker": "bot",
+      "text": "My room has blue and red lights."
+    },
+    {
+      "speaker": "user",
+      "text": "That will look beautiful."
+    },
+    {
+      "speaker": "bot",
+      "text": "Many friends will come."
+    },
+    {
+      "speaker": "user",
+      "text": "That is great."
+    },
+    {
+      "speaker": "bot",
+      "text": "We will play games."
+    },
+    {
+      "speaker": "user",
+      "text": "What games will we play?"
+    },
+    {
+      "speaker": "bot",
+      "text": "We will play musical chairs."
+    },
+    {
+      "speaker": "user",
+      "text": "I like musical chairs."
+    },
+    {
+      "speaker": "bot",
+      "text": "There will be music and dance."
+    },
+    {
+      "speaker": "user",
+      "text": "I like to dance."
+    },
+    {
+      "speaker": "bot",
+      "text": "Do you want juice?"
+    },
+    {
+      "speaker": "user",
+      "text": "Yes, I like mango juice."
+    },
+    {
+      "speaker": "bot",
+      "text": "My mother made snacks."
+    },
+    {
+      "speaker": "user",
+      "text": "What snacks did she make?"
+    },
+    {
+      "speaker": "bot",
+      "text": "She made chips and sandwiches."
+    },
+    {
+      "speaker": "user",
+      "text": "That sounds tasty."
+    },
+    {
+      "speaker": "bot",
+      "text": "Will you wear a new dress?"
+    },
+    {
+      "speaker": "user",
+      "text": "Yes, I will wear my new shirt."
+    },
+    {
+      "speaker": "bot",
+      "text": "I will wear a birthday cap."
+    },
+    {
+      "speaker": "user",
+      "text": "I want a cap too."
+    },
+    {
+      "speaker": "bot",
+      "text": "I will give you one."
+    },
+    {
+      "speaker": "user",
+      "text": "Thank you!"
+    },
+    {
+      "speaker": "bot",
+      "text": "It is time to cut the cake."
+    },
+    {
+      "speaker": "user",
+      "text": "Yay! Let us sing a song."
+    },
+    {
+      "speaker": "bot",
+      "text": "Please stand near me."
+    },
+    {
+      "speaker": "user",
+      "text": "Okay, I am standing here."
+    },
+    {
+      "speaker": "bot",
+      "text": "Let us clap together."
+    },
+    {
+      "speaker": "user",
+      "text": "Yes, clap clap!"
+    },
+    {
+      "speaker": "bot",
+      "text": "I am cutting the cake now."
+    },
+    {
+      "speaker": "user",
+      "text": "Happy Birthday to you!"
+    },
+    {
+      "speaker": "bot",
+      "text": "Thank you for the wishes."
+    },
+    {
+      "speaker": "user",
+      "text": "May you have a great year."
+    },
+    {
+      "speaker": "bot",
+      "text": "Here is your cake piece."
+    },
+    {
+      "speaker": "user",
+      "text": "Thank you. It is very tasty."
+    },
+    {
+      "speaker": "bot",
+      "text": "Do you want more cake?"
+    },
+    {
+      "speaker": "user",
+      "text": "Yes, a small piece please."
+    },
+    {
+      "speaker": "bot",
+      "text": "Did you bring my gift?"
+    },
+    {
+      "speaker": "user",
+      "text": "Yes, here is your gift."
+    },
+    {
+      "speaker": "bot",
+      "text": "Can I open it now?"
+    },
+    {
+      "speaker": "user",
+      "text": "Yes, please open it."
+    },
+    {
+      "speaker": "bot",
+      "text": "Wow! It is a toy car."
+    },
+    {
+      "speaker": "user",
+      "text": "I am happy you like it."
+    },
+    {
+      "speaker": "bot",
+      "text": "Let us take a photo."
+    },
+    {
+      "speaker": "user",
+      "text": "Yes, smile!"
+    },
+    {
+      "speaker": "bot",
+      "text": "Say cheese!"
+    },
+    {
+      "speaker": "user",
+      "text": "Cheese!"
+    },
+    {
+      "speaker": "bot",
+      "text": "Let us play another game."
+    },
+    {
+      "speaker": "user",
+      "text": "Okay, I am ready."
+    },
+    {
+      "speaker": "bot",
+      "text": "Do you want to dance?"
+    },
+    {
+      "speaker": "user",
+      "text": "Yes, let us dance."
+    },
+    {
+      "speaker": "bot",
+      "text": "The music is loud."
+    },
+    {
+      "speaker": "user",
+      "text": "I like this song."
+    },
+    {
+      "speaker": "bot",
+      "text": "It is getting late."
+    },
+    {
+      "speaker": "user",
+      "text": "Yes, it is night now."
+    },
+    {
+      "speaker": "bot",
+      "text": "Thank you for coming."
+    },
+    {
+      "speaker": "user",
+      "text": "I am happy to come."
+    },
+    {
+      "speaker": "bot",
+      "text": "Did you enjoy the party?"
+    },
+    {
+      "speaker": "user",
+      "text": "Yes, I enjoyed it a lot."
+    },
+    {
+      "speaker": "bot",
+      "text": "Please come again next year."
+    },
+    {
+      "speaker": "user",
+      "text": "I will come for sure."
+    },
+    {
+      "speaker": "bot",
+      "text": "Good night, my friend."
+    },
+    {
+      "speaker": "user",
+      "text": "Good night! See you tomorrow."
+    }
+  ]
+}
