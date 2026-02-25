@@ -5,7 +5,8 @@
   "steps": [
     {
       "speaker": "bot",
-      "text": "Hi! Are you ready for the picnic?"
+      "text": "Hi! Are you ready for the picnic?",
+      "audioUrl": "lets-talk/audio/593570-step0.opus"
     },
     {
       "speaker": "user",
@@ -13,7 +14,8 @@
     },
     {
       "speaker": "bot",
-      "text": "Where shall we go?"
+      "text": "Where shall we go?",
+      "audioUrl": "lets-talk/audio/593570-step2.opus"
     },
     {
       "speaker": "user",
@@ -21,7 +23,8 @@
     },
     {
       "speaker": "bot",
-      "text": "What will you bring?"
+      "text": "What will you bring?",
+      "audioUrl": "lets-talk/audio/593570-step4.opus"
     },
     {
       "speaker": "user",
@@ -29,7 +32,8 @@
     },
     {
       "speaker": "bot",
-      "text": "Will you bring water?"
+      "text": "Will you bring water?",
+      "audioUrl": "lets-talk/audio/593570-step6.opus"
     },
     {
       "speaker": "user",
@@ -37,7 +41,8 @@
     },
     {
       "speaker": "bot",
-      "text": "Do you have a bag?"
+      "text": "Do you have a bag?",
+      "audioUrl": "lets-talk/audio/593570-step8.opus"
     },
     {
       "speaker": "user",
@@ -45,7 +50,8 @@
     },
     {
       "speaker": "bot",
-      "text": "What time will we leave?"
+      "text": "What time will we leave?",
+      "audioUrl": "lets-talk/audio/593570-step10.opus"
     },
     {
       "speaker": "user",
@@ -53,7 +59,8 @@
     },
     {
       "speaker": "bot",
-      "text": "Will you wear a cap?"
+      "text": "Will you wear a cap?",
+      "audioUrl": "lets-talk/audio/593570-step12.opus"
     },
     {
       "speaker": "user",
@@ -61,7 +68,8 @@
     },
     {
       "speaker": "bot",
-      "text": "Do you have a ball?"
+      "text": "Do you have a ball?",
+      "audioUrl": "lets-talk/audio/593570-step14.opus"
     },
     {
       "speaker": "user",
@@ -69,7 +77,8 @@
     },
     {
       "speaker": "bot",
-      "text": "Shall we sit on the grass?"
+      "text": "Shall we sit on the grass?",
+      "audioUrl": "lets-talk/audio/593570-step16.opus"
     },
     {
       "speaker": "user",
@@ -77,7 +86,8 @@
     },
     {
       "speaker": "bot",
-      "text": "Will you bring a mat?"
+      "text": "Will you bring a mat?",
+      "audioUrl": "lets-talk/audio/593570-step18.opus"
     },
     {
       "speaker": "user",
@@ -85,7 +95,8 @@
     },
     {
       "speaker": "bot",
-      "text": "Do you like mango juice?"
+      "text": "Do you like mango juice?",
+      "audioUrl": "lets-talk/audio/593570-step20.opus"
     },
     {
       "speaker": "user",
@@ -93,7 +104,8 @@
     },
     {
       "speaker": "bot",
-      "text": "I will bring some juice."
+      "text": "I will bring some juice.",
+      "audioUrl": "lets-talk/audio/593570-step22.opus"
     },
     {
       "speaker": "user",
@@ -101,7 +113,8 @@
     },
     {
       "speaker": "bot",
-      "text": "Do you like music?"
+      "text": "Do you like music?",
+      "audioUrl": "lets-talk/audio/593570-step24.opus"
     },
     {
       "speaker": "user",
@@ -109,7 +122,8 @@
     },
     {
       "speaker": "bot",
-      "text": "Shall we take photos?"
+      "text": "Shall we take photos?",
+      "audioUrl": "lets-talk/audio/593570-step26.opus"
     },
     {
       "speaker": "user",
@@ -117,7 +131,8 @@
     },
     {
       "speaker": "bot",
-      "text": "Do you like swings?"
+      "text": "Do you like swings?",
+      "audioUrl": "lets-talk/audio/593570-step28.opus"
     },
     {
       "speaker": "user",
@@ -125,7 +140,8 @@
     },
     {
       "speaker": "bot",
-      "text": "Will you call other friends?"
+      "text": "Will you call other friends?",
+      "audioUrl": "lets-talk/audio/593570-step30.opus"
     },
     {
       "speaker": "user",
@@ -133,7 +149,8 @@
     },
     {
       "speaker": "bot",
-      "text": "How will we go there?"
+      "text": "How will we go there?",
+      "audioUrl": "lets-talk/audio/593570-step32.opus"
     },
     {
       "speaker": "user",
@@ -141,7 +158,8 @@
     },
     {
       "speaker": "bot",
-      "text": "Do you have bus money?"
+      "text": "Do you have bus money?",
+      "audioUrl": "lets-talk/audio/593570-step34.opus"
     },
     {
       "speaker": "user",
@@ -149,7 +167,8 @@
     },
     {
       "speaker": "bot",
-      "text": "Will your mother come?"
+      "text": "Will your mother come?",
+      "audioUrl": "lets-talk/audio/593570-step36.opus"
     },
     {
       "speaker": "user",
@@ -157,7 +176,8 @@
     },
     {
       "speaker": "bot",
-      "text": "Do you like trees?"
+      "text": "Do you like trees?",
+      "audioUrl": "lets-talk/audio/593570-step38.opus"
     },
     {
       "speaker": "user",
@@ -165,7 +185,8 @@
     },
     {
       "speaker": "bot",
-      "text": "Shall we play hide and seek?"
+      "text": "Shall we play hide and seek?",
+      "audioUrl": "lets-talk/audio/593570-step40.opus"
     },
     {
       "speaker": "user",
@@ -173,7 +194,8 @@
     },
     {
       "speaker": "bot",
-      "text": "Do you like ice cream?"
+      "text": "Do you like ice cream?",
+      "audioUrl": "lets-talk/audio/593570-step42.opus"
     },
     {
       "speaker": "user",
@@ -181,7 +203,8 @@
     },
     {
       "speaker": "bot",
-      "text": "Will you share your food?"
+      "text": "Will you share your food?",
+      "audioUrl": "lets-talk/audio/593570-step44.opus"
     },
     {
       "speaker": "user",
@@ -189,7 +212,8 @@
     },
     {
       "speaker": "bot",
-      "text": "Do you like to run?"
+      "text": "Do you like to run?",
+      "audioUrl": "lets-talk/audio/593570-step46.opus"
     },
     {
       "speaker": "user",
@@ -197,7 +221,8 @@
     },
     {
       "speaker": "bot",
-      "text": "Are you feeling happy?"
+      "text": "Are you feeling happy?",
+      "audioUrl": "lets-talk/audio/593570-step48.opus"
     },
     {
       "speaker": "user",
@@ -205,7 +230,8 @@
     },
     {
       "speaker": "bot",
-      "text": "What will we do after lunch?"
+      "text": "What will we do after lunch?",
+      "audioUrl": "lets-talk/audio/593570-step50.opus"
     },
     {
       "speaker": "user",
@@ -213,7 +239,8 @@
     },
     {
       "speaker": "bot",
-      "text": "Will you sit on the bench?"
+      "text": "Will you sit on the bench?",
+      "audioUrl": "lets-talk/audio/593570-step52.opus"
     },
     {
       "speaker": "user",
@@ -221,7 +248,8 @@
     },
     {
       "speaker": "bot",
-      "text": "Do you like flowers?"
+      "text": "Do you like flowers?",
+      "audioUrl": "lets-talk/audio/593570-step54.opus"
     },
     {
       "speaker": "user",
@@ -229,7 +257,8 @@
     },
     {
       "speaker": "bot",
-      "text": "Shall we clean the place?"
+      "text": "Shall we clean the place?",
+      "audioUrl": "lets-talk/audio/593570-step56.opus"
     },
     {
       "speaker": "user",
@@ -237,7 +266,8 @@
     },
     {
       "speaker": "bot",
-      "text": "Will you throw trash in the dustbin?"
+      "text": "Will you throw trash in the dustbin?",
+      "audioUrl": "lets-talk/audio/593570-step58.opus"
     },
     {
       "speaker": "user",
@@ -245,7 +275,8 @@
     },
     {
       "speaker": "bot",
-      "text": "Is the sun very hot?"
+      "text": "Is the sun very hot?",
+      "audioUrl": "lets-talk/audio/593570-step60.opus"
     },
     {
       "speaker": "user",
@@ -253,7 +284,8 @@
     },
     {
       "speaker": "bot",
-      "text": "Do you need water now?"
+      "text": "Do you need water now?",
+      "audioUrl": "lets-talk/audio/593570-step62.opus"
     },
     {
       "speaker": "user",
@@ -261,7 +293,8 @@
     },
     {
       "speaker": "bot",
-      "text": "Here is your water bottle."
+      "text": "Here is your water bottle.",
+      "audioUrl": "lets-talk/audio/593570-step64.opus"
     },
     {
       "speaker": "user",
@@ -269,7 +302,8 @@
     },
     {
       "speaker": "bot",
-      "text": "Are you tired?"
+      "text": "Are you tired?",
+      "audioUrl": "lets-talk/audio/593570-step66.opus"
     },
     {
       "speaker": "user",
@@ -277,7 +311,8 @@
     },
     {
       "speaker": "bot",
-      "text": "Shall we take a rest?"
+      "text": "Shall we take a rest?",
+      "audioUrl": "lets-talk/audio/593570-step68.opus"
     },
     {
       "speaker": "user",
@@ -285,7 +320,8 @@
     },
     {
       "speaker": "bot",
-      "text": "Did you enjoy the picnic?"
+      "text": "Did you enjoy the picnic?",
+      "audioUrl": "lets-talk/audio/593570-step70.opus"
     },
     {
       "speaker": "user",
@@ -293,7 +329,8 @@
     },
     {
       "speaker": "bot",
-      "text": "What was your favorite part?"
+      "text": "What was your favorite part?",
+      "audioUrl": "lets-talk/audio/593570-step72.opus"
     },
     {
       "speaker": "user",
@@ -301,7 +338,8 @@
     },
     {
       "speaker": "bot",
-      "text": "Will you come again next week?"
+      "text": "Will you come again next week?",
+      "audioUrl": "lets-talk/audio/593570-step74.opus"
     },
     {
       "speaker": "user",
@@ -309,7 +347,8 @@
     },
     {
       "speaker": "bot",
-      "text": "It is getting late now."
+      "text": "It is getting late now.",
+      "audioUrl": "lets-talk/audio/593570-step76.opus"
     },
     {
       "speaker": "user",
@@ -317,7 +356,8 @@
     },
     {
       "speaker": "bot",
-      "text": "Did you pack everything?"
+      "text": "Did you pack everything?",
+      "audioUrl": "lets-talk/audio/593570-step78.opus"
     },
     {
       "speaker": "user",
