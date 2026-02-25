@@ -5,7 +5,8 @@
   "steps": [
     {
       "speaker": "bot",
-      "text": "Hi! Are you ready for the school trip?"
+      "text": "Hi! Are you ready for the school trip?",
+      "audioUrl": "lets-talk/audio/199152-step0.opus"
     },
     {
       "speaker": "user",
@@ -13,7 +14,8 @@
     },
     {
       "speaker": "bot",
-      "text": "Where are we going?"
+      "text": "Where are we going?",
+      "audioUrl": "lets-talk/audio/199152-step2.opus"
     },
     {
       "speaker": "user",
@@ -21,7 +23,8 @@
     },
     {
       "speaker": "bot",
-      "text": "What time will we leave?"
+      "text": "What time will we leave?",
+      "audioUrl": "lets-talk/audio/199152-step4.opus"
     },
     {
       "speaker": "user",
@@ -29,7 +32,8 @@
     },
     {
       "speaker": "bot",
-      "text": "Did you pack your bag?"
+      "text": "Did you pack your bag?",
+      "audioUrl": "lets-talk/audio/199152-step6.opus"
     },
     {
       "speaker": "user",
@@ -37,7 +41,8 @@
     },
     {
       "speaker": "bot",
-      "text": "What did you pack?"
+      "text": "What did you pack?",
+      "audioUrl": "lets-talk/audio/199152-step8.opus"
     },
     {
       "speaker": "user",
@@ -45,7 +50,8 @@
     },
     {
       "speaker": "bot",
-      "text": "Did you bring your cap?"
+      "text": "Did you bring your cap?",
+      "audioUrl": "lets-talk/audio/199152-step10.opus"
     },
     {
       "speaker": "user",
@@ -53,7 +59,8 @@
     },
     {
       "speaker": "bot",
-      "text": "Did you wear your school shoes?"
+      "text": "Did you wear your school shoes?",
+      "audioUrl": "lets-talk/audio/199152-step12.opus"
     },
     {
       "speaker": "user",
@@ -61,7 +68,8 @@
     },
     {
       "speaker": "bot",
-      "text": "Are you sitting in the bus?"
+      "text": "Are you sitting in the bus?",
+      "audioUrl": "lets-talk/audio/199152-step14.opus"
     },
     {
       "speaker": "user",
@@ -69,7 +77,8 @@
     },
     {
       "speaker": "bot",
-      "text": "Do you like window seats?"
+      "text": "Do you like window seats?",
+      "audioUrl": "lets-talk/audio/199152-step16.opus"
     },
     {
       "speaker": "user",
@@ -77,7 +86,8 @@
     },
     {
       "speaker": "bot",
-      "text": "Is the bus big?"
+      "text": "Is the bus big?",
+      "audioUrl": "lets-talk/audio/199152-step18.opus"
     },
     {
       "speaker": "user",
@@ -85,7 +95,8 @@
     },
     {
       "speaker": "bot",
-      "text": "Who is sitting next to you?"
+      "text": "Who is sitting next to you?",
+      "audioUrl": "lets-talk/audio/199152-step20.opus"
     },
     {
       "speaker": "user",
@@ -93,7 +104,8 @@
     },
     {
       "speaker": "bot",
-      "text": "Is your teacher in the bus?"
+      "text": "Is your teacher in the bus?",
+      "audioUrl": "lets-talk/audio/199152-step22.opus"
     },
     {
       "speaker": "user",
@@ -101,7 +113,8 @@
     },
     {
       "speaker": "bot",
-      "text": "Are you singing songs?"
+      "text": "Are you singing songs?",
+      "audioUrl": "lets-talk/audio/199152-step24.opus"
     },
     {
       "speaker": "user",
@@ -109,7 +122,8 @@
     },
     {
       "speaker": "bot",
-      "text": "Is the road long?"
+      "text": "Is the road long?",
+      "audioUrl": "lets-talk/audio/199152-step26.opus"
     },
     {
       "speaker": "user",
@@ -117,7 +131,8 @@
     },
     {
       "speaker": "bot",
-      "text": "Did you see trees outside?"
+      "text": "Did you see trees outside?",
+      "audioUrl": "lets-talk/audio/199152-step28.opus"
     },
     {
       "speaker": "user",
@@ -125,7 +140,8 @@
     },
     {
       "speaker": "bot",
-      "text": "We have reached the zoo."
+      "text": "We have reached the zoo.",
+      "audioUrl": "lets-talk/audio/199152-step30.opus"
     },
     {
       "speaker": "user",
@@ -133,7 +149,8 @@
     },
     {
       "speaker": "bot",
-      "text": "Can you see the animals?"
+      "text": "Can you see the animals?",
+      "audioUrl": "lets-talk/audio/199152-step32.opus"
     },
     {
       "speaker": "user",
@@ -141,7 +158,8 @@
     },
     {
       "speaker": "bot",
-      "text": "Do you see monkeys?"
+      "text": "Do you see monkeys?",
+      "audioUrl": "lets-talk/audio/199152-step34.opus"
     },
     {
       "speaker": "user",
@@ -149,7 +167,8 @@
     },
     {
       "speaker": "bot",
-      "text": "Is the elephant big?"
+      "text": "Is the elephant big?",
+      "audioUrl": "lets-talk/audio/199152-step36.opus"
     },
     {
       "speaker": "user",
@@ -157,7 +176,8 @@
     },
     {
       "speaker": "bot",
-      "text": "Are you taking photos?"
+      "text": "Are you taking photos?",
+      "audioUrl": "lets-talk/audio/199152-step38.opus"
     },
     {
       "speaker": "user",
@@ -165,7 +185,8 @@
     },
     {
       "speaker": "bot",
-      "text": "Did you eat your snacks?"
+      "text": "Did you eat your snacks?",
+      "audioUrl": "lets-talk/audio/199152-step40.opus"
     },
     {
       "speaker": "user",
@@ -173,7 +194,8 @@
     },
     {
       "speaker": "bot",
-      "text": "Did you drink water?"
+      "text": "Did you drink water?",
+      "audioUrl": "lets-talk/audio/199152-step42.opus"
     },
     {
       "speaker": "user",
@@ -181,7 +203,8 @@
     },
     {
       "speaker": "bot",
-      "text": "Are you feeling tired?"
+      "text": "Are you feeling tired?",
+      "audioUrl": "lets-talk/audio/199152-step44.opus"
     },
     {
       "speaker": "user",
@@ -189,7 +212,8 @@
     },
     {
       "speaker": "bot",
-      "text": "Shall we sit on the bench?"
+      "text": "Shall we sit on the bench?",
+      "audioUrl": "lets-talk/audio/199152-step46.opus"
     },
     {
       "speaker": "user",
@@ -197,7 +221,8 @@
     },
     {
       "speaker": "bot",
-      "text": "Is the weather hot?"
+      "text": "Is the weather hot?",
+      "audioUrl": "lets-talk/audio/199152-step48.opus"
     },
     {
       "speaker": "user",
@@ -205,7 +230,8 @@
     },
     {
       "speaker": "bot",
-      "text": "Did you see the birds?"
+      "text": "Did you see the birds?",
+      "audioUrl": "lets-talk/audio/199152-step50.opus"
     },
     {
       "speaker": "user",
@@ -213,7 +239,8 @@
     },
     {
       "speaker": "bot",
-      "text": "Do you like the zoo?"
+      "text": "Do you like the zoo?",
+      "audioUrl": "lets-talk/audio/199152-step52.opus"
     },
     {
       "speaker": "user",
@@ -221,7 +248,8 @@
     },
     {
       "speaker": "bot",
-      "text": "What is your favorite animal?"
+      "text": "What is your favorite animal?",
+      "audioUrl": "lets-talk/audio/199152-step54.opus"
     },
     {
       "speaker": "user",
@@ -229,7 +257,8 @@
     },
     {
       "speaker": "bot",
-      "text": "Did you learn something new?"
+      "text": "Did you learn something new?",
+      "audioUrl": "lets-talk/audio/199152-step56.opus"
     },
     {
       "speaker": "user",
@@ -237,7 +266,8 @@
     },
     {
       "speaker": "bot",
-      "text": "Are you ready to go back?"
+      "text": "Are you ready to go back?",
+      "audioUrl": "lets-talk/audio/199152-step58.opus"
     },
     {
       "speaker": "user",
@@ -245,7 +275,8 @@
     },
     {
       "speaker": "bot",
-      "text": "Are you sitting in the bus again?"
+      "text": "Are you sitting in the bus again?",
+      "audioUrl": "lets-talk/audio/199152-step60.opus"
     },
     {
       "speaker": "user",
@@ -253,7 +284,8 @@
     },
     {
       "speaker": "bot",
-      "text": "Are you feeling sleepy?"
+      "text": "Are you feeling sleepy?",
+      "audioUrl": "lets-talk/audio/199152-step62.opus"
     },
     {
       "speaker": "user",
@@ -261,7 +293,8 @@
     },
     {
       "speaker": "bot",
-      "text": "Did you enjoy the trip?"
+      "text": "Did you enjoy the trip?",
+      "audioUrl": "lets-talk/audio/199152-step64.opus"
     },
     {
       "speaker": "user",
@@ -269,7 +302,8 @@
     },
     {
       "speaker": "bot",
-      "text": "Will you tell your parents?"
+      "text": "Will you tell your parents?",
+      "audioUrl": "lets-talk/audio/199152-step66.opus"
     },
     {
       "speaker": "user",
@@ -277,7 +311,8 @@
     },
     {
       "speaker": "bot",
-      "text": "It was a great day."
+      "text": "It was a great day.",
+      "audioUrl": "lets-talk/audio/199152-step68.opus"
     },
     {
       "speaker": "user",
@@ -285,7 +320,8 @@
     },
     {
       "speaker": "bot",
-      "text": "Will you go on another trip?"
+      "text": "Will you go on another trip?",
+      "audioUrl": "lets-talk/audio/199152-step70.opus"
     },
     {
       "speaker": "user",
@@ -293,7 +329,8 @@
     },
     {
       "speaker": "bot",
-      "text": "Goodbye my friend."
+      "text": "Goodbye my friend.",
+      "audioUrl": "lets-talk/audio/199152-step72.opus"
     },
     {
       "speaker": "user",
@@ -301,7 +338,8 @@
     },
     {
       "speaker": "bot",
-      "text": "Did you thank your teacher?"
+      "text": "Did you thank your teacher?",
+      "audioUrl": "lets-talk/audio/199152-step74.opus"
     },
     {
       "speaker": "user",
@@ -309,7 +347,8 @@
     },
     {
       "speaker": "bot",
-      "text": "Will you keep the photos safe?"
+      "text": "Will you keep the photos safe?",
+      "audioUrl": "lets-talk/audio/199152-step76.opus"
     },
     {
       "speaker": "user",
@@ -317,7 +356,8 @@
     },
     {
       "speaker": "bot",
-      "text": "Are you happy today?"
+      "text": "Are you happy today?",
+      "audioUrl": "lets-talk/audio/199152-step78.opus"
     },
     {
       "speaker": "user",
