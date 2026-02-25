@@ -5,7 +5,8 @@
   "steps": [
     {
       "speaker": "bot",
-      "text": "Hi! Are you coming to my birthday party?"
+      "text": "Hi! Are you coming to my birthday party?",
+      "audioUrl": "lets-talk/audio/946746-step0.opus"
     },
     {
       "speaker": "user",
@@ -13,7 +14,8 @@
     },
     {
       "speaker": "bot",
-      "text": "The party is at my house."
+      "text": "The party is at my house.",
+      "audioUrl": "lets-talk/audio/946746-step2.opus"
     },
     {
       "speaker": "user",
@@ -21,7 +23,8 @@
     },
     {
       "speaker": "bot",
-      "text": "Please come at 5 o’clock."
+      "text": "Please come at 5 o’clock.",
+      "audioUrl": "lets-talk/audio/946746-step4.opus"
     },
     {
       "speaker": "user",
@@ -29,7 +32,8 @@
     },
     {
       "speaker": "bot",
-      "text": "Will you bring a gift?"
+      "text": "Will you bring a gift?",
+      "audioUrl": "lets-talk/audio/946746-step6.opus"
     },
     {
       "speaker": "user",
@@ -37,7 +41,8 @@
     },
     {
       "speaker": "bot",
-      "text": "Thank you!"
+      "text": "Thank you!",
+      "audioUrl": "lets-talk/audio/946746-step8.opus"
     },
     {
       "speaker": "user",
@@ -45,7 +50,8 @@
     },
     {
       "speaker": "bot",
-      "text": "Do you like chocolate cake?"
+      "text": "Do you like chocolate cake?",
+      "audioUrl": "lets-talk/audio/946746-step10.opus"
     },
     {
       "speaker": "user",
@@ -53,7 +59,8 @@
     },
     {
       "speaker": "bot",
-      "text": "My cake is big and round."
+      "text": "My cake is big and round.",
+      "audioUrl": "lets-talk/audio/946746-step12.opus"
     },
     {
       "speaker": "user",
@@ -61,7 +68,8 @@
     },
     {
       "speaker": "bot",
-      "text": "There will be balloons."
+      "text": "There will be balloons.",
+      "audioUrl": "lets-talk/audio/946746-step14.opus"
     },
     {
       "speaker": "user",
@@ -69,7 +77,8 @@
     },
     {
       "speaker": "bot",
-      "text": "Will you help me blow balloons?"
+      "text": "Will you help me blow balloons?",
+      "audioUrl": "lets-talk/audio/946746-step16.opus"
     },
     {
       "speaker": "user",
@@ -77,7 +86,8 @@
     },
     {
       "speaker": "bot",
-      "text": "My room has blue and red lights."
+      "text": "My room has blue and red lights.",
+      "audioUrl": "lets-talk/audio/946746-step18.opus"
     },
     {
       "speaker": "user",
@@ -85,7 +95,8 @@
     },
     {
       "speaker": "bot",
-      "text": "Many friends will come."
+      "text": "Many friends will come.",
+      "audioUrl": "lets-talk/audio/946746-step20.opus"
     },
     {
       "speaker": "user",
@@ -93,7 +104,8 @@
     },
     {
       "speaker": "bot",
-      "text": "We will play games."
+      "text": "We will play games.",
+      "audioUrl": "lets-talk/audio/946746-step22.opus"
     },
     {
       "speaker": "user",
@@ -101,7 +113,8 @@
     },
     {
       "speaker": "bot",
-      "text": "We will play musical chairs."
+      "text": "We will play musical chairs.",
+      "audioUrl": "lets-talk/audio/946746-step24.opus"
     },
     {
       "speaker": "user",
@@ -109,7 +122,8 @@
     },
     {
       "speaker": "bot",
-      "text": "There will be music and dance."
+      "text": "There will be music and dance.",
+      "audioUrl": "lets-talk/audio/946746-step26.opus"
     },
     {
       "speaker": "user",
@@ -117,7 +131,8 @@
     },
     {
       "speaker": "bot",
-      "text": "Do you want juice?"
+      "text": "Do you want juice?",
+      "audioUrl": "lets-talk/audio/946746-step28.opus"
     },
     {
       "speaker": "user",
@@ -125,7 +140,8 @@
     },
     {
       "speaker": "bot",
-      "text": "My mother made snacks."
+      "text": "My mother made snacks.",
+      "audioUrl": "lets-talk/audio/946746-step30.opus"
     },
     {
       "speaker": "user",
@@ -133,7 +149,8 @@
     },
     {
       "speaker": "bot",
-      "text": "She made chips and sandwiches."
+      "text": "She made chips and sandwiches.",
+      "audioUrl": "lets-talk/audio/946746-step32.opus"
     },
     {
       "speaker": "user",
@@ -141,7 +158,8 @@
     },
     {
       "speaker": "bot",
-      "text": "Will you wear a new dress?"
+      "text": "Will you wear a new dress?",
+      "audioUrl": "lets-talk/audio/946746-step34.opus"
     },
     {
       "speaker": "user",
@@ -149,7 +167,8 @@
     },
     {
       "speaker": "bot",
-      "text": "I will wear a birthday cap."
+      "text": "I will wear a birthday cap.",
+      "audioUrl": "lets-talk/audio/946746-step36.opus"
     },
     {
       "speaker": "user",
@@ -157,7 +176,8 @@
     },
     {
       "speaker": "bot",
-      "text": "I will give you one."
+      "text": "I will give you one.",
+      "audioUrl": "lets-talk/audio/946746-step38.opus"
     },
     {
       "speaker": "user",
@@ -165,7 +185,8 @@
     },
     {
       "speaker": "bot",
-      "text": "It is time to cut the cake."
+      "text": "It is time to cut the cake.",
+      "audioUrl": "lets-talk/audio/946746-step40.opus"
     },
     {
       "speaker": "user",
@@ -173,7 +194,8 @@
     },
     {
       "speaker": "bot",
-      "text": "Please stand near me."
+      "text": "Please stand near me.",
+      "audioUrl": "lets-talk/audio/946746-step42.opus"
     },
     {
       "speaker": "user",
@@ -181,7 +203,8 @@
     },
     {
       "speaker": "bot",
-      "text": "Let us clap together."
+      "text": "Let us clap together.",
+      "audioUrl": "lets-talk/audio/946746-step44.opus"
     },
     {
       "speaker": "user",
@@ -189,7 +212,8 @@
     },
     {
       "speaker": "bot",
-      "text": "I am cutting the cake now."
+      "text": "I am cutting the cake now.",
+      "audioUrl": "lets-talk/audio/946746-step46.opus"
     },
     {
       "speaker": "user",
@@ -197,7 +221,8 @@
     },
     {
       "speaker": "bot",
-      "text": "Thank you for the wishes."
+      "text": "Thank you for the wishes.",
+      "audioUrl": "lets-talk/audio/946746-step48.opus"
     },
     {
       "speaker": "user",
@@ -205,7 +230,8 @@
     },
     {
       "speaker": "bot",
-      "text": "Here is your cake piece."
+      "text": "Here is your cake piece.",
+      "audioUrl": "lets-talk/audio/946746-step50.opus"
     },
     {
       "speaker": "user",
@@ -213,7 +239,8 @@
     },
     {
       "speaker": "bot",
-      "text": "Do you want more cake?"
+      "text": "Do you want more cake?",
+      "audioUrl": "lets-talk/audio/946746-step52.opus"
     },
     {
       "speaker": "user",
@@ -221,7 +248,8 @@
     },
     {
       "speaker": "bot",
-      "text": "Did you bring my gift?"
+      "text": "Did you bring my gift?",
+      "audioUrl": "lets-talk/audio/946746-step54.opus"
     },
     {
       "speaker": "user",
@@ -229,7 +257,8 @@
     },
     {
       "speaker": "bot",
-      "text": "Can I open it now?"
+      "text": "Can I open it now?",
+      "audioUrl": "lets-talk/audio/946746-step56.opus"
     },
     {
       "speaker": "user",
@@ -237,7 +266,8 @@
     },
     {
       "speaker": "bot",
-      "text": "Wow! It is a toy car."
+      "text": "Wow! It is a toy car.",
+      "audioUrl": "lets-talk/audio/946746-step58.opus"
     },
     {
       "speaker": "user",
@@ -245,7 +275,8 @@
     },
     {
       "speaker": "bot",
-      "text": "Let us take a photo."
+      "text": "Let us take a photo.",
+      "audioUrl": "lets-talk/audio/946746-step60.opus"
     },
     {
       "speaker": "user",
@@ -253,7 +284,8 @@
     },
     {
       "speaker": "bot",
-      "text": "Say cheese!"
+      "text": "Say cheese!",
+      "audioUrl": "lets-talk/audio/946746-step62.opus"
     },
     {
       "speaker": "user",
@@ -261,7 +293,8 @@
     },
     {
       "speaker": "bot",
-      "text": "Let us play another game."
+      "text": "Let us play another game.",
+      "audioUrl": "lets-talk/audio/946746-step64.opus"
     },
     {
       "speaker": "user",
@@ -269,7 +302,8 @@
     },
     {
       "speaker": "bot",
-      "text": "Do you want to dance?"
+      "text": "Do you want to dance?",
+      "audioUrl": "lets-talk/audio/946746-step66.opus"
     },
     {
       "speaker": "user",
@@ -277,7 +311,8 @@
     },
     {
       "speaker": "bot",
-      "text": "The music is loud."
+      "text": "The music is loud.",
+      "audioUrl": "lets-talk/audio/946746-step68.opus"
     },
     {
       "speaker": "user",
@@ -285,7 +320,8 @@
     },
     {
       "speaker": "bot",
-      "text": "It is getting late."
+      "text": "It is getting late.",
+      "audioUrl": "lets-talk/audio/946746-step70.opus"
     },
     {
       "speaker": "user",
@@ -293,7 +329,8 @@
     },
     {
       "speaker": "bot",
-      "text": "Thank you for coming."
+      "text": "Thank you for coming.",
+      "audioUrl": "lets-talk/audio/946746-step72.opus"
     },
     {
       "speaker": "user",
@@ -301,7 +338,8 @@
     },
     {
       "speaker": "bot",
-      "text": "Did you enjoy the party?"
+      "text": "Did you enjoy the party?",
+      "audioUrl": "lets-talk/audio/946746-step74.opus"
     },
     {
       "speaker": "user",
@@ -309,7 +347,8 @@
     },
     {
       "speaker": "bot",
-      "text": "Please come again next year."
+      "text": "Please come again next year.",
+      "audioUrl": "lets-talk/audio/946746-step76.opus"
     },
     {
       "speaker": "user",
@@ -317,7 +356,8 @@
     },
     {
       "speaker": "bot",
-      "text": "Good night, my friend."
+      "text": "Good night, my friend.",
+      "audioUrl": "lets-talk/audio/946746-step78.opus"
     },
     {
       "speaker": "user",
