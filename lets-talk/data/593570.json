@@ -1,0 +1,327 @@
+{
+  "id": "593570",
+  "title": "Picnic Conversation",
+  "botAvatar": "🤖",
+  "steps": [
+    {
+      "speaker": "bot",
+      "text": "Hi! Are you ready for the picnic?"
+    },
+    {
+      "speaker": "user",
+      "text": "Yes! I am very excited."
+    },
+    {
+      "speaker": "bot",
+      "text": "Where shall we go?"
+    },
+    {
+      "speaker": "user",
+      "text": "Let us go to the park."
+    },
+    {
+      "speaker": "bot",
+      "text": "What will you bring?"
+    },
+    {
+      "speaker": "user",
+      "text": "I will bring sandwiches."
+    },
+    {
+      "speaker": "bot",
+      "text": "Will you bring water?"
+    },
+    {
+      "speaker": "user",
+      "text": "Yes, I will bring two bottles."
+    },
+    {
+      "speaker": "bot",
+      "text": "Do you have a bag?"
+    },
+    {
+      "speaker": "user",
+      "text": "Yes, I have a small blue bag."
+    },
+    {
+      "speaker": "bot",
+      "text": "What time will we leave?"
+    },
+    {
+      "speaker": "user",
+      "text": "We will leave at 9 o’clock."
+    },
+    {
+      "speaker": "bot",
+      "text": "Will you wear a cap?"
+    },
+    {
+      "speaker": "user",
+      "text": "Yes, I will wear a red cap."
+    },
+    {
+      "speaker": "bot",
+      "text": "Do you have a ball?"
+    },
+    {
+      "speaker": "user",
+      "text": "Yes, I have a football."
+    },
+    {
+      "speaker": "bot",
+      "text": "Shall we sit on the grass?"
+    },
+    {
+      "speaker": "user",
+      "text": "Yes, the grass is clean."
+    },
+    {
+      "speaker": "bot",
+      "text": "Will you bring a mat?"
+    },
+    {
+      "speaker": "user",
+      "text": "Yes, I will bring a mat."
+    },
+    {
+      "speaker": "bot",
+      "text": "Do you like mango juice?"
+    },
+    {
+      "speaker": "user",
+      "text": "Yes, I like mango juice."
+    },
+    {
+      "speaker": "bot",
+      "text": "I will bring some juice."
+    },
+    {
+      "speaker": "user",
+      "text": "That is great."
+    },
+    {
+      "speaker": "bot",
+      "text": "Do you like music?"
+    },
+    {
+      "speaker": "user",
+      "text": "Yes, I like happy songs."
+    },
+    {
+      "speaker": "bot",
+      "text": "Shall we take photos?"
+    },
+    {
+      "speaker": "user",
+      "text": "Yes, I will bring my camera."
+    },
+    {
+      "speaker": "bot",
+      "text": "Do you like swings?"
+    },
+    {
+      "speaker": "user",
+      "text": "Yes, I love swings."
+    },
+    {
+      "speaker": "bot",
+      "text": "Will you call other friends?"
+    },
+    {
+      "speaker": "user",
+      "text": "Yes, I will call Rahul."
+    },
+    {
+      "speaker": "bot",
+      "text": "How will we go there?"
+    },
+    {
+      "speaker": "user",
+      "text": "We will go by bus."
+    },
+    {
+      "speaker": "bot",
+      "text": "Do you have bus money?"
+    },
+    {
+      "speaker": "user",
+      "text": "Yes, I have some money."
+    },
+    {
+      "speaker": "bot",
+      "text": "Will your mother come?"
+    },
+    {
+      "speaker": "user",
+      "text": "No, she will stay at home."
+    },
+    {
+      "speaker": "bot",
+      "text": "Do you like trees?"
+    },
+    {
+      "speaker": "user",
+      "text": "Yes, trees give fresh air."
+    },
+    {
+      "speaker": "bot",
+      "text": "Shall we play hide and seek?"
+    },
+    {
+      "speaker": "user",
+      "text": "Yes, that will be fun."
+    },
+    {
+      "speaker": "bot",
+      "text": "Do you like ice cream?"
+    },
+    {
+      "speaker": "user",
+      "text": "Yes, I like chocolate ice cream."
+    },
+    {
+      "speaker": "bot",
+      "text": "Will you share your food?"
+    },
+    {
+      "speaker": "user",
+      "text": "Yes, I will share with you."
+    },
+    {
+      "speaker": "bot",
+      "text": "Do you like to run?"
+    },
+    {
+      "speaker": "user",
+      "text": "Yes, I like to run fast."
+    },
+    {
+      "speaker": "bot",
+      "text": "Are you feeling happy?"
+    },
+    {
+      "speaker": "user",
+      "text": "Yes, I feel very happy."
+    },
+    {
+      "speaker": "bot",
+      "text": "What will we do after lunch?"
+    },
+    {
+      "speaker": "user",
+      "text": "We will play with the ball."
+    },
+    {
+      "speaker": "bot",
+      "text": "Will you sit on the bench?"
+    },
+    {
+      "speaker": "user",
+      "text": "Yes, I will sit on the bench."
+    },
+    {
+      "speaker": "bot",
+      "text": "Do you like flowers?"
+    },
+    {
+      "speaker": "user",
+      "text": "Yes, I like red flowers."
+    },
+    {
+      "speaker": "bot",
+      "text": "Shall we clean the place?"
+    },
+    {
+      "speaker": "user",
+      "text": "Yes, we must keep it clean."
+    },
+    {
+      "speaker": "bot",
+      "text": "Will you throw trash in the dustbin?"
+    },
+    {
+      "speaker": "user",
+      "text": "Yes, I will use the dustbin."
+    },
+    {
+      "speaker": "bot",
+      "text": "Is the sun very hot?"
+    },
+    {
+      "speaker": "user",
+      "text": "Yes, but my cap helps me."
+    },
+    {
+      "speaker": "bot",
+      "text": "Do you need water now?"
+    },
+    {
+      "speaker": "user",
+      "text": "Yes, I am a little thirsty."
+    },
+    {
+      "speaker": "bot",
+      "text": "Here is your water bottle."
+    },
+    {
+      "speaker": "user",
+      "text": "Thank you for the water."
+    },
+    {
+      "speaker": "bot",
+      "text": "Are you tired?"
+    },
+    {
+      "speaker": "user",
+      "text": "No, I still have energy."
+    },
+    {
+      "speaker": "bot",
+      "text": "Shall we take a rest?"
+    },
+    {
+      "speaker": "user",
+      "text": "Yes, let us sit under the tree."
+    },
+    {
+      "speaker": "bot",
+      "text": "Did you enjoy the picnic?"
+    },
+    {
+      "speaker": "user",
+      "text": "Yes, I enjoyed it a lot."
+    },
+    {
+      "speaker": "bot",
+      "text": "What was your favorite part?"
+    },
+    {
+      "speaker": "user",
+      "text": "Playing football was my favorite."
+    },
+    {
+      "speaker": "bot",
+      "text": "Will you come again next week?"
+    },
+    {
+      "speaker": "user",
+      "text": "Yes, I will come again."
+    },
+    {
+      "speaker": "bot",
+      "text": "It is getting late now."
+    },
+    {
+      "speaker": "user",
+      "text": "Yes, we should go home."
+    },
+    {
+      "speaker": "bot",
+      "text": "Did you pack everything?"
+    },
+    {
+      "speaker": "user",
+      "text": "Yes, I packed the bag."
+    }
+  ]
+}
