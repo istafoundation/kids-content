@@ -1,7 +1,7 @@
 {
   "levelId": "ks7d82z0n6wm92s3dp7m8ddajx7zkz9v",
-  "version": 5,
-  "publishedAt": 1772150325701,
+  "version": 6,
+  "publishedAt": 1772150362246,
   "questions": {
     "easy": [
       {
@@ -1996,29 +1996,6 @@
         "questionType": "grid",
         "status": "active",
         "updatedAt": 1770662613405
-      }
-    ],
-    "trial": [
-      {
-        "_creationTime": 1772140498615.2336,
-        "_id": "kn7b3ptzggbzmqfmn7edga8c5n81xtd9",
-        "createdAt": 1772140498615,
-        "data": {
-          "correctWords": [
-            "my leaving"
-          ],
-          "explanation": "my leaving. “my” (possessive) before gerund is standard when gerund is noun.",
-          "selectMode": "boxed",
-          "statement": "me leaving, my leaving, I leaving"
-        },
-        "difficultyName": "trial",
-        "levelId": "ks7d82z0n6wm92s3dp7m8ddajx7zkz9v",
-        "order": 1,
-        "question": "Choose the correct possessive + gerund that is considered standard:",
-        "questionCode": "415171",
-        "questionType": "select",
-        "status": "active",
-        "updatedAt": 1772140498615
       }
     ]
   }

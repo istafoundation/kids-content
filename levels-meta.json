@@ -24,20 +24,14 @@
         "name": "hard",
         "order": 3,
         "requiredScore": 30
-      },
-      {
-        "displayName": "trial",
-        "name": "trial",
-        "order": 4,
-        "requiredScore": 50
       }
     ],
     "theme": {
       "color": "#4CAF50",
       "emoji": "🌟"
     },
-    "totalQuestions": 91,
-    "questionsVersion": 5
+    "totalQuestions": 90,
+    "questionsVersion": 6
   },
   {
     "_id": "ks73ge2y158xwnr79qm8dck57s7zka79",
