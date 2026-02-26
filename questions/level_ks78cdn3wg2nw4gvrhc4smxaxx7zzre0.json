@@ -1,7 +1,7 @@
 {
   "levelId": "ks78cdn3wg2nw4gvrhc4smxaxx7zzre0",
-  "version": 4,
-  "publishedAt": 1771812716661,
+  "version": 20,
+  "publishedAt": 1772067844487,
   "questions": {
     "easy": [
       {
@@ -692,9 +692,11 @@
         "createdAt": 1770662616341,
         "data": {
           "correctWords": [
+            "the",
             "the"
           ],
-          "selectMode": "single",
+          "explanation": "",
+          "selectMode": "multiple",
           "statement": "The ship sailed across the Pacific Ocean."
         },
         "difficultyName": "hard",
@@ -704,7 +706,7 @@
         "questionCode": "715507",
         "questionType": "select",
         "status": "active",
-        "updatedAt": 1770662616341
+        "updatedAt": 1771868482047
       },
       {
         "_creationTime": 1770662616341.1108,
@@ -732,9 +734,11 @@
         "createdAt": 1770662616341,
         "data": {
           "correctWords": [
+            "the",
             "the"
           ],
-          "selectMode": "single",
+          "explanation": "",
+          "selectMode": "multiple",
           "statement": "He lives in the United Kingdom."
         },
         "difficultyName": "hard",
@@ -744,7 +748,7 @@
         "questionCode": "635247",
         "questionType": "select",
         "status": "active",
-        "updatedAt": 1770662616341
+        "updatedAt": 1771868508850
       },
       {
         "_creationTime": 1770662616341.1113,
@@ -775,9 +779,11 @@
         "createdAt": 1770662616341,
         "data": {
           "correctWords": [
+            "the",
             "the"
           ],
-          "selectMode": "single",
+          "explanation": "",
+          "selectMode": "multiple",
           "statement": "The villagers bathed in the Yamuna."
         },
         "difficultyName": "hard",
@@ -787,7 +793,7 @@
         "questionCode": "203054",
         "questionType": "select",
         "status": "active",
-        "updatedAt": 1770662616341
+        "updatedAt": 1771868535728
       },
       {
         "_creationTime": 1770662616341.1118,
@@ -1241,9 +1247,11 @@
         "createdAt": 1770662616341,
         "data": {
           "correctWords": [
+            "the",
             "the"
           ],
-          "selectMode": "single",
+          "explanation": "",
+          "selectMode": "multiple",
           "statement": "He stood the first in the line."
         },
         "difficultyName": "hard",
@@ -1253,7 +1261,7 @@
         "questionCode": "553147",
         "questionType": "select",
         "status": "active",
-        "updatedAt": 1770662616341
+        "updatedAt": 1771869063230
       },
       {
         "_creationTime": 1770662616341.117,
@@ -1596,9 +1604,11 @@
         "createdAt": 1770662616341,
         "data": {
           "correctWords": [
+            "the",
             "the"
           ],
-          "selectMode": "single",
+          "explanation": "",
+          "selectMode": "multiple",
           "statement": "He is the best player in the team."
         },
         "difficultyName": "medium",
@@ -1608,7 +1618,7 @@
         "questionCode": "460739",
         "questionType": "select",
         "status": "active",
-        "updatedAt": 1770662616341
+        "updatedAt": 1771868196607
       },
       {
         "_creationTime": 1770662616341.1062,
@@ -1631,7 +1641,7 @@
         "questionCode": "313222",
         "questionType": "mcq",
         "status": "active",
-        "updatedAt": 1770662616341
+        "updatedAt": 1771868207717
       },
       {
         "_creationTime": 1770662616341.1064,
@@ -1641,6 +1651,7 @@
           "correctWords": [
             "the"
           ],
+          "explanation": "",
           "selectMode": "single",
           "statement": "We bathed in the Ganga."
         },
@@ -1651,7 +1662,7 @@
         "questionCode": "941851",
         "questionType": "select",
         "status": "active",
-        "updatedAt": 1770662616341
+        "updatedAt": 1771868240154
       },
       {
         "_creationTime": 1770662616341.1067,
@@ -1674,7 +1685,7 @@
         "questionCode": "295514",
         "questionType": "mcq",
         "status": "active",
-        "updatedAt": 1770662616341
+        "updatedAt": 1771868267584
       },
       {
         "_creationTime": 1770662616341.107,
@@ -1717,7 +1728,7 @@
         "questionCode": "506432",
         "questionType": "mcq",
         "status": "active",
-        "updatedAt": 1770662616341
+        "updatedAt": 1771868298727
       },
       {
         "_creationTime": 1770662616341.1074,
@@ -1811,9 +1822,11 @@
         "createdAt": 1770662616341,
         "data": {
           "correctWords": [
-            "The"
+            "The",
+            "the"
           ],
-          "selectMode": "single",
+          "explanation": "",
+          "selectMode": "multiple",
           "statement": "The earth moves around the sun."
         },
         "difficultyName": "medium",
@@ -1823,7 +1836,7 @@
         "questionCode": "451061",
         "questionType": "select",
         "status": "active",
-        "updatedAt": 1770662616341
+        "updatedAt": 1771868353532
       },
       {
         "_creationTime": 1770662616341.1086,
@@ -1854,9 +1867,11 @@
         "createdAt": 1770662616341,
         "data": {
           "correctWords": [
+            "the",
             "the"
           ],
-          "selectMode": "single",
+          "explanation": "",
+          "selectMode": "multiple",
           "statement": "The sun rises in the east."
         },
         "difficultyName": "medium",
@@ -1866,7 +1881,7 @@
         "questionCode": "560643",
         "questionType": "select",
         "status": "active",
-        "updatedAt": 1770662616341
+        "updatedAt": 1771868378978
       },
       {
         "_creationTime": 1770662616341.1091,
@@ -1876,6 +1891,7 @@
           "correctWords": [
             "the"
           ],
+          "explanation": "",
           "selectMode": "boxed",
           "statement": "a an the"
         },
@@ -1886,15 +1902,15 @@
         "questionCode": "179134",
         "questionType": "select",
         "status": "active",
-        "updatedAt": 1770662616341
+        "updatedAt": 1771868416570
       },
       {
         "_creationTime": 1770662616341.1094,
         "_id": "kn71ev0jxcbsr0tqx7vzcqp0e980tew2",
         "createdAt": 1770662616341,
         "data": {
-          "correctIndex": 0,
-          "explanation": "General singular noun → a.",
+          "correctIndex": 2,
+          "explanation": "",
           "options": [
             "a",
             "an",
@@ -1909,7 +1925,7 @@
         "questionCode": "987003",
         "questionType": "mcq",
         "status": "active",
-        "updatedAt": 1770662616341
+        "updatedAt": 1771868405848
       },
       {
         "_creationTime": 1770662616341.1096,
@@ -1932,7 +1948,7 @@
         "questionCode": "693181",
         "questionType": "mcq",
         "status": "active",
-        "updatedAt": 1770662616341
+        "updatedAt": 1771868427401
       },
       {
         "_creationTime": 1770662616341.1099,
@@ -1955,7 +1971,7 @@
         "questionCode": "133805",
         "questionType": "mcq",
         "status": "active",
-        "updatedAt": 1770662616341
+        "updatedAt": 1771868436746
       },
       {
         "_creationTime": 1770662616341.11,
@@ -1965,6 +1981,7 @@
           "correctWords": [
             "a"
           ],
+          "explanation": "",
           "selectMode": "single",
           "statement": "She bought a pair of shoes."
         },
@@ -1975,7 +1992,7 @@
         "questionCode": "794170",
         "questionType": "select",
         "status": "active",
-        "updatedAt": 1770662616341
+        "updatedAt": 1771868443966
       }
     ]
   }

@@ -1,7 +1,7 @@
 {
   "levelId": "ks75btrxjryqep69g5z69a6bms7zyzq2",
-  "version": 0,
-  "publishedAt": 1771812716723,
+  "version": 13,
+  "publishedAt": 1772067844787,
   "questions": {
     "easy": [
       {
@@ -302,11 +302,11 @@
         "difficultyName": "easy",
         "levelId": "ks75btrxjryqep69g5z69a6bms7zyzq2",
         "order": 14,
-        "question": "Which word tells what someone has?",
+        "question": "Which word is a verb?",
         "questionCode": "785788",
         "questionType": "mcq",
         "status": "active",
-        "updatedAt": 1770662617109
+        "updatedAt": 1771869263446
       },
       {
         "_creationTime": 1770662617109.583,
@@ -700,22 +700,22 @@
         "createdAt": 1770662617109,
         "data": {
           "correctIndex": 2,
-          "explanation": "Eat sounds incomplete unless we know what is eaten.",
+          "explanation": "Be is a verb.",
           "options": [
-            "sleep",
-            "cry",
-            "eat",
-            "laugh"
+            "Sleepy",
+            "Cold",
+            "Be",
+            "Laughter"
           ]
         },
         "difficultyName": "hard",
         "levelId": "ks75btrxjryqep69g5z69a6bms7zyzq2",
         "order": 3,
-        "question": "Which verb needs something after it to complete its meaning?",
+        "question": "Select the verb?",
         "questionCode": "583322",
         "questionType": "mcq",
         "status": "active",
-        "updatedAt": 1770662617109
+        "updatedAt": 1771870176012
       },
       {
         "_creationTime": 1770662617109.595,
@@ -886,22 +886,22 @@
         "createdAt": 1770662617109,
         "data": {
           "correctIndex": 1,
-          "explanation": "Here drink shows an action.",
+          "explanation": "Here dream shows an action.",
           "options": [
-            "drink (water)",
-            "drink (to drink milk)",
-            "bottle",
-            "glass"
+            "scene",
+            "dream",
+            "critical",
+            "comfortable"
           ]
         },
         "difficultyName": "hard",
         "levelId": "ks75btrxjryqep69g5z69a6bms7zyzq2",
         "order": 11,
-        "question": "Which word is used as a verb, not a noun?",
+        "question": "Which word can be used as a verb?",
         "questionCode": "697358",
         "questionType": "mcq",
         "status": "active",
-        "updatedAt": 1770662617109
+        "updatedAt": 1771870537406
       },
       {
         "_creationTime": 1770662617109.597,
@@ -909,10 +909,11 @@
         "createdAt": 1770662617109,
         "data": {
           "correctWords": [
-            "drink"
+            "dreams"
           ],
+          "explanation": "",
           "selectMode": "single",
-          "statement": "They drink milk daily."
+          "statement": "He dreams of becoming rich one day?"
         },
         "difficultyName": "hard",
         "levelId": "ks75btrxjryqep69g5z69a6bms7zyzq2",
@@ -921,7 +922,7 @@
         "questionCode": "645844",
         "questionType": "select",
         "status": "active",
-        "updatedAt": 1770662617109
+        "updatedAt": 1771870595463
       },
       {
         "_creationTime": 1770662617109.5972,
@@ -972,22 +973,22 @@
         "createdAt": 1770662617109,
         "data": {
           "correctIndex": 2,
-          "explanation": "Carry needs an object, like carry a bag.",
+          "explanation": "Ex: He carries a bag.",
           "options": [
             "laugh",
             "sleep",
-            "carry",
+            "carries",
             "cry"
           ]
         },
         "difficultyName": "hard",
         "levelId": "ks75btrxjryqep69g5z69a6bms7zyzq2",
         "order": 15,
-        "question": "Which verb needs someone or something after it?",
+        "question": "Which verb will be used after He in present tense?",
         "questionCode": "508916",
         "questionType": "mcq",
         "status": "active",
-        "updatedAt": 1770662617109
+        "updatedAt": 1771870710257
       },
       {
         "_creationTime": 1770662617109.598,
@@ -1060,17 +1061,18 @@
           "correctWords": [
             "rang"
           ],
+          "explanation": "",
           "selectMode": "single",
           "statement": "The bell rang suddenly."
         },
         "difficultyName": "hard",
         "levelId": "ks75btrxjryqep69g5z69a6bms7zyzq2",
         "order": 19,
-        "question": "Which word is the verb?c",
+        "question": "Which word is the verb?",
         "questionCode": "921251",
         "questionType": "select",
         "status": "active",
-        "updatedAt": 1770662617109
+        "updatedAt": 1771870767127
       },
       {
         "_creationTime": 1770662617109.5989,
@@ -1397,7 +1399,7 @@
         "_id": "kn755a9gk28qdmtzxew6adfg1x80v03b",
         "createdAt": 1770662617109,
         "data": {
-          "correctIndex": 0,
+          "correctIndex": 2,
           "explanation": "Am is used only with the subject I.",
           "options": [
             "is",
@@ -1413,7 +1415,7 @@
         "questionCode": "969580",
         "questionType": "mcq",
         "status": "active",
-        "updatedAt": 1770662617109
+        "updatedAt": 1771869435367
       },
       {
         "_creationTime": 1770662617109.5881,
@@ -1436,27 +1438,26 @@
         "updatedAt": 1770662617109
       },
       {
-        "_creationTime": 1770662617109.5884,
-        "_id": "kn7911p471d0e7613jvfq5qxxx80vss0",
-        "createdAt": 1770662617109,
+        "_creationTime": 1771869651420.8386,
+        "_id": "kn78g0yvdaqgmmt8wgdtbcfjxn81qbh3",
+        "createdAt": 1771869651420,
         "data": {
-          "correctIndex": 1,
-          "explanation": "Are is the main verb showing the present state.",
-          "options": [
-            "boys",
+          "correctWords": [
             "are",
-            "the",
             "playing"
-          ]
+          ],
+          "explanation": "Both are and playing are verbs.",
+          "selectMode": "multiple",
+          "statement": "The boys are playing."
         },
         "difficultyName": "medium",
         "levelId": "ks75btrxjryqep69g5z69a6bms7zyzq2",
         "order": 7,
-        "question": "Which word is the verb in the sentence? \nThe boys are playing.",
-        "questionCode": "464610",
-        "questionType": "mcq",
+        "question": "Which word is the verb in the sentence?",
+        "questionCode": "124859",
+        "questionType": "select",
         "status": "active",
-        "updatedAt": 1770662617109
+        "updatedAt": 1771869651420
       },
       {
         "_creationTime": 1770662617109.5886,
@@ -1749,11 +1750,11 @@
         "difficultyName": "medium",
         "levelId": "ks75btrxjryqep69g5z69a6bms7zyzq2",
         "order": 21,
-        "question": "The baby ______ peacefully. (slept)",
+        "question": "The baby ______ peacefully. (sleep)",
         "questionCode": "513449",
         "questionType": "grid",
         "status": "active",
-        "updatedAt": 1770662617109
+        "updatedAt": 1771869858995
       },
       {
         "_creationTime": 1770662617109.592,
@@ -1772,11 +1773,11 @@
         "difficultyName": "medium",
         "levelId": "ks75btrxjryqep69g5z69a6bms7zyzq2",
         "order": 22,
-        "question": "Which verb agrees with the subject she?",
+        "question": "Which verb agrees with the subject she in present tense?",
         "questionCode": "507439",
         "questionType": "mcq",
         "status": "active",
-        "updatedAt": 1770662617109
+        "updatedAt": 1771869904074
       },
       {
         "_creationTime": 1770662617109.5923,
@@ -1815,11 +1816,11 @@
         "difficultyName": "medium",
         "levelId": "ks75btrxjryqep69g5z69a6bms7zyzq2",
         "order": 24,
-        "question": "Which verb agrees with they?",
+        "question": "Which verb agrees with they in present tense?",
         "questionCode": "750138",
         "questionType": "mcq",
         "status": "active",
-        "updatedAt": 1770662617109
+        "updatedAt": 1771869939461
       },
       {
         "_creationTime": 1770662617109.5928,
