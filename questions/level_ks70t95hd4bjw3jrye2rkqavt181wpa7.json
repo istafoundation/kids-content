@@ -1,0 +1,1977 @@
+{
+  "levelId": "ks70t95hd4bjw3jrye2rkqavt181wpa7",
+  "version": 152,
+  "publishedAt": 1772150327564,
+  "questions": {
+    "easy": [
+      {
+        "_creationTime": 1772147750371.98,
+        "_id": "kn731k6mcc5dawegpfcy08z6y181w4e0",
+        "createdAt": 1772147750372,
+        "data": {
+          "correctIndex": 1,
+          "explanation": "Habitual actions use Simple Present (“reads”).",
+          "options": [
+            "She is reading every day.",
+            "She reads every day.",
+            "She has read every day.",
+            "She will read every day."
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks70t95hd4bjw3jrye2rkqavt181wpa7",
+        "order": 1,
+        "question": "Which sentence shows the Simple Present used for a habitual action?",
+        "questionCode": "385819",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1772147750372
+      },
+      {
+        "_creationTime": 1772148370121.3804,
+        "_id": "kn71h6k6n5parsxhncgt2t3fbs81xv1v",
+        "createdAt": 1772148370121,
+        "data": {
+          "distractors": [
+            "will leave",
+            "leaving",
+            "has left"
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks70t95hd4bjw3jrye2rkqavt181wpa7",
+        "order": 2,
+        "question": "The plane {leaves} at 10:15.",
+        "questionCode": "925844",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1772148370121
+      },
+      {
+        "_creationTime": 1772147772140.8582,
+        "_id": "kn7dw3xkxfzyskas7avyme00sn81xnbq",
+        "createdAt": 1772147772140,
+        "data": {
+          "correctIndex": 2,
+          "explanation": "Simple Past of “go” is “went.”",
+          "options": [
+            "goes",
+            "gone",
+            "went",
+            "going"
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks70t95hd4bjw3jrye2rkqavt181wpa7",
+        "order": 3,
+        "question": "Choose the correct Simple Past form: “Yesterday he ___ to school.”",
+        "questionCode": "393775",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1772147777357
+      },
+      {
+        "_creationTime": 1772148378896.3567,
+        "_id": "kn7carrfza0qqvhs33wz3np9ed81xg8s",
+        "createdAt": 1772148378896,
+        "data": {
+          "distractors": [
+            "play",
+            "played",
+            "will play"
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks70t95hd4bjw3jrye2rkqavt181wpa7",
+        "order": 4,
+        "question": "They {are playing} cricket now.",
+        "questionCode": "960935",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1772148378896
+      },
+      {
+        "_creationTime": 1772148139107.2148,
+        "_id": "kn71qj5fesbe9mr3zgkatnfcc181xrcc",
+        "createdAt": 1772148139107,
+        "data": {
+          "correctWords": [
+            "slept"
+          ],
+          "explanation": "",
+          "selectMode": "multiple",
+          "statement": "He slept till morning"
+        },
+        "difficultyName": "easy",
+        "levelId": "ks70t95hd4bjw3jrye2rkqavt181wpa7",
+        "order": 5,
+        "question": "Select the simple past verb :",
+        "questionCode": "266530",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1772148139107
+      },
+      {
+        "_creationTime": 1772147799541.446,
+        "_id": "kn7fwjnrxe688j8fm6z8wngmk581x70z",
+        "createdAt": 1772147799541,
+        "data": {
+          "correctIndex": 1,
+          "explanation": "Ongoing action uses “am/is/are + -ing”.",
+          "options": [
+            "I cook dinner now.",
+            "I am cooking dinner now.",
+            "I have cooked dinner now.",
+            "I will cook dinner now."
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks70t95hd4bjw3jrye2rkqavt181wpa7",
+        "order": 6,
+        "question": "Which sentence uses Present Continuous correctly for an action happening now?",
+        "questionCode": "725896",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1772147799541
+      },
+      {
+        "_creationTime": 1772148157551.8708,
+        "_id": "kn72pnwe9xbxwkfnh11fx26dhs81xpjb",
+        "createdAt": 1772148157551,
+        "data": {
+          "correctWords": [
+            "are",
+            "playing"
+          ],
+          "explanation": "Present continuous = auxiliary “are” + “playing”.",
+          "selectMode": "multiple",
+          "statement": "They are playing football in the park."
+        },
+        "difficultyName": "easy",
+        "levelId": "ks70t95hd4bjw3jrye2rkqavt181wpa7",
+        "order": 7,
+        "question": "Select the present continuous verb(s).",
+        "questionCode": "738120",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1772148157551
+      },
+      {
+        "_creationTime": 1772148171576.1938,
+        "_id": "kn720ksqs1e0srq65a9r51xjgx81xxq0",
+        "createdAt": 1772148171576,
+        "data": {
+          "correctWords": [
+            "baked"
+          ],
+          "explanation": "“baked” is used as past participle in passive “was baked”.",
+          "selectMode": "multiple",
+          "statement": "The cake was baked yesterday."
+        },
+        "difficultyName": "easy",
+        "levelId": "ks70t95hd4bjw3jrye2rkqavt181wpa7",
+        "order": 8,
+        "question": "Pick the past participle.",
+        "questionCode": "831961",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1772148171576
+      },
+      {
+        "_creationTime": 1772147838891.452,
+        "_id": "kn76wd3n2y7awq7kqkqxw4bs9s81wwvr",
+        "createdAt": 1772147838891,
+        "data": {
+          "correctIndex": 0,
+          "explanation": "“going to” + base verb expresses planned future.",
+          "options": [
+            "I am going to the market tomorrow.",
+            "I go to the market tomorrow.",
+            "I going to the market tomorrow.",
+            "I will going to market tomorrow."
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks70t95hd4bjw3jrye2rkqavt181wpa7",
+        "order": 9,
+        "question": "Identify the correct “going to” future sentence:",
+        "questionCode": "488629",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1772147838891
+      },
+      {
+        "_creationTime": 1772148195946.6711,
+        "_id": "kn7f5ztzwympa0skbz8a63y71181x10s",
+        "createdAt": 1772148195946,
+        "data": {
+          "correctWords": [
+            "danced"
+          ],
+          "explanation": "“danced” is Simple Past.",
+          "selectMode": "multiple",
+          "statement": "She danced at the party."
+        },
+        "difficultyName": "easy",
+        "levelId": "ks70t95hd4bjw3jrye2rkqavt181wpa7",
+        "order": 10,
+        "question": "Pick the simple past verb.",
+        "questionCode": "817247",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1772148195946
+      },
+      {
+        "_creationTime": 1772148387535.4875,
+        "_id": "kn7585jb60rk759y4wprwk0sth81x45a",
+        "createdAt": 1772148387535,
+        "data": {
+          "distractors": [
+            "goes",
+            "will go",
+            "had gone"
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks70t95hd4bjw3jrye2rkqavt181wpa7",
+        "order": 11,
+        "question": "She {went} to Bengaluru last week.",
+        "questionCode": "479722",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1772148387535
+      },
+      {
+        "_creationTime": 1772147868279.123,
+        "_id": "kn75p9cyr0e3wvqx1yt1w3gj7h81wedt",
+        "createdAt": 1772147868279,
+        "data": {
+          "correctIndex": 3,
+          "explanation": "General truths use Simple Present.",
+          "options": [
+            "Water is boiling at 100°C.",
+            "Water boiling at 100°C.",
+            "Water boiled at 100°C.",
+            "Water boils at 100°C."
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks70t95hd4bjw3jrye2rkqavt181wpa7",
+        "order": 12,
+        "question": "Which is correct for a general truth?",
+        "questionCode": "362276",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1772147868279
+      },
+      {
+        "_creationTime": 1772148212174.4312,
+        "_id": "kn7f6751666y9vzmdhbgwyhpnh81xext",
+        "createdAt": 1772148212174,
+        "data": {
+          "correctWords": [
+            "to",
+            "study"
+          ],
+          "explanation": "“to study” is an infinitive used after “wants”.",
+          "selectMode": "multiple",
+          "statement": "He wants to study for the exam."
+        },
+        "difficultyName": "easy",
+        "levelId": "ks70t95hd4bjw3jrye2rkqavt181wpa7",
+        "order": 13,
+        "question": "Select the infinitive form.",
+        "questionCode": "104189",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1772148212174
+      },
+      {
+        "_creationTime": 1772148396430.9155,
+        "_id": "kn76yjzh9twk54eh1epw3242e581x4z0",
+        "createdAt": 1772148396431,
+        "data": {
+          "distractors": [
+            "is boiling",
+            "boiled",
+            "will boil"
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks70t95hd4bjw3jrye2rkqavt181wpa7",
+        "order": 14,
+        "question": "Water {boils} at 100°C.",
+        "questionCode": "242826",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1772148396431
+      },
+      {
+        "_creationTime": 1772148405502.3455,
+        "_id": "kn7dzz290t3f2se7c9gznxbdm581xskx",
+        "createdAt": 1772148405502,
+        "data": {
+          "distractors": [
+            "go",
+            "went",
+            "will be going"
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks70t95hd4bjw3jrye2rkqavt181wpa7",
+        "order": 15,
+        "question": "I {am going} to my hometown on Saturday.",
+        "questionCode": "344406",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1772148405502
+      },
+      {
+        "_creationTime": 1772147890107.5303,
+        "_id": "kn7c7hyb4kygyf8w30vvv74ep581w7n2",
+        "createdAt": 1772147890107,
+        "data": {
+          "correctIndex": 1,
+          "explanation": "A specific past time (“last year”) uses Simple Past.",
+          "options": [
+            "She has visited Paris last year.",
+            "She visited Paris last year.",
+            "She has been visited Paris last year.",
+            "She visit Paris last year."
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks70t95hd4bjw3jrye2rkqavt181wpa7",
+        "order": 16,
+        "question": "Choose the correct present perfect sentence:",
+        "questionCode": "838279",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1772147890107
+      },
+      {
+        "_creationTime": 1772148266709.1123,
+        "_id": "kn7fe3937hn9kzbrb7b1kysseh81w913",
+        "createdAt": 1772148266709,
+        "data": {
+          "correctWords": [
+            "will",
+            "arrive"
+          ],
+          "explanation": "“will” expresses future.",
+          "selectMode": "multiple",
+          "statement": "She will arrive by six."
+        },
+        "difficultyName": "easy",
+        "levelId": "ks70t95hd4bjw3jrye2rkqavt181wpa7",
+        "order": 17,
+        "question": "Pick the modal used for future certainty.",
+        "questionCode": "351307",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1772148266709
+      },
+      {
+        "_creationTime": 1772148413156.198,
+        "_id": "kn77vsj4qfbjnanbph06xqq9c181x6ge",
+        "createdAt": 1772148413156,
+        "data": {
+          "distractors": [
+            "saw",
+            "sees",
+            "will see"
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks70t95hd4bjw3jrye2rkqavt181wpa7",
+        "order": 18,
+        "question": "He {has seen} the Taj once.",
+        "questionCode": "828150",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1772148413156
+      },
+      {
+        "_creationTime": 1772147914430.4656,
+        "_id": "kn78xybxhk03ybadyzh8t8cajn81w22b",
+        "createdAt": 1772147914430,
+        "data": {
+          "correctIndex": 0,
+          "explanation": "Negative with Present Continuous: are + not → aren’t.",
+          "options": [
+            "aren’t",
+            "not are",
+            "hasn’t",
+            "don’t"
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks70t95hd4bjw3jrye2rkqavt181wpa7",
+        "order": 19,
+        "question": "Pick the proper negative in Present Continuous: “They ___ playing.”",
+        "questionCode": "608068",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1772147914430
+      },
+      {
+        "_creationTime": 1772148282459.193,
+        "_id": "kn76j7fqm92a3f1fypy6928wpd81xdb9",
+        "createdAt": 1772148282459,
+        "data": {
+          "correctWords": [
+            "have",
+            "finished"
+          ],
+          "explanation": "“have” + past participle forms Present Perfect.",
+          "selectMode": "multiple",
+          "statement": "I have finished my homework."
+        },
+        "difficultyName": "easy",
+        "levelId": "ks70t95hd4bjw3jrye2rkqavt181wpa7",
+        "order": 20,
+        "question": "Select the correct auxiliary for present perfect:",
+        "questionCode": "654417",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1772148282459
+      },
+      {
+        "_creationTime": 1772148422105.7197,
+        "_id": "kn7d0z98068fm9wqyj79yffayd81wmp7",
+        "createdAt": 1772148422105,
+        "data": {
+          "distractors": [
+            "play",
+            "have played",
+            "will play"
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks70t95hd4bjw3jrye2rkqavt181wpa7",
+        "order": 21,
+        "question": "We {played} hockey yesterday.",
+        "questionCode": "956473",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1772148422105
+      },
+      {
+        "_creationTime": 1772147939070.6506,
+        "_id": "kn75pegakp7dx9qcamx5mj5cy981wrpk",
+        "createdAt": 1772147939070,
+        "data": {
+          "correctIndex": 0,
+          "explanation": "“will” + base verb creates Simple Future.",
+          "options": [
+            "I will phone you later.",
+            "I phoning you later.",
+            "I have phoned you later.",
+            "I phoned you later."
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks70t95hd4bjw3jrye2rkqavt181wpa7",
+        "order": 22,
+        "question": "Which is Simple Future formed with “will”?",
+        "questionCode": "604050",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1772147939070
+      },
+      {
+        "_creationTime": 1772148323941.4788,
+        "_id": "kn7c0rdkvjhc0bfx6ceken16tn81wtw2",
+        "createdAt": 1772148323941,
+        "data": {
+          "correctWords": [
+            "The",
+            "sun"
+          ],
+          "explanation": "“The sun” is the subject noun phrase.",
+          "selectMode": "multiple",
+          "statement": "The sun rises in the east."
+        },
+        "difficultyName": "easy",
+        "levelId": "ks70t95hd4bjw3jrye2rkqavt181wpa7",
+        "order": 23,
+        "question": "Pick the noun phrase acting as subject.",
+        "questionCode": "290271",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1772148323941
+      },
+      {
+        "_creationTime": 1772148437554.3574,
+        "_id": "kn7a9ars07fphmrtq6x687ewdd81wc9j",
+        "createdAt": 1772148437554,
+        "data": {
+          "distractors": [
+            "is watching",
+            "has watched",
+            "will watch"
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks70t95hd4bjw3jrye2rkqavt181wpa7",
+        "order": 24,
+        "question": "Tom {watches} his homework regularly.",
+        "questionCode": "616253",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1772148437554
+      },
+      {
+        "_creationTime": 1772148343821.6104,
+        "_id": "kn707bahtx23h9a1zq0ngkj78s81x158",
+        "createdAt": 1772148343821,
+        "data": {
+          "correctWords": [
+            "often"
+          ],
+          "explanation": "“often” shows frequency, used with Simple Present.",
+          "selectMode": "multiple",
+          "statement": "He often visits us."
+        },
+        "difficultyName": "easy",
+        "levelId": "ks70t95hd4bjw3jrye2rkqavt181wpa7",
+        "order": 25,
+        "question": "Select the adverb of frequency.",
+        "questionCode": "441016",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1772148343821
+      },
+      {
+        "_creationTime": 1772147987739.0154,
+        "_id": "kn7eavv9qk4etpxhe8x37xcs8581wgdf",
+        "createdAt": 1772147987739,
+        "data": {
+          "correctIndex": 3,
+          "explanation": "Past continuous describes background action interrupted by Simple Past.",
+          "options": [
+            "I slept when the phone rang.",
+            "I am sleeping when the phone rang.",
+            "I will sleep when the phone rang.",
+            "I was sleeping when the phone rang."
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks70t95hd4bjw3jrye2rkqavt181wpa7",
+        "order": 26,
+        "question": "Which sentence is correct for a past continuous background action?",
+        "questionCode": "101290",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1772147987739
+      },
+      {
+        "_creationTime": 1772148012101.5305,
+        "_id": "kn70dabpja0d9m3vk0f3kpej1s81wnt1",
+        "createdAt": 1772148012101,
+        "data": {
+          "correctIndex": 1,
+          "explanation": "Present Perfect uses have/has + past participle.",
+          "options": [
+            "do/does",
+            "have/has",
+            "will/would",
+            "am/is"
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks70t95hd4bjw3jrye2rkqavt181wpa7",
+        "order": 27,
+        "question": "Which auxiliary pairs with Present Perfect?",
+        "questionCode": "630840",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1772148012101
+      },
+      {
+        "_creationTime": 1772148446152.9268,
+        "_id": "kn7dy8wvwb6m9nb95de7txkwjn81xchs",
+        "createdAt": 1772148446153,
+        "data": {
+          "distractors": [
+            "are flying",
+            "flew",
+            "will fly"
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks70t95hd4bjw3jrye2rkqavt181wpa7",
+        "order": 28,
+        "question": "Birds {fly} with their wings.",
+        "questionCode": "249722",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1772148446153
+      },
+      {
+        "_creationTime": 1772148359425.9946,
+        "_id": "kn79hc1epqfnafpbg21tpp2bvd81xv9h",
+        "createdAt": 1772148359426,
+        "data": {
+          "correctWords": [
+            "is",
+            "meeting"
+          ],
+          "explanation": "Present continuous used for planned future arrangement.",
+          "selectMode": "multiple",
+          "statement": "She is meeting the teacher tomorrow."
+        },
+        "difficultyName": "easy",
+        "levelId": "ks70t95hd4bjw3jrye2rkqavt181wpa7",
+        "order": 29,
+        "question": "Pick the verb showing future arrangement (present continuous).",
+        "questionCode": "754056",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1772148359426
+      },
+      {
+        "_creationTime": 1772148463429.0374,
+        "_id": "kn794ec6dp1m03xa47vazjgvgx81xhcd",
+        "createdAt": 1772148463429,
+        "data": {
+          "distractors": [
+            "rains",
+            "rained",
+            "will rain"
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks70t95hd4bjw3jrye2rkqavt181wpa7",
+        "order": 30,
+        "question": "It {is raining} now.",
+        "questionCode": "553694",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1772148463429
+      }
+    ],
+    "hard": [
+      {
+        "_creationTime": 1772149431800.157,
+        "_id": "kn76fcdeqf3d33wx1fk7w2p01d81xr8f",
+        "createdAt": 1772149431800,
+        "data": {
+          "correctIndex": 0,
+          "explanation": "Past Perfect Continuous shows duration before a past point.",
+          "options": [
+            "She had been teaching for ten years when she changed schools.",
+            "She has been teaching for ten years when she changed schools.",
+            "She has been teaching for ten years when she changed schools.",
+            "She will have been teaching for ten years when she changed schools."
+          ]
+        },
+        "difficultyName": "hard",
+        "levelId": "ks70t95hd4bjw3jrye2rkqavt181wpa7",
+        "order": 1,
+        "question": "Choose correct use of Past Perfect Continuous:",
+        "questionCode": "223668",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1772149431800
+      },
+      {
+        "_creationTime": 1772149751491.087,
+        "_id": "kn71dkwenhjpjj5cx3ggn6ekzn81wxqn",
+        "createdAt": 1772149751491,
+        "data": {
+          "correctWords": [
+            "had",
+            "been",
+            "working"
+          ],
+          "explanation": "Past Perfect Continuous = had been + present participle.",
+          "selectMode": "multiple",
+          "statement": "She had been working on the project for months before the launch."
+        },
+        "difficultyName": "hard",
+        "levelId": "ks70t95hd4bjw3jrye2rkqavt181wpa7",
+        "order": 2,
+        "question": "Pick the words forming Past Perfect Continuous.",
+        "questionCode": "660300",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1772149751491
+      },
+      {
+        "_creationTime": 1772149465431.0154,
+        "_id": "kn71z0n9147mej3ny15xyeakss81wcvz",
+        "createdAt": 1772149465431,
+        "data": {
+          "correctIndex": 1,
+          "explanation": "Universal truths often remain in present even after backshift.",
+          "options": [
+            "He said that water boiled at 100°C.",
+            "He said that water boils at 100°C.",
+            "He said that water will boil at 100°C.",
+            "He said that water had boiled at 100°C."
+          ]
+        },
+        "difficultyName": "hard",
+        "levelId": "ks70t95hd4bjw3jrye2rkqavt181wpa7",
+        "order": 3,
+        "question": "Which sentence shows correct sequence-of-tenses with a universal truth in subordinate clause?",
+        "questionCode": "795811",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1772149465431
+      },
+      {
+        "_creationTime": 1772149380834.3472,
+        "_id": "kn79e90q9mt3sw7qyhrc0gtrpx81whe4",
+        "createdAt": 1772149380834,
+        "data": {
+          "sentence": "He said that he had been waiting there."
+        },
+        "difficultyName": "hard",
+        "levelId": "ks70t95hd4bjw3jrye2rkqavt181wpa7",
+        "order": 4,
+        "question": "Direct: I have been waiting here\nReported: ?",
+        "questionCode": "520004",
+        "questionType": "speaking",
+        "status": "active",
+        "updatedAt": 1772149380834
+      },
+      {
+        "_creationTime": 1772149986514.5352,
+        "_id": "kn74dgw1cem7e8wcvx62s67b9n81wexy",
+        "createdAt": 1772149986514,
+        "data": {
+          "distractors": [
+            "arrived",
+            "had arrive",
+            "will arrive"
+          ]
+        },
+        "difficultyName": "hard",
+        "levelId": "ks70t95hd4bjw3jrye2rkqavt181wpa7",
+        "order": 5,
+        "question": "If he {had arrived} earlier, he would have met her.",
+        "questionCode": "740920",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1772149986514
+      },
+      {
+        "_creationTime": 1772149514790.1401,
+        "_id": "kn7ap1d8cffgsbyd8ptz9h9zz981wsy1",
+        "createdAt": 1772149514790,
+        "data": {
+          "correctIndex": 0,
+          "explanation": "Modal perfect passive: modal + have been + past participle.",
+          "options": [
+            "had arrived",
+            "arrived",
+            "would arrive",
+            "arrived"
+          ]
+        },
+        "difficultyName": "hard",
+        "levelId": "ks70t95hd4bjw3jrye2rkqavt181wpa7",
+        "order": 6,
+        "question": "Choose the correct tense for conditional past unreal: “If he ___ earlier, he would have caught the bus.”",
+        "questionCode": "971218",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1772149514790
+      },
+      {
+        "_creationTime": 1772149785626.5083,
+        "_id": "kn70xaf6fda46ys7j7qd7vecbn81w4kj",
+        "createdAt": 1772149785626,
+        "data": {
+          "correctWords": [
+            "must",
+            "have",
+            "been",
+            "reviewed"
+          ],
+          "explanation": "modal + have been + past participle = modal perfect passive.",
+          "selectMode": "multiple",
+          "statement": "The research must have been reviewed by the committee."
+        },
+        "difficultyName": "hard",
+        "levelId": "ks70t95hd4bjw3jrye2rkqavt181wpa7",
+        "order": 7,
+        "question": "Pick the modal-perfect passive phrase.",
+        "questionCode": "144770",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1772149785626
+      },
+      {
+        "_creationTime": 1772149996806.9963,
+        "_id": "kn7b589h2tvgdcr9wq2axemths81x9e2",
+        "createdAt": 1772149996807,
+        "data": {
+          "distractors": [
+            "has been living",
+            "was living",
+            "will have been living"
+          ]
+        },
+        "difficultyName": "hard",
+        "levelId": "ks70t95hd4bjw3jrye2rkqavt181wpa7",
+        "order": 8,
+        "question": "He said that he {had been living} there for ten years before moving.",
+        "questionCode": "225144",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1772149996807
+      },
+      {
+        "_creationTime": 1772149543003.1272,
+        "_id": "kn75jrvsqap7jjc3wskp3vj0dn81x0jf",
+        "createdAt": 1772149543003,
+        "data": {
+          "correctIndex": 3,
+          "explanation": "“Would” is backshift of “will” for future-in-the-past.",
+          "options": [
+            "will be",
+            "is going to be",
+            "had been",
+            "would be"
+          ]
+        },
+        "difficultyName": "hard",
+        "levelId": "ks70t95hd4bjw3jrye2rkqavt181wpa7",
+        "order": 9,
+        "question": "Choose the correct tense for “future in the past” arrangement: “He said he ___ leaving the next day.”",
+        "questionCode": "161475",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1772149543003
+      },
+      {
+        "_creationTime": 1772149815256.1956,
+        "_id": "kn792zj62tkgcrevvzmdhkkd3x81x9k4",
+        "createdAt": 1772149815256,
+        "data": {
+          "correctWords": [
+            "had",
+            "known",
+            "would",
+            "have",
+            "acted"
+          ],
+          "explanation": "Third conditional uses past perfect + modal perfect.",
+          "selectMode": "multiple",
+          "statement": "If she had known, she would have acted."
+        },
+        "difficultyName": "hard",
+        "levelId": "ks70t95hd4bjw3jrye2rkqavt181wpa7",
+        "order": 10,
+        "question": "Select the correct sequence-of-tenses for an if-clause (third conditional).",
+        "questionCode": "471352",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1772149815256
+      },
+      {
+        "_creationTime": 1772149567595.0928,
+        "_id": "kn7bzc5nnhhvmq5bn0zjjy4j0581wt57",
+        "createdAt": 1772149567595,
+        "data": {
+          "correctIndex": 2,
+          "explanation": "Present Perfect emphasizes relevance to present; “already” indicates present relevance.",
+          "options": [
+            "I finished the work yesterday.",
+            "I will finish the work tomorrow.",
+            "I have already finished the work.",
+            "I am finishing the work."
+          ]
+        },
+        "difficultyName": "hard",
+        "levelId": "ks70t95hd4bjw3jrye2rkqavt181wpa7",
+        "order": 11,
+        "question": "Which sentence needs Present Perfect (not Simple Past)?",
+        "questionCode": "636778",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1772149567595
+      },
+      {
+        "_creationTime": 1772150004802.2705,
+        "_id": "kn7bwdtwgr1vym6j82m78qm1nx81xzqq",
+        "createdAt": 1772150004802,
+        "data": {
+          "distractors": [
+            "must informed",
+            "must have informed",
+            "must be informed"
+          ]
+        },
+        "difficultyName": "hard",
+        "levelId": "ks70t95hd4bjw3jrye2rkqavt181wpa7",
+        "order": 12,
+        "question": "The committee {must have been informed} before the meeting.",
+        "questionCode": "465878",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1772150004802
+      },
+      {
+        "_creationTime": 1772149630645.0916,
+        "_id": "kn75p44yhq1v9qc04y1qvgkqzs81w8e0",
+        "createdAt": 1772149630645,
+        "data": {
+          "correctIndex": 2,
+          "explanation": "Scientific truths or established facts may keep present tense.",
+          "options": [
+            "She said that she loved him.",
+            "He said that he had seen the movie.",
+            "Newton discovered that gravity makes apples fall.",
+            "They said that they would come."
+          ]
+        },
+        "difficultyName": "hard",
+        "levelId": "ks70t95hd4bjw3jrye2rkqavt181wpa7",
+        "order": 13,
+        "question": "Identify the sentence where Sequence-of-Tense exception applies (no backshift required).",
+        "questionCode": "412980",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1772149630645
+      },
+      {
+        "_creationTime": 1772150022314.193,
+        "_id": "kn70rswk171amx0vdffnbnqcjd81wns5",
+        "createdAt": 1772150022314,
+        "data": {
+          "distractors": [
+            "has been taught",
+            "was being taught",
+            "had been taught"
+          ]
+        },
+        "difficultyName": "hard",
+        "levelId": "ks70t95hd4bjw3jrye2rkqavt181wpa7",
+        "order": 14,
+        "question": "She {has been being taught} French since January.",
+        "questionCode": "689139",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1772150022314
+      },
+      {
+        "_creationTime": 1772149832355.483,
+        "_id": "kn724mk2nbv64qenn120qha44d81x1kf",
+        "createdAt": 1772149832355,
+        "data": {
+          "correctWords": [
+            "Swimming",
+            "daily"
+          ],
+          "explanation": "Gerund “Swimming” acts as subject.",
+          "selectMode": "multiple",
+          "statement": "Swimming daily improves health."
+        },
+        "difficultyName": "hard",
+        "levelId": "ks70t95hd4bjw3jrye2rkqavt181wpa7",
+        "order": 15,
+        "question": "Pick the gerund acting as subject.",
+        "questionCode": "659895",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1772149832355
+      },
+      {
+        "_creationTime": 1772149848985.8994,
+        "_id": "kn7dfnz3vs5hmjbz1x9z2zf68181xtye",
+        "createdAt": 1772149848985,
+        "data": {
+          "correctWords": [
+            "were",
+            "being",
+            "prepared"
+          ],
+          "explanation": "Past passive continuous formation.",
+          "selectMode": "multiple",
+          "statement": "The documents were being prepared when the manager arrived."
+        },
+        "difficultyName": "hard",
+        "levelId": "ks70t95hd4bjw3jrye2rkqavt181wpa7",
+        "order": 16,
+        "question": "Select the correct words for Past Passive Continuous.",
+        "questionCode": "630076",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1772149848985
+      },
+      {
+        "_creationTime": 1772150033098.541,
+        "_id": "kn723etwxxevr225j5tr46y68d81x4m2",
+        "createdAt": 1772150033098,
+        "data": {
+          "distractors": [
+            "discussed",
+            "have been discussing",
+            "will be discussing"
+          ]
+        },
+        "difficultyName": "hard",
+        "levelId": "ks70t95hd4bjw3jrye2rkqavt181wpa7",
+        "order": 17,
+        "question": "They {had been discussing} the issue for hours when the boss arrived.",
+        "questionCode": "680204",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1772150033098
+      },
+      {
+        "_creationTime": 1772149665239.108,
+        "_id": "kn7b22mrq04ktpbvgxkrskbpd981x9c4",
+        "createdAt": 1772149665239,
+        "data": {
+          "correctIndex": 0,
+          "explanation": "Modal perfect passive: modal + have been + past participle.",
+          "options": [
+            "must have been completed",
+            "must be completed",
+            "must have completed",
+            "must have been completing"
+          ]
+        },
+        "difficultyName": "hard",
+        "levelId": "ks70t95hd4bjw3jrye2rkqavt181wpa7",
+        "order": 18,
+        "question": "Which is correct transformation to passive with modal perfect? “They must have completed the test.” → Passive: The test ___ .",
+        "questionCode": "405202",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1772149665239
+      },
+      {
+        "_creationTime": 1772149866441.8442,
+        "_id": "kn75gk6jan2583t8hdb61m7xch81x1e3",
+        "createdAt": 1772149866441,
+        "data": {
+          "correctWords": [
+            "was",
+            "going",
+            "to",
+            "leave"
+          ],
+          "explanation": "“was going to” expresses intention/planned future seen from past.",
+          "selectMode": "multiple",
+          "statement": "He said he was going to leave the next morning."
+        },
+        "difficultyName": "hard",
+        "levelId": "ks70t95hd4bjw3jrye2rkqavt181wpa7",
+        "order": 19,
+        "question": "Pick the words showing future-in-the-past with “going to”.",
+        "questionCode": "327721",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1772149866441
+      },
+      {
+        "_creationTime": 1772150043420.0352,
+        "_id": "kn7a19vyg4magd5kg03kjtrwjn81wck8",
+        "createdAt": 1772150043420,
+        "data": {
+          "distractors": [
+            "is",
+            "has been",
+            "will be"
+          ]
+        },
+        "difficultyName": "hard",
+        "levelId": "ks70t95hd4bjw3jrye2rkqavt181wpa7",
+        "order": 20,
+        "question": "He claimed that the formula {was} correct.",
+        "questionCode": "668097",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1772150043420
+      },
+      {
+        "_creationTime": 1772149897793.0063,
+        "_id": "kn7023at87hy5xstszt10cyagh81wk23",
+        "createdAt": 1772149897793,
+        "data": {
+          "correctWords": [
+            "has",
+            "been",
+            "being",
+            "repaired"
+          ],
+          "explanation": "“has been being repaired” is grammatically correct though awkward — present perfect passive continuous.",
+          "selectMode": "multiple",
+          "statement": "The road has been being repaired for weeks."
+        },
+        "difficultyName": "hard",
+        "levelId": "ks70t95hd4bjw3jrye2rkqavt181wpa7",
+        "order": 21,
+        "question": "Select words forming Present Perfect Continuous passive?",
+        "questionCode": "766972",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1772149914903
+      },
+      {
+        "_creationTime": 1772149706465.472,
+        "_id": "kn747529x864vyr0psbb47b87h81wdkt",
+        "createdAt": 1772149706465,
+        "data": {
+          "correctIndex": 3,
+          "explanation": "Past continuous passive = was/were being + past participle.",
+          "options": [
+            "The house has been painting when we arrived.",
+            "The house was painted when we arrived.",
+            "The house is being painted when we arrived.",
+            "The house was being painted when we arrived."
+          ]
+        },
+        "difficultyName": "hard",
+        "levelId": "ks70t95hd4bjw3jrye2rkqavt181wpa7",
+        "order": 22,
+        "question": "Select the correct use of Past Passive Continuous:",
+        "questionCode": "883435",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1772149706465
+      },
+      {
+        "_creationTime": 1772150055816.076,
+        "_id": "kn78nhb11p0jx5wg6h0rykjh3181x9z7",
+        "createdAt": 1772150055816,
+        "data": {
+          "distractors": [
+            "has been repaired",
+            "was repairing",
+            "will be repaired"
+          ]
+        },
+        "difficultyName": "hard",
+        "levelId": "ks70t95hd4bjw3jrye2rkqavt181wpa7",
+        "order": 23,
+        "question": "The car {had been repaired} bhas been repaired, was repairing, will be repairedy the time she returned.",
+        "questionCode": "137704",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1772150055816
+      },
+      {
+        "_creationTime": 1772149934356.622,
+        "_id": "kn7es1pca9xwfzjp8a8jwae9zx81ww9e",
+        "createdAt": 1772149934356,
+        "data": {
+          "correctWords": [
+            "Having",
+            "finished",
+            "the",
+            "work"
+          ],
+          "explanation": "Perfect participle clause “Having finished…” shows prior action.",
+          "selectMode": "multiple",
+          "statement": "Having finished the work, he left early."
+        },
+        "difficultyName": "hard",
+        "levelId": "ks70t95hd4bjw3jrye2rkqavt181wpa7",
+        "order": 24,
+        "question": "Pick the words that form a reduced relative clause (perfect participle).",
+        "questionCode": "687006",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1772149934356
+      },
+      {
+        "_creationTime": 1772150074828.7925,
+        "_id": "kn7b592jfm6ztq39teq3bv5myd81x5h8",
+        "createdAt": 1772150074828,
+        "data": {
+          "distractors": [
+            "will work",
+            "will be working",
+            "has been working"
+          ]
+        },
+        "difficultyName": "hard",
+        "levelId": "ks70t95hd4bjw3jrye2rkqavt181wpa7",
+        "order": 25,
+        "question": "By next month he {will have been working} here for five years.",
+        "questionCode": "161173",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1772150074828
+      },
+      {
+        "_creationTime": 1772149770233.6814,
+        "_id": "kn72q112mkadwdnavhdnf9bpsd81xn7v",
+        "createdAt": 1772149770233,
+        "data": {
+          "correctWords": [
+            "equals",
+            "four"
+          ],
+          "explanation": "Mathematical/universal truths typically retain present tense.",
+          "selectMode": "multiple",
+          "statement": "He told us that two plus two equals four."
+        },
+        "difficultyName": "hard",
+        "levelId": "ks70t95hd4bjw3jrye2rkqavt181wpa7",
+        "order": 26,
+        "question": "Select the clause that should remain in present after reporting (universal truth).",
+        "questionCode": "695265",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1772149770233
+      },
+      {
+        "_creationTime": 1772149733588.03,
+        "_id": "kn7c5cev6y0rsqcdad868h1nc981wdtf",
+        "createdAt": 1772149733588,
+        "data": {
+          "correctIndex": 2,
+          "explanation": "Present factual/truth often remains in present tense.",
+          "options": [
+            "He said that the sun rose in the east.",
+            "He said that the sun had risen in the east.",
+            "He said that the sun rises in the east.",
+            "He said that the sun will rise in the east."
+          ]
+        },
+        "difficultyName": "hard",
+        "levelId": "ks70t95hd4bjw3jrye2rkqavt181wpa7",
+        "order": 27,
+        "question": "Which choice correctly keeps present tense in subordinate clause after past reporting verb because it’s still true?",
+        "questionCode": "735923",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1772149733588
+      },
+      {
+        "_creationTime": 1772150099460.9644,
+        "_id": "kn75wgmz2d93avjbrj4b4qsnsn81wjm5",
+        "createdAt": 1772150099461,
+        "data": {
+          "distractors": [
+            "is",
+            "was",
+            "will be"
+          ]
+        },
+        "difficultyName": "hard",
+        "levelId": "ks70t95hd4bjw3jrye2rkqavt181wpa7",
+        "order": 28,
+        "question": "The teacher insisted that the student {be} present. (subjunctive after insist)",
+        "questionCode": "611396",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1772150099461
+      },
+      {
+        "_creationTime": 1772149956355.4775,
+        "_id": "kn7c38d6pwz1kb86abe0n1ksnh81w18x",
+        "createdAt": 1772149956355,
+        "data": {
+          "correctWords": [
+            "that",
+            "she",
+            "had",
+            "never",
+            "visited",
+            "Paris",
+            "before"
+          ],
+          "explanation": "The entire “that …” clause functions as noun clause object of “told”.",
+          "selectMode": "multiple",
+          "statement": "She told me that she had never visited Paris before."
+        },
+        "difficultyName": "hard",
+        "levelId": "ks70t95hd4bjw3jrye2rkqavt181wpa7",
+        "order": 29,
+        "question": "Select the words forming a noun clause used in reported speech.",
+        "questionCode": "707933",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1772149956355
+      },
+      {
+        "_creationTime": 1772150109851.9724,
+        "_id": "kn7b25kx574rg4b14gbmr7hvdd81xn6y",
+        "createdAt": 1772150109852,
+        "data": {
+          "distractors": [
+            "have left",
+            "had left",
+            "leaving"
+          ]
+        },
+        "difficultyName": "hard",
+        "levelId": "ks70t95hd4bjw3jrye2rkqavt181wpa7",
+        "order": 30,
+        "question": "Having been warned, they {left} immediately.",
+        "questionCode": "919830",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1772150109852
+      }
+    ],
+    "medium": [
+      {
+        "_creationTime": 1772149127144.8577,
+        "_id": "kn77216qej11dp14fxqta68m2h81x0ce",
+        "createdAt": 1772149127144,
+        "data": {
+          "distractors": [
+            "have left",
+            "left",
+            "will leave"
+          ]
+        },
+        "difficultyName": "medium",
+        "levelId": "ks70t95hd4bjw3jrye2rkqavt181wpa7",
+        "order": 1,
+        "question": "By the time I reached, they {had left}.",
+        "questionCode": "916953",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1772149127144
+      },
+      {
+        "_creationTime": 1772148524354.1736,
+        "_id": "kn76fk7vykvx4ptfa3s0v5k07d81wvqj",
+        "createdAt": 1772148524354,
+        "data": {
+          "correctIndex": 0,
+          "explanation": "Present Perfect describes life experience without a specific past time.",
+          "options": [
+            "I have been to Delhi three times.",
+            "I went to Delhi three times last year.",
+            "I will go to Delhi three times.",
+            "I am going to Delhi three times."
+          ]
+        },
+        "difficultyName": "medium",
+        "levelId": "ks70t95hd4bjw3jrye2rkqavt181wpa7",
+        "order": 2,
+        "question": "Which sentence correctly uses Present Perfect for an experience?",
+        "questionCode": "138372",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1772148524354
+      },
+      {
+        "_creationTime": 1772148866098.0176,
+        "_id": "kn7fx8ex5n0k4v4v10vjh9wsn581xk6m",
+        "createdAt": 1772148866098,
+        "data": {
+          "correctWords": [
+            "was",
+            "painting"
+          ],
+          "explanation": "“was painting” = Past Continuous.",
+          "selectMode": "multiple",
+          "statement": "She was painting the fence when I visited."
+        },
+        "difficultyName": "medium",
+        "levelId": "ks70t95hd4bjw3jrye2rkqavt181wpa7",
+        "order": 3,
+        "question": "Pick the verb phrase in Past Continuous.",
+        "questionCode": "846003",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1772148866098
+      },
+      {
+        "_creationTime": 1772148589219.6,
+        "_id": "kn75373yw88t0hmypyftknge2s81wd1d",
+        "createdAt": 1772148589219,
+        "data": {
+          "correctIndex": 3,
+          "explanation": "Past Perfect (had left) for earlier past action before another past action.",
+          "options": [
+            "She left before I had arrived.",
+            "She has left before I arrived.",
+            "She will leave before I arrive.",
+            "She had left before I arrived."
+          ]
+        },
+        "difficultyName": "medium",
+        "levelId": "ks70t95hd4bjw3jrye2rkqavt181wpa7",
+        "order": 4,
+        "question": "Choose the correct Past Perfect sentence:",
+        "questionCode": "281639",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1772148589219
+      },
+      {
+        "_creationTime": 1772148623107.9673,
+        "_id": "kn7faekmfj50w80gs4a6ccxbfs81xqwf",
+        "createdAt": 1772148623108,
+        "data": {
+          "correctIndex": 0,
+          "explanation": "Past continuous for ongoing past action, Simple Past for interruption.",
+          "options": [
+            "He was reading when the lights went out.",
+            "He read when the lights went out.",
+            "He had read when the lights went out.",
+            "He is reading when the lights went out."
+          ]
+        },
+        "difficultyName": "medium",
+        "levelId": "ks70t95hd4bjw3jrye2rkqavt181wpa7",
+        "order": 5,
+        "question": "Which sentence shows Past Continuous used as background with interruption?",
+        "questionCode": "290763",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1772148623108
+      },
+      {
+        "_creationTime": 1772148893239.4941,
+        "_id": "kn7ayd0a34c90387bbj13e6ba181wfft",
+        "createdAt": 1772148893239,
+        "data": {
+          "correctWords": [
+            "had eaten"
+          ],
+          "explanation": "“had eaten” shows action completed before “we left.”",
+          "selectMode": "multiple",
+          "statement": "After he ___, we left. (choose correct earlier action)"
+        },
+        "difficultyName": "medium",
+        "levelId": "ks70t95hd4bjw3jrye2rkqavt181wpa7",
+        "order": 6,
+        "question": "Select the clause that needs Past Perfect.",
+        "questionCode": "277722",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1772148893239
+      },
+      {
+        "_creationTime": 1772148917474.2754,
+        "_id": "kn71amp55byrr9txb64b7z717h81wtbx",
+        "createdAt": 1772148917474,
+        "data": {
+          "correctWords": [
+            "of",
+            "reading",
+            "books"
+          ],
+          "explanation": "“of reading books” with gerund as object of preposition.",
+          "selectMode": "multiple",
+          "statement": "He is fond of reading books."
+        },
+        "difficultyName": "medium",
+        "levelId": "ks70t95hd4bjw3jrye2rkqavt181wpa7",
+        "order": 7,
+        "question": "Pick the gerund phrase acting as object.",
+        "questionCode": "421370",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1772148917474
+      },
+      {
+        "_creationTime": 1772148649311.1748,
+        "_id": "kn745t7kfjt1a9scts04kc3d5581xcvj",
+        "createdAt": 1772148649311,
+        "data": {
+          "correctIndex": 1,
+          "explanation": "Backshift from present to past: “is” → “was”.",
+          "options": [
+            "she is",
+            "she was",
+            "she will be",
+            "she has been"
+          ]
+        },
+        "difficultyName": "medium",
+        "levelId": "ks70t95hd4bjw3jrye2rkqavt181wpa7",
+        "order": 8,
+        "question": "Choose correct sequence-of-tenses (reported speech):\nDirect: “I am happy,” she said. Reported: She said that ___ happy.",
+        "questionCode": "809754",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1772148649311
+      },
+      {
+        "_creationTime": 1772149137874.806,
+        "_id": "kn7avy50d47sptft8bwn3wva6h81wcbc",
+        "createdAt": 1772149137874,
+        "data": {
+          "distractors": [
+            "works",
+            "worked",
+            "will work"
+          ]
+        },
+        "difficultyName": "medium",
+        "levelId": "ks70t95hd4bjw3jrye2rkqavt181wpa7",
+        "order": 9,
+        "question": "She {has been working} here since 2019.",
+        "questionCode": "607100",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1772149137874
+      },
+      {
+        "_creationTime": 1772148954476.464,
+        "_id": "kn74keb8ff75ry3j9nxzyzk3pd81xbbm",
+        "createdAt": 1772148954476,
+        "data": {
+          "correctWords": [
+            "is",
+            "going",
+            "to",
+            "buy"
+          ],
+          "explanation": "“be + going to + verb” denotes planned future.",
+          "selectMode": "multiple",
+          "statement": "She is going to buy a car."
+        },
+        "difficultyName": "medium",
+        "levelId": "ks70t95hd4bjw3jrye2rkqavt181wpa7",
+        "order": 10,
+        "question": "Pick the words that form a “going to” future.",
+        "questionCode": "431701",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1772148954476
+      },
+      {
+        "_creationTime": 1772148678622.9338,
+        "_id": "kn795tey5sk6zhnw9kf4rn5ahn81we29",
+        "createdAt": 1772148678623,
+        "data": {
+          "correctIndex": 0,
+          "explanation": "Present Perfect Continuous emphasizes duration up to now.",
+          "options": [
+            "I have been working here for five years.",
+            "I have worked here for five years.",
+            "I worked here for five years.",
+            "I will have been working here for five years."
+          ]
+        },
+        "difficultyName": "medium",
+        "levelId": "ks70t95hd4bjw3jrye2rkqavt181wpa7",
+        "order": 11,
+        "question": "Which sentence correctly uses Present Perfect Continuous?",
+        "questionCode": "248287",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1772148678623
+      },
+      {
+        "_creationTime": 1772149148226.1907,
+        "_id": "kn7ek0p55aj9vkt1w916q1f4p181xb3k",
+        "createdAt": 1772149148226,
+        "data": {
+          "distractors": [
+            "has been baked",
+            "was baked",
+            "will be baked"
+          ]
+        },
+        "difficultyName": "medium",
+        "levelId": "ks70t95hd4bjw3jrye2rkqavt181wpa7",
+        "order": 12,
+        "question": "The cake {had been baked} before the guests arrived.",
+        "questionCode": "932999",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1772149148226
+      },
+      {
+        "_creationTime": 1772148935232.584,
+        "_id": "kn7epae8zpx2qbkeaxs1h06d6s81x5yd",
+        "createdAt": 1772148935232,
+        "data": {
+          "correctWords": [
+            "has",
+            "been",
+            "cleaned"
+          ],
+          "explanation": "Present perfect passive: has/have been + past participle.",
+          "selectMode": "multiple",
+          "statement": "The house has been cleaned."
+        },
+        "difficultyName": "medium",
+        "levelId": "ks70t95hd4bjw3jrye2rkqavt181wpa7",
+        "order": 13,
+        "question": "Select the present perfect passive words.",
+        "questionCode": "654196",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1772148935232
+      },
+      {
+        "_creationTime": 1772149157015.0476,
+        "_id": "kn78g07581y1pbzbqdm8xy036n81x66n",
+        "createdAt": 1772149157015,
+        "data": {
+          "distractors": [
+            "is",
+            "will be",
+            "has been"
+          ]
+        },
+        "difficultyName": "medium",
+        "levelId": "ks70t95hd4bjw3jrye2rkqavt181wpa7",
+        "order": 14,
+        "question": "He said that he {was} tired.",
+        "questionCode": "742973",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1772149157015
+      },
+      {
+        "_creationTime": 1772148703062.13,
+        "_id": "kn74fb13nb3b332r18epafdw6581wan6",
+        "createdAt": 1772148703062,
+        "data": {
+          "correctIndex": 2,
+          "explanation": "Present Perfect passive: has/have been + past participle.",
+          "options": [
+            "was stolen",
+            "is stolen",
+            "has been stolen",
+            "will be stolen"
+          ]
+        },
+        "difficultyName": "medium",
+        "levelId": "ks70t95hd4bjw3jrye2rkqavt181wpa7",
+        "order": 15,
+        "question": "Choose the right passive: “Someone has stolen my bag.” → My bag ___ .",
+        "questionCode": "928650",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1772148703062
+      },
+      {
+        "_creationTime": 1772148764795.1526,
+        "_id": "kn75nbf909y5309cj5b78mm1qs81xcf4",
+        "createdAt": 1772148764795,
+        "data": {
+          "correctIndex": 3,
+          "explanation": "Present continuous for arranged plan.",
+          "options": [
+            "I have met him this evening.",
+            "I meet him this evening.",
+            "I will meet him this evening.",
+            "I am meeting him this evening."
+          ]
+        },
+        "difficultyName": "medium",
+        "levelId": "ks70t95hd4bjw3jrye2rkqavt181wpa7",
+        "order": 16,
+        "question": "Which expresses a near future plan using present continuous?",
+        "questionCode": "780831",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1772148764795
+      },
+      {
+        "_creationTime": 1772149166908.2078,
+        "_id": "kn71gx6bvcfdsqsf6515v79pbh81x4hn",
+        "createdAt": 1772149166908,
+        "data": {
+          "distractors": [
+            "played",
+            "have played",
+            "had played"
+          ]
+        },
+        "difficultyName": "medium",
+        "levelId": "ks70t95hd4bjw3jrye2rkqavt181wpa7",
+        "order": 17,
+        "question": "We {were playing} football when it started to rain.",
+        "questionCode": "342734",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1772149166908
+      },
+      {
+        "_creationTime": 1772148973716.8635,
+        "_id": "kn71eqd638j2tzhnh8f3hq7n8s81x20b",
+        "createdAt": 1772148973716,
+        "data": {
+          "correctWords": [
+            "that",
+            "he",
+            "would",
+            "come"
+          ],
+          "explanation": "“that he would come” is a noun clause as object of “said.”",
+          "selectMode": "multiple",
+          "statement": "He said that he would come."
+        },
+        "difficultyName": "medium",
+        "levelId": "ks70t95hd4bjw3jrye2rkqavt181wpa7",
+        "order": 18,
+        "question": "Select the noun clause acting as object in reported speech.",
+        "questionCode": "344586",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1772148973716
+      },
+      {
+        "_creationTime": 1772148996603.8528,
+        "_id": "kn79mfkjvvfrqw6ycda0kawgg581wd89",
+        "createdAt": 1772148996603,
+        "data": {
+          "correctWords": [
+            "before",
+            "dinner"
+          ],
+          "explanation": "“before dinner” is adverbial time phrase.",
+          "selectMode": "multiple",
+          "statement": "He had finished it before dinner."
+        },
+        "difficultyName": "medium",
+        "levelId": "ks70t95hd4bjw3jrye2rkqavt181wpa7",
+        "order": 19,
+        "question": "Pick the adverbial phrase of time.",
+        "questionCode": "201266",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1772148996603
+      },
+      {
+        "_creationTime": 1772149174606.7231,
+        "_id": "kn7eemhtyjps39g0kcyt2y1jp181wxrg",
+        "createdAt": 1772149174606,
+        "data": {
+          "distractors": [
+            "saw",
+            "see",
+            "will see"
+          ]
+        },
+        "difficultyName": "medium",
+        "levelId": "ks70t95hd4bjw3jrye2rkqavt181wpa7",
+        "order": 20,
+        "question": "I {have seen} that movie several times.",
+        "questionCode": "131340",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1772149174606
+      },
+      {
+        "_creationTime": 1772149032304.7002,
+        "_id": "kn79qfbc9m0cr9pr73tqyr11p581w4j6",
+        "createdAt": 1772149032304,
+        "data": {
+          "correctWords": [
+            "was",
+            "being",
+            "read"
+          ],
+          "explanation": "Past continuous passive uses “was/were being + pp”.",
+          "selectMode": "multiple",
+          "statement": "The book was being read by many students."
+        },
+        "difficultyName": "medium",
+        "levelId": "ks70t95hd4bjw3jrye2rkqavt181wpa7",
+        "order": 21,
+        "question": "Select the correct passive verb phrase.",
+        "questionCode": "767448",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1772149032304
+      },
+      {
+        "_creationTime": 1772148784402.4026,
+        "_id": "kn71raex08fchewvk4e3hh4rm981x904",
+        "createdAt": 1772148784402,
+        "data": {
+          "correctIndex": 0,
+          "explanation": "Past perfect indicates action completed before another past action.",
+          "options": [
+            "had finished",
+            "has finished",
+            "finished",
+            "will have finished"
+          ]
+        },
+        "difficultyName": "medium",
+        "levelId": "ks70t95hd4bjw3jrye2rkqavt181wpa7",
+        "order": 22,
+        "question": "Choose the correct past perfect form in this sentence: “By the time she called, I ___ dinner.”",
+        "questionCode": "575535",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1772148784402
+      },
+      {
+        "_creationTime": 1772149183292.9338,
+        "_id": "kn7e67wmv28ypkw6bhs6ewb1b581wy74",
+        "createdAt": 1772149183293,
+        "data": {
+          "distractors": [
+            "will present",
+            "present",
+            "presented"
+          ]
+        },
+        "difficultyName": "medium",
+        "levelId": "ks70t95hd4bjw3jrye2rkqavt181wpa7",
+        "order": 23,
+        "question": "The students {are going to present} the project tomorrow.",
+        "questionCode": "849304",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1772149183293
+      },
+      {
+        "_creationTime": 1772149051157.2764,
+        "_id": "kn7c25tnk9yne56mb29xhkjejd81wkkr",
+        "createdAt": 1772149051157,
+        "data": {
+          "correctWords": [
+            "might",
+            "come"
+          ],
+          "explanation": "“might” is past-tense modal for possibility in reported speech.",
+          "selectMode": "multiple",
+          "statement": "He said he might come later."
+        },
+        "difficultyName": "medium",
+        "levelId": "ks70t95hd4bjw3jrye2rkqavt181wpa7",
+        "order": 24,
+        "question": "Pick the modal that expresses a tentative past (reported).",
+        "questionCode": "273093",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1772149051157
+      },
+      {
+        "_creationTime": 1772149191821.6492,
+        "_id": "kn7apz5kck39zjdn4fb7bzh0j981x67r",
+        "createdAt": 1772149191821,
+        "data": {
+          "distractors": [
+            "studied",
+            "has studied",
+            "will have studied"
+          ]
+        },
+        "difficultyName": "medium",
+        "levelId": "ks70t95hd4bjw3jrye2rkqavt181wpa7",
+        "order": 25,
+        "question": "She {had been studying} for hours before the exam.",
+        "questionCode": "154312",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1772149191821
+      },
+      {
+        "_creationTime": 1772148812238.7646,
+        "_id": "kn75bvzekbysxfz0303pkt15wd81xnt5",
+        "createdAt": 1772148812238,
+        "data": {
+          "correctIndex": 1,
+          "explanation": "“used to” expresses past habitual state or action.",
+          "options": [
+            "I am used to live in Chennai.",
+            "I used to live in Chennai.",
+            "I use to live in Chennai.",
+            "I have used to live in Chennai."
+          ]
+        },
+        "difficultyName": "medium",
+        "levelId": "ks70t95hd4bjw3jrye2rkqavt181wpa7",
+        "order": 26,
+        "question": "Which sentence shows correct use of “used to”?",
+        "questionCode": "723747",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1772148812238
+      },
+      {
+        "_creationTime": 1772149202324.08,
+        "_id": "kn79kfvx19nb3fnx05skxxej6181wxzn",
+        "createdAt": 1772149202324,
+        "data": {
+          "distractors": [
+            "has stolen",
+            "steals",
+            "will be stolen"
+          ]
+        },
+        "difficultyName": "medium",
+        "levelId": "ks70t95hd4bjw3jrye2rkqavt181wpa7",
+        "order": 27,
+        "question": "My bag {was stolen} yesterday.",
+        "questionCode": "991781",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1772149202324
+      },
+      {
+        "_creationTime": 1772148837505.8801,
+        "_id": "kn7307bxk8kr7a1ypdy0tz0rnn81xjn1",
+        "createdAt": 1772148837506,
+        "data": {
+          "correctIndex": 2,
+          "explanation": "For universal truths, backshift is not required; present tense often retained.",
+          "options": [
+            "He said that the earth revolved around the sun.",
+            "He said that the earth will revolve around the sun.",
+            "He said that the earth revolves around the sun.",
+            "He said that the earth has revolved around the sun."
+          ]
+        },
+        "difficultyName": "medium",
+        "levelId": "ks70t95hd4bjw3jrye2rkqavt181wpa7",
+        "order": 28,
+        "question": "Which is correct sequence-of-tenses example for a universal truth?",
+        "questionCode": "778417",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1772148837506
+      },
+      {
+        "_creationTime": 1772149068597.7024,
+        "_id": "kn76xgsmhnr391r5exevkrg7wd81xn7v",
+        "createdAt": 1772149068597,
+        "data": {
+          "correctWords": [
+            "have",
+            "been",
+            "waiting"
+          ],
+          "explanation": "Present Perfect Continuous emphasizes duration.",
+          "selectMode": "multiple",
+          "statement": "They have been waiting since noon."
+        },
+        "difficultyName": "medium",
+        "levelId": "ks70t95hd4bjw3jrye2rkqavt181wpa7",
+        "order": 29,
+        "question": "Select the Present Perfect Continuous words.",
+        "questionCode": "355062",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1772149068597
+      },
+      {
+        "_creationTime": 1772149224636.2292,
+        "_id": "kn7e9d6z2jhx13bfeaesekwv7d81w7g2",
+        "createdAt": 1772149224636,
+        "data": {
+          "distractors": [
+            "is used to",
+            "used",
+            "will use"
+          ]
+        },
+        "difficultyName": "medium",
+        "levelId": "ks70t95hd4bjw3jrye2rkqavt181wpa7",
+        "order": 30,
+        "question": "He {used to} play the piano in school.",
+        "questionCode": "661365",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1772149224636
+      }
+    ]
+  }
+}

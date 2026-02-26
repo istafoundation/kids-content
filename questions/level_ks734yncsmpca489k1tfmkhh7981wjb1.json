@@ -1,0 +1,1966 @@
+{
+  "levelId": "ks734yncsmpca489k1tfmkhh7981wjb1",
+  "version": 145,
+  "publishedAt": 1772150327526,
+  "questions": {
+    "easy": [
+      {
+        "_creationTime": 1772144687660.7307,
+        "_id": "kn7dzmw5525w54y7hjgr6k172581x4tc",
+        "createdAt": 1772144687660,
+        "data": {
+          "correctIndex": 2,
+          "explanation": "“coming” ends in -ing and describes the action in progress; it refers to “him” (present participle).",
+          "options": [
+            "met",
+            "him",
+            "coming",
+            "street"
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks734yncsmpca489k1tfmkhh7981wjb1",
+        "order": 1,
+        "question": "Which word in the sentence is a present participle? “I met him coming down the street.”",
+        "questionCode": "696533",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1772144687660
+      },
+      {
+        "_creationTime": 1772145208380.4585,
+        "_id": "kn71jpabdywp5gp0jgmv8vjjmd81xxqy",
+        "createdAt": 1772145208380,
+        "data": {
+          "distractors": [
+            "read",
+            "having read",
+            "reads"
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks734yncsmpca489k1tfmkhh7981wjb1",
+        "order": 2,
+        "question": "I remember {reading} the book long ago.",
+        "questionCode": "166563",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1772145208380
+      },
+      {
+        "_creationTime": 1772144707073.866,
+        "_id": "kn7d4r9f3bsqw7gfvfzrkjq77h81xgvk",
+        "createdAt": 1772144707073,
+        "data": {
+          "correctIndex": 0,
+          "explanation": "“clapping” (-ing) describes an ongoing action and modifies “the child.”",
+          "options": [
+            "clapping",
+            "hands",
+            "laughed",
+            "child"
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks734yncsmpca489k1tfmkhh7981wjb1",
+        "order": 3,
+        "question": "Which is the present participle in “Clapping its hands, the child laughed”?",
+        "questionCode": "519711",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1772144707073
+      },
+      {
+        "_creationTime": 1772145223471.601,
+        "_id": "kn7a49zpace9ytk11fkmz1y02x81x417",
+        "createdAt": 1772145223471,
+        "data": {
+          "distractors": [
+            "came",
+            "come",
+            "comes"
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks734yncsmpca489k1tfmkhh7981wjb1",
+        "order": 4,
+        "question": "The children {coming} home from school look in at the open door.",
+        "questionCode": "479669",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1772145223471
+      },
+      {
+        "_creationTime": 1772144912996.8335,
+        "_id": "kn73c9awz2ycms9wfv7y7mc61h81xgq9",
+        "createdAt": 1772144912996,
+        "data": {
+          "correctWords": [
+            "playing"
+          ],
+          "explanation": "“playing” ends in -ing and describes the boys (present participle).",
+          "selectMode": "multiple",
+          "statement": "The boys, playing in the field, had a merry time."
+        },
+        "difficultyName": "easy",
+        "levelId": "ks734yncsmpca489k1tfmkhh7981wjb1",
+        "order": 5,
+        "question": "Pick the present participle.",
+        "questionCode": "893770",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1772144912996
+      },
+      {
+        "_creationTime": 1772144928111.1355,
+        "_id": "kn748r0r7cpbxawcb3v8a04g4x81xyt6",
+        "createdAt": 1772144928111,
+        "data": {
+          "correctWords": [
+            "broken"
+          ],
+          "explanation": "“broken” (-en) indicates a finished/passive meaning—past participle.",
+          "selectMode": "multiple",
+          "statement": "The old man, broken with age, hobbled along."
+        },
+        "difficultyName": "easy",
+        "levelId": "ks734yncsmpca489k1tfmkhh7981wjb1",
+        "order": 6,
+        "question": "Pick the past participle.",
+        "questionCode": "770721",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1772144928111
+      },
+      {
+        "_creationTime": 1772145240818.0945,
+        "_id": "kn7d459qghbmf389yngepzt4c581x4vk",
+        "createdAt": 1772145240818,
+        "data": {
+          "distractors": [
+            "led",
+            "lead",
+            "to lead"
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks734yncsmpca489k1tfmkhh7981wjb1",
+        "order": 7,
+        "question": "She saw a man {leading} a monkey.",
+        "questionCode": "273729",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1772145240818
+      },
+      {
+        "_creationTime": 1772144736680.2822,
+        "_id": "kn7fw8a1059fpfhvq7qrg6m2p581xzcy",
+        "createdAt": 1772144736680,
+        "data": {
+          "correctIndex": 1,
+          "explanation": "“broken” is a past participle functioning as an adjective modifying “the old man.”",
+          "options": [
+            "adverb",
+            "past participle used adjectivally",
+            "main verb",
+            "gerund"
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks734yncsmpca489k1tfmkhh7981wjb1",
+        "order": 8,
+        "question": "In “The old man, broken with age, hobbled along,” what is “broken”?",
+        "questionCode": "297686",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1772144736680
+      },
+      {
+        "_creationTime": 1772144762390.47,
+        "_id": "kn7apr3h5pkfrprtn33nm00zr181xgat",
+        "createdAt": 1772144762390,
+        "data": {
+          "correctIndex": 1,
+          "explanation": "“Flying” is the subject (a noun)—a gerund—rather than an adjective or verb.",
+          "options": [
+            "Flying kites, the boys enjoyed themselves.",
+            "Flying a kite is fun.",
+            "The flying kite tore.",
+            "He saw the kite flying."
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks734yncsmpca489k1tfmkhh7981wjb1",
+        "order": 9,
+        "question": "Which sentence contains a gerund (not a participle)?",
+        "questionCode": "437091",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1772144762390
+      },
+      {
+        "_creationTime": 1772144954175.2144,
+        "_id": "kn77w5hprbktdfa3zxj6xcv63h81wy2m",
+        "createdAt": 1772144954175,
+        "data": {
+          "correctWords": [
+            "Swimming"
+          ],
+          "explanation": "\"Swimming” acts as the subject (a gerund/noun).",
+          "selectMode": "multiple",
+          "statement": "Swimming in the sea calms many people."
+        },
+        "difficultyName": "easy",
+        "levelId": "ks734yncsmpca489k1tfmkhh7981wjb1",
+        "order": 10,
+        "question": "Pick the gerund (noun).",
+        "questionCode": "902199",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1772144954175
+      },
+      {
+        "_creationTime": 1772145232022.5598,
+        "_id": "kn71ek7zqt9jb8z95gaa8cjgd181x2xj",
+        "createdAt": 1772145232022,
+        "data": {
+          "distractors": [
+            "whistle",
+            "to whistle",
+            "having whistled"
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks734yncsmpca489k1tfmkhh7981wjb1",
+        "order": 11,
+        "question": "He walked away {whistling}.",
+        "questionCode": "344531",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1772145232022
+      },
+      {
+        "_creationTime": 1772144780561.445,
+        "_id": "kn7704zcabsnk0f8rta4spraxh81whp5",
+        "createdAt": 1772144780561,
+        "data": {
+          "correctIndex": 1,
+          "explanation": "“written” (and “posted”) are past participles describing the note—finished actions.",
+          "options": [
+            "note",
+            "written",
+            "and",
+            "posted"
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks734yncsmpca489k1tfmkhh7981wjb1",
+        "order": 12,
+        "question": "Choose the past participle in: “The note written and posted.”",
+        "questionCode": "655275",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1772144780561
+      },
+      {
+        "_creationTime": 1772145247568.6323,
+        "_id": "kn75ys62c1pkqryyv5tp9y651981w87c",
+        "createdAt": 1772145247568,
+        "data": {
+          "distractors": [
+            "burning",
+            "burned",
+            "burn"
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks734yncsmpca489k1tfmkhh7981wjb1",
+        "order": 13,
+        "question": "A {burnt} child dreads the fire.",
+        "questionCode": "401557",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1772145247568
+      },
+      {
+        "_creationTime": 1772144975345.208,
+        "_id": "kn70vwrt42v1jqdqbc6hfd4dss81w14t",
+        "createdAt": 1772144975345,
+        "data": {
+          "correctWords": [
+            "burnt"
+          ],
+          "explanation": "“burnt” is a past participle used adjectivally before “child.”",
+          "selectMode": "multiple",
+          "statement": "A burnt child dreads the fire."
+        },
+        "difficultyName": "easy",
+        "levelId": "ks734yncsmpca489k1tfmkhh7981wjb1",
+        "order": 14,
+        "question": "Pick the participial adjective.",
+        "questionCode": "590255",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1772144975345
+      },
+      {
+        "_creationTime": 1772144999707.0747,
+        "_id": "kn77vcd3dbsdhn6622j1x00tgn81xtbp",
+        "createdAt": 1772144999707,
+        "data": {
+          "correctWords": [
+            "Having",
+            "finished"
+          ],
+          "explanation": "“Having finished” shows a completed action before another.",
+          "selectMode": "multiple",
+          "statement": "Having finished his work, he left."
+        },
+        "difficultyName": "easy",
+        "levelId": "ks734yncsmpca489k1tfmkhh7981wjb1",
+        "order": 15,
+        "question": "Pick the perfect participle.",
+        "questionCode": "262147",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1772144999707
+      },
+      {
+        "_creationTime": 1772145255525.0183,
+        "_id": "kn72svwpxtmnef122c4c20mhcx81wb0d",
+        "createdAt": 1772145255525,
+        "data": {
+          "distractors": [
+            "be",
+            "been",
+            "to be"
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks734yncsmpca489k1tfmkhh7981wjb1",
+        "order": 16,
+        "question": "I dislike {being} deceived.",
+        "questionCode": "624168",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1772145255525
+      },
+      {
+        "_creationTime": 1772144802130.0012,
+        "_id": "kn7by9jqv72gas81wawf2dj2tx81wy5e",
+        "createdAt": 1772144802130,
+        "data": {
+          "correctIndex": 3,
+          "explanation": "“rolling” is a present participle used attributively before “stone.”",
+          "options": [
+            "Gathers no moss rolling stone.",
+            "A stone rolling gathers no moss.",
+            "Rolling stone gathers moss no.",
+            "A rolling stone gathers no moss."
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks734yncsmpca489k1tfmkhh7981wjb1",
+        "order": 17,
+        "question": "Which is a correct participial adjective use?",
+        "questionCode": "156676",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1772144802130
+      },
+      {
+        "_creationTime": 1772145031752.9414,
+        "_id": "kn7a2hrbxw35jyrwc983nx5nzh81xgqs",
+        "createdAt": 1772145031753,
+        "data": {
+          "correctWords": [
+            "Driven",
+            "by",
+            "hunger"
+          ],
+          "explanation": "“Driven” is past participle in a passive-like adjectival phrase.",
+          "selectMode": "multiple",
+          "statement": "Driven by hunger, he stole a piece of bread."
+        },
+        "difficultyName": "easy",
+        "levelId": "ks734yncsmpca489k1tfmkhh7981wjb1",
+        "order": 18,
+        "question": "Pick the passive participle phrase.",
+        "questionCode": "724075",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1772145031753
+      },
+      {
+        "_creationTime": 1772145278069.2502,
+        "_id": "kn774g26s1nz0tpab0kwwd6z8s81wkjv",
+        "createdAt": 1772145278069,
+        "data": {
+          "distractors": [
+            "Arriving",
+            "Arrive",
+            "Arrived"
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks734yncsmpca489k1tfmkhh7981wjb1",
+        "order": 19,
+        "question": "{Having arrived}, we went inside.",
+        "questionCode": "646390",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1772145278069
+      },
+      {
+        "_creationTime": 1772144827246.0308,
+        "_id": "kn7b983h16yj7rj7y1aa28h3v581wcsw",
+        "createdAt": 1772144827246,
+        "data": {
+          "correctIndex": 1,
+          "explanation": "The participial phrase “Waving their handkerchiefs” refers to “the people.”",
+          "options": [
+            "waving",
+            "people",
+            "cheered",
+            "handkerchiefs"
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks734yncsmpca489k1tfmkhh7981wjb1",
+        "order": 20,
+        "question": "In “Waving their handkerchiefs, the people cheered,” the participle phrase modifies:",
+        "questionCode": "424037",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1772144827246
+      },
+      {
+        "_creationTime": 1772145074749.321,
+        "_id": "kn72b5m61xj09h7yj7febax0k981w31p",
+        "createdAt": 1772145074749,
+        "data": {
+          "correctWords": [
+            "barking"
+          ],
+          "explanation": "“barking” (present participle) modifies “dog.”",
+          "selectMode": "multiple",
+          "statement": "The barking dog seldom bites."
+        },
+        "difficultyName": "easy",
+        "levelId": "ks734yncsmpca489k1tfmkhh7981wjb1",
+        "order": 21,
+        "question": "Pick the participle that qualifies a noun.",
+        "questionCode": "393645",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1772145074749
+      },
+      {
+        "_creationTime": 1772145286561.377,
+        "_id": "kn71abvw1958frznmwpr7544n981xsc8",
+        "createdAt": 1772145286561,
+        "data": {
+          "distractors": [
+            "writing",
+            "wrote",
+            "to write"
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks734yncsmpca489k1tfmkhh7981wjb1",
+        "order": 22,
+        "question": "The note {written} was posted.",
+        "questionCode": "342841",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1772145286561
+      },
+      {
+        "_creationTime": 1772144849678.5122,
+        "_id": "kn7bsqq16gqgsewcpheern9sg581x5ar",
+        "createdAt": 1772144849678,
+        "data": {
+          "correctIndex": 2,
+          "explanation": "“loved” is the simple past participle (passive/adjectival use).",
+          "options": [
+            "loving",
+            "being loved",
+            "loved",
+            "lovingly"
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks734yncsmpca489k1tfmkhh7981wjb1",
+        "order": 23,
+        "question": "Which is an example of a past participle?",
+        "questionCode": "633755",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1772144849678
+      },
+      {
+        "_creationTime": 1772145155148.9727,
+        "_id": "kn7556qac85yxs84cnpq40nsg581xwzp",
+        "createdAt": 1772145155149,
+        "data": {
+          "correctWords": [
+            "Taking",
+            "everything",
+            "into",
+            "consideration"
+          ],
+          "explanation": "The phrase has an implied/general subject — an absolute participial construction.",
+          "selectMode": "multiple",
+          "statement": "Taking everything into consideration, the judge decided."
+        },
+        "difficultyName": "easy",
+        "levelId": "ks734yncsmpca489k1tfmkhh7981wjb1",
+        "order": 24,
+        "question": "Pick the present participle used absolutely (impersonal).",
+        "questionCode": "540727",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1772145155149
+      },
+      {
+        "_creationTime": 1772144873185.329,
+        "_id": "kn79ngt8v27dka7m9jtsg4mexd81xza0",
+        "createdAt": 1772144873185,
+        "data": {
+          "correctIndex": 0,
+          "explanation": "“having taken” is the perfect participle showing prior completion.",
+          "options": [
+            "having taken",
+            "taking",
+            "taken",
+            "takes"
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks734yncsmpca489k1tfmkhh7981wjb1",
+        "order": 25,
+        "question": "Which choice correctly shows the perfect participle?",
+        "questionCode": "637739",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1772144873185
+      },
+      {
+        "_creationTime": 1772145177048.5068,
+        "_id": "kn75drqeykxs94z2910d1202p181w2bc",
+        "createdAt": 1772145177048,
+        "data": {
+          "correctWords": [
+            "waiting"
+          ],
+          "explanation": "“waiting” modifies the object “me” (predicatively).",
+          "selectMode": "multiple",
+          "statement": "He kept me waiting."
+        },
+        "difficultyName": "easy",
+        "levelId": "ks734yncsmpca489k1tfmkhh7981wjb1",
+        "order": 26,
+        "question": "Pick the participle functioning as object modifier.",
+        "questionCode": "895077",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1772145177048
+      },
+      {
+        "_creationTime": 1772145295248.5977,
+        "_id": "kn718f10bb5qk5y0wq1rrm7f0n81wdm9",
+        "createdAt": 1772145295248,
+        "data": {
+          "distractors": [
+            "Saw",
+            "See",
+            "To see"
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks734yncsmpca489k1tfmkhh7981wjb1",
+        "order": 27,
+        "question": "{Seeing} the sunshine, I opened the window.",
+        "questionCode": "103537",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1772145295248
+      },
+      {
+        "_creationTime": 1772144895291.4475,
+        "_id": "kn75bx32mpjd4sqpz6t2edr7fh81w2f8",
+        "createdAt": 1772144895291,
+        "data": {
+          "correctIndex": 1,
+          "explanation": "“Singing” is a present participle in a phrase referring to “we.”",
+          "options": [
+            "noun (gerund)",
+            "present participle modifying “we”",
+            "main verb of sentence",
+            "adjective modifying “chorus”"
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks734yncsmpca489k1tfmkhh7981wjb1",
+        "order": 28,
+        "question": "In “Singing in a chorus, we went on our way,” what role does “singing” play?",
+        "questionCode": "694789",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1772144895291
+      },
+      {
+        "_creationTime": 1772145194121.0115,
+        "_id": "kn71y6kz1b2t0bvdabbh06bnks81x0d3",
+        "createdAt": 1772145194121,
+        "data": {
+          "correctWords": [
+            "loving"
+          ],
+          "explanation": "“loving” is present participle used with auxiliary “was” to form continuous tense.",
+          "selectMode": "multiple",
+          "statement": "I was loving the performance."
+        },
+        "difficultyName": "easy",
+        "levelId": "ks734yncsmpca489k1tfmkhh7981wjb1",
+        "order": 29,
+        "question": "Pick the participle that is part of a continuous tense.",
+        "questionCode": "531820",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1772145194121
+      },
+      {
+        "_creationTime": 1772145303847.145,
+        "_id": "kn764cs43hf6b81fv8qfbj8v3n81xfmx",
+        "createdAt": 1772145303847,
+        "data": {
+          "distractors": [
+            "poured",
+            "pour",
+            "to pour"
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks734yncsmpca489k1tfmkhh7981wjb1",
+        "order": 30,
+        "question": "The rain came {pouring} down.",
+        "questionCode": "445468",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1772145303847
+      }
+    ],
+    "hard": [
+      {
+        "_creationTime": 1772146051642.1807,
+        "_id": "kn7910gmc5qm3k8txyqt5jxyvh81w70m",
+        "createdAt": 1772146051642,
+        "data": {
+          "correctIndex": 1,
+          "explanation": "“Having been warned” is perfect passive participle showing a prior action done to him.",
+          "options": [
+            "perfect active participle modifying subject",
+            "perfect passive participle “having been warned” indicating prior passive event",
+            "present participle in passive meaning",
+            "gerund phrase acting as object"
+          ]
+        },
+        "difficultyName": "hard",
+        "levelId": "ks734yncsmpca489k1tfmkhh7981wjb1",
+        "order": 1,
+        "question": "Which choice correctly identifies the voice and function in “Having been warned, he left”?",
+        "questionCode": "660442",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1772146051642
+      },
+      {
+        "_creationTime": 1772146865918.193,
+        "_id": "kn79nw6y392yvjn85b77f01f6981xkz1",
+        "createdAt": 1772146865918,
+        "data": {
+          "distractors": [
+            "{Having been warned}",
+            "he took precautions."
+          ]
+        },
+        "difficultyName": "hard",
+        "levelId": "ks734yncsmpca489k1tfmkhh7981wjb1",
+        "order": 2,
+        "question": "{Having been warned}, he took precautions.",
+        "questionCode": "959100",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1772146865918
+      },
+      {
+        "_creationTime": 1772146396424.0085,
+        "_id": "kn77g84dsnrd38ps2djr2g5c7581w9d1",
+        "createdAt": 1772146396424,
+        "data": {
+          "correctWords": [
+            "Having",
+            "been",
+            "defeated"
+          ],
+          "explanation": "“Having been defeated” is perfect passive participle—action completed and received by subject.",
+          "selectMode": "multiple",
+          "statement": "Having been defeated, the army retreated."
+        },
+        "difficultyName": "hard",
+        "levelId": "ks734yncsmpca489k1tfmkhh7981wjb1",
+        "order": 3,
+        "question": "Pick the perfect passive participle phrase.",
+        "questionCode": "705846",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1772146396424
+      },
+      {
+        "_creationTime": 1772146428561.668,
+        "_id": "kn7ak1knqtgxhhpyttqrw29dwd81w111",
+        "createdAt": 1772146428561,
+        "data": {
+          "correctWords": [
+            "The",
+            "matter",
+            "having",
+            "been",
+            "considered"
+          ],
+          "explanation": "Noun + perfect passive participle forms a nominative absolute.",
+          "selectMode": "multiple",
+          "statement": "The matter having been considered, we decided."
+        },
+        "difficultyName": "hard",
+        "levelId": "ks734yncsmpca489k1tfmkhh7981wjb1",
+        "order": 4,
+        "question": "Pick the correct absolute construction.",
+        "questionCode": "400808",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1772146428561
+      },
+      {
+        "_creationTime": 1772146090409.644,
+        "_id": "kn76ynn36fqjmtv0dmqc37zyx981xer2",
+        "createdAt": 1772146090409,
+        "data": {
+          "correctIndex": 2,
+          "explanation": "The participle phrase has an understood subject “he” — participle is understood.",
+          "options": [
+            "sword",
+            "hand",
+            "he (understood)",
+            "rushed"
+          ]
+        },
+        "difficultyName": "hard",
+        "levelId": "ks734yncsmpca489k1tfmkhh7981wjb1",
+        "order": 5,
+        "question": "In “Sword (being) in hand, he rushed,” the implied subject is:",
+        "questionCode": "296043",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1772146090409
+      },
+      {
+        "_creationTime": 1772146883755.7698,
+        "_id": "kn7fgjj3668wcqem1dsb24gn3d81w1zj",
+        "createdAt": 1772146883755,
+        "data": {
+          "distractors": [
+            "Being late it",
+            "Late being it",
+            "Being it late"
+          ]
+        },
+        "difficultyName": "hard",
+        "levelId": "ks734yncsmpca489k1tfmkhh7981wjb1",
+        "order": 6,
+        "question": "{It being late}, we decided to return.",
+        "questionCode": "582307",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1772146883755
+      },
+      {
+        "_creationTime": 1772146112367.196,
+        "_id": "kn785a05fq4n1z66p39jgpj1mn81xjs1",
+        "createdAt": 1772146112367,
+        "data": {
+          "correctIndex": 0,
+          "explanation": "A supplies a suitable subject “I” for the participle phrase.",
+          "options": [
+            "Hoping to hear from you soon, I remain yours sincerely.",
+            "Hoping to hear from you soon, yours sincerely I am.",
+            "Yours sincerely, hoping to hear from you soon.",
+            "I was hoping to hear from you soon, yours sincerely."
+          ]
+        },
+        "difficultyName": "hard",
+        "levelId": "ks734yncsmpca489k1tfmkhh7981wjb1",
+        "order": 7,
+        "question": "Which rewrite fixes the misplaced participle? “Hoping to hear from you soon, yours sincerely.”",
+        "questionCode": "653276",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1772146112367
+      },
+      {
+        "_creationTime": 1772146163549.5142,
+        "_id": "kn7a7183m9b84kqva2efsag9yn81xnyk",
+        "createdAt": 1772146163549,
+        "data": {
+          "correctIndex": 3,
+          "explanation": "“Roughly speaking” is impersonal; it conveys a general statement without a specific subject.",
+          "options": [
+            "participial phrase with definite subject",
+            "gerund phrase acting as noun",
+            "dangling participle",
+            "impersonal absolute participle allowing general meaning"
+          ]
+        },
+        "difficultyName": "hard",
+        "levelId": "ks734yncsmpca489k1tfmkhh7981wjb1",
+        "order": 8,
+        "question": "Identify the correct analysis: “Roughly speaking, the distance is four kilometers.”",
+        "questionCode": "318874",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1772146163549
+      },
+      {
+        "_creationTime": 1772146448654.4978,
+        "_id": "kn734nfj7pyfxg5ez1nt7z5wwd81xp62",
+        "createdAt": 1772146448654,
+        "data": {
+          "correctWords": [
+            "Having",
+            "no",
+            "umbrella"
+          ],
+          "explanation": "Phrase has no clear noun to attach—dangling; rewrite needed.",
+          "selectMode": "multiple",
+          "statement": "Having no umbrella, the ground was wet."
+        },
+        "difficultyName": "hard",
+        "levelId": "ks734yncsmpca489k1tfmkhh7981wjb1",
+        "order": 9,
+        "question": "Pick the participle phrase that requires revision (dangling).",
+        "questionCode": "478847",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1772146448654
+      },
+      {
+        "_creationTime": 1772146183817.119,
+        "_id": "kn7fzrr10zrf37099pk3tdys8981wjsx",
+        "createdAt": 1772146183817,
+        "data": {
+          "correctIndex": 0,
+          "explanation": "“waiting” placed before “man” becomes attributive present participle modifying “man.”",
+          "options": [
+            "The man waiting kept me.",
+            "The waiting man kept me.",
+            "The waited man kept me.",
+            "The man who waited kept me."
+          ]
+        },
+        "difficultyName": "hard",
+        "levelId": "ks734yncsmpca489k1tfmkhh7981wjb1",
+        "order": 10,
+        "question": "In the phrase “he kept me waiting,” which transformation makes the participle attributive instead?",
+        "questionCode": "711305",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1772146183817
+      },
+      {
+        "_creationTime": 1772146482664.1782,
+        "_id": "kn7177kk637fgrzg9vh5ew3apd81xpjs",
+        "createdAt": 1772146482664,
+        "data": {
+          "correctWords": [
+            "be",
+            "loved"
+          ],
+          "explanation": "Past participle “loved” with forms of “be” forms passive voice.",
+          "selectMode": "multiple",
+          "statement": "I am loved; I was loved; I shall be loved."
+        },
+        "difficultyName": "hard",
+        "levelId": "ks734yncsmpca489k1tfmkhh7981wjb1",
+        "order": 11,
+        "question": "Pick the example of participle forming passive voice with “be”.",
+        "questionCode": "700314",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1772146482664
+      },
+      {
+        "_creationTime": 1772146222471.1255,
+        "_id": "kn73x5wx0q18prehjsk8zy87sn81x9ze",
+        "createdAt": 1772146222471,
+        "data": {
+          "correctIndex": 0,
+          "explanation": "“The weather being fine” is a participial phrase with its own noun forming a nominative absolute.",
+          "options": [
+            "The weather being fine, I went out.",
+            "Being fine the weather, I went out.",
+            "Because the weather was fine, I went out.",
+            "Weather being fine I went out."
+          ]
+        },
+        "difficultyName": "hard",
+        "levelId": "ks734yncsmpca489k1tfmkhh7981wjb1",
+        "order": 12,
+        "question": "Which sentence contains a nominative absolute?",
+        "questionCode": "834046",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1772146222471
+      },
+      {
+        "_creationTime": 1772146891607.4197,
+        "_id": "kn73ze3p34tn2cjnc3exkznkex81wamq",
+        "createdAt": 1772146891607,
+        "data": {
+          "distractors": [
+            "having",
+            "had",
+            "been"
+          ]
+        },
+        "difficultyName": "hard",
+        "levelId": "ks734yncsmpca489k1tfmkhh7981wjb1",
+        "order": 13,
+        "question": "Sword {being} in hand, he charged.",
+        "questionCode": "101572",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1772146891607
+      },
+      {
+        "_creationTime": 1772146499423.637,
+        "_id": "kn74z4q3y22r9m3j4639r9jtms81xgca",
+        "createdAt": 1772146499423,
+        "data": {
+          "correctWords": [
+            "learned"
+          ],
+          "explanation": "“learned” (past participle) used adjectivally allowing comparative degree “most learned.”",
+          "selectMode": "multiple",
+          "statement": "He was reputed to be the most learned man of his time."
+        },
+        "difficultyName": "hard",
+        "levelId": "ks734yncsmpca489k1tfmkhh7981wjb1",
+        "order": 14,
+        "question": "Pick the sentence where participle indicates degrees of comparison (adjectival).",
+        "questionCode": "568806",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1772146499423
+      },
+      {
+        "_creationTime": 1772146904988.1768,
+        "_id": "kn72db2act87xbkt2md2maazah81whm3",
+        "createdAt": 1772146904988,
+        "data": {
+          "distractors": [
+            "Considered",
+            "Having considered",
+            "Considers"
+          ]
+        },
+        "difficultyName": "hard",
+        "levelId": "ks734yncsmpca489k1tfmkhh7981wjb1",
+        "order": 15,
+        "question": "{Considering} his abilities, he could have done better.",
+        "questionCode": "920781",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1772146904988
+      },
+      {
+        "_creationTime": 1772146915032.1777,
+        "_id": "kn79f4sx4wzbkr30zcxdazxn2h81ww26",
+        "createdAt": 1772146915032,
+        "data": {
+          "distractors": [
+            "Having favoured",
+            "Being favored",
+            "Favored"
+          ]
+        },
+        "difficultyName": "hard",
+        "levelId": "ks734yncsmpca489k1tfmkhh7981wjb1",
+        "order": 16,
+        "question": "{Having been favored} by chance, he succeeded.",
+        "questionCode": "988847",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1772146915032
+      },
+      {
+        "_creationTime": 1772146254069.6636,
+        "_id": "kn71gvjga5awwapy7vj3bjcrnd81w3k5",
+        "createdAt": 1772146254069,
+        "data": {
+          "correctIndex": 1,
+          "explanation": "-ing form may be gerund (noun) or participle (verb/adjective); their syntactic roles differ.",
+          "options": [
+            "Both always act as adjectives.",
+            "Both end in -ing but gerund acts as noun and participle as verb/adjective.",
+            "Gerunds take objects; participles never do.",
+            "Participles are never modified by adverbs."
+          ]
+        },
+        "difficultyName": "hard",
+        "levelId": "ks734yncsmpca489k1tfmkhh7981wjb1",
+        "order": 17,
+        "question": "Which is true about participles vs gerunds?",
+        "questionCode": "257895",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1772146254069
+      },
+      {
+        "_creationTime": 1772146527397.5784,
+        "_id": "kn7byfhm1a2v4g2nrg5tmszeb581x1vg",
+        "createdAt": 1772146527397,
+        "data": {
+          "correctWords": [
+            "be",
+            "loving"
+          ],
+          "explanation": "Present participle with “be” forms continuous tenses.",
+          "selectMode": "multiple",
+          "statement": "I am loving; I was loving; I shall be loving."
+        },
+        "difficultyName": "hard",
+        "levelId": "ks734yncsmpca489k1tfmkhh7981wjb1",
+        "order": 18,
+        "question": "Pick the participial form used to form continuous tenses.",
+        "questionCode": "370808",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1772146527397
+      },
+      {
+        "_creationTime": 1772146938035.7363,
+        "_id": "kn7a72rmkrs87f68hsyvk98n9181we2r",
+        "createdAt": 1772146938035,
+        "data": {
+          "distractors": [
+            "Rough speaking",
+            "Speaking roughly",
+            "Roughly speak"
+          ]
+        },
+        "difficultyName": "hard",
+        "levelId": "ks734yncsmpca489k1tfmkhh7981wjb1",
+        "order": 19,
+        "question": "{Roughly speaking}, the distance is four kilometres.",
+        "questionCode": "638104",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1772146938035
+      },
+      {
+        "_creationTime": 1772146326947.8718,
+        "_id": "kn7d6vc0b59d5c3t4cpstep03581xg44",
+        "createdAt": 1772146326948,
+        "data": {
+          "correctIndex": 3,
+          "explanation": "“It being late” is an impersonal absolute with “it” as a dummy subject/impersonal construction.",
+          "options": [
+            "Having been tired, he slept.",
+            "Being hungry, the child ate.",
+            "To be hungry, he ate.",
+            "It being late, we left."
+          ]
+        },
+        "difficultyName": "hard",
+        "levelId": "ks734yncsmpca489k1tfmkhh7981wjb1",
+        "order": 20,
+        "question": "Which participle phrase is acceptable as an impersonal absolute?",
+        "questionCode": "772374",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1772146326948
+      },
+      {
+        "_creationTime": 1772146348424.616,
+        "_id": "kn7eb5mmx672bh882m36gk732181x4xg",
+        "createdAt": 1772146348424,
+        "data": {
+          "correctIndex": 2,
+          "explanation": "“Having eaten” shows the eating occurred before he left — anteriority.",
+          "options": [
+            "Having eaten, he was hungry.",
+            "Eating, he had finished.",
+            "Having eaten, he left the table.",
+            "Eaten, he had left."
+          ]
+        },
+        "difficultyName": "hard",
+        "levelId": "ks734yncsmpca489k1tfmkhh7981wjb1",
+        "order": 21,
+        "question": "Which shows correct use of perfect participle to indicate anteriority?",
+        "questionCode": "137692",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1772146348424
+      },
+      {
+        "_creationTime": 1772146562528.1316,
+        "_id": "kn70vwx8xv3armc137n913708d81wx9v",
+        "createdAt": 1772146562528,
+        "data": {
+          "correctWords": [
+            "read",
+            "in",
+            "childhood"
+          ],
+          "explanation": "“read” is past participle used attributively in passive meaning before noun.",
+          "selectMode": "multiple",
+          "statement": "Books read in childhood seem like old friends."
+        },
+        "difficultyName": "hard",
+        "levelId": "ks734yncsmpca489k1tfmkhh7981wjb1",
+        "order": 22,
+        "question": "Pick the participle in passive meaning used before a noun.",
+        "questionCode": "645762",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1772146562528
+      },
+      {
+        "_creationTime": 1772146924124.3367,
+        "_id": "kn770qcnw24pe0khm6z662q9x181x6zf",
+        "createdAt": 1772146924124,
+        "data": {
+          "distractors": [
+            "matter decided",
+            "having decided the matter",
+            "the matter deciding"
+          ]
+        },
+        "difficultyName": "hard",
+        "levelId": "ks734yncsmpca489k1tfmkhh7981wjb1",
+        "order": 23,
+        "question": "The matter {having been decided}, we acted.",
+        "questionCode": "459882",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1772146924124
+      },
+      {
+        "_creationTime": 1772146737226.6729,
+        "_id": "kn7ajtds218ezpe0ed60dzyj0581x8zg",
+        "createdAt": 1772146737226,
+        "data": {
+          "distractors": [
+            "we got wet"
+          ]
+        },
+        "difficultyName": "hard",
+        "levelId": "ks734yncsmpca489k1tfmkhh7981wjb1",
+        "order": 24,
+        "question": "Pick the correct transformation to remove a dangling participle: Returning from the theatre, {it began to rain}",
+        "questionCode": "852371",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1772146737226
+      },
+      {
+        "_creationTime": 1772146947493.6768,
+        "_id": "kn77tt25vheevtvagyxe84wp0x81xmn9",
+        "createdAt": 1772146947493,
+        "data": {
+          "distractors": [
+            "having cleaned",
+            "being cleaned",
+            "cleaned"
+          ]
+        },
+        "difficultyName": "hard",
+        "levelId": "ks734yncsmpca489k1tfmkhh7981wjb1",
+        "order": 25,
+        "question": "The room, {having been cleaned}, looked fresh.",
+        "questionCode": "185424",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1772146947493
+      },
+      {
+        "_creationTime": 1772146377773.7822,
+        "_id": "kn7ab5zw1bk65ewwwb7gvf4qmh81xvsc",
+        "createdAt": 1772146377773,
+        "data": {
+          "correctIndex": 0,
+          "explanation": "“The doors being shut” is a nominative absolute in passive sense.",
+          "options": [
+            "The doors being shut, we left.",
+            "Being shut doors, we left.",
+            "The doors shut being, we left.",
+            "Doors being shut, us left."
+          ]
+        },
+        "difficultyName": "hard",
+        "levelId": "ks734yncsmpca489k1tfmkhh7981wjb1",
+        "order": 26,
+        "question": "Which is the correct passive absolute construction?",
+        "questionCode": "343364",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1772146377773
+      },
+      {
+        "_creationTime": 1772147021077.676,
+        "_id": "kn7b09f1fbq6ycadje1esjm65981xqv3",
+        "createdAt": 1772147021077,
+        "data": {
+          "distractors": [
+            "Breakfast having being",
+            "Having breakfast"
+          ]
+        },
+        "difficultyName": "hard",
+        "levelId": "ks734yncsmpca489k1tfmkhh7981wjb1",
+        "order": 27,
+        "question": "{Breakfast having been} over, we went for a walk.",
+        "questionCode": "567032",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1772147021077
+      },
+      {
+        "_creationTime": 1772146813444.9072,
+        "_id": "kn79j8fh60f075ph6z69hqbbs181wsr2",
+        "createdAt": 1772146813445,
+        "data": {
+          "correctWords": [
+            "Breakfast",
+            "having",
+            "been",
+            "over"
+          ],
+          "explanation": "The subject is implicit; the participle is understood rather than explicitly tied to a noun/person.",
+          "selectMode": "multiple",
+          "statement": "Breakfast having been over, we went out for a walk."
+        },
+        "difficultyName": "hard",
+        "levelId": "ks734yncsmpca489k1tfmkhh7981wjb1",
+        "order": 28,
+        "question": "Pick the participle phrase that is understood (subject omitted).",
+        "questionCode": "455973",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1772146813445
+      },
+      {
+        "_creationTime": 1772146853762.2717,
+        "_id": "kn78b6h02p2ht4bwjc9hhn8k2s81x602",
+        "createdAt": 1772146853762,
+        "data": {
+          "correctWords": [
+            "learned",
+            "easily"
+          ],
+          "explanation": "Past participle “learned” describes lessons in passive sense.",
+          "selectMode": "multiple",
+          "statement": "Lessons learned easily are soon forgotten."
+        },
+        "difficultyName": "hard",
+        "levelId": "ks734yncsmpca489k1tfmkhh7981wjb1",
+        "order": 29,
+        "question": "Pick the past participle used attributively with passive sense.",
+        "questionCode": "231752",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1772146853762
+      },
+      {
+        "_creationTime": 1772147037723.7402,
+        "_id": "kn7b1780xy6wpkq12d14fr9k7h81w24b",
+        "createdAt": 1772147037723,
+        "data": {
+          "distractors": [
+            "Resolved",
+            "Resolve",
+            "Being resolved"
+          ]
+        },
+        "difficultyName": "hard",
+        "levelId": "ks734yncsmpca489k1tfmkhh7981wjb1",
+        "order": 30,
+        "question": "{Having resolved} on a course, he acted with vigour.",
+        "questionCode": "214595",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1772147037723
+      }
+    ],
+    "medium": [
+      {
+        "_creationTime": 1772145907872.9922,
+        "_id": "kn720s57etr8g40nqz49w4gt6h81xq79",
+        "createdAt": 1772145907873,
+        "data": {
+          "distractors": [
+            "Taking",
+            "Taken",
+            "To take"
+          ]
+        },
+        "difficultyName": "medium",
+        "levelId": "ks734yncsmpca489k1tfmkhh7981wjb1",
+        "order": 1,
+        "question": "{Having taken} their seats, the passengers waited.",
+        "questionCode": "768779",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1772145907873
+      },
+      {
+        "_creationTime": 1772145342775.7996,
+        "_id": "kn75kt2dy3jr9v25vg577dt2yx81xeq9",
+        "createdAt": 1772145342775,
+        "data": {
+          "correctIndex": 1,
+          "explanation": "“Walking” doesn’t properly refer to “a watch”; it's a dangling participle.",
+          "options": [
+            "Walking along the road, he saw a cobra.",
+            "Walking along the road, a watch was found",
+            "Walking along the road, the boy found a watch.",
+            "While walking along the road, he found a watch."
+          ]
+        },
+        "difficultyName": "medium",
+        "levelId": "ks734yncsmpca489k1tfmkhh7981wjb1",
+        "order": 2,
+        "question": "Which sentence shows a dangling participle (incorrect attachment)?",
+        "questionCode": "467282",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1772145342775
+      },
+      {
+        "_creationTime": 1772145916128.1963,
+        "_id": "kn713xjyys105vj7sk2963yjzs81wby6",
+        "createdAt": 1772145916128,
+        "data": {
+          "distractors": [
+            "surrounding",
+            "surrounds",
+            "to be surrounded"
+          ]
+        },
+        "difficultyName": "medium",
+        "levelId": "ks734yncsmpca489k1tfmkhh7981wjb1",
+        "order": 3,
+        "question": "The army, {surrounded} by the enemy, surrendered.",
+        "questionCode": "993484",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1772145916128
+      },
+      {
+        "_creationTime": 1772145650971.8,
+        "_id": "kn75k4absjg8jvtmsetkas3r1h81xrx9",
+        "createdAt": 1772145650971,
+        "data": {
+          "correctWords": [
+            "The",
+            "people",
+            "having",
+            "taken",
+            "their",
+            "seats"
+          ],
+          "explanation": "Noun “the people” + perfect participle “having taken” forms a nominative absolute.",
+          "selectMode": "multiple",
+          "statement": "The people having taken their seats, the train was ready to leave."
+        },
+        "difficultyName": "medium",
+        "levelId": "ks734yncsmpca489k1tfmkhh7981wjb1",
+        "order": 4,
+        "question": "Pick the noun + participle absolute.",
+        "questionCode": "471794",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1772145650971
+      },
+      {
+        "_creationTime": 1772145367373.036,
+        "_id": "kn7174cqv8a976z3ks5g4afdsh81wr1h",
+        "createdAt": 1772145367373,
+        "data": {
+          "correctIndex": 1,
+          "explanation": "“Surrounded” is a past participle used adjectivally to modify “the army.”",
+          "options": [
+            "gerund phrase",
+            "past participle phrase modifying army",
+            "main clause",
+            "present participle phrase"
+          ]
+        },
+        "difficultyName": "medium",
+        "levelId": "ks734yncsmpca489k1tfmkhh7981wjb1",
+        "order": 5,
+        "question": "In “Surrounded by the enemy, the army was forced to surrender,” “Surrounded by the enemy” is:",
+        "questionCode": "173449",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1772145367373
+      },
+      {
+        "_creationTime": 1772145699584.2883,
+        "_id": "kn7aqajhg3nftsb0ee5h2eqs9n81xekb",
+        "createdAt": 1772145699584,
+        "data": {
+          "correctWords": [
+            "Standing",
+            "at",
+            "the",
+            "gate"
+          ],
+          "explanation": "Phrase is incorrectly attached—the scorpion cannot stand at the gate.",
+          "selectMode": "multiple",
+          "statement": "Standing at the gate, a scorpion stung him."
+        },
+        "difficultyName": "medium",
+        "levelId": "ks734yncsmpca489k1tfmkhh7981wjb1",
+        "order": 6,
+        "question": "Pick the dangling participle (incorrect).",
+        "questionCode": "907047",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1772145699584
+      },
+      {
+        "_creationTime": 1772145398616.7332,
+        "_id": "kn72cacbqndx3dgf112d7dcg4h81wt8n",
+        "createdAt": 1772145398616,
+        "data": {
+          "correctIndex": 2,
+          "explanation": "“waiting” modifies the object “me” (predicatively).",
+          "options": [
+            "attributive adjective",
+            "noun phrase",
+            "predicative modifying object",
+            "adverbial clause"
+          ]
+        },
+        "difficultyName": "medium",
+        "levelId": "ks734yncsmpca489k1tfmkhh7981wjb1",
+        "order": 7,
+        "question": "Identify the function of participles in “He kept me waiting.”",
+        "questionCode": "681619",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1772145398616
+      },
+      {
+        "_creationTime": 1772145927706.2688,
+        "_id": "kn7aaj920ph2pz8g4mxy84pdrx81xcmd",
+        "createdAt": 1772145927706,
+        "data": {
+          "distractors": [
+            "It is",
+            "It being",
+            "Have been"
+          ]
+        },
+        "difficultyName": "medium",
+        "levelId": "ks734yncsmpca489k1tfmkhh7981wjb1",
+        "order": 8,
+        "question": "{Being} a very hot day, I stayed indoors.",
+        "questionCode": "301618",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1772145927706
+      },
+      {
+        "_creationTime": 1772145726058.1614,
+        "_id": "kn7e82q719ywgjzsmspzgy4svd81xe2v",
+        "createdAt": 1772145726058,
+        "data": {
+          "correctWords": [
+            "rolling"
+          ],
+          "explanation": "“rolling” describes the stone (active meaning).",
+          "selectMode": "multiple",
+          "statement": "A rolling stone gathers no moss."
+        },
+        "difficultyName": "medium",
+        "levelId": "ks734yncsmpca489k1tfmkhh7981wjb1",
+        "order": 9,
+        "question": "Pick the present participle acting as adjective.",
+        "questionCode": "608870",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1772145726058
+      },
+      {
+        "_creationTime": 1772145936834.446,
+        "_id": "kn799422rs9y0h4c2qp576y3bd81x5ct",
+        "createdAt": 1772145936834,
+        "data": {
+          "distractors": [
+            "posting",
+            "post",
+            "to post"
+          ]
+        },
+        "difficultyName": "medium",
+        "levelId": "ks734yncsmpca489k1tfmkhh7981wjb1",
+        "order": 10,
+        "question": "I saw the letter {posted}.",
+        "questionCode": "858598",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1772145936834
+      },
+      {
+        "_creationTime": 1772145427022.1323,
+        "_id": "kn78av30f239eqsywc3k0wkkmh81wzzp",
+        "createdAt": 1772145427022,
+        "data": {
+          "correctIndex": 0,
+          "explanation": "“Being a very hot day” uses impersonal absolute — no clear noun subject.",
+          "options": [
+            "Being a very hot day, I remained in my tent.",
+            "Having closed the door, we left.",
+            "The boy being tired, he slept.",
+            "She being kind, she helped."
+          ]
+        },
+        "difficultyName": "medium",
+        "levelId": "ks734yncsmpca489k1tfmkhh7981wjb1",
+        "order": 11,
+        "question": "Which is an example of an impersonal absolute participle?",
+        "questionCode": "978994",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1772145427022
+      },
+      {
+        "_creationTime": 1772145753301.2983,
+        "_id": "kn780jbj1rc1wjzbz80zhap5dd81xprr",
+        "createdAt": 1772145753301,
+        "data": {
+          "correctWords": [
+            "Having",
+            "no",
+            "guide",
+            "with",
+            "us"
+          ],
+          "explanation": "“Having no guide” is a perfect participle phrase showing prior condition.",
+          "selectMode": "multiple",
+          "statement": "Having no guide with us, we lost our way."
+        },
+        "difficultyName": "medium",
+        "levelId": "ks734yncsmpca489k1tfmkhh7981wjb1",
+        "order": 12,
+        "question": "Pick the perfect participle in the sentence.",
+        "questionCode": "227048",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1772145753301
+      },
+      {
+        "_creationTime": 1772145452411.4458,
+        "_id": "kn77r59yczh7805smkns5c30dn81wf6n",
+        "createdAt": 1772145452411,
+        "data": {
+          "correctIndex": 3,
+          "explanation": "“written” and “caught” are past participles (finished action).",
+          "options": [
+            "talking, talking",
+            "having, being",
+            "writing, singing",
+            "written, caught"
+          ]
+        },
+        "difficultyName": "medium",
+        "levelId": "ks734yncsmpca489k1tfmkhh7981wjb1",
+        "order": 13,
+        "question": "Which pair are both past participles?",
+        "questionCode": "898499",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1772145452411
+      },
+      {
+        "_creationTime": 1772145472993.979,
+        "_id": "kn77cpsce8cqxzf8c55dcw3ma181xybz",
+        "createdAt": 1772145472994,
+        "data": {
+          "correctIndex": 1,
+          "explanation": "“worried” modifies the subject after verb “seems” — predicative use.",
+          "options": [
+            "The rolling stone gathers moss.",
+            "The child seems worried.",
+            "A worried child avoided the fire.",
+            "Worrying child ran."
+          ]
+        },
+        "difficultyName": "medium",
+        "levelId": "ks734yncsmpca489k1tfmkhh7981wjb1",
+        "order": 14,
+        "question": "Which shows participle used predicatively?",
+        "questionCode": "337764",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1772145472994
+      },
+      {
+        "_creationTime": 1772145954265.3865,
+        "_id": "kn73s76axshjtwyh7t5y0kvyt981w1aw",
+        "createdAt": 1772145954265,
+        "data": {
+          "distractors": [
+            "Return",
+            "Returned",
+            "To return"
+          ]
+        },
+        "difficultyName": "medium",
+        "levelId": "ks734yncsmpca489k1tfmkhh7981wjb1",
+        "order": 15,
+        "question": "{Returning} from the theatre, it began to rain.",
+        "questionCode": "495916",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1772145954265
+      },
+      {
+        "_creationTime": 1772145945199.5466,
+        "_id": "kn74dypmk2tkqjdwc43yjkvegd81w2t2",
+        "createdAt": 1772145945199,
+        "data": {
+          "distractors": [
+            "driving",
+            "drives",
+            "to drive"
+          ]
+        },
+        "difficultyName": "medium",
+        "levelId": "ks734yncsmpca489k1tfmkhh7981wjb1",
+        "order": 16,
+        "question": "He was {driven} by hunger to steal.",
+        "questionCode": "348706",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1772145945199
+      },
+      {
+        "_creationTime": 1772145811225.8696,
+        "_id": "kn7f76he2rfgypcf8c358aj8gn81xn13",
+        "createdAt": 1772145811225,
+        "data": {
+          "correctWords": [
+            "loved"
+          ],
+          "explanation": "“loved” is past participle used with “was” forming passive voice.",
+          "selectMode": "multiple",
+          "statement": "I was loved, I was proud."
+        },
+        "difficultyName": "medium",
+        "levelId": "ks734yncsmpca489k1tfmkhh7981wjb1",
+        "order": 17,
+        "question": "Pick the participle that forms a passive voice.",
+        "questionCode": "635865",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1772145811225
+      },
+      {
+        "_creationTime": 1772145506460.0413,
+        "_id": "kn7ecqr88rsazwpmy8601fb9md81wppc",
+        "createdAt": 1772145506460,
+        "data": {
+          "correctIndex": 0,
+          "explanation": "“the people having taken their seats” is a noun + participle forming a nominative absolute.",
+          "options": [
+            "nominative absolute",
+            "attributive",
+            "dangling",
+            "gerund phrase"
+          ]
+        },
+        "difficultyName": "medium",
+        "levelId": "ks734yncsmpca489k1tfmkhh7981wjb1",
+        "order": 18,
+        "question": "In “The train, the people having taken their seats, left,” the participial phrase is:",
+        "questionCode": "424837",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1772145506460
+      },
+      {
+        "_creationTime": 1772145984776.4207,
+        "_id": "kn76m4anqn99derj3thexssjk981xz0s",
+        "createdAt": 1772145984776,
+        "data": {
+          "distractors": [
+            "having",
+            "being",
+            "to be"
+          ]
+        },
+        "difficultyName": "medium",
+        "levelId": "ks734yncsmpca489k1tfmkhh7981wjb1",
+        "order": 19,
+        "question": "The steamer was delayed by a storm; she came in {late}.",
+        "questionCode": "347143",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1772145984776
+      },
+      {
+        "_creationTime": 1772145768788.4631,
+        "_id": "kn73xxh9btw80gn18zmpw92mq181xzfr",
+        "createdAt": 1772145768788,
+        "data": {
+          "correctWords": [
+            "worried"
+          ],
+          "explanation": "“worried” modifies the subject after the linking verb (predicative).",
+          "selectMode": "multiple",
+          "statement": "The man seems worried."
+        },
+        "difficultyName": "medium",
+        "levelId": "ks734yncsmpca489k1tfmkhh7981wjb1",
+        "order": 20,
+        "question": "Pick the past participle used predicatively.",
+        "questionCode": "766511",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1772145768788
+      },
+      {
+        "_creationTime": 1772145860398.293,
+        "_id": "kn72k1vt262pgr81a53r7radfs81xagx",
+        "createdAt": 1772145860398,
+        "data": {
+          "correctWords": [
+            "Mary",
+            "having",
+            "arrived"
+          ],
+          "explanation": "Noun + participle forms an absolute phrase independent of main clause.",
+          "selectMode": "multiple",
+          "statement": "Mary having arrived, we were freed from anxiety."
+        },
+        "difficultyName": "medium",
+        "levelId": "ks734yncsmpca489k1tfmkhh7981wjb1",
+        "order": 21,
+        "question": "Pick the participial phrase used absolutely.",
+        "questionCode": "975247",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1772145860398
+      },
+      {
+        "_creationTime": 1772145997038.1328,
+        "_id": "kn7a0wkj7v5c3vfj21g5d95v7n81xsw8",
+        "createdAt": 1772145997038,
+        "data": {
+          "distractors": [
+            "was writing",
+            "wrote badly",
+            "bad write"
+          ]
+        },
+        "difficultyName": "medium",
+        "levelId": "ks734yncsmpca489k1tfmkhh7981wjb1",
+        "order": 22,
+        "question": "The letter {badly written} was hard to read.",
+        "questionCode": "133184",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1772145997038
+      },
+      {
+        "_creationTime": 1772145538213.7065,
+        "_id": "kn72cvmfrkcbzyzyywrb9v7q2x81x9cw",
+        "createdAt": 1772145538213,
+        "data": {
+          "correctIndex": 2,
+          "explanation": "“burnt” implies the child has been burnt (passive sense).",
+          "options": [
+            "a burning match (active)",
+            "rolling stone (passive)",
+            "a burnt child (passive)",
+            "singing bird (passive)"
+          ]
+        },
+        "difficultyName": "medium",
+        "levelId": "ks734yncsmpca489k1tfmkhh7981wjb1",
+        "order": 23,
+        "question": "Which is the passive meaning of a past participle used as adjective?",
+        "questionCode": "262783",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1772145538213
+      },
+      {
+        "_creationTime": 1772145830224.601,
+        "_id": "kn76svngkqrdh2vjaf9xxs2hcx81wsdq",
+        "createdAt": 1772145830224,
+        "data": {
+          "correctWords": [
+            "killing",
+            "birds"
+          ],
+          "explanation": "In this sentence “killing” with “birds” functions as a noun phrase (object of hate) — gerundial.",
+          "selectMode": "multiple",
+          "statement": "I hate that boy killing birds."
+        },
+        "difficultyName": "medium",
+        "levelId": "ks734yncsmpca489k1tfmkhh7981wjb1",
+        "order": 24,
+        "question": "Pick the -ing form used as gerund.",
+        "questionCode": "443216",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1772145830224
+      },
+      {
+        "_creationTime": 1772145592307.0725,
+        "_id": "kn75gx92d0v3ed91130bkerass81x1x4",
+        "createdAt": 1772145592307,
+        "data": {
+          "correctIndex": 1,
+          "explanation": "This supplies the correct subject “he” for the participle “Riding into town.”",
+          "options": [
+            "Riding into town, a shop was seen.",
+            "Riding into town, he saw a shop.",
+            "Riding into town, a shop saw him.",
+            "Riding into town, shops were seen."
+          ]
+        },
+        "difficultyName": "medium",
+        "levelId": "ks734yncsmpca489k1tfmkhh7981wjb1",
+        "order": 25,
+        "question": "Which sentence correctly rewrites a dangling participle?",
+        "questionCode": "346336",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1772145592307
+      },
+      {
+        "_creationTime": 1772146005995.283,
+        "_id": "kn77bf3jkb85pymq76w1qe5aa181x45p",
+        "createdAt": 1772146005995,
+        "data": {
+          "distractors": [
+            "Heard",
+            "He heard",
+            "To hear"
+          ]
+        },
+        "difficultyName": "medium",
+        "levelId": "ks734yncsmpca489k1tfmkhh7981wjb1",
+        "order": 26,
+        "question": "{Hearing} the noise, he ran to the window.",
+        "questionCode": "562688",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1772146005995
+      },
+      {
+        "_creationTime": 1772145874952.1965,
+        "_id": "kn7b5b3madvddmkjrkket0ghks81wnp9",
+        "createdAt": 1772145874952,
+        "data": {
+          "correctWords": [
+            "learned"
+          ],
+          "explanation": "“learned” modifies “Lessons” before the noun — attributive past participle.",
+          "selectMode": "multiple",
+          "statement": "Lessons learned easily are soon forgotten."
+        },
+        "difficultyName": "medium",
+        "levelId": "ks734yncsmpca489k1tfmkhh7981wjb1",
+        "order": 27,
+        "question": "Pick the past participle used attributively.",
+        "questionCode": "797723",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1772145874952
+      },
+      {
+        "_creationTime": 1772146014382.7708,
+        "_id": "kn72mmdkx7me1y3xrm9w4dcb5h81wcvv",
+        "createdAt": 1772146014382,
+        "data": {
+          "distractors": [
+            "played",
+            "to play",
+            "plays"
+          ]
+        },
+        "difficultyName": "medium",
+        "levelId": "ks734yncsmpca489k1tfmkhh7981wjb1",
+        "order": 28,
+        "question": "The children {playing} in the maidan had a merry time.",
+        "questionCode": "420474",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1772146014382
+      },
+      {
+        "_creationTime": 1772145619075.305,
+        "_id": "kn78yhcxsy7qjvdvpb12sk262n81x47z",
+        "createdAt": 1772145619075,
+        "data": {
+          "correctIndex": 2,
+          "explanation": "Perfect tenses (have + past participle) use the past participle form.",
+          "options": [
+            "present participle",
+            "gerund",
+            "past participle",
+            "infinitive"
+          ]
+        },
+        "difficultyName": "medium",
+        "levelId": "ks734yncsmpca489k1tfmkhh7981wjb1",
+        "order": 29,
+        "question": "Which participle form combines with “have” to make perfect tenses?",
+        "questionCode": "411088",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1772145619075
+      },
+      {
+        "_creationTime": 1772145895888.4854,
+        "_id": "kn7805kyxhxa4eh3fqqs0vswj181w2f9",
+        "createdAt": 1772145895888,
+        "data": {
+          "correctWords": [
+            "coming",
+            "home"
+          ],
+          "explanation": "“coming home” (present participle phrase) modifies “the children.”",
+          "selectMode": "multiple",
+          "statement": "The children coming home opened the door."
+        },
+        "difficultyName": "medium",
+        "levelId": "ks734yncsmpca489k1tfmkhh7981wjb1",
+        "order": 30,
+        "question": "Pick the present participle that qualifies the noun.",
+        "questionCode": "493537",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1772145895888
+      }
+    ]
+  }
+}

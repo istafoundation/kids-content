@@ -24,14 +24,20 @@
         "name": "hard",
         "order": 3,
         "requiredScore": 30
+      },
+      {
+        "displayName": "trial",
+        "name": "trial",
+        "order": 4,
+        "requiredScore": 50
       }
     ],
     "theme": {
       "color": "#4CAF50",
       "emoji": "🌟"
     },
-    "totalQuestions": 90,
-    "questionsVersion": 3
+    "totalQuestions": 91,
+    "questionsVersion": 5
   },
   {
     "_id": "ks73ge2y158xwnr79qm8dck57s7zka79",
@@ -606,7 +612,8 @@
   {
     "_id": "ks7bhw9a9n0gyxpkkrp2e7agcd81vmwv",
     "levelNumber": 21,
-    "name": "Infinitives",
+    "name": "Intermediate Infinitives",
+    "description": "",
     "groupId": "mh76vsmvqn4b6x5h2vnknst8fx80p099",
     "isEnabled": true,
     "difficulties": [
@@ -631,5 +638,94 @@
     ],
     "totalQuestions": 90,
     "questionsVersion": 151
+  },
+  {
+    "_id": "ks78zg7en5zpf2sz9seegptfvd81w1yf",
+    "levelNumber": 22,
+    "name": "Intermediate Gerunds",
+    "description": "",
+    "groupId": "mh76vsmvqn4b6x5h2vnknst8fx80p099",
+    "isEnabled": true,
+    "difficulties": [
+      {
+        "displayName": "Easy",
+        "name": "easy",
+        "order": 1,
+        "requiredScore": 75
+      },
+      {
+        "displayName": "Medium",
+        "name": "medium",
+        "order": 2,
+        "requiredScore": 55
+      },
+      {
+        "displayName": "Hard",
+        "name": "hard",
+        "order": 3,
+        "requiredScore": 30
+      }
+    ],
+    "totalQuestions": 90,
+    "questionsVersion": 156
+  },
+  {
+    "_id": "ks734yncsmpca489k1tfmkhh7981wjb1",
+    "levelNumber": 23,
+    "name": "Intermediate Participles",
+    "description": "",
+    "groupId": "mh76vsmvqn4b6x5h2vnknst8fx80p099",
+    "isEnabled": true,
+    "difficulties": [
+      {
+        "displayName": "Easy",
+        "name": "easy",
+        "order": 1,
+        "requiredScore": 75
+      },
+      {
+        "displayName": "Medium",
+        "name": "medium",
+        "order": 2,
+        "requiredScore": 55
+      },
+      {
+        "displayName": "Hard",
+        "name": "hard",
+        "order": 3,
+        "requiredScore": 30
+      }
+    ],
+    "totalQuestions": 90,
+    "questionsVersion": 145
+  },
+  {
+    "_id": "ks70t95hd4bjw3jrye2rkqavt181wpa7",
+    "levelNumber": 24,
+    "name": "Intermediate Tenses",
+    "groupId": "mh76vsmvqn4b6x5h2vnknst8fx80p099",
+    "isEnabled": true,
+    "difficulties": [
+      {
+        "displayName": "Easy",
+        "name": "easy",
+        "order": 1,
+        "requiredScore": 75
+      },
+      {
+        "displayName": "Medium",
+        "name": "medium",
+        "order": 2,
+        "requiredScore": 55
+      },
+      {
+        "displayName": "Hard",
+        "name": "hard",
+        "order": 3,
+        "requiredScore": 30
+      }
+    ],
+    "totalQuestions": 90,
+    "questionsVersion": 152
   }
 ]

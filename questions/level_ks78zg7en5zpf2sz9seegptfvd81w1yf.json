@@ -1,0 +1,1950 @@
+{
+  "levelId": "ks78zg7en5zpf2sz9seegptfvd81w1yf",
+  "version": 156,
+  "publishedAt": 1772150327455,
+  "questions": {
+    "easy": [
+      {
+        "_creationTime": 1772139864198.84,
+        "_id": "kn7e0azfyfjj8bczqf552fqxa581wzf6",
+        "createdAt": 1772139864198,
+        "data": {
+          "correctIndex": 2,
+          "explanation": "“driving” is a verb-form ending in -ing used as a noun (object of likes).",
+          "options": [
+            "He",
+            "likes",
+            "driving",
+            "motor"
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks78zg7en5zpf2sz9seegptfvd81w1yf",
+        "order": 1,
+        "question": "Which word is a gerund in: “He likes driving a motor car.”",
+        "questionCode": "623097",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1772139864198
+      },
+      {
+        "_creationTime": 1772140913157.2917,
+        "_id": "kn79fyvd3kdeqbcnnrrkxj6qn181xqt4",
+        "createdAt": 1772140913157,
+        "data": {
+          "distractors": [
+            "Hunting",
+            "Hunt",
+            "To hunt",
+            "Hunts"
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks78zg7en5zpf2sz9seegptfvd81w1yf",
+        "order": 2,
+        "question": "{Hunting} tigers is forbidden in this country.",
+        "questionCode": "452340",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1772140913157
+      },
+      {
+        "_creationTime": 1772140348016.8113,
+        "_id": "kn73wfrtdf8keq58wpt5t5rnbn81xshb",
+        "createdAt": 1772140348016,
+        "data": {
+          "correctWords": [
+            "catching"
+          ],
+          "explanation": "Object of verb “Avoid.”",
+          "selectMode": "multiple",
+          "statement": "Avoid catching cold."
+        },
+        "difficultyName": "easy",
+        "levelId": "ks78zg7en5zpf2sz9seegptfvd81w1yf",
+        "order": 3,
+        "question": "From the sentence, select the gerund.",
+        "questionCode": "942750",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1772140348016
+      },
+      {
+        "_creationTime": 1772140387628.4873,
+        "_id": "kn7fkysjkk3redaj9w1h83y8n981xnv6",
+        "createdAt": 1772140387628,
+        "data": {
+          "correctWords": [
+            "reading"
+          ],
+          "explanation": "",
+          "selectMode": "multiple",
+          "statement": "He likes reading poetry."
+        },
+        "difficultyName": "easy",
+        "levelId": "ks78zg7en5zpf2sz9seegptfvd81w1yf",
+        "order": 4,
+        "question": "From choose the gerund.",
+        "questionCode": "422600",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1772140387628
+      },
+      {
+        "_creationTime": 1772139953834.5522,
+        "_id": "kn7f5xgjxynv2b4y3ghzby6pkn81w1ry",
+        "createdAt": 1772139953834,
+        "data": {
+          "correctIndex": 2,
+          "explanation": "“driving” follows preposition “in” so it’s a gerund (object of preposition).",
+          "options": [
+            "careful",
+            "in",
+            "driving",
+            "car"
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks78zg7en5zpf2sz9seegptfvd81w1yf",
+        "order": 5,
+        "question": "In “Be careful in driving the car.” the gerund is:",
+        "questionCode": "188273",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1772139953834
+      },
+      {
+        "_creationTime": 1772140635680.579,
+        "_id": "kn77pb24dqwcm8w63qzrnzbpc981x5z9",
+        "createdAt": 1772140635680,
+        "data": {
+          "correctWords": [
+            "waiting"
+          ],
+          "explanation": "",
+          "selectMode": "boxed",
+          "statement": "I am tired waiting"
+        },
+        "difficultyName": "easy",
+        "levelId": "ks78zg7en5zpf2sz9seegptfvd81w1yf",
+        "order": 6,
+        "question": "From “I am tired of waiting.” select the gerund phrase. (I am / tired / waiting)",
+        "questionCode": "659732",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1772140635680
+      },
+      {
+        "_creationTime": 1772140936229.8394,
+        "_id": "kn74f41n8s8djeffsg9552v2zn81w5qy",
+        "createdAt": 1772140936229,
+        "data": {
+          "distractors": [
+            "make",
+            "to make",
+            "makes"
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks78zg7en5zpf2sz9seegptfvd81w1yf",
+        "order": 7,
+        "question": "Children love {making} mud castles.",
+        "questionCode": "443323",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1772140936229
+      },
+      {
+        "_creationTime": 1772140954455.5676,
+        "_id": "kn781vsj1wm34a574887vyye2x81xgdx",
+        "createdAt": 1772140954455,
+        "data": {
+          "distractors": [
+            "tell",
+            "to tell",
+            "told"
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks78zg7en5zpf2sz9seegptfvd81w1yf",
+        "order": 8,
+        "question": "He was punished for {telling} a lie.",
+        "questionCode": "533579",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1772140954455
+      },
+      {
+        "_creationTime": 1772139998781.199,
+        "_id": "kn79nnq0c9mntfzshwh5m51bqh81w3t2",
+        "createdAt": 1772139998781,
+        "data": {
+          "correctIndex": 1,
+          "explanation": "“Running” is used as the subject (a noun).",
+          "options": [
+            "I like to run.",
+            "Running is fun",
+            "He runs fast.",
+            "Run!"
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks78zg7en5zpf2sz9seegptfvd81w1yf",
+        "order": 9,
+        "question": "Which sentence shows a gerund as subject?",
+        "questionCode": "838665",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1772139998781
+      },
+      {
+        "_creationTime": 1772140024451.841,
+        "_id": "kn7deqmvh7863x17jy4qmmbqg981xrkk",
+        "createdAt": 1772140024451,
+        "data": {
+          "correctIndex": 3,
+          "explanation": "“your coming” (possessive + gerund) is grammatically",
+          "options": [
+            "I appreciate you coming.",
+            "I appreciate him to come.",
+            "I appreciate him coming.",
+            "I appreciate your coming."
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks78zg7en5zpf2sz9seegptfvd81w1yf",
+        "order": 10,
+        "question": "Which is a correct possessive + gerund form?",
+        "questionCode": "343999",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1772140033700
+      },
+      {
+        "_creationTime": 1772140139206.1687,
+        "_id": "kn754mb2zyr71m9p54ty45ygpd81wqgq",
+        "createdAt": 1772140139206,
+        "data": {
+          "correctIndex": 2,
+          "explanation": "The whole -ing phrase acts as object of “love”.",
+          "options": [
+            "Children",
+            "love",
+            "making mud castles",
+            "mud"
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks78zg7en5zpf2sz9seegptfvd81w1yf",
+        "order": 11,
+        "question": "Choose the gerund phrase in: “Children love making mud castles.”",
+        "questionCode": "118255",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1772140139206
+      },
+      {
+        "_creationTime": 1772140688485.236,
+        "_id": "kn76nxwpbfn7sbptfwk2qz8b0n81wxpm",
+        "createdAt": 1772140688485,
+        "data": {
+          "correctWords": [
+            "Playing",
+            "cards"
+          ],
+          "explanation": "Gerund phrase used absolutely.",
+          "selectMode": "multiple",
+          "statement": "Playing cards being his aversion, we did not play bridge."
+        },
+        "difficultyName": "easy",
+        "levelId": "ks78zg7en5zpf2sz9seegptfvd81w1yf",
+        "order": 12,
+        "question": "Pick the gerund phrase.",
+        "questionCode": "615366",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1772140688485
+      },
+      {
+        "_creationTime": 1772140742412.4316,
+        "_id": "kn74na7xtkkbks7mkgderqky3181wabk",
+        "createdAt": 1772140742412,
+        "data": {
+          "correctWords": [
+            "walking"
+          ],
+          "explanation": "",
+          "selectMode": "boxed",
+          "statement": "old tired walking"
+        },
+        "difficultyName": "easy",
+        "levelId": "ks78zg7en5zpf2sz9seegptfvd81w1yf",
+        "order": 13,
+        "question": "Select the gerund in: “The old man was tired of walking.”",
+        "questionCode": "527892",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1772140742412
+      },
+      {
+        "_creationTime": 1772140970964.0676,
+        "_id": "kn75jwj7454bvbmxgt5r2a72rd81wesf",
+        "createdAt": 1772140970964,
+        "data": {
+          "distractors": [
+            "drive",
+            "to drive",
+            "driven"
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks78zg7en5zpf2sz9seegptfvd81w1yf",
+        "order": 14,
+        "question": "Fill: “Be careful in {driving} the car.”",
+        "questionCode": "707680",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1772140970964
+      },
+      {
+        "_creationTime": 1772140816428.2764,
+        "_id": "kn78k7kg3ztnrdwcy2qf3y97ax81wab3",
+        "createdAt": 1772140816428,
+        "data": {
+          "correctWords": [
+            "playing"
+          ],
+          "explanation": "",
+          "selectMode": "boxed",
+          "statement": "Stop playing"
+        },
+        "difficultyName": "easy",
+        "levelId": "ks78zg7en5zpf2sz9seegptfvd81w1yf",
+        "order": 15,
+        "question": "Which word is a gerund in “Stop playing.”?",
+        "questionCode": "427168",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1772140816428
+      },
+      {
+        "_creationTime": 1772140997141.858,
+        "_id": "kn7d2nrwervkbwdc0rssn3rcp581wesn",
+        "createdAt": 1772140997141,
+        "data": {
+          "distractors": [
+            "leave",
+            "to leave",
+            "left"
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks78zg7en5zpf2sz9seegptfvd81w1yf",
+        "order": 16,
+        "question": "I hope you will excuse my {leaving} early.",
+        "questionCode": "840817",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1772140997141
+      },
+      {
+        "_creationTime": 1772140853886.8171,
+        "_id": "kn741dsvz9axy400mtey2rkgjn81wn7p",
+        "createdAt": 1772140853886,
+        "data": {
+          "correctWords": [
+            "playing",
+            "cards"
+          ],
+          "explanation": "",
+          "selectMode": "multiple",
+          "statement": "The afternoon was spent in playing cards."
+        },
+        "difficultyName": "easy",
+        "levelId": "ks78zg7en5zpf2sz9seegptfvd81w1yf",
+        "order": 17,
+        "question": "Select the gerund.",
+        "questionCode": "364879",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1772140853886
+      },
+      {
+        "_creationTime": 1772141024226.4272,
+        "_id": "kn7bj0dyw1gs7c07m962r0zyrn81wf6q",
+        "createdAt": 1772141024226,
+        "data": {
+          "distractors": [
+            "hands",
+            "home",
+            "house"
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks78zg7en5zpf2sz9seegptfvd81w1yf",
+        "order": 18,
+        "question": "The making of the plan is in {hand}.",
+        "questionCode": "348042",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1772141024226
+      },
+      {
+        "_creationTime": 1772140162011.7012,
+        "_id": "kn7e21tdcct7hm44sze33x8wrd81x89c",
+        "createdAt": 1772140162011,
+        "data": {
+          "correctIndex": 0,
+          "explanation": "“Hunting” is a gerund functioning as the subject.",
+          "options": [
+            "Hunting",
+            "tigers",
+            "forbidden",
+            "country"
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks78zg7en5zpf2sz9seegptfvd81w1yf",
+        "order": 19,
+        "question": "“Hunting tigers is forbidden in this country.” — the gerund is:",
+        "questionCode": "921153",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1772140162011
+      },
+      {
+        "_creationTime": 1772141077137.215,
+        "_id": "kn78hy9n0bb7vkvv5kx675m4ys81wht5",
+        "createdAt": 1772141077137,
+        "data": {
+          "distractors": [
+            "to drive",
+            "drive",
+            "drove"
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks78zg7en5zpf2sz9seegptfvd81w1yf",
+        "order": 20,
+        "question": "Do you like {driving} the car?",
+        "questionCode": "339498",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1772141077137
+      },
+      {
+        "_creationTime": 1772140199600.0103,
+        "_id": "kn74dn6yqtnppz7qmnn76qp0y581wa8s",
+        "createdAt": 1772140199600,
+        "data": {
+          "correctIndex": 3,
+          "explanation": "Perfect passive gerund = “having been loved”.",
+          "options": [
+            "loving",
+            "being loved",
+            "having loved",
+            "having been loved"
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks78zg7en5zpf2sz9seegptfvd81w1yf",
+        "order": 21,
+        "question": "Which is the gerund form of “to love” in passive perfect gerund (compound)?",
+        "questionCode": "349173",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1772140199600
+      },
+      {
+        "_creationTime": 1772140780619.8574,
+        "_id": "kn7aw55fsxvevjdkdvmnpbjvch81w5v2",
+        "createdAt": 1772140780619,
+        "data": {
+          "correctWords": [
+            "collecting",
+            "stamps"
+          ],
+          "explanation": "",
+          "selectMode": "multiple",
+          "statement": "He is fond of collecting stamps."
+        },
+        "difficultyName": "easy",
+        "levelId": "ks78zg7en5zpf2sz9seegptfvd81w1yf",
+        "order": 22,
+        "question": "Choose the gerund.",
+        "questionCode": "398636",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1772140790855
+      },
+      {
+        "_creationTime": 1772140228634.5325,
+        "_id": "kn77xw621rwxdcw77b1dvdcme981wx2e",
+        "createdAt": 1772140228634,
+        "data": {
+          "correctIndex": 2,
+          "explanation": "Imperative is a verb form giving a command, not a gerund use.",
+          "options": [
+            "Subject of a verb",
+            "Object of preposition",
+            "Verb in imperative",
+            "Object of a transitive verb"
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks78zg7en5zpf2sz9seegptfvd81w1yf",
+        "order": 23,
+        "question": "Which of these is NOT a gerund use?",
+        "questionCode": "993189",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1772140228634
+      },
+      {
+        "_creationTime": 1772140884955.5457,
+        "_id": "kn7f4zehaqanz2b2hdk9pfh98s81whkn",
+        "createdAt": 1772140884955,
+        "data": {
+          "correctWords": [
+            "reading"
+          ],
+          "explanation": "",
+          "selectMode": "boxed",
+          "statement": "Here reading noun"
+        },
+        "difficultyName": "easy",
+        "levelId": "ks78zg7en5zpf2sz9seegptfvd81w1yf",
+        "order": 24,
+        "question": "Choose the gerund used like a noun in “Here reading is used like an ordinary noun.”",
+        "questionCode": "200547",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1772140884955
+      },
+      {
+        "_creationTime": 1772141052242.7952,
+        "_id": "kn7dj2030j3vre3nmj9wcw0zdx81wb6k",
+        "createdAt": 1772141052242,
+        "data": {
+          "distractors": [
+            "catch",
+            "to catch",
+            "caught"
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks78zg7en5zpf2sz9seegptfvd81w1yf",
+        "order": 25,
+        "question": "Avoid {catching} cold.",
+        "questionCode": "792878",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1772141052242
+      },
+      {
+        "_creationTime": 1772141098971.6511,
+        "_id": "kn7f2rww5ra27q5fp2z6a2y4h181wryg",
+        "createdAt": 1772141098971,
+        "data": {
+          "distractors": [
+            "read",
+            "to read",
+            "reads"
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks78zg7en5zpf2sz9seegptfvd81w1yf",
+        "order": 26,
+        "question": "He likes {reading} poetry.",
+        "questionCode": "419708",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1772141098971
+      },
+      {
+        "_creationTime": 1772140266646.7305,
+        "_id": "kn7be7re9pn0ajs2wyv3txmjan81xqb8",
+        "createdAt": 1772140266646,
+        "data": {
+          "correctIndex": 3,
+          "explanation": "“telling” is object of preposition “for”.",
+          "options": [
+            "was",
+            "punished",
+            "for",
+            "telling"
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks78zg7en5zpf2sz9seegptfvd81w1yf",
+        "order": 27,
+        "question": "In “He was punished for telling a lie.”, the gerund is:",
+        "questionCode": "302363",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1772140266646
+      },
+      {
+        "_creationTime": 1772140290799.0425,
+        "_id": "kn7cfmdf21j0bx2eykn3t8jht181xe86",
+        "createdAt": 1772140290799,
+        "data": {
+          "correctIndex": 1,
+          "explanation": "“making” used like an ordinary noun.",
+          "options": [
+            "The",
+            "making",
+            "plan",
+            "hand"
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks78zg7en5zpf2sz9seegptfvd81w1yf",
+        "order": 28,
+        "question": "Select the gerund in “The making of the plan is in hand.”",
+        "questionCode": "888002",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1772140290799
+      },
+      {
+        "_creationTime": 1772140591118.3767,
+        "_id": "kn71fyq3j9215j332cssc2zx4981wshk",
+        "createdAt": 1772140591118,
+        "data": {
+          "correctIndex": 1,
+          "explanation": "“my” (possessive) before gerund is standard when gerund is noun.",
+          "options": [
+            "me leaving",
+            "my leaving",
+            "I leaving",
+            ""
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks78zg7en5zpf2sz9seegptfvd81w1yf",
+        "order": 29,
+        "question": "Choose the correct possessive + gerund that is considered standard:",
+        "questionCode": "933459",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1772140591118
+      },
+      {
+        "_creationTime": 1772141120401.3875,
+        "_id": "kn79tnaeffwpfp846x8jpwqr4x81x5bv",
+        "createdAt": 1772141120401,
+        "data": {
+          "distractors": [
+            "walked",
+            "walking",
+            "to walk"
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks78zg7en5zpf2sz9seegptfvd81w1yf",
+        "order": 30,
+        "question": "We were fatigued on account of {having walked} so far.",
+        "questionCode": "634739",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1772141120401
+      }
+    ],
+    "hard": [
+      {
+        "_creationTime": 1772143978690.04,
+        "_id": "kn7ck7ks9wthqkzxvmnz4m1xh181xcz6",
+        "createdAt": 1772143978690,
+        "data": {
+          "distractors": [
+            "to hide",
+            "hiding",
+            "hidden"
+          ]
+        },
+        "difficultyName": "hard",
+        "levelId": "ks78zg7en5zpf2sz9seegptfvd81w1yf",
+        "order": 1,
+        "question": "She was charged with {having hidden} the stolen goods.",
+        "questionCode": "253512",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1772143978690
+      },
+      {
+        "_creationTime": 1772142734100.373,
+        "_id": "kn7fnkfr6zfpa0w7jx3bavyf0h81xwff",
+        "createdAt": 1772142734100,
+        "data": {
+          "correctIndex": 1,
+          "explanation": "Explanation: A gerund functioning as a noun should take a possessive modifier (“his coming”) in formal usage.",
+          "options": [
+            "I appreciated he coming early.",
+            "I appreciated his coming early.",
+            "I appreciated him to come early.",
+            "I appreciated his to come early."
+          ]
+        },
+        "difficultyName": "hard",
+        "levelId": "ks78zg7en5zpf2sz9seegptfvd81w1yf",
+        "order": 2,
+        "question": "Which is the best revision for clarity: “I appreciated him coming early.” — to make gerund phrase possessive?",
+        "questionCode": "587824",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1772142734100
+      },
+      {
+        "_creationTime": 1772144103926.553,
+        "_id": "kn7fdmfb4h3t7dp7xnex8zvshn81wed4",
+        "createdAt": 1772144103926,
+        "data": {
+          "correctWords": [
+            "being",
+            "praised"
+          ],
+          "explanation": "Compound passive gerund acting as object of “of.”",
+          "selectMode": "multiple",
+          "statement": "He is desirous of being praised."
+        },
+        "difficultyName": "hard",
+        "levelId": "ks78zg7en5zpf2sz9seegptfvd81w1yf",
+        "order": 3,
+        "question": "Pick the gerund form.",
+        "questionCode": "946456",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1772144103926
+      },
+      {
+        "_creationTime": 1772144193899.5378,
+        "_id": "kn79px7d69r5mqse3ahgsdhwy581x2j2",
+        "createdAt": 1772144193899,
+        "data": {
+          "correctWords": [
+            "having",
+            "destroyed"
+          ],
+          "explanation": "Perfect active gerund structure.",
+          "selectMode": "multiple",
+          "statement": "They were accused of having destroyed the evidence."
+        },
+        "difficultyName": "hard",
+        "levelId": "ks78zg7en5zpf2sz9seegptfvd81w1yf",
+        "order": 4,
+        "question": "Pick the compound gerund.",
+        "questionCode": "674228",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1772144193899
+      },
+      {
+        "_creationTime": 1772143989762.1155,
+        "_id": "kn7d1q78h8rjjfy8ypq6shmmcn81x9k8",
+        "createdAt": 1772143989762,
+        "data": {
+          "distractors": [
+            "him arriving",
+            "to arrive",
+            "arriving"
+          ]
+        },
+        "difficultyName": "hard",
+        "levelId": "ks78zg7en5zpf2sz9seegptfvd81w1yf",
+        "order": 5,
+        "question": "He objected to {his arriving} late.",
+        "questionCode": "506076",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1772143989762
+      },
+      {
+        "_creationTime": 1772142755633.712,
+        "_id": "kn72ajw7e3pwbs2e5gzsnc99dn81xw0b",
+        "createdAt": 1772142755633,
+        "data": {
+          "correctIndex": 2,
+          "explanation": "“Having been robbed” is perfect passive gerund (having + been + past participle).",
+          "options": [
+            "She admitted being robbed.",
+            "She admitted having robbed.",
+            "She admitted being robbed.",
+            "She admitted to be robbed."
+          ]
+        },
+        "difficultyName": "hard",
+        "levelId": "ks78zg7en5zpf2sz9seegptfvd81w1yf",
+        "order": 6,
+        "question": "Which sentence correctly uses a perfect passive gerund?",
+        "questionCode": "829917",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1772142755633
+      },
+      {
+        "_creationTime": 1772144207466.9812,
+        "_id": "kn7a678bd0ekmzzpxmzc5f5gah81w19z",
+        "createdAt": 1772144207467,
+        "data": {
+          "correctWords": [
+            "his",
+            "helping"
+          ],
+          "explanation": "Possessive modifier before gerund.",
+          "selectMode": "multiple",
+          "statement": "I appreciate his helping me."
+        },
+        "difficultyName": "hard",
+        "levelId": "ks78zg7en5zpf2sz9seegptfvd81w1yf",
+        "order": 7,
+        "question": "Pick the possessive + gerund unit.",
+        "questionCode": "188422",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1772144207467
+      },
+      {
+        "_creationTime": 1772142775979.8308,
+        "_id": "kn7fyb50wwpe1f5fk21dg60fan81xw1n",
+        "createdAt": 1772142775979,
+        "data": {
+          "correctIndex": 2,
+          "explanation": "Explanation: It is a compound gerund phrase functioning as the object of the preposition “of.”",
+          "options": [
+            "Main verb",
+            "Infinitive phrase",
+            "Gerund phrase (object of preposition)",
+            "Participial adjective"
+          ]
+        },
+        "difficultyName": "hard",
+        "levelId": "ks78zg7en5zpf2sz9seegptfvd81w1yf",
+        "order": 8,
+        "question": "In the sentence “They were accused of having destroyed the evidence,” what is the function of “having destroyed”?",
+        "questionCode": "381645",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1772142775979
+      },
+      {
+        "_creationTime": 1772143999667.5432,
+        "_id": "kn738k0zpvx34jvp634k4nd0hd81whm1",
+        "createdAt": 1772143999667,
+        "data": {
+          "distractors": [
+            "being deceived",
+            "to be deceived",
+            "deceived"
+          ]
+        },
+        "difficultyName": "hard",
+        "levelId": "ks78zg7en5zpf2sz9seegptfvd81w1yf",
+        "order": 9,
+        "question": "They admitted {having been deceived}.",
+        "questionCode": "890966",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1772143999667
+      },
+      {
+        "_creationTime": 1772144223438.8794,
+        "_id": "kn7awypfr1fpwtsgydfhtvngrd81xj18",
+        "createdAt": 1772144223439,
+        "data": {
+          "correctWords": [
+            "Reading"
+          ],
+          "explanation": "Gerund used as subject.",
+          "selectMode": "multiple",
+          "statement": "Reading improves concentration."
+        },
+        "difficultyName": "hard",
+        "levelId": "ks78zg7en5zpf2sz9seegptfvd81w1yf",
+        "order": 10,
+        "question": "Pick the gerund functioning as subject.",
+        "questionCode": "738193",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1772144223439
+      },
+      {
+        "_creationTime": 1772142806216.983,
+        "_id": "kn77wnmk4rb5pkemspgk90qpvn81wvsz",
+        "createdAt": 1772142806217,
+        "data": {
+          "correctIndex": 1,
+          "explanation": "Possessive form before gerund (“his being”) is preferred in formal English.",
+          "options": [
+            "I object to him being late.",
+            "I object to his being late.",
+            "I object him being late.",
+            "I object to he being late."
+          ]
+        },
+        "difficultyName": "hard",
+        "levelId": "ks78zg7en5zpf2sz9seegptfvd81w1yf",
+        "order": 11,
+        "question": "Which sentence is grammatically preferred in formal English?",
+        "questionCode": "204840",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1772142806217
+      },
+      {
+        "_creationTime": 1772144008163.803,
+        "_id": "kn72ja091dez9g862gfz8b1sq581w6wz",
+        "createdAt": 1772144008163,
+        "data": {
+          "distractors": [
+            "she completing",
+            "to complete",
+            "completed"
+          ]
+        },
+        "difficultyName": "hard",
+        "levelId": "ks78zg7en5zpf2sz9seegptfvd81w1yf",
+        "order": 12,
+        "question": "The manager appreciated {her completing} the task early.",
+        "questionCode": "717213",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1772144008163
+      },
+      {
+        "_creationTime": 1772144242057.1387,
+        "_id": "kn77mzkmtc3v3pwp5668r5v4pn81wcjg",
+        "createdAt": 1772144242057,
+        "data": {
+          "correctWords": [
+            "being",
+            "rude"
+          ],
+          "explanation": "Object of preposition “for.”",
+          "selectMode": "multiple",
+          "statement": "She apologized for being rude."
+        },
+        "difficultyName": "hard",
+        "levelId": "ks78zg7en5zpf2sz9seegptfvd81w1yf",
+        "order": 13,
+        "question": "Pick the gerund phrase acting as object of preposition.",
+        "questionCode": "479794",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1772144242057
+      },
+      {
+        "_creationTime": 1772142951866.27,
+        "_id": "kn7ah9br79sg96yk4hj1ndn0g581xdnn",
+        "createdAt": 1772142951866,
+        "data": {
+          "correctIndex": 1,
+          "explanation": "“Collecting stamps” renames “hobby,” functioning as subject complement.",
+          "options": [
+            "Running is healthy.",
+            "His hobby is collecting stamps.",
+            "He runs daily.",
+            "Run quickly."
+          ]
+        },
+        "difficultyName": "hard",
+        "levelId": "ks78zg7en5zpf2sz9seegptfvd81w1yf",
+        "order": 14,
+        "question": "Which sentence contains a gerund functioning as a subject complement?",
+        "questionCode": "620544",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1772142951866
+      },
+      {
+        "_creationTime": 1772144019553.2026,
+        "_id": "kn786518ksp2xmqjgp0cb1wht581xhz8",
+        "createdAt": 1772144019553,
+        "data": {
+          "distractors": [
+            "to steal",
+            "stolen",
+            "having stole"
+          ]
+        },
+        "difficultyName": "hard",
+        "levelId": "ks78zg7en5zpf2sz9seegptfvd81w1yf",
+        "order": 15,
+        "question": "He denied {stealing} the documents.",
+        "questionCode": "328588",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1772144019553
+      },
+      {
+        "_creationTime": 1772142973559.6868,
+        "_id": "kn7345rvvajz4cjg4ppgjhzvvn81xaq0",
+        "createdAt": 1772142973559,
+        "data": {
+          "correctIndex": 2,
+          "explanation": "“Swimming across the river” is a participial clause modifying “he,” not a gerund.",
+          "options": [
+            "Swimming improves stamina.",
+            "He is fond of swimming.",
+            "Swimming across the river, he felt tired.",
+            "I enjoy swimming."
+          ]
+        },
+        "difficultyName": "hard",
+        "levelId": "ks78zg7en5zpf2sz9seegptfvd81w1yf",
+        "order": 16,
+        "question": "Identify the sentence where the -ing form is NOT a gerund.",
+        "questionCode": "260351",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1772142973559
+      },
+      {
+        "_creationTime": 1772144256840.166,
+        "_id": "kn772596sye8peb1cpje5bz98981wpm9",
+        "createdAt": 1772144256840,
+        "data": {
+          "correctWords": [
+            "having",
+            "been",
+            "misled"
+          ],
+          "explanation": "Perfect passive gerund structure.",
+          "selectMode": "multiple",
+          "statement": "She admitted having been misled."
+        },
+        "difficultyName": "hard",
+        "levelId": "ks78zg7en5zpf2sz9seegptfvd81w1yf",
+        "order": 17,
+        "question": "Pick the perfect passive gerund.",
+        "questionCode": "222832",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1772144256840
+      },
+      {
+        "_creationTime": 1772142997706.759,
+        "_id": "kn70nrrs0k3kc9v1mgbtbtxsrs81xckp",
+        "createdAt": 1772142997706,
+        "data": {
+          "correctIndex": 1,
+          "explanation": "“Deny” is followed by a gerund; “stealing” is correct.",
+          "options": [
+            "to steal",
+            "stealing",
+            "having been stolen",
+            "to have stolen"
+          ]
+        },
+        "difficultyName": "hard",
+        "levelId": "ks78zg7en5zpf2sz9seegptfvd81w1yf",
+        "order": 18,
+        "question": "Which option correctly completes the sentence?\n“She denied _____ the confidential files.”",
+        "questionCode": "124822",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1772142997706
+      },
+      {
+        "_creationTime": 1772144028501.4092,
+        "_id": "kn734t4ehn5zzdz1zn2mstpg6n81wvd7",
+        "createdAt": 1772144028501,
+        "data": {
+          "distractors": [
+            "to be criticized",
+            "criticized",
+            "been criticized"
+          ]
+        },
+        "difficultyName": "hard",
+        "levelId": "ks78zg7en5zpf2sz9seegptfvd81w1yf",
+        "order": 19,
+        "question": "We were tired of {being criticized}.",
+        "questionCode": "161508",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1772144028501
+      },
+      {
+        "_creationTime": 1772144272977.991,
+        "_id": "kn7cp448sgp47n2xn1dhcr55vd81w896",
+        "createdAt": 1772144272978,
+        "data": {
+          "correctWords": [
+            "becoming"
+          ],
+          "explanation": "Gerund as subject complement.",
+          "selectMode": "multiple",
+          "statement": "His ambition is becoming a scientist."
+        },
+        "difficultyName": "hard",
+        "levelId": "ks78zg7en5zpf2sz9seegptfvd81w1yf",
+        "order": 20,
+        "question": "Pick the gerund complement.",
+        "questionCode": "204333",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1772144272978
+      },
+      {
+        "_creationTime": 1772143017743.8994,
+        "_id": "kn742mnzfzmvwgyv1e65tafm3h81w73b",
+        "createdAt": 1772143017743,
+        "data": {
+          "correctIndex": 1,
+          "explanation": "“Having + past participle” forms the perfect gerund indicating prior action.",
+          "options": [
+            "being + past participle",
+            "having + past participle",
+            "to have + verb",
+            "verb + ing"
+          ]
+        },
+        "difficultyName": "hard",
+        "levelId": "ks78zg7en5zpf2sz9seegptfvd81w1yf",
+        "order": 21,
+        "question": "Which form indicates action completed before the main verb?",
+        "questionCode": "882509",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1772143017743
+      },
+      {
+        "_creationTime": 1772144289440.7336,
+        "_id": "kn7a6ze9y98ag34aajdkn7y4e981xg65",
+        "createdAt": 1772144289440,
+        "data": {
+          "correctWords": [
+            "solving"
+          ],
+          "explanation": "Gerund object of “in.”",
+          "selectMode": "multiple",
+          "statement": "He succeeded in solving the puzzle."
+        },
+        "difficultyName": "hard",
+        "levelId": "ks78zg7en5zpf2sz9seegptfvd81w1yf",
+        "order": 22,
+        "question": "Pick the gerund governed by a preposition.",
+        "questionCode": "897502",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1772144289440
+      },
+      {
+        "_creationTime": 1772144037220.2952,
+        "_id": "kn78xvknba9bd6d4maw1a799z181xnpv",
+        "createdAt": 1772144037220,
+        "data": {
+          "distractors": [
+            "speaking",
+            "to speak",
+            "spoke"
+          ]
+        },
+        "difficultyName": "hard",
+        "levelId": "ks78zg7en5zpf2sz9seegptfvd81w1yf",
+        "order": 23,
+        "question": "She regretted {having spoken} harshly.",
+        "questionCode": "178582",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1772144037220
+      },
+      {
+        "_creationTime": 1772144065003.3381,
+        "_id": "kn7ded7xagx8zx69bqkad36jgd81w1d5",
+        "createdAt": 1772144065003,
+        "data": {
+          "distractors": [
+            "to answer",
+            "answered",
+            "having answered"
+          ]
+        },
+        "difficultyName": "hard",
+        "levelId": "ks78zg7en5zpf2sz9seegptfvd81w1yf",
+        "order": 24,
+        "question": "He avoided {answering} the difficult question.",
+        "questionCode": "763872",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1772144065003
+      },
+      {
+        "_creationTime": 1772144074831.9438,
+        "_id": "kn72bcs7wqnr5y30m2dwcvm9r981xf51",
+        "createdAt": 1772144074832,
+        "data": {
+          "distractors": [
+            "to be informed",
+            "informed",
+            "been informed"
+          ]
+        },
+        "difficultyName": "hard",
+        "levelId": "ks78zg7en5zpf2sz9seegptfvd81w1yf",
+        "order": 25,
+        "question": "She insisted on {being informed} immediately.",
+        "questionCode": "475910",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1772144074832
+      },
+      {
+        "_creationTime": 1772144306245.379,
+        "_id": "kn7a7hysw0f8a564ds21rcgg1181w3ry",
+        "createdAt": 1772144306245,
+        "data": {
+          "correctWords": [
+            "cheating"
+          ],
+          "explanation": "Gerund functioning as object.",
+          "selectMode": "multiple",
+          "statement": "The teacher discouraged cheating during exams."
+        },
+        "difficultyName": "hard",
+        "levelId": "ks78zg7en5zpf2sz9seegptfvd81w1yf",
+        "order": 26,
+        "question": "Pick the gerund phrase.",
+        "questionCode": "868086",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1772144306245
+      },
+      {
+        "_creationTime": 1772143933893.1614,
+        "_id": "kn72ec42dapkjaxdkj15he3qdx81wvj5",
+        "createdAt": 1772143933893,
+        "data": {
+          "correctIndex": 3,
+          "explanation": "Possessive before gerund emphasizes the action (“leading”) as a noun.",
+          "options": [
+            "Ownership of the project",
+            "Future intention",
+            "Past tense usage",
+            "Focus on the action as a noun"
+          ]
+        },
+        "difficultyName": "hard",
+        "levelId": "ks78zg7en5zpf2sz9seegptfvd81w1yf",
+        "order": 27,
+        "question": "In “The committee appreciated John’s leading the project,” what does the possessive indicate?",
+        "questionCode": "794225",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1772143933893
+      },
+      {
+        "_creationTime": 1772144054304.06,
+        "_id": "kn79a7bq0qqk7jneqnhtq02vnn81wx5n",
+        "createdAt": 1772144054304,
+        "data": {
+          "distractors": [
+            "to smoke",
+            "smoked",
+            "having smoked"
+          ]
+        },
+        "difficultyName": "hard",
+        "levelId": "ks78zg7en5zpf2sz9seegptfvd81w1yf",
+        "order": 28,
+        "question": "The law prohibits {smoking} in public places.",
+        "questionCode": "832158",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1772144054304
+      },
+      {
+        "_creationTime": 1772143960537.6917,
+        "_id": "kn77hrv7f83bmz5n1hzaxpq72x81x5gv",
+        "createdAt": 1772143960537,
+        "data": {
+          "correctIndex": 1,
+          "explanation": "Prepositions must be followed by gerunds (“on leaving”).",
+          "options": [
+            "She insisted to leave.",
+            "She insisted on leaving.",
+            "She insisted leave.",
+            "She insisted leaving."
+          ]
+        },
+        "difficultyName": "hard",
+        "levelId": "ks78zg7en5zpf2sz9seegptfvd81w1yf",
+        "order": 29,
+        "question": "Which sentence correctly uses a gerund after a preposition?",
+        "questionCode": "122546",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1772143960537
+      },
+      {
+        "_creationTime": 1772144322894.6965,
+        "_id": "kn79z4t2xcq8z0m5wvdvyjb94h81xmj0",
+        "createdAt": 1772144322894,
+        "data": {
+          "correctWords": [
+            "having",
+            "lost"
+          ],
+          "explanation": "Perfect gerund shows earlier completed action.",
+          "selectMode": "multiple",
+          "statement": "He regretted having lost the opportunity."
+        },
+        "difficultyName": "hard",
+        "levelId": "ks78zg7en5zpf2sz9seegptfvd81w1yf",
+        "order": 30,
+        "question": "Pick the gerund indicating prior completion.",
+        "questionCode": "384584",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1772144322894
+      }
+    ],
+    "medium": [
+      {
+        "_creationTime": 1772141177217.523,
+        "_id": "kn7b6370va6w565n98j13aqk7181xgq3",
+        "createdAt": 1772141177217,
+        "data": {
+          "correctIndex": 1,
+          "explanation": "“having + past participle” forms a perfect (compound) gerund — “having won.”",
+          "options": [
+            "Past participle",
+            "Part of compound gerund",
+            "Infinitive",
+            "Present participle"
+          ]
+        },
+        "difficultyName": "medium",
+        "levelId": "ks78zg7en5zpf2sz9seegptfvd81w1yf",
+        "order": 1,
+        "question": "Choose the correct interpretation: “I heard of his having won a prize.” What is “having won”?",
+        "questionCode": "194825",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1772141177217
+      },
+      {
+        "_creationTime": 1772141498421.6475,
+        "_id": "kn75svjvfp8k70dgar8d4hvwp181w6x1",
+        "createdAt": 1772141498421,
+        "data": {
+          "correctWords": [
+            "being",
+            "praised"
+          ],
+          "explanation": "Compound passive gerund acting as object of “of.”",
+          "selectMode": "multiple",
+          "statement": "He is desirous of being praised."
+        },
+        "difficultyName": "medium",
+        "levelId": "ks78zg7en5zpf2sz9seegptfvd81w1yf",
+        "order": 2,
+        "question": "Pick the gerund form.",
+        "questionCode": "495310",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1772141498421
+      },
+      {
+        "_creationTime": 1772142128776.3833,
+        "_id": "kn738ddxg2qz3yq53k9m201t4581w2fx",
+        "createdAt": 1772142128776,
+        "data": {
+          "distractors": [
+            "won",
+            "winning",
+            "to win"
+          ]
+        },
+        "difficultyName": "medium",
+        "levelId": "ks78zg7en5zpf2sz9seegptfvd81w1yf",
+        "order": 3,
+        "question": "I heard of his {having won} a prize.",
+        "questionCode": "959161",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1772142128776
+      },
+      {
+        "_creationTime": 1772141747274.7815,
+        "_id": "kn7f95vrtd2r4gv1gjz8yqyht181wtva",
+        "createdAt": 1772141747274,
+        "data": {
+          "distractors": [
+            "to play",
+            "played"
+          ]
+        },
+        "difficultyName": "medium",
+        "levelId": "ks78zg7en5zpf2sz9seegptfvd81w1yf",
+        "order": 4,
+        "question": "{Playing} cricket is healthy.",
+        "questionCode": "973643",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1772141747274
+      },
+      {
+        "_creationTime": 1772141201640.995,
+        "_id": "kn78bd6wga8tqn4gak8a6br50181x2rj",
+        "createdAt": 1772141201641,
+        "data": {
+          "correctIndex": 0,
+          "explanation": "“Seeing” complements the verb in sense “what I most detest is smoking”",
+          "options": [
+            "Seeing is believing.",
+            "He saw a bird.",
+            "She will see.",
+            "See!"
+          ]
+        },
+        "difficultyName": "medium",
+        "levelId": "ks78zg7en5zpf2sz9seegptfvd81w1yf",
+        "order": 5,
+        "question": "Which sentence uses the gerund as complement of a verb?",
+        "questionCode": "920570",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1772141201641
+      },
+      {
+        "_creationTime": 1772141697096.1763,
+        "_id": "kn75hw67b0vvmpqsm7tevbkkq581wr2p",
+        "createdAt": 1772141697096,
+        "data": {
+          "correctWords": [
+            "his",
+            "having",
+            "won",
+            "a",
+            "prize"
+          ],
+          "explanation": "",
+          "selectMode": "multiple",
+          "statement": "I heard of his having won a prize."
+        },
+        "difficultyName": "medium",
+        "levelId": "ks78zg7en5zpf2sz9seegptfvd81w1yf",
+        "order": 6,
+        "question": "Select the gerund phrase.",
+        "questionCode": "141440",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1772141697096
+      },
+      {
+        "_creationTime": 1772142151091.7795,
+        "_id": "kn7ehg85dc82a169m98waka2hs81wj92",
+        "createdAt": 1772142151091,
+        "data": {
+          "distractors": [
+            "be",
+            "to be",
+            "been"
+          ]
+        },
+        "difficultyName": "medium",
+        "levelId": "ks78zg7en5zpf2sz9seegptfvd81w1yf",
+        "order": 7,
+        "question": "He is desirous of {being} praised.",
+        "questionCode": "249788",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1772142151091
+      },
+      {
+        "_creationTime": 1772141229827.1855,
+        "_id": "kn74ev44r27b5gfwz142qtjwm181x7g2",
+        "createdAt": 1772141229827,
+        "data": {
+          "correctIndex": 2,
+          "explanation": "Perfect passive gerund = “having been loved”",
+          "options": [
+            "being loved",
+            "having loved",
+            "having been loved",
+            "loved being"
+          ]
+        },
+        "difficultyName": "medium",
+        "levelId": "ks78zg7en5zpf2sz9seegptfvd81w1yf",
+        "order": 8,
+        "question": "Which of these is a correct passive perfect gerund?",
+        "questionCode": "513089",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1772141229827
+      },
+      {
+        "_creationTime": 1772141774823.593,
+        "_id": "kn73esc3bxffqhjt85cre9ram981wh6q",
+        "createdAt": 1772141774823,
+        "data": {
+          "correctWords": [
+            "having",
+            "walked"
+          ],
+          "explanation": "",
+          "selectMode": "multiple",
+          "statement": "We were fatigued on account of having walked so far."
+        },
+        "difficultyName": "medium",
+        "levelId": "ks78zg7en5zpf2sz9seegptfvd81w1yf",
+        "order": 9,
+        "question": "Pick the gerund form.",
+        "questionCode": "889052",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1772141774823
+      },
+      {
+        "_creationTime": 1772142171839.9026,
+        "_id": "kn7cd8sxxrfjghv04a35pcbems81w8rw",
+        "createdAt": 1772142171839,
+        "data": {
+          "distractors": [
+            "being",
+            "having been",
+            "been"
+          ]
+        },
+        "difficultyName": "medium",
+        "levelId": "ks78zg7en5zpf2sz9seegptfvd81w1yf",
+        "order": 10,
+        "question": "The Gerund of a transitive verb — perfect active:{having} loved.",
+        "questionCode": "439712",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1772142171839
+      },
+      {
+        "_creationTime": 1772141254900.706,
+        "_id": "kn78vtargghb9ypkznx50m0k3581x4ds",
+        "createdAt": 1772141254900,
+        "data": {
+          "correctIndex": 1,
+          "explanation": "Compound gerund “having + past participle” shows prior/completed action.",
+          "options": [
+            "present action",
+            "completed action prior to main verb",
+            "passive present",
+            "future"
+          ]
+        },
+        "difficultyName": "medium",
+        "levelId": "ks78zg7en5zpf2sz9seegptfvd81w1yf",
+        "order": 11,
+        "question": "In the sentence “We were charged with having sheltered anarchists.” — the structure “having sheltered” means:",
+        "questionCode": "297779",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1772141254900
+      },
+      {
+        "_creationTime": 1772142215721.9724,
+        "_id": "kn77x62z9vprgxvrhbmah6x5q181x4gk",
+        "createdAt": 1772142215722,
+        "data": {
+          "distractors": [
+            "Verb-Adjective",
+            "Participle",
+            "Adverb"
+          ]
+        },
+        "difficultyName": "medium",
+        "levelId": "ks78zg7en5zpf2sz9seegptfvd81w1yf",
+        "order": 12,
+        "question": "The gerund behaves like a noun and a verb; it is a {Verb-Noun}.",
+        "questionCode": "728078",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1772142215722
+      },
+      {
+        "_creationTime": 1772141426955.7708,
+        "_id": "kn7ahnzsvyn8tjkcqwq9xh0mv581xpam",
+        "createdAt": 1772141426955,
+        "data": {
+          "correctIndex": 3,
+          "explanation": "“walking” as noun in compound “walking stick”.",
+          "options": [
+            "walked stick",
+            "walk stick",
+            "to walk stick",
+            "walking stick"
+          ]
+        },
+        "difficultyName": "medium",
+        "levelId": "ks78zg7en5zpf2sz9seegptfvd81w1yf",
+        "order": 13,
+        "question": "Which shows gerund in compound noun?",
+        "questionCode": "559515",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1772141426955
+      },
+      {
+        "_creationTime": 1772142190189.8262,
+        "_id": "kn740jsgv4tr2evt2b86cpsac181x1ej",
+        "createdAt": 1772142190189,
+        "data": {
+          "distractors": [
+            "me leaving",
+            "I leaving",
+            "to leave"
+          ]
+        },
+        "difficultyName": "medium",
+        "levelId": "ks78zg7en5zpf2sz9seegptfvd81w1yf",
+        "order": 14,
+        "question": "Of the two sentences the first one is correct — I hope you will excuse{my leaving} early.",
+        "questionCode": "998883",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1772142190189
+      },
+      {
+        "_creationTime": 1772141806274.3428,
+        "_id": "kn74a8am9r49n4gasbe6f75mrs81xgnv",
+        "createdAt": 1772141806274,
+        "data": {
+          "correctWords": [
+            "collecting",
+            "stamps"
+          ],
+          "explanation": "",
+          "selectMode": "multiple",
+          "statement": "He is fond of collecting stamps."
+        },
+        "difficultyName": "medium",
+        "levelId": "ks78zg7en5zpf2sz9seegptfvd81w1yf",
+        "order": 15,
+        "question": "Select the object of the preposition.",
+        "questionCode": "221844",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1772141806274
+      },
+      {
+        "_creationTime": 1772141970896.1282,
+        "_id": "kn7af5g09v4834sn0jjz3cjrq581wmqt",
+        "createdAt": 1772141970896,
+        "data": {
+          "correctWords": [
+            "reading"
+          ],
+          "explanation": "",
+          "selectMode": "boxed",
+          "statement": "indiscriminate reading novels"
+        },
+        "difficultyName": "medium",
+        "levelId": "ks78zg7en5zpf2sz9seegptfvd81w1yf",
+        "order": 16,
+        "question": "From “The indiscriminate reading of novels is injurious.” select the word used like an ordinary noun.",
+        "questionCode": "940525",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1772141970896
+      },
+      {
+        "_creationTime": 1772141279744.3982,
+        "_id": "kn709an0pbw8g3gyvkjeca9cjh81x561",
+        "createdAt": 1772141279744,
+        "data": {
+          "correctIndex": 1,
+          "explanation": "Gerund = verb-noun; present participle = verb-adjective",
+          "options": [
+            "Both are always nouns.",
+            "Gerund behaves like noun; participle behaves like adjective.",
+            "Participle always ends with -ed.",
+            "Gerund is only used after “to”."
+          ]
+        },
+        "difficultyName": "medium",
+        "levelId": "ks78zg7en5zpf2sz9seegptfvd81w1yf",
+        "order": 17,
+        "question": "Which best distinguishes present participle from gerund?",
+        "questionCode": "991685",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1772141279744
+      },
+      {
+        "_creationTime": 1772142234517.8613,
+        "_id": "kn74863059mc5pqedjr2xpxx1981w7dn",
+        "createdAt": 1772142234517,
+        "data": {
+          "distractors": [
+            "sheltering",
+            "to shelter",
+            "sheltered"
+          ]
+        },
+        "difficultyName": "medium",
+        "levelId": "ks78zg7en5zpf2sz9seegptfvd81w1yf",
+        "order": 18,
+        "question": "They were charged with {having} sheltered anarchists.",
+        "questionCode": "172343",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1772142234517
+      },
+      {
+        "_creationTime": 1772141925689.2334,
+        "_id": "kn73cf7km1zw9pakzshe4y66y981wfss",
+        "createdAt": 1772141925689,
+        "data": {
+          "correctWords": [
+            "writing"
+          ],
+          "explanation": "",
+          "selectMode": "boxed",
+          "statement": "writing table"
+        },
+        "difficultyName": "medium",
+        "levelId": "ks78zg7en5zpf2sz9seegptfvd81w1yf",
+        "order": 19,
+        "question": "Which is the gerund in compound noun “writing table”?",
+        "questionCode": "744186",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1772141925689
+      },
+      {
+        "_creationTime": 1772142032120.2957,
+        "_id": "kn7bzmj5dqh2nkghczy4ckw01x81w3g6",
+        "createdAt": 1772142032120,
+        "data": {
+          "distractors": [
+            "eating",
+            "be eaten"
+          ]
+        },
+        "difficultyName": "medium",
+        "levelId": "ks78zg7en5zpf2sz9seegptfvd81w1yf",
+        "order": 20,
+        "question": "Choose the gerund phrase that indicates completed action: {having eaten}",
+        "questionCode": "602142",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1772142032120
+      },
+      {
+        "_creationTime": 1772141317370.2124,
+        "_id": "kn7dzpw8500tg75hjqxqayedv181wq14",
+        "createdAt": 1772141317370,
+        "data": {
+          "correctIndex": 3,
+          "explanation": "Although looks participial, here it’s a participle clause — but phrase ending in -ing used as verb-adjunct",
+          "options": [
+            "he gained",
+            "health",
+            "cricket",
+            "Playing cricket"
+          ]
+        },
+        "difficultyName": "medium",
+        "levelId": "ks78zg7en5zpf2sz9seegptfvd81w1yf",
+        "order": 21,
+        "question": "Identify the gerund phrase in: “Playing cricket, he gained health.”",
+        "questionCode": "293419",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1772141317370
+      },
+      {
+        "_creationTime": 1772142079989.784,
+        "_id": "kn72gv7w4n27va23nd2p1k1qj981x7zp",
+        "createdAt": 1772142079989,
+        "data": {
+          "correctWords": [
+            "of"
+          ],
+          "explanation": "Preposition “of” governs gerund.",
+          "selectMode": "multiple",
+          "statement": "fond of stamps"
+        },
+        "difficultyName": "medium",
+        "levelId": "ks78zg7en5zpf2sz9seegptfvd81w1yf",
+        "order": 22,
+        "question": "In “He is fond of collecting stamps.” pick the word that governs the gerund.",
+        "questionCode": "318301",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1772142079989
+      },
+      {
+        "_creationTime": 1772142108630.1404,
+        "_id": "kn7bx7t04a216k82f686a9qdf981xybc",
+        "createdAt": 1772142108630,
+        "data": {
+          "distractors": [
+            "walking",
+            "to walk",
+            "walked"
+          ]
+        },
+        "difficultyName": "medium",
+        "levelId": "ks78zg7en5zpf2sz9seegptfvd81w1yf",
+        "order": 23,
+        "question": "We were fatigued on account of {having walked.} so far.",
+        "questionCode": "787096",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1772142108630
+      },
+      {
+        "_creationTime": 1772141344716.7996,
+        "_id": "kn77b7ksapwdqz7854rmsvmdcd81wdfa",
+        "createdAt": 1772141344716,
+        "data": {
+          "correctIndex": 1,
+          "explanation": "Possessive pronoun “your” + gerund preferred when gerund acts as noun.",
+          "options": [
+            "I dislike you singing.",
+            "I dislike your singing",
+            "I dislike him singing.",
+            "I dislike him to sing."
+          ]
+        },
+        "difficultyName": "medium",
+        "levelId": "ks78zg7en5zpf2sz9seegptfvd81w1yf",
+        "order": 24,
+        "question": "Which sentence correctly uses possessive before gerund?",
+        "questionCode": "823928",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1772141344716
+      },
+      {
+        "_creationTime": 1772141371140.0393,
+        "_id": "kn71y168ad4nd40exvdgrp9yxx81wbxw",
+        "createdAt": 1772141371140,
+        "data": {
+          "correctIndex": 1,
+          "explanation": "“having sheltered anarchists” is object of preposition “with.”",
+          "options": [
+            "Subject",
+            "Object of preposition",
+            "Complement",
+            "Adverbial"
+          ]
+        },
+        "difficultyName": "medium",
+        "levelId": "ks78zg7en5zpf2sz9seegptfvd81w1yf",
+        "order": 25,
+        "question": "In “They were charged with having sheltered anarchists.” what function does the whole gerund phrase perform?",
+        "questionCode": "253428",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1772141371140
+      },
+      {
+        "_creationTime": 1772142251997.918,
+        "_id": "kn7dh7rskch9jy5wkj9ebv4ey981xwk1",
+        "createdAt": 1772142251997,
+        "data": {
+          "distractors": [
+            "Adverb",
+            "Noun",
+            "Preposition"
+          ]
+        },
+        "difficultyName": "medium",
+        "levelId": "ks78zg7en5zpf2sz9seegptfvd81w1yf",
+        "order": 26,
+        "question": "The Present Participle behaves like an {Adjective} and a Verb.",
+        "questionCode": "274945",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1772142251997
+      },
+      {
+        "_creationTime": 1772141999109.4993,
+        "_id": "kn7630am1jnqbh03gndf1gtqr581wb23",
+        "createdAt": 1772141999109,
+        "data": {
+          "correctWords": [
+            "for",
+            "telling"
+          ],
+          "explanation": "“telling” is object of “for.”",
+          "selectMode": "multiple",
+          "statement": "He was punished for telling a lie."
+        },
+        "difficultyName": "medium",
+        "levelId": "ks78zg7en5zpf2sz9seegptfvd81w1yf",
+        "order": 27,
+        "question": "Choose the preposition and its gerund object:",
+        "questionCode": "993174",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1772141999109
+      },
+      {
+        "_creationTime": 1772142276008.554,
+        "_id": "kn7dafvhbr0103vxmgw8pvs2p181x023",
+        "createdAt": 1772142276008,
+        "data": {
+          "distractors": [
+            "Play",
+            "Played",
+            "To play"
+          ]
+        },
+        "difficultyName": "medium",
+        "levelId": "ks78zg7en5zpf2sz9seegptfvd81w1yf",
+        "order": 28,
+        "question": "{Playing} cricket, he gained health.",
+        "questionCode": "400643",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1772142276008
+      },
+      {
+        "_creationTime": 1772141394789.368,
+        "_id": "kn71pw5npejexf4tvgjbhf4bd181x6rv",
+        "createdAt": 1772141394789,
+        "data": {
+          "correctIndex": 1,
+          "explanation": "Absolute construction: “Playing cards being his aversion…”",
+          "options": [
+            "Seeing the sun, we went out.",
+            "Playing cards being his aversion, we did not play bridge.",
+            "He loves to play.",
+            "I want him to come."
+          ]
+        },
+        "difficultyName": "medium",
+        "levelId": "ks78zg7en5zpf2sz9seegptfvd81w1yf",
+        "order": 29,
+        "question": "Which is an example of gerund used absolutely (absolute construction)?",
+        "questionCode": "330096",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1772141394789
+      },
+      {
+        "_creationTime": 1772142301889.3796,
+        "_id": "kn7c1gp43ns4h1bg8qmj9x0vhs81wpjg",
+        "createdAt": 1772142301889,
+        "data": {
+          "distractors": [
+            "Participles",
+            "Infinitives",
+            "Adjectives"
+          ]
+        },
+        "difficultyName": "medium",
+        "levelId": "ks78zg7en5zpf2sz9seegptfvd81w1yf",
+        "order": 30,
+        "question": "In such compound nouns as walking stick, writing table, hunting whip — walking, writing, hunting are {Gerunds}.",
+        "questionCode": "709624",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1772142301889
+      }
+    ]
+  }
+}
