@@ -1,0 +1,1964 @@
+{
+  "levelId": "ks7c0k3zepxqv0zgwm5545wwv181zmpp",
+  "version": 145,
+  "publishedAt": 1772156444895,
+  "questions": {
+    "easy": [
+      {
+        "_creationTime": 1772154038771.4531,
+        "_id": "kn75vymt0b0naaj9gvtgawt5th81zrnb",
+        "createdAt": 1772154038771,
+        "data": {
+          "correctWords": [
+            "above"
+          ],
+          "explanation": "“Above” shows relation between cloud and aeroplane",
+          "selectMode": "multiple",
+          "statement": "The cloud is above the aeroplane."
+        },
+        "difficultyName": "easy",
+        "levelId": "ks7c0k3zepxqv0zgwm5545wwv181zmpp",
+        "order": 1,
+        "question": "Pick the preposition(s) in the sentence.",
+        "questionCode": "495532",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1772154038771
+      },
+      {
+        "_creationTime": 1772154316311.954,
+        "_id": "kn7ap6gtpaar9dnve88t9vbcd181yqb2",
+        "createdAt": 1772154316312,
+        "data": {
+          "distractors": [
+            "in",
+            "under",
+            "beside"
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks7c0k3zepxqv0zgwm5545wwv181zmpp",
+        "order": 2,
+        "question": "The apples are {on} the desk.",
+        "questionCode": "702704",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1772154316312
+      },
+      {
+        "_creationTime": 1772153798234.5574,
+        "_id": "kn7746z0e2wtqe5x56b7ns5wv181zgd0",
+        "createdAt": 1772153798234,
+        "data": {
+          "correctIndex": 1,
+          "explanation": "“On” shows position on the surface; the apples rest on the desk",
+          "options": [
+            "under",
+            "on",
+            "between",
+            "from"
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks7c0k3zepxqv0zgwm5545wwv181zmpp",
+        "order": 3,
+        "question": "Which preposition correctly completes the sentence: “The apples are ___ the desk.”",
+        "questionCode": "421824",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1772153798234
+      },
+      {
+        "_creationTime": 1772153821065.8508,
+        "_id": "kn7cdx0eneeg9g5atrq7w59e3h81zebk",
+        "createdAt": 1772153821065,
+        "data": {
+          "correctIndex": 2,
+          "explanation": "“Under” indicates beneath — fits the sentence from the PDF.",
+          "options": [
+            "in",
+            "by",
+            "under",
+            "between"
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks7c0k3zepxqv0zgwm5545wwv181zmpp",
+        "order": 4,
+        "question": "Choose the correct preposition: “The dog is ___ the desk.”",
+        "questionCode": "418137",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1772153821065
+      },
+      {
+        "_creationTime": 1772154057119.8477,
+        "_id": "kn7b2fzr5zdnx85w8acyrpt8s181ye6v",
+        "createdAt": 1772154057119,
+        "data": {
+          "correctWords": [
+            "from"
+          ],
+          "explanation": "\"From” is the preposition governing “him”",
+          "selectMode": "multiple",
+          "statement": "The letter is from him."
+        },
+        "difficultyName": "easy",
+        "levelId": "ks7c0k3zepxqv0zgwm5545wwv181zmpp",
+        "order": 5,
+        "question": "Pick the preposition.",
+        "questionCode": "749036",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1772154057119
+      },
+      {
+        "_creationTime": 1772154323501.2642,
+        "_id": "kn7chxxmkeh0b345sj1vvps6h581zdkr",
+        "createdAt": 1772154323501,
+        "data": {
+          "distractors": [
+            "near",
+            "above",
+            "on"
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks7c0k3zepxqv0zgwm5545wwv181zmpp",
+        "order": 6,
+        "question": "The dog is {under} the desk.",
+        "questionCode": "299980",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1772154323501
+      },
+      {
+        "_creationTime": 1772154073721.377,
+        "_id": "kn767vddwn3mmg5smxzr97r6ed81z27s",
+        "createdAt": 1772154073721,
+        "data": {
+          "correctWords": [
+            "along"
+          ],
+          "explanation": "“Along” shows movement beside the shore",
+          "selectMode": "multiple",
+          "statement": "Let us walk along the shore."
+        },
+        "difficultyName": "easy",
+        "levelId": "ks7c0k3zepxqv0zgwm5545wwv181zmpp",
+        "order": 7,
+        "question": "Pick the preposition.",
+        "questionCode": "299962",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1772154073721
+      },
+      {
+        "_creationTime": 1772154331134.0095,
+        "_id": "kn72a18cy7exr4v96ezgq0mw6s81y1v5",
+        "createdAt": 1772154331134,
+        "data": {
+          "distractors": [
+            "in",
+            "between",
+            "through"
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks7c0k3zepxqv0zgwm5545wwv181zmpp",
+        "order": 8,
+        "question": "The mouse is {near} the keyboard.",
+        "questionCode": "117706",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1772154331134
+      },
+      {
+        "_creationTime": 1772153840782.5906,
+        "_id": "kn7dxe922tqq2j4rzta5c2190h81yhnq",
+        "createdAt": 1772153840782,
+        "data": {
+          "correctIndex": 1,
+          "explanation": "“Near” indicates proximity; the example on page 1 uses “near the keyboard.”",
+          "options": [
+            "above",
+            "near",
+            "into",
+            "during"
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks7c0k3zepxqv0zgwm5545wwv181zmpp",
+        "order": 9,
+        "question": "Which preposition fits: “The mouse is ___ the keyboard.”",
+        "questionCode": "876294",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1772153840782
+      },
+      {
+        "_creationTime": 1772154339983.3591,
+        "_id": "kn7fezbyjkvhd09fv3c46xqw9181yjn9",
+        "createdAt": 1772154339983,
+        "data": {
+          "distractors": [
+            "with",
+            "from",
+            "on"
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks7c0k3zepxqv0zgwm5545wwv181zmpp",
+        "order": 10,
+        "question": "He lives {near} us.",
+        "questionCode": "181056",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1772154339983
+      },
+      {
+        "_creationTime": 1772154117806.3005,
+        "_id": "kn7fa7xp18yzqzmwq5gk23y1tx81zwg4",
+        "createdAt": 1772154117806,
+        "data": {
+          "correctWords": [
+            "on",
+            "table"
+          ],
+          "explanation": "“On” is preposition; “table” is its object.",
+          "selectMode": "multiple",
+          "statement": "The book lies on the table."
+        },
+        "difficultyName": "easy",
+        "levelId": "ks7c0k3zepxqv0zgwm5545wwv181zmpp",
+        "order": 11,
+        "question": "Pick the preposition.",
+        "questionCode": "338390",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1772154117806
+      },
+      {
+        "_creationTime": 1772153863556.88,
+        "_id": "kn762m3rzh9ad412xm72s92n8981z2zz",
+        "createdAt": 1772153863556,
+        "data": {
+          "correctIndex": 2,
+          "explanation": "“Near” is the correct preposition of place (page 1 examples).",
+          "options": [
+            "with",
+            "from",
+            "near",
+            "on"
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks7c0k3zepxqv0zgwm5545wwv181zmpp",
+        "order": 12,
+        "question": "Which preposition completes: “He lives ___ us.”",
+        "questionCode": "997138",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1772153863556
+      },
+      {
+        "_creationTime": 1772154089785.5164,
+        "_id": "kn7c0f2vp4pg6j0chzknzp8sgn81ycgy",
+        "createdAt": 1772154089785,
+        "data": {
+          "correctWords": [
+            "among"
+          ],
+          "explanation": "“Among” indicates being within a group",
+          "selectMode": "multiple",
+          "statement": "He was among the crowd."
+        },
+        "difficultyName": "easy",
+        "levelId": "ks7c0k3zepxqv0zgwm5545wwv181zmpp",
+        "order": 13,
+        "question": "Pick the preposition.",
+        "questionCode": "675234",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1772154089785
+      },
+      {
+        "_creationTime": 1772154137711.818,
+        "_id": "kn78ja1rxgjapyn8amg7eb7hw581y2hn",
+        "createdAt": 1772154137711,
+        "data": {
+          "correctWords": [
+            "after",
+            "year"
+          ],
+          "explanation": "“After” governs the noun “year”",
+          "selectMode": "multiple",
+          "statement": "He returned after a year."
+        },
+        "difficultyName": "easy",
+        "levelId": "ks7c0k3zepxqv0zgwm5545wwv181zmpp",
+        "order": 14,
+        "question": "Pick the preposition.",
+        "questionCode": "748695",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1772154137711
+      },
+      {
+        "_creationTime": 1772154359701.2935,
+        "_id": "kn78gnrpp1d4z5c8fsrhyxe97x81ym6p",
+        "createdAt": 1772154359701,
+        "data": {
+          "distractors": [
+            "by",
+            "at",
+            "of"
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks7c0k3zepxqv0zgwm5545wwv181zmpp",
+        "order": 15,
+        "question": "I gave fifty rupees {for} it.",
+        "questionCode": "428559",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1772154359701
+      },
+      {
+        "_creationTime": 1772153884862.026,
+        "_id": "kn717c39qvbsn08vrv5w6ng5v981zph9",
+        "createdAt": 1772153884862,
+        "data": {
+          "correctIndex": 0,
+          "explanation": "“For” indicates purpose or exchange",
+          "options": [
+            "for",
+            "by",
+            "at",
+            "into"
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks7c0k3zepxqv0zgwm5545wwv181zmpp",
+        "order": 16,
+        "question": "Choose the right preposition: “I gave fifty rupees ___ it.”",
+        "questionCode": "755389",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1772153884862
+      },
+      {
+        "_creationTime": 1772154369130.7275,
+        "_id": "kn742nn3tgtz7hq6j00rxwjgss81ytxx",
+        "createdAt": 1772154369130,
+        "data": {
+          "distractors": [
+            "across",
+            "between",
+            "into"
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks7c0k3zepxqv0zgwm5545wwv181zmpp",
+        "order": 17,
+        "question": "Let us walk {along} the shore.",
+        "questionCode": "740923",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1772154369130
+      },
+      {
+        "_creationTime": 1772153907750.0583,
+        "_id": "kn7a1d2v46x48sy43g2vk9rb0s81zscj",
+        "createdAt": 1772153907750,
+        "data": {
+          "correctIndex": 3,
+          "explanation": "People shelter under a tree",
+          "options": [
+            "around",
+            "at",
+            "on",
+            "under"
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks7c0k3zepxqv0zgwm5545wwv181zmpp",
+        "order": 18,
+        "question": "Pick the correct option: “We took shelter ___ a tree.”",
+        "questionCode": "498868",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1772153907750
+      },
+      {
+        "_creationTime": 1772154153775.4277,
+        "_id": "kn74vr00h0mtrmg68jejst2rw181ytc4",
+        "createdAt": 1772154153775,
+        "data": {
+          "correctWords": [
+            "up",
+            "ladder"
+          ],
+          "explanation": "“Up” is preposition here governing “ladder”",
+          "selectMode": "multiple",
+          "statement": "The boy climbed up the ladder."
+        },
+        "difficultyName": "easy",
+        "levelId": "ks7c0k3zepxqv0zgwm5545wwv181zmpp",
+        "order": 19,
+        "question": "Pick the preposition.",
+        "questionCode": "946179",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1772154153775
+      },
+      {
+        "_creationTime": 1772154386670.9705,
+        "_id": "kn7fgkwawg57n9djs7fvxzhhgh81y0xx",
+        "createdAt": 1772154386671,
+        "data": {
+          "distractors": [
+            "on",
+            "by",
+            "through"
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks7c0k3zepxqv0zgwm5545wwv181zmpp",
+        "order": 20,
+        "question": "We took shelter {under} a tree.",
+        "questionCode": "248638",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1772154386671
+      },
+      {
+        "_creationTime": 1772153926196.5544,
+        "_id": "kn7e0pm245gg02tc2yzhr7ep9581y789",
+        "createdAt": 1772153926196,
+        "data": {
+          "correctIndex": 1,
+          "explanation": "“On duty” is the idiomatic phrase",
+          "options": [
+            "at",
+            "on",
+            "in",
+            "for"
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks7c0k3zepxqv0zgwm5545wwv181zmpp",
+        "order": 21,
+        "question": "Which preposition fits: “The policeman is ___ duty.”",
+        "questionCode": "319009",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1772153926196
+      },
+      {
+        "_creationTime": 1772154378850.701,
+        "_id": "kn7ftgxxxwhteja98fkgns973d81zzbm",
+        "createdAt": 1772154378850,
+        "data": {
+          "distractors": [
+            "in",
+            "at",
+            "for"
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks7c0k3zepxqv0zgwm5545wwv181zmpp",
+        "order": 22,
+        "question": "The policeman is {on} duty.",
+        "questionCode": "872013",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1772154378850
+      },
+      {
+        "_creationTime": 1772154262617.8013,
+        "_id": "kn74tn94nwekkwphxpacnzpq3h81y90f",
+        "createdAt": 1772154262617,
+        "data": {
+          "correctWords": [
+            "about"
+          ],
+          "explanation": "In this sentence “about” functions as an adverb",
+          "selectMode": "multiple",
+          "statement": "There are thieves about."
+        },
+        "difficultyName": "easy",
+        "levelId": "ks7c0k3zepxqv0zgwm5545wwv181zmpp",
+        "order": 23,
+        "question": "Pick the adverb used in: “There are thieves about.” (vs preposition usage)",
+        "questionCode": "269912",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1772154262617
+      },
+      {
+        "_creationTime": 1772153953176.6738,
+        "_id": "kn75c7nvbrz0thch48tdczvnad81yys3",
+        "createdAt": 1772153953176,
+        "data": {
+          "correctIndex": 0,
+          "explanation": "“Across the river” is the usual instruction",
+          "options": [
+            "across",
+            "by",
+            "near",
+            "through"
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks7c0k3zepxqv0zgwm5545wwv181zmpp",
+        "order": 24,
+        "question": "Complete: “Do not go ___ the river.”",
+        "questionCode": "910204",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1772153953176
+      },
+      {
+        "_creationTime": 1772153973917.8865,
+        "_id": "kn74w591nbpx4ymsndekmja7c581z3dm",
+        "createdAt": 1772153973917,
+        "data": {
+          "correctIndex": 1,
+          "explanation": "“Go up” acts as an adverb modifying “go”",
+          "options": [
+            "in",
+            "up",
+            "on",
+            "by"
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks7c0k3zepxqv0zgwm5545wwv181zmpp",
+        "order": 25,
+        "question": "Choose: “Have you seen an aeroplane go ___?” (used as an adverb here)",
+        "questionCode": "837298",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1772153973917
+      },
+      {
+        "_creationTime": 1772154394565.6804,
+        "_id": "kn7edqxws37fa4v84e1de5pjwd81ya3w",
+        "createdAt": 1772154394565,
+        "data": {
+          "distractors": [
+            "in",
+            "by",
+            "on"
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks7c0k3zepxqv0zgwm5545wwv181zmpp",
+        "order": 26,
+        "question": "Have you seen an aeroplane go {up}?",
+        "questionCode": "713434",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1772154394565
+      },
+      {
+        "_creationTime": 1772154285581.953,
+        "_id": "kn70f2mw9m823gkvttn4vpk61181ynrp",
+        "createdAt": 1772154285582,
+        "data": {
+          "correctWords": [
+            "in",
+            "eye"
+          ],
+          "explanation": "“In” governs “one eye”",
+          "selectMode": "multiple",
+          "statement": "He is blind in one eye."
+        },
+        "difficultyName": "easy",
+        "levelId": "ks7c0k3zepxqv0zgwm5545wwv181zmpp",
+        "order": 27,
+        "question": "Pick the preposition.",
+        "questionCode": "256773",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1772154285582
+      },
+      {
+        "_creationTime": 1772153994914.4001,
+        "_id": "kn77rd3yyeg6edqwbsxhj8jch981z7hy",
+        "createdAt": 1772153994914,
+        "data": {
+          "correctIndex": 3,
+          "explanation": "The noun/pronoun after a preposition is its object; “me” is object of “with”",
+          "options": [
+            "He",
+            "came",
+            "with",
+            "me"
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks7c0k3zepxqv0zgwm5545wwv181zmpp",
+        "order": 28,
+        "question": "Which is an object of preposition in “He came with me.”?",
+        "questionCode": "923854",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1772153994914
+      },
+      {
+        "_creationTime": 1772154306751.4783,
+        "_id": "kn7apfyg899cky6zwmebvkjkjd81zeks",
+        "createdAt": 1772154306751,
+        "data": {
+          "correctWords": [
+            "in",
+            "whisper"
+          ],
+          "explanation": "“In” is preposition governing the noun phrase “a whisper”",
+          "selectMode": "multiple",
+          "statement": "She spoke in a whisper."
+        },
+        "difficultyName": "easy",
+        "levelId": "ks7c0k3zepxqv0zgwm5545wwv181zmpp",
+        "order": 29,
+        "question": "Pick the preposition.",
+        "questionCode": "417575",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1772154306751
+      },
+      {
+        "_creationTime": 1772154435688.6199,
+        "_id": "kn71znjzsya2cbsb4kpc7p28n181yb47",
+        "createdAt": 1772154435688,
+        "data": {
+          "distractors": [
+            "from",
+            "at",
+            "to"
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks7c0k3zepxqv0zgwm5545wwv181zmpp",
+        "order": 30,
+        "question": "He came {with} me.",
+        "questionCode": "270494",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1772154435688
+      }
+    ],
+    "hard": [
+      {
+        "_creationTime": 1772156169696.558,
+        "_id": "kn75xqmnp647ghn9yghpwdta1n81zqnw",
+        "createdAt": 1772156169696,
+        "data": {
+          "distractors": [
+            "about",
+            "for",
+            "with"
+          ]
+        },
+        "difficultyName": "hard",
+        "levelId": "ks7c0k3zepxqv0zgwm5545wwv181zmpp",
+        "order": 1,
+        "question": "He is ignorant {of} the facts.",
+        "questionCode": "416777",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1772156169696
+      },
+      {
+        "_creationTime": 1772155540581.595,
+        "_id": "kn7ceqxtm1ystyz05cc86v1r9s81y1w5",
+        "createdAt": 1772155540581,
+        "data": {
+          "correctIndex": 1,
+          "explanation": "“Before” here takes the object “me,” so it’s a preposition",
+          "options": [
+            "a conjunction linking clauses",
+            "a preposition governing the pronoun “me”",
+            "an adverb modifying “arrived”",
+            "a noun phrase"
+          ]
+        },
+        "difficultyName": "hard",
+        "levelId": "ks7c0k3zepxqv0zgwm5545wwv181zmpp",
+        "order": 2,
+        "question": "In “He arrived there a few minutes before me,” the word “before” functions as —",
+        "questionCode": "624993",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1772155540581
+      },
+      {
+        "_creationTime": 1772155973522.9377,
+        "_id": "kn73v5nsahpwrnaj1e2psp1xwd81y3jz",
+        "createdAt": 1772155973523,
+        "data": {
+          "correctWords": [
+            "upon",
+            "proposal"
+          ],
+          "explanation": "“Upon” governs “proposal.”",
+          "selectMode": "multiple",
+          "statement": "The committee decided upon the proposal after long discussion."
+        },
+        "difficultyName": "hard",
+        "levelId": "ks7c0k3zepxqv0zgwm5545wwv181zmpp",
+        "order": 3,
+        "question": "Pick the preposition and its object.",
+        "questionCode": "559873",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1772155973523
+      },
+      {
+        "_creationTime": 1772155698790.4946,
+        "_id": "kn7da80rzqwsy50wnv45k3se0h81zf12",
+        "createdAt": 1772155698790,
+        "data": {
+          "correctIndex": 2,
+          "explanation": "“Before” takes the object “me,” so it functions as a preposition.",
+          "options": [
+            "a conjunction",
+            "an adverb",
+            "a preposition governing “me”",
+            "a noun"
+          ]
+        },
+        "difficultyName": "hard",
+        "levelId": "ks7c0k3zepxqv0zgwm5545wwv181zmpp",
+        "order": 4,
+        "question": "In the sentence, “He arrived there a few minutes before me,” the word before functions as —",
+        "questionCode": "847599",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1772155698790
+      },
+      {
+        "_creationTime": 1772156180177.846,
+        "_id": "kn78h8e2r236xq66jchrc6pjh181yjz5",
+        "createdAt": 1772156180177,
+        "data": {
+          "distractors": [
+            "for",
+            "with",
+            "by"
+          ]
+        },
+        "difficultyName": "hard",
+        "levelId": "ks7c0k3zepxqv0zgwm5545wwv181zmpp",
+        "order": 5,
+        "question": "She is fond {of} music.",
+        "questionCode": "951356",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1772156180177
+      },
+      {
+        "_creationTime": 1772155730690.0432,
+        "_id": "kn7dfkjk6dn05adj0ckvgjh1dn81y1ht",
+        "createdAt": 1772155730690,
+        "data": {
+          "correctIndex": 2,
+          "explanation": "A clause can function as the object of a preposition; here the clause follows “to.”",
+          "options": [
+            "careful",
+            "attention",
+            "what I am going to say",
+            "going"
+          ]
+        },
+        "difficultyName": "hard",
+        "levelId": "ks7c0k3zepxqv0zgwm5545wwv181zmpp",
+        "order": 6,
+        "question": "In “Pay careful attention to what I am going to say,” the object of the preposition to is —",
+        "questionCode": "810161",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1772155730690
+      },
+      {
+        "_creationTime": 1772155997347.4026,
+        "_id": "kn7cc2fg865bry3s78pge493b981z3fc",
+        "createdAt": 1772155997347,
+        "data": {
+          "correctWords": [
+            "in",
+            "what",
+            "he",
+            "believed",
+            "to",
+            "be",
+            "right"
+          ],
+          "explanation": "A clause functions as the object of the preposition “in.”",
+          "selectMode": "multiple",
+          "statement": "He persisted in what he believed to be right."
+        },
+        "difficultyName": "hard",
+        "levelId": "ks7c0k3zepxqv0zgwm5545wwv181zmpp",
+        "order": 7,
+        "question": "Pick the preposition and its object (clause).",
+        "questionCode": "625608",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1772155997347
+      },
+      {
+        "_creationTime": 1772156032917.1692,
+        "_id": "kn7c7dmnbgay4vndrbp8y5rsed81zdp4",
+        "createdAt": 1772156032917,
+        "data": {
+          "correctWords": [
+            "to",
+            "parents and teachers"
+          ],
+          "explanation": "“Parents and teachers” form a compound object of “to.”",
+          "selectMode": "multiple",
+          "statement": "He is indebted to his parents and teachers."
+        },
+        "difficultyName": "hard",
+        "levelId": "ks7c0k3zepxqv0zgwm5545wwv181zmpp",
+        "order": 8,
+        "question": "Pick the preposition and its compound object.",
+        "questionCode": "101005",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1772156032917
+      },
+      {
+        "_creationTime": 1772155761740.5835,
+        "_id": "kn7343fvf473rvqgbw1k2heet181yaz5",
+        "createdAt": 1772155761740,
+        "data": {
+          "correctIndex": 1,
+          "explanation": "“Barring” (meaning “excepting”) is a present participle used as a preposition.",
+          "options": [
+            "accidents",
+            "barring",
+            "arrive",
+            "time"
+          ]
+        },
+        "difficultyName": "hard",
+        "levelId": "ks7c0k3zepxqv0zgwm5545wwv181zmpp",
+        "order": 9,
+        "question": "Which word functions as a participial preposition in the sentence: “Barring accidents, the train will arrive on time”?",
+        "questionCode": "206343",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1772155761740
+      },
+      {
+        "_creationTime": 1772156188501.1875,
+        "_id": "kn7f0fb0wtt5hneqmfwbj29rfn81z5tb",
+        "createdAt": 1772156188501,
+        "data": {
+          "distractors": [
+            "on",
+            "at",
+            "for"
+          ]
+        },
+        "difficultyName": "hard",
+        "levelId": "ks7c0k3zepxqv0zgwm5545wwv181zmpp",
+        "order": 10,
+        "question": "He persisted {in} his efforts.",
+        "questionCode": "556341",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1772156188501
+      },
+      {
+        "_creationTime": 1772156013072.054,
+        "_id": "kn735ryn5pyhk1t3s70mxdaqhx81z16r",
+        "createdAt": 1772156013072,
+        "data": {
+          "correctWords": [
+            "Pending",
+            "instructions"
+          ],
+          "explanation": "“Pending” functions as a preposition meaning “until.”",
+          "selectMode": "multiple",
+          "statement": "Pending further instructions, the officers remained alert."
+        },
+        "difficultyName": "hard",
+        "levelId": "ks7c0k3zepxqv0zgwm5545wwv181zmpp",
+        "order": 11,
+        "question": "Pick the participial preposition and its object.",
+        "questionCode": "626971",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1772156013072
+      },
+      {
+        "_creationTime": 1772156196090.6272,
+        "_id": "kn70ree47xpj0a3b257ggfrptx81ynp1",
+        "createdAt": 1772156196090,
+        "data": {
+          "distractors": [
+            "for",
+            "with",
+            "into"
+          ]
+        },
+        "difficultyName": "hard",
+        "levelId": "ks7c0k3zepxqv0zgwm5545wwv181zmpp",
+        "order": 12,
+        "question": "Camels are adapted {to} life in the desert.",
+        "questionCode": "928823",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1772156196090
+      },
+      {
+        "_creationTime": 1772155788872.6008,
+        "_id": "kn70a6b8azve0ttk4vjevzcfbh81zajn",
+        "createdAt": 1772155788872,
+        "data": {
+          "correctIndex": 1,
+          "explanation": "The noun “facts” is the object of the preposition “of.”",
+          "options": [
+            "ignorant",
+            "facts",
+            "the",
+            "is"
+          ]
+        },
+        "difficultyName": "hard",
+        "levelId": "ks7c0k3zepxqv0zgwm5545wwv181zmpp",
+        "order": 13,
+        "question": "In “He is ignorant of the facts,” the preposition of governs —",
+        "questionCode": "944839",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1772155788872
+      },
+      {
+        "_creationTime": 1772156050665.4272,
+        "_id": "kn7b7eznqv95pcq875wv4cx10x81y0f0",
+        "createdAt": 1772156050665,
+        "data": {
+          "correctWords": [
+            "from",
+            "speaking"
+          ],
+          "explanation": "Speaking” (gerund) is object of “from.”",
+          "selectMode": "multiple",
+          "statement": "She abstained from speaking during the meeting."
+        },
+        "difficultyName": "hard",
+        "levelId": "ks7c0k3zepxqv0zgwm5545wwv181zmpp",
+        "order": 14,
+        "question": "Pick the preposition and its gerund object.",
+        "questionCode": "891556",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1772156050665
+      },
+      {
+        "_creationTime": 1772155817310.3813,
+        "_id": "kn77770qh12ptqnjnfds369va581y1q5",
+        "createdAt": 1772155817310,
+        "data": {
+          "correctIndex": 3,
+          "explanation": "“Up” takes the object “ladder,” so it functions as a preposition.",
+          "options": [
+            "an adverb only",
+            "a conjunction",
+            "an adjective",
+            "a preposition governing “ladder”"
+          ]
+        },
+        "difficultyName": "hard",
+        "levelId": "ks7c0k3zepxqv0zgwm5545wwv181zmpp",
+        "order": 15,
+        "question": "In “The boy climbed up the ladder,” the word up is —",
+        "questionCode": "518677",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1772155817310
+      },
+      {
+        "_creationTime": 1772156204886.5042,
+        "_id": "kn7ag9cv7xymfjq7nkma79xavs81zq2a",
+        "createdAt": 1772156204886,
+        "data": {
+          "distractors": [
+            "with",
+            "for",
+            "by"
+          ]
+        },
+        "difficultyName": "hard",
+        "levelId": "ks7c0k3zepxqv0zgwm5545wwv181zmpp",
+        "order": 16,
+        "question": "He is indebted {to} his parents.",
+        "questionCode": "647086",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1772156204886
+      },
+      {
+        "_creationTime": 1772156138249.2588,
+        "_id": "kn73qj3gc7haqv4tvfmwfshjc181yh26",
+        "createdAt": 1772156138249,
+        "data": {
+          "correctWords": [
+            "from",
+            "land"
+          ],
+          "explanation": "“Land” is the object of “from.”",
+          "selectMode": "multiple",
+          "statement": "The income derived from land is taxable."
+        },
+        "difficultyName": "hard",
+        "levelId": "ks7c0k3zepxqv0zgwm5545wwv181zmpp",
+        "order": 17,
+        "question": "Pick the preposition and its object.",
+        "questionCode": "611172",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1772156138249
+      },
+      {
+        "_creationTime": 1772155854393.692,
+        "_id": "kn756k78hbqv5m2asmheaz65q981zxa3",
+        "createdAt": 1772155854393,
+        "data": {
+          "correctIndex": 3,
+          "explanation": "“about” has no object and functions as an adverb.",
+          "options": [
+            "There are thieves about the house.",
+            "He spoke about the issue.",
+            "She walked about the garden.",
+            "There are thieves about."
+          ]
+        },
+        "difficultyName": "hard",
+        "levelId": "ks7c0k3zepxqv0zgwm5545wwv181zmpp",
+        "order": 18,
+        "question": "Which sentence contains about used as an adverb?",
+        "questionCode": "797216",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1772155854393
+      },
+      {
+        "_creationTime": 1772156213425.1196,
+        "_id": "kn718z9hhbvvcxy70n8395q74x81zfpm",
+        "createdAt": 1772156213425,
+        "data": {
+          "distractors": [
+            "in",
+            "at",
+            "by"
+          ]
+        },
+        "difficultyName": "hard",
+        "levelId": "ks7c0k3zepxqv0zgwm5545wwv181zmpp",
+        "order": 19,
+        "question": "Barring accidents, the mail will arrive {on} time.",
+        "questionCode": "691195",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1772156213425
+      },
+      {
+        "_creationTime": 1772156224977.4321,
+        "_id": "kn719z97043dyc6n0mz3dhqgfd81y9x0",
+        "createdAt": 1772156224977,
+        "data": {
+          "distractors": [
+            "of",
+            "in",
+            "with"
+          ]
+        },
+        "difficultyName": "hard",
+        "levelId": "ks7c0k3zepxqv0zgwm5545wwv181zmpp",
+        "order": 20,
+        "question": "She abstained {from} speaking the truth.",
+        "questionCode": "558073",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1772156224977
+      },
+      {
+        "_creationTime": 1772156065695.621,
+        "_id": "kn7dhqw6b9rzt1h10cy6zg15jx81zc3d",
+        "createdAt": 1772156065695,
+        "data": {
+          "correctWords": [
+            "for",
+            "country"
+          ],
+          "explanation": "“Country” is the object of “for.”",
+          "selectMode": "multiple",
+          "statement": "The soldiers fought for their country."
+        },
+        "difficultyName": "hard",
+        "levelId": "ks7c0k3zepxqv0zgwm5545wwv181zmpp",
+        "order": 21,
+        "question": "Pick the preposition and its object.",
+        "questionCode": "963950",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1772156065695
+      },
+      {
+        "_creationTime": 1772156085189.2278,
+        "_id": "kn71bge62yj0k259tfww98mwhn81yhh9",
+        "createdAt": 1772156085189,
+        "data": {
+          "correctWords": [
+            "in"
+          ],
+          "explanation": "“In” has no object here; it functions as an adverb.",
+          "selectMode": "multiple",
+          "statement": "The train has not yet come in."
+        },
+        "difficultyName": "hard",
+        "levelId": "ks7c0k3zepxqv0zgwm5545wwv181zmpp",
+        "order": 22,
+        "question": "Pick the preposition used as an adverb.",
+        "questionCode": "778146",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1772156085189
+      },
+      {
+        "_creationTime": 1772156242946.7805,
+        "_id": "kn7ererqvnkvbsgy3zrs36gyj181yzkb",
+        "createdAt": 1772156242946,
+        "data": {
+          "distractors": [
+            "for",
+            "with",
+            "to"
+          ]
+        },
+        "difficultyName": "hard",
+        "levelId": "ks7c0k3zepxqv0zgwm5545wwv181zmpp",
+        "order": 23,
+        "question": "He is capable {of} great sacrifice.",
+        "questionCode": "712793",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1772156242946
+      },
+      {
+        "_creationTime": 1772155911433.1396,
+        "_id": "kn79n2p5wnhx8p0m5cjf6trbhn81y478",
+        "createdAt": 1772155911433,
+        "data": {
+          "correctIndex": 1,
+          "explanation": "The prepositional phrase modifies the noun “man.”",
+          "options": [
+            "adverbial phrase",
+            "prepositional phrase modifying “man”",
+            "conjunction phrase",
+            "object complement"
+          ]
+        },
+        "difficultyName": "hard",
+        "levelId": "ks7c0k3zepxqv0zgwm5545wwv181zmpp",
+        "order": 24,
+        "question": "In “He is a man of deep learning,” the phrase of deep learning functions as —",
+        "questionCode": "189978",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1772155911433
+      },
+      {
+        "_creationTime": 1772155933095.6309,
+        "_id": "kn79tvz0npq1x6akh2pz7rnz2h81z27q",
+        "createdAt": 1772155933095,
+        "data": {
+          "correctIndex": 2,
+          "explanation": "“Life” is the object of the preposition “to.”",
+          "options": [
+            "adapted",
+            "desert",
+            "life",
+            "camels"
+          ]
+        },
+        "difficultyName": "hard",
+        "levelId": "ks7c0k3zepxqv0zgwm5545wwv181zmpp",
+        "order": 25,
+        "question": "Which word is the object of the preposition in “Camels are adapted to life in the desert”?",
+        "questionCode": "907062",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1772155933095
+      },
+      {
+        "_creationTime": 1772156110404.0225,
+        "_id": "kn76nv6yhbzcpz04j8hqmmxq4581zevd",
+        "createdAt": 1772156110404,
+        "data": {
+          "correctWords": [
+            "of",
+            "poetry"
+          ],
+          "explanation": "“Poetry” is the object of “of.”",
+          "selectMode": "multiple",
+          "statement": "He is enamored of classical poetry."
+        },
+        "difficultyName": "hard",
+        "levelId": "ks7c0k3zepxqv0zgwm5545wwv181zmpp",
+        "order": 26,
+        "question": "Pick the preposition and its object.",
+        "questionCode": "603985",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1772156110404
+      },
+      {
+        "_creationTime": 1772156251678.3208,
+        "_id": "kn76jknhsw5rh50tjkbg2jr0yh81yz9j",
+        "createdAt": 1772156251678,
+        "data": {
+          "distractors": [
+            "into",
+            "at",
+            "beside"
+          ]
+        },
+        "difficultyName": "hard",
+        "levelId": "ks7c0k3zepxqv0zgwm5545wwv181zmpp",
+        "order": 27,
+        "question": "The soldiers marched {across} the field.",
+        "questionCode": "528584",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1772156251678
+      },
+      {
+        "_creationTime": 1772155956197.3074,
+        "_id": "kn72c9j4bq0aayrypp65evq6hx81zg76",
+        "createdAt": 1772155956197,
+        "data": {
+          "correctIndex": 2,
+          "explanation": "“Concerning” is a participle used as a preposition meaning “regarding.”",
+          "options": [
+            "verb",
+            "adjective",
+            "participial preposition",
+            "adverb"
+          ]
+        },
+        "difficultyName": "hard",
+        "levelId": "ks7c0k3zepxqv0zgwm5545wwv181zmpp",
+        "order": 28,
+        "question": "In “Concerning yesterday’s meeting, no decision was reached,” the word concerning functions as —",
+        "questionCode": "492755",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1772155956197
+      },
+      {
+        "_creationTime": 1772156160718.3142,
+        "_id": "kn71vd15zc2as03bvabgpz97hn81z4tp",
+        "createdAt": 1772156160718,
+        "data": {
+          "correctWords": [
+            "to",
+            "diligence",
+            "and",
+            "perseverance"
+          ],
+          "explanation": "“Diligence and perseverance” form a compound object of “to.”",
+          "selectMode": "multiple",
+          "statement": "Few things are impossible to diligence and perseverance."
+        },
+        "difficultyName": "hard",
+        "levelId": "ks7c0k3zepxqv0zgwm5545wwv181zmpp",
+        "order": 29,
+        "question": "Pick the preposition and its object.",
+        "questionCode": "368693",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1772156160718
+      },
+      {
+        "_creationTime": 1772156260880.3228,
+        "_id": "kn728j6tm14ef8k3gk4e51w1v181z0na",
+        "createdAt": 1772156260880,
+        "data": {
+          "distractors": [
+            "before",
+            "never",
+            "yesterday"
+          ]
+        },
+        "difficultyName": "hard",
+        "levelId": "ks7c0k3zepxqv0zgwm5545wwv181zmpp",
+        "order": 30,
+        "question": "Respecting your request, I shall reply {soon}.",
+        "questionCode": "825054",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1772156260880
+      }
+    ],
+    "medium": [
+      {
+        "_creationTime": 1772154964737.1099,
+        "_id": "kn77a9f5m08bb05snwbs81jkvs81y25n",
+        "createdAt": 1772154964737,
+        "data": {
+          "correctWords": [
+            "in",
+            "stable"
+          ],
+          "explanation": "“In” governs “the stable”",
+          "selectMode": "multiple",
+          "statement": "The horse is in the stable."
+        },
+        "difficultyName": "medium",
+        "levelId": "ks7c0k3zepxqv0zgwm5545wwv181zmpp",
+        "order": 1,
+        "question": "Pick the preposition and its object.",
+        "questionCode": "605359",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1772154964737
+      },
+      {
+        "_creationTime": 1772154524187.7253,
+        "_id": "kn73phnvghqef59tshs0ggje6981yhk6",
+        "createdAt": 1772154524187,
+        "data": {
+          "correctIndex": 2,
+          "explanation": "Here “up” shows relation between “climbing” and “the ladder” — it governs the noun “ladder”",
+          "options": [
+            "a preposition only",
+            "an adverb only",
+            "a preposition governing “ladder”",
+            "a conjunction"
+          ]
+        },
+        "difficultyName": "medium",
+        "levelId": "ks7c0k3zepxqv0zgwm5545wwv181zmpp",
+        "order": 2,
+        "question": "In “The little boy climbed up the ladder,” the word “up” functions as —",
+        "questionCode": "352914",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1772154524187
+      },
+      {
+        "_creationTime": 1772154981715.8232,
+        "_id": "kn76ckgaz3dkb480r3rcrv59bn81z7vh",
+        "createdAt": 1772154981715,
+        "data": {
+          "correctWords": [
+            "without",
+            "thorn"
+          ],
+          "explanation": "“Without” governs “a thorn”",
+          "selectMode": "multiple",
+          "statement": "Have you seen a rose without a thorn?"
+        },
+        "difficultyName": "medium",
+        "levelId": "ks7c0k3zepxqv0zgwm5545wwv181zmpp",
+        "order": 3,
+        "question": "Pick the preposition and its object.",
+        "questionCode": "178241",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1772154981715
+      },
+      {
+        "_creationTime": 1772155326878.1511,
+        "_id": "kn78tt0q650w5j7kct9y85g0f181zg5y",
+        "createdAt": 1772155326878,
+        "data": {
+          "distractors": [
+            "in",
+            "during",
+            "for"
+          ]
+        },
+        "difficultyName": "medium",
+        "levelId": "ks7c0k3zepxqv0zgwm5545wwv181zmpp",
+        "order": 4,
+        "question": "He returned {after} a year.",
+        "questionCode": "465441",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1772155326878
+      },
+      {
+        "_creationTime": 1772154560369.0884,
+        "_id": "kn72rxbbvb56mkdyv3x6wj980d81ycvm",
+        "createdAt": 1772154560369,
+        "data": {
+          "correctIndex": 0,
+          "explanation": "“Round” (meaning around) fits the example “There is a wall round it.”",
+          "options": [
+            "round",
+            "through",
+            "along",
+            "at"
+          ]
+        },
+        "difficultyName": "medium",
+        "levelId": "ks7c0k3zepxqv0zgwm5545wwv181zmpp",
+        "order": 5,
+        "question": "Which preposition completes: “There is a wall ___ it.”",
+        "questionCode": "354848",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1772154560369
+      },
+      {
+        "_creationTime": 1772155343829.68,
+        "_id": "kn72bhwf36fkfzbmsh41shj97h81zc44",
+        "createdAt": 1772155343829,
+        "data": {
+          "distractors": [
+            "with",
+            "about",
+            "for"
+          ]
+        },
+        "difficultyName": "medium",
+        "levelId": "ks7c0k3zepxqv0zgwm5545wwv181zmpp",
+        "order": 6,
+        "question": "Have you seen a rose {without} a thorn?",
+        "questionCode": "153132",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1772155343829
+      },
+      {
+        "_creationTime": 1772155335191.2708,
+        "_id": "kn76jmb8svq2d3zes8zmy2zh8181yvy8",
+        "createdAt": 1772155335191,
+        "data": {
+          "distractors": [
+            "across",
+            "onto",
+            "by"
+          ]
+        },
+        "difficultyName": "medium",
+        "levelId": "ks7c0k3zepxqv0zgwm5545wwv181zmpp",
+        "order": 7,
+        "question": "The horse jumped {over} the hedge.",
+        "questionCode": "344612",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1772155335191
+      },
+      {
+        "_creationTime": 1772154586973.6963,
+        "_id": "kn7e69n0z7rc6tr9c2cn0169vx81y66a",
+        "createdAt": 1772154586973,
+        "data": {
+          "correctIndex": 0,
+          "explanation": "First sentence uses “before” as an adverb; second uses it as preposition governing “me”",
+          "options": [
+            "adverb; preposition",
+            "preposition; adverb",
+            "conjunction; preposition",
+            "noun; verb"
+          ]
+        },
+        "difficultyName": "medium",
+        "levelId": "ks7c0k3zepxqv0zgwm5545wwv181zmpp",
+        "order": 8,
+        "question": "Choose the correct pair: In “I have heard that before.” vs “He arrived a few minutes before me.” — “before” is:",
+        "questionCode": "136829",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1772154586973
+      },
+      {
+        "_creationTime": 1772155085525.3508,
+        "_id": "kn7czx1by10jtcbw0657s4f5ts81z9mz",
+        "createdAt": 1772155085525,
+        "data": {
+          "correctWords": [
+            "under",
+            "bed"
+          ],
+          "explanation": "“Under” governs “the bed”",
+          "selectMode": "multiple",
+          "statement": "The cat is hiding under the bed."
+        },
+        "difficultyName": "medium",
+        "levelId": "ks7c0k3zepxqv0zgwm5545wwv181zmpp",
+        "order": 9,
+        "question": "Pick the preposition and its object.",
+        "questionCode": "898647",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1772155085525
+      },
+      {
+        "_creationTime": 1772155165634.8528,
+        "_id": "kn7dhcbtjayqa27b90c6fs8mjn81yt9w",
+        "createdAt": 1772155165635,
+        "data": {
+          "correctWords": [
+            "beside",
+            "grandmother"
+          ],
+          "explanation": "“Beside” indicates position next to and governs “grandmother.”",
+          "selectMode": "multiple",
+          "statement": "She sat beside her grandmother during the ceremony."
+        },
+        "difficultyName": "medium",
+        "levelId": "ks7c0k3zepxqv0zgwm5545wwv181zmpp",
+        "order": 10,
+        "question": "Pick the preposition and its object.",
+        "questionCode": "991751",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1772155165635
+      },
+      {
+        "_creationTime": 1772155364389.3027,
+        "_id": "kn799j9jxpgbj20h25yr7rfqbd81z33p",
+        "createdAt": 1772155364389,
+        "data": {
+          "distractors": [
+            "on",
+            "at",
+            "by"
+          ]
+        },
+        "difficultyName": "medium",
+        "levelId": "ks7c0k3zepxqv0zgwm5545wwv181zmpp",
+        "order": 11,
+        "question": "Little Jack Horner sat {in} a corner.",
+        "questionCode": "117003",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1772155364389
+      },
+      {
+        "_creationTime": 1772155185157.9314,
+        "_id": "kn7atffp886w1ndn0gbar95a2581yy04",
+        "createdAt": 1772155185158,
+        "data": {
+          "correctWords": [
+            "for",
+            "mistake"
+          ],
+          "explanation": "“For” governs “mistake,” forming the prepositional phrase.",
+          "selectMode": "multiple",
+          "statement": "He apologized for his careless mistake."
+        },
+        "difficultyName": "medium",
+        "levelId": "ks7c0k3zepxqv0zgwm5545wwv181zmpp",
+        "order": 12,
+        "question": "Pick the preposition and its object.",
+        "questionCode": "213835",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1772155185158
+      },
+      {
+        "_creationTime": 1772154647087.5059,
+        "_id": "kn77egekbk68gt2tqc2bawfaf581z7w8",
+        "createdAt": 1772154647087,
+        "data": {
+          "correctIndex": 0,
+          "explanation": "“Citizen of” is the correct collocation",
+          "options": [
+            "of",
+            "for",
+            "in",
+            "with"
+          ]
+        },
+        "difficultyName": "medium",
+        "levelId": "ks7c0k3zepxqv0zgwm5545wwv181zmpp",
+        "order": 13,
+        "question": "Which preposition fits: “John Gilpin was a citizen ___ credit and renown.”",
+        "questionCode": "767816",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1772154647087
+      },
+      {
+        "_creationTime": 1772155372752.1558,
+        "_id": "kn7b7b6fxz5fjtvpnr2kw0523h81zjgj",
+        "createdAt": 1772155372752,
+        "data": {
+          "distractors": [
+            "from",
+            "with",
+            "about"
+          ]
+        },
+        "difficultyName": "medium",
+        "levelId": "ks7c0k3zepxqv0zgwm5545wwv181zmpp",
+        "order": 14,
+        "question": "I tried to reason him {out of} his fears.",
+        "questionCode": "961735",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1772155372752
+      },
+      {
+        "_creationTime": 1772155206306.943,
+        "_id": "kn711x4c1v89cx5tpkecds1hm981z6ab",
+        "createdAt": 1772155206307,
+        "data": {
+          "correctWords": [
+            "on",
+            "wall"
+          ],
+          "explanation": "\"On” shows position and governs “wall.”",
+          "selectMode": "multiple",
+          "statement": "The painting on the wall was extremely valuable."
+        },
+        "difficultyName": "medium",
+        "levelId": "ks7c0k3zepxqv0zgwm5545wwv181zmpp",
+        "order": 15,
+        "question": "Pick the preposition and its object.",
+        "questionCode": "152946",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1772155206307
+      },
+      {
+        "_creationTime": 1772154684188.4045,
+        "_id": "kn7ef0011q9k0p5v93ppy14emh81zfs2",
+        "createdAt": 1772154684188,
+        "data": {
+          "correctIndex": 2,
+          "explanation": "“Over” indicates movement across an obstacle",
+          "options": [
+            "in",
+            "on",
+            "over",
+            "by"
+          ]
+        },
+        "difficultyName": "medium",
+        "levelId": "ks7c0k3zepxqv0zgwm5545wwv181zmpp",
+        "order": 16,
+        "question": "Which preposition completes: “The horse jumped ___ the hedge.”",
+        "questionCode": "599542",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1772154684188
+      },
+      {
+        "_creationTime": 1772154718067.8955,
+        "_id": "kn75tx0t1wh5mbxkc7edwggm2h81ydvf",
+        "createdAt": 1772154718067,
+        "data": {
+          "correctIndex": 1,
+          "explanation": "object of preposition is “a name”",
+          "options": [
+            "of",
+            "without",
+            "for",
+            "to"
+          ]
+        },
+        "difficultyName": "medium",
+        "levelId": "ks7c0k3zepxqv0zgwm5545wwv181zmpp",
+        "order": 17,
+        "question": "Choose the correct preposition: “One crowded hour of glorious life is worth an age ___ a name.”",
+        "questionCode": "255236",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1772154718067
+      },
+      {
+        "_creationTime": 1772155382095.735,
+        "_id": "kn71ch6q00cj5ghcxprm81ajdn81ypjp",
+        "createdAt": 1772155382095,
+        "data": {
+          "distractors": [
+            "on",
+            "by",
+            "at"
+          ]
+        },
+        "difficultyName": "medium",
+        "levelId": "ks7c0k3zepxqv0zgwm5545wwv181zmpp",
+        "order": 18,
+        "question": "The train is {in}. (when used as adverb)",
+        "questionCode": "740012",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1772155382095
+      },
+      {
+        "_creationTime": 1772155220911.913,
+        "_id": "kn79gebkzjgapth2fjhzz1adf981zpwx",
+        "createdAt": 1772155220912,
+        "data": {
+          "correctWords": [
+            "of",
+            "music"
+          ],
+          "explanation": "“Fond of” is a fixed expression; “of” governs “music.”",
+          "selectMode": "multiple",
+          "statement": "She is fond of classical music."
+        },
+        "difficultyName": "medium",
+        "levelId": "ks7c0k3zepxqv0zgwm5545wwv181zmpp",
+        "order": 19,
+        "question": "Pick the preposition and its object.",
+        "questionCode": "959597",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1772155220912
+      },
+      {
+        "_creationTime": 1772155399692.372,
+        "_id": "kn7fyhsjq497hmg4bbpf3xcs4h81zn0c",
+        "createdAt": 1772155399692,
+        "data": {
+          "distractors": [
+            "in",
+            "under",
+            "beside"
+          ]
+        },
+        "difficultyName": "medium",
+        "levelId": "ks7c0k3zepxqv0zgwm5545wwv181zmpp",
+        "order": 20,
+        "question": "The book lies {on} the table.",
+        "questionCode": "348335",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1772155399692
+      },
+      {
+        "_creationTime": 1772154765355.8635,
+        "_id": "kn78ppkpfpz8jqerfn6c0xb88d81ynzd",
+        "createdAt": 1772154765356,
+        "data": {
+          "correctIndex": 3,
+          "explanation": "",
+          "options": [
+            "about",
+            "with",
+            "from",
+            "out"
+          ]
+        },
+        "difficultyName": "medium",
+        "levelId": "ks7c0k3zepxqv0zgwm5545wwv181zmpp",
+        "order": 21,
+        "question": "In “I tried to reason him ___ of his fears,” which preposition completes?",
+        "questionCode": "997237",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1772154765356
+      },
+      {
+        "_creationTime": 1772155236880.9148,
+        "_id": "kn70pkk2m5s3y1qqakepk8ak1181zyk4",
+        "createdAt": 1772155236881,
+        "data": {
+          "correctWords": [
+            "on",
+            "action"
+          ],
+          "explanation": "“Insist on” takes the object “action.”",
+          "selectMode": "multiple",
+          "statement": "He insisted on immediate action."
+        },
+        "difficultyName": "medium",
+        "levelId": "ks7c0k3zepxqv0zgwm5545wwv181zmpp",
+        "order": 22,
+        "question": "Pick the preposition and its object.",
+        "questionCode": "526433",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1772155236881
+      },
+      {
+        "_creationTime": 1772154788256.4238,
+        "_id": "kn7222mbqsr05emqxfnpjs5qr981zb8q",
+        "createdAt": 1772154788256,
+        "data": {
+          "correctIndex": 2,
+          "explanation": "“Weak in arithmetic” is standard",
+          "options": [
+            "about",
+            "for",
+            "in",
+            "with"
+          ]
+        },
+        "difficultyName": "medium",
+        "levelId": "ks7c0k3zepxqv0zgwm5545wwv181zmpp",
+        "order": 23,
+        "question": "Which preposition pairs correctly: “He is weak ___ arithmetic.”",
+        "questionCode": "113093",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1772154788256
+      },
+      {
+        "_creationTime": 1772154914895.9172,
+        "_id": "kn79h007yv95q451de8qch5wz981ye96",
+        "createdAt": 1772154914895,
+        "data": {
+          "correctIndex": 3,
+          "explanation": "The noun following preposition is the object — “table” is object of “on”",
+          "options": [
+            "book",
+            "lies",
+            "on",
+            "table"
+          ]
+        },
+        "difficultyName": "medium",
+        "levelId": "ks7c0k3zepxqv0zgwm5545wwv181zmpp",
+        "order": 24,
+        "question": "Which is object of preposition in “The book lies on the table.”?",
+        "questionCode": "459060",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1772154914895
+      },
+      {
+        "_creationTime": 1772155391197.8508,
+        "_id": "kn77qw254ss7wkz1c6k9f5befd81yv2t",
+        "createdAt": 1772155391198,
+        "data": {
+          "distractors": [
+            "for",
+            "to",
+            "with"
+          ]
+        },
+        "difficultyName": "medium",
+        "levelId": "ks7c0k3zepxqv0zgwm5545wwv181zmpp",
+        "order": 25,
+        "question": "He looked {at} the sky.",
+        "questionCode": "866072",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1772155391198
+      },
+      {
+        "_creationTime": 1772155254230.9868,
+        "_id": "kn7fdsebda5f3epmsbdgmtfsr581yhc6",
+        "createdAt": 1772155254231,
+        "data": {
+          "correctWords": [
+            "into",
+            "box"
+          ],
+          "explanation": "“Into” indicates movement to the inside and governs “box.”",
+          "selectMode": "multiple",
+          "statement": "The cat jumped into the empty box."
+        },
+        "difficultyName": "medium",
+        "levelId": "ks7c0k3zepxqv0zgwm5545wwv181zmpp",
+        "order": 26,
+        "question": "Pick the preposition and its object.",
+        "questionCode": "345714",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1772155254231
+      },
+      {
+        "_creationTime": 1772155408635.8213,
+        "_id": "kn7as3k4bn7f474ndaxfrhjx1581y4pr",
+        "createdAt": 1772155408635,
+        "data": {
+          "distractors": [
+            "of",
+            "in",
+            "for"
+          ]
+        },
+        "difficultyName": "medium",
+        "levelId": "ks7c0k3zepxqv0zgwm5545wwv181zmpp",
+        "order": 27,
+        "question": "One crowded hour of glorious life is worth an age {without} a name.",
+        "questionCode": "672639",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1772155408635
+      },
+      {
+        "_creationTime": 1772154950004.5054,
+        "_id": "kn79v5q56hcpb7my5w8y2rchgh81ydz2",
+        "createdAt": 1772154950004,
+        "data": {
+          "correctIndex": 0,
+          "explanation": "“Returned after a year” is the phrasing",
+          "options": [
+            "after",
+            "for",
+            "in",
+            "by"
+          ]
+        },
+        "difficultyName": "medium",
+        "levelId": "ks7c0k3zepxqv0zgwm5545wwv181zmpp",
+        "order": 28,
+        "question": "Which preposition best completes: “She returned ___ a year.”",
+        "questionCode": "927516",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1772154950004
+      },
+      {
+        "_creationTime": 1772155281574.09,
+        "_id": "kn7ej5gt5kdrzmbh3971kthr4581y3v2",
+        "createdAt": 1772155281574,
+        "data": {
+          "correctWords": [
+            "inside",
+            "drawer"
+          ],
+          "explanation": "“Inside” governs “drawer.”",
+          "selectMode": "multiple",
+          "statement": "The documents were placed inside the drawer."
+        },
+        "difficultyName": "medium",
+        "levelId": "ks7c0k3zepxqv0zgwm5545wwv181zmpp",
+        "order": 29,
+        "question": "Pick the preposition and its object.",
+        "questionCode": "359900",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1772155281574
+      },
+      {
+        "_creationTime": 1772155423936.0176,
+        "_id": "kn733f812v0243533048jgega581zywn",
+        "createdAt": 1772155423936,
+        "data": {
+          "distractors": [
+            "from",
+            "out",
+            "by"
+          ]
+        },
+        "difficultyName": "medium",
+        "levelId": "ks7c0k3zepxqv0zgwm5545wwv181zmpp",
+        "order": 30,
+        "question": "The driver jumped {off} the car.",
+        "questionCode": "636023",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1772155423936
+      }
+    ]
+  }
+}
