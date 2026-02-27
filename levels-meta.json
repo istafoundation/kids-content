@@ -721,5 +721,34 @@
     ],
     "totalQuestions": 90,
     "questionsVersion": 152
+  },
+  {
+    "_id": "ks7d7m6ft5ysda4r95nx805hr581zty2",
+    "levelNumber": 25,
+    "name": "Intermediate Adverbs",
+    "groupId": "mh76vsmvqn4b6x5h2vnknst8fx80p099",
+    "isEnabled": true,
+    "difficulties": [
+      {
+        "displayName": "Easy",
+        "name": "easy",
+        "order": 1,
+        "requiredScore": 75
+      },
+      {
+        "displayName": "Medium",
+        "name": "medium",
+        "order": 2,
+        "requiredScore": 55
+      },
+      {
+        "displayName": "Hard",
+        "name": "hard",
+        "order": 3,
+        "requiredScore": 30
+      }
+    ],
+    "totalQuestions": 90,
+    "questionsVersion": 148
   }
 ]

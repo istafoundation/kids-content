@@ -1,0 +1,1963 @@
+{
+  "levelId": "ks7d7m6ft5ysda4r95nx805hr581zty2",
+  "version": 148,
+  "publishedAt": 1772153129802,
+  "questions": {
+    "easy": [
+      {
+        "_creationTime": 1772150796233.8367,
+        "_id": "kn72d4dpem1qdrb1t6zny2pyjh81yrm5",
+        "createdAt": 1772150796233,
+        "data": {
+          "correctIndex": 2,
+          "explanation": "“early” is the positive degree; comparative is “earlier” and superlative “earliest.”",
+          "options": [
+            "earlier",
+            "earliest",
+            "early",
+            "more early"
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks7d7m6ft5ysda4r95nx805hr581zty2",
+        "order": 1,
+        "question": "Which is the positive degree of the adverb used in this sentence — “Rama came ___ this morning.”?",
+        "questionCode": "277533",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1772150796233
+      },
+      {
+        "_creationTime": 1772151353340.6367,
+        "_id": "kn7by6556rt5cw9z6z9258zz8581yn06",
+        "createdAt": 1772151353340,
+        "data": {
+          "distractors": [
+            "early",
+            "earliest",
+            "most early"
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks7d7m6ft5ysda4r95nx805hr581zty2",
+        "order": 2,
+        "question": "He came {earlier} than I expected.",
+        "questionCode": "800090",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1772151353340
+      },
+      {
+        "_creationTime": 1772151232568.4978,
+        "_id": "kn7a8tf90knm5g2wm7jmsnjzrn81ytfj",
+        "createdAt": 1772151232568,
+        "data": {
+          "distractors": [
+            "more often",
+            "most often"
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks7d7m6ft5ysda4r95nx805hr581zty2",
+        "order": 3,
+        "question": "I {ofter} meet him near my house.",
+        "questionCode": "346031",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1772151232568
+      },
+      {
+        "_creationTime": 1772151097050.8875,
+        "_id": "kn72w8e86npk0fqas59ge63v8h81ys90",
+        "createdAt": 1772151097050,
+        "data": {
+          "correctWords": [
+            "very",
+            "clearly"
+          ],
+          "explanation": "“clearly” (manner) modified by degree adverb “very.”",
+          "selectMode": "multiple",
+          "statement": "She spoke very clearly in class."
+        },
+        "difficultyName": "easy",
+        "levelId": "ks7d7m6ft5ysda4r95nx805hr581zty2",
+        "order": 4,
+        "question": "Pick the adverb of manner.",
+        "questionCode": "305233",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1772151097050
+      },
+      {
+        "_creationTime": 1772150826982.6604,
+        "_id": "kn7ayc5wxxp9eccyhnypr653d181ykxy",
+        "createdAt": 1772150826982,
+        "data": {
+          "correctIndex": 1,
+          "explanation": "Adverbs typically modify verbs, adjectives, or other adverbs",
+          "options": [
+            "nouns",
+            "verbs, adjectives, or other adverbs",
+            "prepositions",
+            "determiners"
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks7d7m6ft5ysda4r95nx805hr581zty2",
+        "order": 5,
+        "question": "Adverbs formed from adjectives by adding -ly usually modify:",
+        "questionCode": "602390",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1772150826982
+      },
+      {
+        "_creationTime": 1772151361907.6492,
+        "_id": "kn7dhv1mgkjdc6s10y3r7918vn81z1jp",
+        "createdAt": 1772151361907,
+        "data": {
+          "distractors": [
+            "good",
+            "wellly",
+            "badly"
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks7d7m6ft5ysda4r95nx805hr581zty2",
+        "order": 6,
+        "question": "She writes {well}.",
+        "questionCode": "504926",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1772151361907
+      },
+      {
+        "_creationTime": 1772150851116.888,
+        "_id": "kn7ca5e516gy2z9efd0n2hd4cs81z2rm",
+        "createdAt": 1772150851116,
+        "data": {
+          "correctIndex": 1,
+          "explanation": "Adverbs ending in -ly form comparatives with “more” (more swiftly).",
+          "options": [
+            "swiftlier",
+            "more swiftly",
+            "swiftlier than",
+            "swiftlyer"
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks7d7m6ft5ysda4r95nx805hr581zty2",
+        "order": 7,
+        "question": "Which is the correct comparative form of “swiftly”?",
+        "questionCode": "808825",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1772150851116
+      },
+      {
+        "_creationTime": 1772151113584.3015,
+        "_id": "kn7dep7h2n3vgp6mf6ggnn4wrs81y51z",
+        "createdAt": 1772151113584,
+        "data": {
+          "correctWords": [
+            "always"
+          ],
+          "explanation": "“always” expresses frequency and modifies “does.”",
+          "selectMode": "multiple",
+          "statement": "He always does his homework."
+        },
+        "difficultyName": "easy",
+        "levelId": "ks7d7m6ft5ysda4r95nx805hr581zty2",
+        "order": 8,
+        "question": "Pick the adverb of frequency.",
+        "questionCode": "943208",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1772151113584
+      },
+      {
+        "_creationTime": 1772151128135.091,
+        "_id": "kn78c8qbxddayn8xcajx1hbxqs81yanc",
+        "createdAt": 1772151128135,
+        "data": {
+          "correctWords": [
+            "swiftly",
+            "flies"
+          ],
+          "explanation": "“swiftly” (adverb of manner) modifies the verb “flies.”",
+          "selectMode": "multiple",
+          "statement": "The crow flies swiftly."
+        },
+        "difficultyName": "easy",
+        "levelId": "ks7d7m6ft5ysda4r95nx805hr581zty2",
+        "order": 9,
+        "question": "Pick the adverb and the word it modifies.",
+        "questionCode": "511274",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1772151128135
+      },
+      {
+        "_creationTime": 1772150877755.1152,
+        "_id": "kn747cnqrgyh6pq07vh018edns81z40x",
+        "createdAt": 1772150877755,
+        "data": {
+          "correctIndex": 0,
+          "explanation": "“rather” modifies the adjective “lazy.”",
+          "options": [
+            "She is rather lazy.",
+            "He ran quickly.",
+            "They arrived late.",
+            "Birds fly high."
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks7d7m6ft5ysda4r95nx805hr581zty2",
+        "order": 10,
+        "question": "Which sentence shows an adverb modifying an adjective?",
+        "questionCode": "548656",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1772150877755
+      },
+      {
+        "_creationTime": 1772150927749.9067,
+        "_id": "kn7606s6cphw8t78p2zppt76r981y09a",
+        "createdAt": 1772150927750,
+        "data": {
+          "correctIndex": 3,
+          "explanation": "“badly” → comparative “worse”, superlative “worst”",
+          "options": [
+            "nicely",
+            "swiftlier",
+            "quicklier",
+            "badly"
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks7d7m6ft5ysda4r95nx805hr581zty2",
+        "order": 11,
+        "question": "Which of these adverbs is irregular in its comparison?",
+        "questionCode": "109094",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1772150927750
+      },
+      {
+        "_creationTime": 1772151250298.6997,
+        "_id": "kn7be3czkrhhez4typ7cm0jme181zfnn",
+        "createdAt": 1772151250298,
+        "data": {
+          "correctWords": [
+            "creditably",
+            "duty"
+          ],
+          "explanation": "“creditably” modifies the verb phrase “performed his duty.”",
+          "selectMode": "multiple",
+          "statement": "He performed his duty creditably."
+        },
+        "difficultyName": "easy",
+        "levelId": "ks7d7m6ft5ysda4r95nx805hr581zty2",
+        "order": 12,
+        "question": "Pick the adverb and its type.",
+        "questionCode": "957531",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1772151250298
+      },
+      {
+        "_creationTime": 1772151394917.8735,
+        "_id": "kn71hed64332y4jqqx0pcvv3a981zpf2",
+        "createdAt": 1772151394917,
+        "data": {
+          "distractors": [
+            "swift",
+            "more swift",
+            "swiftlyest"
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks7d7m6ft5ysda4r95nx805hr581zty2",
+        "order": 13,
+        "question": "Birds fly {swiftly}.",
+        "questionCode": "231740",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1772151394917
+      },
+      {
+        "_creationTime": 1772151265962.026,
+        "_id": "kn75nyzs45ca842pgxhrh7yv8n81yq6w",
+        "createdAt": 1772151265962,
+        "data": {
+          "correctWords": [
+            "rather",
+            "lazy"
+          ],
+          "explanation": "“rather” (degree adverb) modifies the adjective “lazy.”",
+          "selectMode": "multiple",
+          "statement": "Rama is a rather lazy boy."
+        },
+        "difficultyName": "easy",
+        "levelId": "ks7d7m6ft5ysda4r95nx805hr581zty2",
+        "order": 14,
+        "question": "Pick the adverb and the adjective it modifies.",
+        "questionCode": "220614",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1772151265962
+      },
+      {
+        "_creationTime": 1772151402849.6685,
+        "_id": "kn79gxh0yjc0r2hqds8jpht7a181yacm",
+        "createdAt": 1772151402849,
+        "data": {
+          "distractors": [
+            "sometimes",
+            "seldom",
+            "later"
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks7d7m6ft5ysda4r95nx805hr581zty2",
+        "order": 15,
+        "question": "He has {often} told me to be careful.",
+        "questionCode": "644031",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1772151402849
+      },
+      {
+        "_creationTime": 1772150950582.9485,
+        "_id": "kn7car56hhmsbtc21dxdqy50h181z6pp",
+        "createdAt": 1772150950583,
+        "data": {
+          "correctIndex": 2,
+          "explanation": "Frequency adverbs (always, often, never) are usually",
+          "options": [
+            "After the object",
+            "At the very end always",
+            "Before the verb it modifies",
+            "Immediately before a noun"
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks7d7m6ft5ysda4r95nx805hr581zty2",
+        "order": 16,
+        "question": "Where is an adverb of frequency usually placed?",
+        "questionCode": "621399",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1772150950583
+      },
+      {
+        "_creationTime": 1772151410471.6577,
+        "_id": "kn733egwnbys0y1hk832pbmn7n81y33s",
+        "createdAt": 1772151410471,
+        "data": {
+          "distractors": [
+            "never",
+            "rarely",
+            "seldom"
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks7d7m6ft5ysda4r95nx805hr581zty2",
+        "order": 17,
+        "question": "He is {always} cheerful.",
+        "questionCode": "410675",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1772151410471
+      },
+      {
+        "_creationTime": 1772151314224.6008,
+        "_id": "kn7b64g1xqw6bmqrzh694mpm6181ys09",
+        "createdAt": 1772151314224,
+        "data": {
+          "correctWords": [
+            "keenly",
+            "insult"
+          ],
+          "explanation": "“keenly” (manner) follows the object “insult” with transitive verb.",
+          "selectMode": "multiple",
+          "statement": "I feel this insult keenly."
+        },
+        "difficultyName": "easy",
+        "levelId": "ks7d7m6ft5ysda4r95nx805hr581zty2",
+        "order": 18,
+        "question": "Pick the adverb and its direct object (if any).",
+        "questionCode": "895692",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1772151314224
+      },
+      {
+        "_creationTime": 1772150971938.4163,
+        "_id": "kn76hzcpp0vdy9g7gm9h3ww6gs81zvy2",
+        "createdAt": 1772150971938,
+        "data": {
+          "correctIndex": 1,
+          "explanation": "“enough” follows the word it modifies (e.g., “He was rash enough…”).",
+          "options": [
+            "Before the adjective it modifies",
+            "After the word it modifies",
+            "At the start of sentence always",
+            "Before the verb only"
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks7d7m6ft5ysda4r95nx805hr581zty2",
+        "order": 19,
+        "question": "The adverb “enough” is normally placed:",
+        "questionCode": "249555",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1772150971938
+      },
+      {
+        "_creationTime": 1772151418519.2192,
+        "_id": "kn7b54etzc4nypq7jvksya3b9s81y63y",
+        "createdAt": 1772151418519,
+        "data": {
+          "distractors": [
+            "careful",
+            "carefuller",
+            "more careful"
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks7d7m6ft5ysda4r95nx805hr581zty2",
+        "order": 20,
+        "question": "She did the work {carefully}.",
+        "questionCode": "488924",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1772151418519
+      },
+      {
+        "_creationTime": 1772151295955.137,
+        "_id": "kn79dhrnar956vc78fwwbfs1yn81ymch",
+        "createdAt": 1772151295955,
+        "data": {
+          "correctWords": [
+            "Only",
+            "he"
+          ],
+          "explanation": "“only” before “he” restricts to “he and nobody else.”",
+          "selectMode": "multiple",
+          "statement": "Only he lent me a book."
+        },
+        "difficultyName": "easy",
+        "levelId": "ks7d7m6ft5ysda4r95nx805hr581zty2",
+        "order": 21,
+        "question": "Pick the adverb that is misplaced if you want to mean “only he and nobody else.”",
+        "questionCode": "334684",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1772151295955
+      },
+      {
+        "_creationTime": 1772151426156.182,
+        "_id": "kn7am4zvdhw46zh0vcftqh7m6981ysk4",
+        "createdAt": 1772151426156,
+        "data": {
+          "distractors": [
+            "quiet",
+            "more quiet",
+            "quietest"
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks7d7m6ft5ysda4r95nx805hr581zty2",
+        "order": 22,
+        "question": "He spoke {quietly} to the class.",
+        "questionCode": "937833",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1772151426156
+      },
+      {
+        "_creationTime": 1772150992723.2542,
+        "_id": "kn71sj72pxapf2xv7ye564mag581y95k",
+        "createdAt": 1772150992723,
+        "data": {
+          "correctIndex": 0,
+          "explanation": "For -ly adverbs superlative is formed with “most” (most neatly).",
+          "options": [
+            "most neatly",
+            "neatlyest",
+            "more neatlyest",
+            "neatlier"
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks7d7m6ft5ysda4r95nx805hr581zty2",
+        "order": 23,
+        "question": "Which is a correct superlative form?",
+        "questionCode": "715474",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1772150992723
+      },
+      {
+        "_creationTime": 1772151434664.9854,
+        "_id": "kn751gvagpz1tvkr5q0r630evh81z135",
+        "createdAt": 1772151434665,
+        "data": {
+          "distractors": [
+            "very",
+            "too",
+            "hardly"
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks7d7m6ft5ysda4r95nx805hr581zty2",
+        "order": 24,
+        "question": "You know well {enough} what I mean.",
+        "questionCode": "439618",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1772151434665
+      },
+      {
+        "_creationTime": 1772151329115.4675,
+        "_id": "kn71dc1k062fb8r8c9bz97be0h81yd6s",
+        "createdAt": 1772151329115,
+        "data": {
+          "correctWords": [
+            "late",
+            "arrived"
+          ],
+          "explanation": "“late” modifies the intransitive verb “arrived.”",
+          "selectMode": "multiple",
+          "statement": "They arrived late."
+        },
+        "difficultyName": "easy",
+        "levelId": "ks7d7m6ft5ysda4r95nx805hr581zty2",
+        "order": 25,
+        "question": "Pick the adverb and the verb it modifies.",
+        "questionCode": "833025",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1772151329115
+      },
+      {
+        "_creationTime": 1772151455182.1514,
+        "_id": "kn7ewrmd9gdx0a1982xjyt5sqh81zhnk",
+        "createdAt": 1772151455182,
+        "data": {
+          "distractors": [
+            "maybe",
+            "must"
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks7d7m6ft5ysda4r95nx805hr581zty2",
+        "order": 26,
+        "question": "I shall {certainly} miss him.",
+        "questionCode": "595165",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1772151455182
+      },
+      {
+        "_creationTime": 1772151343412.0298,
+        "_id": "kn757mm6wky3ytj7qywhgchj7d81y14f",
+        "createdAt": 1772151343412,
+        "data": {
+          "correctWords": [
+            "very",
+            "happy"
+          ],
+          "explanation": "“very” is a degree adverb modifying the adjective “happy.”",
+          "selectMode": "multiple",
+          "statement": "She is very happy today."
+        },
+        "difficultyName": "easy",
+        "levelId": "ks7d7m6ft5ysda4r95nx805hr581zty2",
+        "order": 27,
+        "question": "Pick the adverb that expresses degree.",
+        "questionCode": "964216",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1772151343412
+      },
+      {
+        "_creationTime": 1772151026213.8237,
+        "_id": "kn76071xa20e0z77hahdsf5q6181zmcp",
+        "createdAt": 1772151026213,
+        "data": {
+          "correctIndex": 3,
+          "explanation": "“often” is an adverb of frequency modifying “thought.”",
+          "options": [
+            "have",
+            "thought",
+            "marrying",
+            "often"
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks7d7m6ft5ysda4r95nx805hr581zty2",
+        "order": 28,
+        "question": "“I have often thought of marrying.” — Which word is the adverb?",
+        "questionCode": "691246",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1772151026213
+      },
+      {
+        "_creationTime": 1772151057924.038,
+        "_id": "kn70ft957pmqn1gb8k0p4ganvs81yeyw",
+        "createdAt": 1772151057924,
+        "data": {
+          "correctIndex": 3,
+          "explanation": "Placement of “only” changes meaning; each position is grammatical but changes focus/meaning.",
+          "options": [
+            "Only he lent me a book.",
+            "He only lent me a book.",
+            "He lent only me a book.",
+            "All of the above (each means different thing)"
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks7d7m6ft5ysda4r95nx805hr581zty2",
+        "order": 29,
+        "question": "Which sentence correctly places “only”?",
+        "questionCode": "879710",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1772151057924
+      },
+      {
+        "_creationTime": 1772151465877.3687,
+        "_id": "kn791v16856k3vv4qms11fkzns81zy0z",
+        "createdAt": 1772151465877,
+        "data": {
+          "distractors": [
+            "ever",
+            "often",
+            "always"
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks7d7m6ft5ysda4r95nx805hr581zty2",
+        "order": 30,
+        "question": "We {never} see them now.",
+        "questionCode": "971352",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1772151465877
+      }
+    ],
+    "hard": [
+      {
+        "_creationTime": 1772152053763.05,
+        "_id": "kn72j1ymakyhjaf9sn1a32njcx81yb9h",
+        "createdAt": 1772152053763,
+        "data": {
+          "correctIndex": 0,
+          "explanation": "Placement immediately before intended word avoids ambiguity — “I did only two sums” (not more).",
+          "options": [
+            "I did only two sums.",
+            "Only I did two sums.",
+            "Only I did two sums.",
+            "I did two only sums."
+          ]
+        },
+        "difficultyName": "hard",
+        "levelId": "ks7d7m6ft5ysda4r95nx805hr581zty2",
+        "order": 1,
+        "question": "Which sentence demonstrates why “only” should be placed immediately before the word it modifies?",
+        "questionCode": "939390",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1772152053763
+      },
+      {
+        "_creationTime": 1772152700957.2703,
+        "_id": "kn73m47qbdbh0f2v8g300s4e6181yr7x",
+        "createdAt": 1772152700957,
+        "data": {
+          "distractors": [
+            "only",
+            "when only",
+            "only he"
+          ]
+        },
+        "difficultyName": "hard",
+        "levelId": "ks7d7m6ft5ysda4r95nx805hr581zty2",
+        "order": 2,
+        "question": "I praise him {only when} he deserves it.",
+        "questionCode": "500534",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1772152700957
+      },
+      {
+        "_creationTime": 1772152365637.5593,
+        "_id": "kn7ch2t1mbp9rcynrp2d0v797x81zke4",
+        "createdAt": 1772152365637,
+        "data": {
+          "correctWords": [
+            "almost",
+            "to",
+            "the",
+            "top"
+          ],
+          "explanation": "“almost” modifies the prepositional phrase “to the top” indicating degree/extent.",
+          "selectMode": "multiple",
+          "statement": "He had got almost to the top when the rope broke."
+        },
+        "difficultyName": "hard",
+        "levelId": "ks7d7m6ft5ysda4r95nx805hr581zty2",
+        "order": 3,
+        "question": "Pick the adverb(s) and the word(s) they modify.",
+        "questionCode": "509565",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1772152365637
+      },
+      {
+        "_creationTime": 1772152380843.3943,
+        "_id": "kn7b9ebz3439bzcdvyqeyqdcd181ywer",
+        "createdAt": 1772152380843,
+        "data": {
+          "correctWords": [
+            "often",
+            "told"
+          ],
+          "explanation": "“often” placed between auxiliary “have” and principal “told.”",
+          "selectMode": "multiple",
+          "statement": "I have often told him to write neatly."
+        },
+        "difficultyName": "hard",
+        "levelId": "ks7d7m6ft5ysda4r95nx805hr581zty2",
+        "order": 4,
+        "question": "Pick the adverb pair showing correct placement with auxiliary + principal verb.",
+        "questionCode": "838180",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1772152380843
+      },
+      {
+        "_creationTime": 1772152718190.1082,
+        "_id": "kn755z4w1zv248bb4n7njny3h981yt7n",
+        "createdAt": 1772152718190,
+        "data": {
+          "distractors": [
+            "seldom or ever",
+            "seldom or sometimes",
+            "seldom and ever"
+          ]
+        },
+        "difficultyName": "hard",
+        "levelId": "ks7d7m6ft5ysda4r95nx805hr581zty2",
+        "order": 5,
+        "question": "We {seldom or never} see those forsaken who trust in God.",
+        "questionCode": "437936",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1772152718190
+      },
+      {
+        "_creationTime": 1772152074768.0283,
+        "_id": "kn7drj01e5hf3h8vsx989z7k3d81zmh9",
+        "createdAt": 1772152074768,
+        "data": {
+          "correctIndex": 1,
+          "explanation": "“only” before “me” restricts recipient to me alone.",
+          "options": [
+            "He merely lent it, didn't give it away.",
+            "He lent a book to me and nobody else.",
+            "He was the only one who lent a book.",
+            "He lent just books, no other things."
+          ]
+        },
+        "difficultyName": "hard",
+        "levelId": "ks7d7m6ft5ysda4r95nx805hr581zty2",
+        "order": 6,
+        "question": "Which of the following is a correct explanation of the sentence meaning change? “He lent only me a book.”",
+        "questionCode": "822374",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1772152074768
+      },
+      {
+        "_creationTime": 1772152394197.129,
+        "_id": "kn7fe8p9as1t8gn8r89wr9jvp581ydg7",
+        "createdAt": 1772152394197,
+        "data": {
+          "correctWords": [
+            "most",
+            "cruelly"
+          ],
+          "explanation": "“most” (degree) immediately precedes the adverb “cruelly.”",
+          "selectMode": "multiple",
+          "statement": "He struck the horse most cruelly."
+        },
+        "difficultyName": "hard",
+        "levelId": "ks7d7m6ft5ysda4r95nx805hr581zty2",
+        "order": 7,
+        "question": "Pick the adverb that should be placed immediately before the adjective.",
+        "questionCode": "541547",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1772152394197
+      },
+      {
+        "_creationTime": 1772152128974.5608,
+        "_id": "kn7a942xpkx1pkw5hsvmbwkp0581yev9",
+        "createdAt": 1772152128974,
+        "data": {
+          "correctIndex": 2,
+          "explanation": "Standard placement for manner adverb with infinitive is after verb or at sentence end; A is natural.",
+          "options": [
+            "The servant promised quickly to do it.",
+            "Quickly the servant promised to do it.",
+            "The servant promised to do it quickly.",
+            "The servant promised to quickly do it."
+          ]
+        },
+        "difficultyName": "hard",
+        "levelId": "ks7d7m6ft5ysda4r95nx805hr581zty2",
+        "order": 8,
+        "question": "Which sentence is correct if you want to express that the servant promised speed but not necessarily the manner?",
+        "questionCode": "196269",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1772152128974
+      },
+      {
+        "_creationTime": 1772152709201.641,
+        "_id": "kn74m8cwzdfhyx59rvkm1zqa7581y1as",
+        "createdAt": 1772152709201,
+        "data": {
+          "distractors": [
+            "only",
+            "three only",
+            "just three"
+          ]
+        },
+        "difficultyName": "hard",
+        "levelId": "ks7d7m6ft5ysda4r95nx805hr581zty2",
+        "order": 9,
+        "question": "He has slept {only three} hours.",
+        "questionCode": "256790",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1772152709201
+      },
+      {
+        "_creationTime": 1772152151049.643,
+        "_id": "kn71p6e9rwkk0my931kpracmh581zghv",
+        "createdAt": 1772152151049,
+        "data": {
+          "correctIndex": 1,
+          "explanation": "“quite” (degree) modifies the adverb “angrily.”",
+          "options": [
+            "spoke",
+            "angrily",
+            "he",
+            "nothing"
+          ]
+        },
+        "difficultyName": "hard",
+        "levelId": "ks7d7m6ft5ysda4r95nx805hr581zty2",
+        "order": 10,
+        "question": "In “He spoke quite angrily,” “quite” modifies:",
+        "questionCode": "347095",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1772152151049
+      },
+      {
+        "_creationTime": 1772152414535.9648,
+        "_id": "kn79zdk3sp6fzs8xcj4ghat1kd81zt0v",
+        "createdAt": 1772152414536,
+        "data": {
+          "correctWords": [
+            "Certainly",
+            "you"
+          ],
+          "explanation": "“Certainly” modifies the whole sentence/clause (sentence adverb).",
+          "selectMode": "multiple",
+          "statement": "Certainly, you are wrong."
+        },
+        "difficultyName": "hard",
+        "levelId": "ks7d7m6ft5ysda4r95nx805hr581zty2",
+        "order": 11,
+        "question": "Pick the adverb and show it modifies a clause/sentence.",
+        "questionCode": "426519",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1772152414536
+      },
+      {
+        "_creationTime": 1772152728354.61,
+        "_id": "kn7916gerj32kwsd0gh7ewh93n81yyq0",
+        "createdAt": 1772152728354,
+        "data": {
+          "distractors": [
+            "very",
+            "nearly",
+            "too"
+          ]
+        },
+        "difficultyName": "hard",
+        "levelId": "ks7d7m6ft5ysda4r95nx805hr581zty2",
+        "order": 12,
+        "question": "He {utterly} failed to complete the task.",
+        "questionCode": "528721",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1772152728354
+      },
+      {
+        "_creationTime": 1772152173717.59,
+        "_id": "kn7cp8w5e5nmwdk09wjg48zd3n81yc6j",
+        "createdAt": 1772152173717,
+        "data": {
+          "correctIndex": 3,
+          "explanation": "Both “I haven’t got any” (negation with any) and “I have got none” (affirmative with none) are acceptable; avoid “haven’t… none.”",
+          "options": [
+            "I haven’t got any of the papers.",
+            "I haven’t got any of the papers.",
+            "I haven’t got any of the papers.",
+            "Both A and B are acceptable depending on emphasis."
+          ]
+        },
+        "difficultyName": "hard",
+        "levelId": "ks7d7m6ft5ysda4r95nx805hr581zty2",
+        "order": 13,
+        "question": "Which is the best correction for a sentence using a double negative? “I haven’t got none of the papers.”",
+        "questionCode": "139163",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1772152173717
+      },
+      {
+        "_creationTime": 1772152451011.5842,
+        "_id": "kn70nhpec788ebac5fzjmzmy2181zae8",
+        "createdAt": 1772152451011,
+        "data": {
+          "correctWords": [
+            "ever",
+            "remember"
+          ],
+          "explanation": "Placement of “ever” is awkward; “we remember ever” is preferable",
+          "selectMode": "multiple",
+          "statement": "Quite the most remarkable article we ever remember to have read."
+        },
+        "difficultyName": "hard",
+        "levelId": "ks7d7m6ft5ysda4r95nx805hr581zty2",
+        "order": 14,
+        "question": "Pick the misused adverb in the sentence.",
+        "questionCode": "135635",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1772152451011
+      },
+      {
+        "_creationTime": 1772152737306.0398,
+        "_id": "kn77jhyyqphsqh8y5re8da78hs81zh34",
+        "createdAt": 1772152737306,
+        "data": {
+          "distractors": [
+            "too",
+            "very",
+            "much"
+          ]
+        },
+        "difficultyName": "hard",
+        "levelId": "ks7d7m6ft5ysda4r95nx805hr581zty2",
+        "order": 15,
+        "question": "Do not use {quite} in the sense of “very” or “to a considerable degree.”",
+        "questionCode": "282349",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1772152737306
+      },
+      {
+        "_creationTime": 1772152196259.5981,
+        "_id": "kn7caywqvtjszq1fdc5v5vxhhh81zcnr",
+        "createdAt": 1772152196259,
+        "data": {
+          "correctIndex": 0,
+          "explanation": "An adverb that modifies an entire sentence is often placed first for emphasis (e.g., Fortunately).",
+          "options": [
+            "Fortunately he was not hurt.",
+            "He fortunately was not hurt.",
+            "He was fortunately not hurt.",
+            "He was not fortunately hurt."
+          ]
+        },
+        "difficultyName": "hard",
+        "levelId": "ks7d7m6ft5ysda4r95nx805hr581zty2",
+        "order": 16,
+        "question": "Which sentence shows correct placement of an adverb modifying the whole sentence?",
+        "questionCode": "325612",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1772152196259
+      },
+      {
+        "_creationTime": 1772152590732.1375,
+        "_id": "kn72jeswmde3cdzzcgysc8z2an81zxpf",
+        "createdAt": 1772152590732,
+        "data": {
+          "correctWords": [
+            "only",
+            "found"
+          ],
+          "explanation": "Placement of \"only\" is awkward and changes the intended meaning; \"found only\" is preferable because the adverb should immediately precede the phrase it actually modifies (\"three mistakes,\" not the verb \"found\").",
+          "selectMode": "multiple",
+          "statement": "He only found three mistakes in the entire document."
+        },
+        "difficultyName": "hard",
+        "levelId": "ks7d7m6ft5ysda4r95nx805hr581zty2",
+        "order": 17,
+        "question": "Pick the misused adverb in the sentence.",
+        "questionCode": "498791",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1772152590732
+      },
+      {
+        "_creationTime": 1772152759338.3833,
+        "_id": "kn73n5pfd4hw69qp8shynvbp4581yyvc",
+        "createdAt": 1772152759338,
+        "data": {
+          "distractors": [
+            "very",
+            "much",
+            "quite"
+          ]
+        },
+        "difficultyName": "hard",
+        "levelId": "ks7d7m6ft5ysda4r95nx805hr581zty2",
+        "order": 18,
+        "question": "The adverb {too} means “more than enough.”",
+        "questionCode": "296468",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1772152759338
+      },
+      {
+        "_creationTime": 1772152217467.888,
+        "_id": "kn7ff0x7kta2xwk0wnytyabdd981yfk6",
+        "createdAt": 1772152217467,
+        "data": {
+          "correctIndex": 1,
+          "explanation": "“too” means more than enough; should not be used as synonym for “very.”",
+          "options": [
+            "Use “too” as synonym of “very” always.",
+            "Use “too” to mean “more than enough” and not as replacement for “very” or “much.”",
+            "Replace “very” with “too” in formal writing.",
+            "Use “too” to strengthen negatives."
+          ]
+        },
+        "difficultyName": "hard",
+        "levelId": "ks7d7m6ft5ysda4r95nx805hr581zty2",
+        "order": 19,
+        "question": "Which of these adverb usages is recommended on page 168 about “too” and “very”?",
+        "questionCode": "594975",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1772152217467
+      },
+      {
+        "_creationTime": 1772152624849.5725,
+        "_id": "kn71pk44ct739bhv1wfc7e7e6x81y8rn",
+        "createdAt": 1772152624849,
+        "data": {
+          "correctWords": [
+            "only",
+            "a",
+            "book"
+          ],
+          "explanation": "“only” before “a book” restricts what was lent (a book and nothing more).",
+          "selectMode": "multiple",
+          "statement": "He lent me only a book."
+        },
+        "difficultyName": "hard",
+        "levelId": "ks7d7m6ft5ysda4r95nx805hr581zty2",
+        "order": 20,
+        "question": "Pick the adverb and clause when “only” modifies the object not the verb.",
+        "questionCode": "838318",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1772152624849
+      },
+      {
+        "_creationTime": 1772152769490.9197,
+        "_id": "kn7ctzk83hyz1carh8a54h6hd181y30b",
+        "createdAt": 1772152769491,
+        "data": {
+          "distractors": [
+            "two only sums",
+            "only did two",
+            "did two only"
+          ]
+        },
+        "difficultyName": "hard",
+        "levelId": "ks7d7m6ft5ysda4r95nx805hr581zty2",
+        "order": 21,
+        "question": "I did {only two sums}. [Not, I only did two sums.]",
+        "questionCode": "647606",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1772152769491
+      },
+      {
+        "_creationTime": 1772152242022.3953,
+        "_id": "kn72gem6tmzqddcsntf3zds7p181yczp",
+        "createdAt": 1772152242022,
+        "data": {
+          "correctIndex": 2,
+          "explanation": "When a verb is transitive with an object following, the adverb often follows the object",
+          "options": [
+            "Adverb always precedes the object.",
+            "Adverb must be at sentence end.",
+            "Adverb usually follows the object.",
+            "Adverb replaces the object."
+          ]
+        },
+        "difficultyName": "hard",
+        "levelId": "ks7d7m6ft5ysda4r95nx805hr581zty2",
+        "order": 22,
+        "question": "Which is correct about adverb placement with a transitive verb and object?",
+        "questionCode": "838320",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1772152242022
+      },
+      {
+        "_creationTime": 1772152644102.3794,
+        "_id": "kn71trrrbb1j971stprdn2029h81yfb7",
+        "createdAt": 1772152644102,
+        "data": {
+          "correctWords": [
+            "enough",
+            "large"
+          ],
+          "explanation": "“enough” follows the word (adjective) it modifies, exception to immediate-before rule.",
+          "selectMode": "multiple",
+          "statement": "This is a house large enough for our purpose."
+        },
+        "difficultyName": "hard",
+        "levelId": "ks7d7m6ft5ysda4r95nx805hr581zty2",
+        "order": 23,
+        "question": "Pick the adverb and show its rule about “enough.”",
+        "questionCode": "554813",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1772152644102
+      },
+      {
+        "_creationTime": 1772152860939.2937,
+        "_id": "kn734gybx0pw8y1tf57zk7k6pd81z7dp",
+        "createdAt": 1772152860939,
+        "data": {
+          "distractors": [
+            "three only pages",
+            "only read three",
+            "read three only"
+          ]
+        },
+        "difficultyName": "hard",
+        "levelId": "ks7d7m6ft5ysda4r95nx805hr581zty2",
+        "order": 24,
+        "question": "She read {only three pages}.",
+        "questionCode": "706047",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1772152860939
+      },
+      {
+        "_creationTime": 1772152298639.2764,
+        "_id": "kn72annqb8hzqryt3q45je7zx581y7rz",
+        "createdAt": 1772152298639,
+        "data": {
+          "correctIndex": 0,
+          "explanation": "“Seldom or never” is correct; “seldom or ever” is incorrect.",
+          "options": [
+            "We seldom or never see those forsaken.",
+            "We seldom or ever see those forsaken.",
+            "We seldom or never not see those forsaken.",
+            "We seldom or ever not see those forsaken."
+          ]
+        },
+        "difficultyName": "hard",
+        "levelId": "ks7d7m6ft5ysda4r95nx805hr581zty2",
+        "order": 25,
+        "question": "Which sentence demonstrates a correct use of “ever/never” per the notes?",
+        "questionCode": "750078",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1772152298639
+      },
+      {
+        "_creationTime": 1772152881497.4358,
+        "_id": "kn7aqsyb1r5e0ckkq6w46309sd81zt1t",
+        "createdAt": 1772152881497,
+        "data": {
+          "distractors": [
+            "never",
+            "seldom",
+            "hardly"
+          ]
+        },
+        "difficultyName": "hard",
+        "levelId": "ks7d7m6ft5ysda4r95nx805hr581zty2",
+        "order": 26,
+        "question": "The adverb {ever} is sometimes misused for never.",
+        "questionCode": "204573",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1772152881497
+      },
+      {
+        "_creationTime": 1772152665138.0864,
+        "_id": "kn711zfx4ysd6pzdgabwkmrc9d81ys7y",
+        "createdAt": 1772152665138,
+        "data": {
+          "correctWords": [
+            "Only",
+            "he"
+          ],
+          "explanation": "“Only” before “he” restricts subject to him alone.",
+          "selectMode": "multiple",
+          "statement": "Only he lent me a book."
+        },
+        "difficultyName": "hard",
+        "levelId": "ks7d7m6ft5ysda4r95nx805hr581zty2",
+        "order": 27,
+        "question": "Pick the adverb and the correct placement to convey “he and nobody else.”",
+        "questionCode": "435472",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1772152665138
+      },
+      {
+        "_creationTime": 1772152326123.9702,
+        "_id": "kn7avvqsde59ks0q50tkqcszw981zrxy",
+        "createdAt": 1772152326124,
+        "data": {
+          "correctIndex": 2,
+          "explanation": "“only” before the clause “when he deserves it” limits praise to those circumstances.",
+          "options": [
+            "Only I praise him when he deserves it.",
+            "I only praise him when he deserves it.",
+            "I praise him only when he deserves it.",
+            "I praise only him when he deserves it."
+          ]
+        },
+        "difficultyName": "hard",
+        "levelId": "ks7d7m6ft5ysda4r95nx805hr581zty2",
+        "order": 28,
+        "question": "Which placement of “only” would mean “I praise him in those circumstances and not otherwise”?",
+        "questionCode": "149405",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1772152326124
+      },
+      {
+        "_creationTime": 1772152685295.818,
+        "_id": "kn7ak45ebqx7n9enpak0h2djn581zm6k",
+        "createdAt": 1772152685295,
+        "data": {
+          "correctWords": [
+            "quite",
+            "angrily"
+          ],
+          "explanation": "“quite” (degree) modifies the adverb “angrily.”",
+          "selectMode": "multiple",
+          "statement": "He spoke quite angrily."
+        },
+        "difficultyName": "hard",
+        "levelId": "ks7d7m6ft5ysda4r95nx805hr581zty2",
+        "order": 29,
+        "question": "Pick the adverb and its role when it modifies another adverb.",
+        "questionCode": "602367",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1772152685295
+      },
+      {
+        "_creationTime": 1772152893031.4597,
+        "_id": "kn7ewbabmws6d5fzf3na05n22n81yrnd",
+        "createdAt": 1772152893031,
+        "data": {
+          "distractors": [
+            "too loud",
+            "very loud",
+            "enough loud"
+          ]
+        },
+        "difficultyName": "hard",
+        "levelId": "ks7d7m6ft5ysda4r95nx805hr581zty2",
+        "order": 30,
+        "question": "Speak {loud enough} to be heard.",
+        "questionCode": "486682",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1772152893031
+      }
+    ],
+    "medium": [
+      {
+        "_creationTime": 1772151923566.8503,
+        "_id": "kn73zjzrx7cfr9m69xftcw1zsn81z5ez",
+        "createdAt": 1772151923566,
+        "data": {
+          "distractors": [
+            "fluent",
+            "more fluent",
+            "fluentlyer"
+          ]
+        },
+        "difficultyName": "medium",
+        "levelId": "ks7d7m6ft5ysda4r95nx805hr581zty2",
+        "order": 1,
+        "question": "He speaks English {fluently}.",
+        "questionCode": "360808",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1772151923566
+      },
+      {
+        "_creationTime": 1772151762262.8328,
+        "_id": "kn776bf4vaw411fnx472h2kgrx81y2q4",
+        "createdAt": 1772151762262,
+        "data": {
+          "correctWords": [
+            "frequently",
+            "visited"
+          ],
+          "explanation": "“frequently” is frequency adverb modifying “visited.”",
+          "selectMode": "multiple",
+          "statement": "I have frequently visited him while in Delhi."
+        },
+        "difficultyName": "medium",
+        "levelId": "ks7d7m6ft5ysda4r95nx805hr581zty2",
+        "order": 2,
+        "question": "Pick the adverb pair (adverb, verb/adjective) in this sentence.",
+        "questionCode": "951052",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1772151762262
+      },
+      {
+        "_creationTime": 1772151930590.071,
+        "_id": "kn713fpjahbpv3xwbbbqafcz0d81zrr3",
+        "createdAt": 1772151930590,
+        "data": {
+          "distractors": [
+            "never",
+            "hardly",
+            "seldom"
+          ]
+        },
+        "difficultyName": "medium",
+        "levelId": "ks7d7m6ft5ysda4r95nx805hr581zty2",
+        "order": 3,
+        "question": "I did {not} know his address.",
+        "questionCode": "497694",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1772151930590
+      },
+      {
+        "_creationTime": 1772151525867.857,
+        "_id": "kn73x42r4evwdx62czyqvd9chd81y8ss",
+        "createdAt": 1772151525867,
+        "data": {
+          "correctIndex": 1,
+          "explanation": "Certain adverbs (now, then, here, once, twice, very in some contexts) are not comparable",
+          "options": [
+            "very",
+            "now",
+            "more",
+            "most"
+          ]
+        },
+        "difficultyName": "medium",
+        "levelId": "ks7d7m6ft5ysda4r95nx805hr581zty2",
+        "order": 4,
+        "question": "Which of the following adverbs cannot be compared?",
+        "questionCode": "710045",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1772151525867
+      },
+      {
+        "_creationTime": 1772151779118.1204,
+        "_id": "kn7ckagrpm8sh76kefj6dmwsms81z0c2",
+        "createdAt": 1772151779118,
+        "data": {
+          "correctWords": [
+            "only",
+            "three"
+          ],
+          "explanation": "“only” modifies “three” (number), meaning exactly three hours.",
+          "selectMode": "multiple",
+          "statement": "He has slept only three hours."
+        },
+        "difficultyName": "medium",
+        "levelId": "ks7d7m6ft5ysda4r95nx805hr581zty2",
+        "order": 5,
+        "question": "Pick the adverb and the word it modifies.",
+        "questionCode": "614030",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1772151779118
+      },
+      {
+        "_creationTime": 1772151938524.4712,
+        "_id": "kn733e7wgc22bgwwebkyx0af7d81z706",
+        "createdAt": 1772151938524,
+        "data": {
+          "distractors": [
+            "often",
+            "always",
+            "never"
+          ]
+        },
+        "difficultyName": "medium",
+        "levelId": "ks7d7m6ft5ysda4r95nx805hr581zty2",
+        "order": 6,
+        "question": "We {seldom} see him now.",
+        "questionCode": "639885",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1772151938524
+      },
+      {
+        "_creationTime": 1772151794199.165,
+        "_id": "kn7d797rx01k1svyrth8f0jptn81zsfc",
+        "createdAt": 1772151794199,
+        "data": {
+          "correctWords": [
+            "very",
+            "heavy"
+          ],
+          "explanation": "“very” modifies the adjective “heavy.”",
+          "selectMode": "multiple",
+          "statement": "The load is very heavy for a horse."
+        },
+        "difficultyName": "medium",
+        "levelId": "ks7d7m6ft5ysda4r95nx805hr581zty2",
+        "order": 7,
+        "question": "Pick the adverb of degree and the adjective.",
+        "questionCode": "338946",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1772151794199
+      },
+      {
+        "_creationTime": 1772151548548.8308,
+        "_id": "kn70p3kdc9em3gsxwa9793ekxx81y5zk",
+        "createdAt": 1772151548548,
+        "data": {
+          "correctIndex": 0,
+          "explanation": "“almost” modifies the verb phrase indicating extent — “had got almost to the top.”",
+          "options": [
+            "the verb phrase “had got”",
+            "the noun top",
+            "the adjective top",
+            "nothing"
+          ]
+        },
+        "difficultyName": "medium",
+        "levelId": "ks7d7m6ft5ysda4r95nx805hr581zty2",
+        "order": 8,
+        "question": "In “He had got almost to the top when the rope broke,” “almost” modifies:",
+        "questionCode": "186572",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1772151548548
+      },
+      {
+        "_creationTime": 1772151573431.3071,
+        "_id": "kn70db88mgacaq3kkctq2z41nd81yjna",
+        "createdAt": 1772151573431,
+        "data": {
+          "correctIndex": 2,
+          "explanation": "Adverbs modifying adjectives/adverbs usually come immediately before them",
+          "options": [
+            "They follow the adjective.",
+            "They always end with -ly.",
+            "They come immediately before the word they modify.",
+            "They never take “very.”"
+          ]
+        },
+        "difficultyName": "medium",
+        "levelId": "ks7d7m6ft5ysda4r95nx805hr581zty2",
+        "order": 9,
+        "question": "Which is true about adverbs modifying adjectives or other adverbs?",
+        "questionCode": "157577",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1772151573431
+      },
+      {
+        "_creationTime": 1772151817362.887,
+        "_id": "kn7ddecmrdftt41xtyyjn5yq8d81y26c",
+        "createdAt": 1772151817362,
+        "data": {
+          "correctWords": [
+            "Fortunately",
+            "he"
+          ],
+          "explanation": "“Fortunately” modifies whole sentence/clause.",
+          "selectMode": "multiple",
+          "statement": "Fortunately, he was not hurt."
+        },
+        "difficultyName": "medium",
+        "levelId": "ks7d7m6ft5ysda4r95nx805hr581zty2",
+        "order": 10,
+        "question": "Pick the adverb and the clause it modifies.",
+        "questionCode": "887753",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1772151817362
+      },
+      {
+        "_creationTime": 1772151596160.6343,
+        "_id": "kn71318vj2kx2n05knx83wfsvd81zjae",
+        "createdAt": 1772151596160,
+        "data": {
+          "correctIndex": 1,
+          "explanation": "Frequency adverbs are placed after “to be” (e.g., “He is always cheerful.”).",
+          "options": [
+            "Before the verb always",
+            "After the verb ‘to be’",
+            "At the start of sentence only",
+            "After the object"
+          ]
+        },
+        "difficultyName": "medium",
+        "levelId": "ks7d7m6ft5ysda4r95nx805hr581zty2",
+        "order": 11,
+        "question": "Which is the correct placement of frequency adverbs with “to be”?",
+        "questionCode": "991205",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1772151596160
+      },
+      {
+        "_creationTime": 1772151834162.4282,
+        "_id": "kn7ffd05rxgvs3wy9skk1p64yx81z4x6",
+        "createdAt": 1772151834162,
+        "data": {
+          "correctWords": [
+            "not",
+            "know"
+          ],
+          "explanation": "“not” is placed between auxiliary “did” and principal “know” (negation).",
+          "selectMode": "multiple",
+          "statement": "He did not know his address."
+        },
+        "difficultyName": "medium",
+        "levelId": "ks7d7m6ft5ysda4r95nx805hr581zty2",
+        "order": 12,
+        "question": "Pick the adverb and the verb phrase it modifies.",
+        "questionCode": "451027",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1772151834162
+      },
+      {
+        "_creationTime": 1772151946894.0964,
+        "_id": "kn75nyn3ht1vcqekpjgj6ntv6d81z9fh",
+        "createdAt": 1772151946894,
+        "data": {
+          "distractors": [
+            "very rash",
+            "too rash",
+            "rather rash"
+          ]
+        },
+        "difficultyName": "medium",
+        "levelId": "ks7d7m6ft5ysda4r95nx805hr581zty2",
+        "order": 13,
+        "question": "He was {rash enough} to interrupt.",
+        "questionCode": "283058",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1772151946894
+      },
+      {
+        "_creationTime": 1772151619305.0288,
+        "_id": "kn7bdbac15qvf6bmc60m8c8ka981y0cm",
+        "createdAt": 1772151619305,
+        "data": {
+          "correctIndex": 2,
+          "explanation": "“ever” is often misplaced; correct phrase would be “we remember ever…”",
+          "options": [
+            "We ever remember to call.",
+            "We remember ever to call.",
+            "Quite the most remarkable article we ever remember to have read.",
+            "We have ever seen this."
+          ]
+        },
+        "difficultyName": "medium",
+        "levelId": "ks7d7m6ft5ysda4r95nx805hr581zty2",
+        "order": 14,
+        "question": "Which sentence shows a misplaced “ever” that changes meaning?",
+        "questionCode": "303336",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1772151619305
+      },
+      {
+        "_creationTime": 1772151643836.3328,
+        "_id": "kn7crmsgard4y1x90dr83ewa1181ypbv",
+        "createdAt": 1772151643836,
+        "data": {
+          "correctIndex": 0,
+          "explanation": "“He only lent me a book” implies he merely lent it (didn’t give it away).",
+          "options": [
+            "He only lent me a book.",
+            "Only he lent me a book.",
+            "He lent only me a book.",
+            "He lent me only a book."
+          ]
+        },
+        "difficultyName": "medium",
+        "levelId": "ks7d7m6ft5ysda4r95nx805hr581zty2",
+        "order": 15,
+        "question": "Which placement of “only” means “he merely lent it, didn’t give it away”?",
+        "questionCode": "562958",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1772151643836
+      },
+      {
+        "_creationTime": 1772151848276.7542,
+        "_id": "kn7aq8pp9by0e7hthp0e4hmepx81z76x",
+        "createdAt": 1772151848276,
+        "data": {
+          "correctWords": [
+            "keenly",
+            "insult"
+          ],
+          "explanation": "With a transitive verb, adverb can follow the object (keenly follows insult).",
+          "selectMode": "multiple",
+          "statement": "I feel this insult keenly."
+        },
+        "difficultyName": "medium",
+        "levelId": "ks7d7m6ft5ysda4r95nx805hr581zty2",
+        "order": 16,
+        "question": "Pick the adverb and the object it follows.",
+        "questionCode": "355394",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1772151848276
+      },
+      {
+        "_creationTime": 1772151968269.4304,
+        "_id": "kn77x0pt0ayh9jdvmkr28j4kks81zf5p",
+        "createdAt": 1772151968269,
+        "data": {
+          "distractors": [
+            "still",
+            "already",
+            "ever"
+          ]
+        },
+        "difficultyName": "medium",
+        "levelId": "ks7d7m6ft5ysda4r95nx805hr581zty2",
+        "order": 17,
+        "question": "Say it {again} more slowly.",
+        "questionCode": "205118",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1772151968269
+      },
+      {
+        "_creationTime": 1772151862895.2668,
+        "_id": "kn74z2qb5tqkztq1sfy1dsv3gx81zcw7",
+        "createdAt": 1772151862895,
+        "data": {
+          "correctWords": [
+            "nearly",
+            "died"
+          ],
+          "explanation": "“nearly” is degree adverb modifying the verb “died.”",
+          "selectMode": "multiple",
+          "statement": "He nearly died of laughing."
+        },
+        "difficultyName": "medium",
+        "levelId": "ks7d7m6ft5ysda4r95nx805hr581zty2",
+        "order": 18,
+        "question": "Pick the adverb and its grammatical role.",
+        "questionCode": "408181",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1772151862895
+      },
+      {
+        "_creationTime": 1772151878398.395,
+        "_id": "kn7584j0kp172e68z8xcbqt76h81zrr0",
+        "createdAt": 1772151878398,
+        "data": {
+          "correctWords": [
+            "too",
+            "young"
+          ],
+          "explanation": "“too” (more than enough) modifies the adjective “young.”",
+          "selectMode": "multiple",
+          "statement": "The child is too young for school."
+        },
+        "difficultyName": "medium",
+        "levelId": "ks7d7m6ft5ysda4r95nx805hr581zty2",
+        "order": 19,
+        "question": "Pick the adverb and the adjective it modifies.",
+        "questionCode": "675159",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1772151878398
+      },
+      {
+        "_creationTime": 1772151666525.4844,
+        "_id": "kn72dr1wyp382zwyan7xt268v581zqts",
+        "createdAt": 1772151666525,
+        "data": {
+          "correctIndex": 0,
+          "explanation": "With auxiliary + principal verb, adverb (negation) usually goes between them (did not know).",
+          "options": [
+            "not after auxiliary (did not)",
+            "not before subject",
+            "not at sentence end",
+            "not before object"
+          ]
+        },
+        "difficultyName": "medium",
+        "levelId": "ks7d7m6ft5ysda4r95nx805hr581zty2",
+        "order": 20,
+        "question": "Which is correct: “He did not know his address” — which adverb placement shows negation?",
+        "questionCode": "295752",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1772151666525
+      },
+      {
+        "_creationTime": 1772151977446.6885,
+        "_id": "kn7f1tsyqns36c4msjaayj2rqs81y1py",
+        "createdAt": 1772151977446,
+        "data": {
+          "distractors": [
+            "very",
+            "too",
+            "almost"
+          ]
+        },
+        "difficultyName": "medium",
+        "levelId": "ks7d7m6ft5ysda4r95nx805hr581zty2",
+        "order": 21,
+        "question": "He {utterly} failed in his attempt.",
+        "questionCode": "842605",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1772151977446
+      },
+      {
+        "_creationTime": 1772151686314.5637,
+        "_id": "kn77cya60ngf8h9hh4db93q66981yprm",
+        "createdAt": 1772151686314,
+        "data": {
+          "correctIndex": 2,
+          "explanation": "Two negatives like “haven’t… none” destroy each other and are incorrect in standard English.",
+          "options": [
+            "I haven’t got any.",
+            "I could not find it anywhere.",
+            "I haven’t got none.",
+            "I did not see him."
+          ]
+        },
+        "difficultyName": "medium",
+        "levelId": "ks7d7m6ft5ysda4r95nx805hr581zty2",
+        "order": 22,
+        "question": "Which is an example of double negative to avoid?",
+        "questionCode": "670105",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1772151686314
+      },
+      {
+        "_creationTime": 1772151985763.4363,
+        "_id": "kn739dnds07y0k1cxbe7hs5nds81ys8d",
+        "createdAt": 1772151985763,
+        "data": {
+          "distractors": [
+            "slowly",
+            "hardly",
+            "seldom"
+          ]
+        },
+        "difficultyName": "medium",
+        "levelId": "ks7d7m6ft5ysda4r95nx805hr581zty2",
+        "order": 23,
+        "question": "She returned {immediately} after lunch.",
+        "questionCode": "250109",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1772151985763
+      },
+      {
+        "_creationTime": 1772151899409.0337,
+        "_id": "kn72f1x2rct3py26q72heax94581y965",
+        "createdAt": 1772151899409,
+        "data": {
+          "correctWords": [
+            "almost",
+            "to",
+            "the",
+            "top"
+          ],
+          "explanation": "“almost” modifies the prepositional phrase showing extent.",
+          "selectMode": "multiple",
+          "statement": "He had got almost to the top."
+        },
+        "difficultyName": "medium",
+        "levelId": "ks7d7m6ft5ysda4r95nx805hr581zty2",
+        "order": 24,
+        "question": "Pick the adverb and the prepositional phrase it modifies.",
+        "questionCode": "948232",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1772151899409
+      },
+      {
+        "_creationTime": 1772151996353.0764,
+        "_id": "kn78fex4693v4hbv3srba2g5ax81zn36",
+        "createdAt": 1772151996353,
+        "data": {
+          "distractors": [
+            "many",
+            "very",
+            "too"
+          ]
+        },
+        "difficultyName": "medium",
+        "levelId": "ks7d7m6ft5ysda4r95nx805hr581zty2",
+        "order": 25,
+        "question": "I did only {two} sums.",
+        "questionCode": "581633",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1772151996353
+      },
+      {
+        "_creationTime": 1772151707337.9182,
+        "_id": "kn7a1jx1j950440hv2631wdek581yce7",
+        "createdAt": 1772151707338,
+        "data": {
+          "correctIndex": 1,
+          "explanation": "“enough” follows and modifies “loud” (the word it qualifies).",
+          "options": [
+            "speak",
+            "loud",
+            "to be",
+            "heard"
+          ]
+        },
+        "difficultyName": "medium",
+        "levelId": "ks7d7m6ft5ysda4r95nx805hr581zty2",
+        "order": 26,
+        "question": "“Speak loud enough to be heard.” The adverb “enough” modifies:",
+        "questionCode": "530154",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1772151707338
+      },
+      {
+        "_creationTime": 1772152005258.2754,
+        "_id": "kn71jngnx03zfcrkntskvfwf7d81zcc4",
+        "createdAt": 1772152005258,
+        "data": {
+          "distractors": [
+            "always",
+            "sometimes",
+            "often"
+          ]
+        },
+        "difficultyName": "medium",
+        "levelId": "ks7d7m6ft5ysda4r95nx805hr581zty2",
+        "order": 27,
+        "question": "We {never} referred to the matter.",
+        "questionCode": "431251",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1772152005258
+      },
+      {
+        "_creationTime": 1772151915455.4585,
+        "_id": "kn71zbp3hn6f1ry4kvhkm3pbdn81ypy8",
+        "createdAt": 1772151915455,
+        "data": {
+          "correctWords": [
+            "seldom",
+            "frequency"
+          ],
+          "explanation": "“seldom” is an adverb of frequency modifying “make.”",
+          "selectMode": "multiple",
+          "statement": "They seldom make a mistake."
+        },
+        "difficultyName": "medium",
+        "levelId": "ks7d7m6ft5ysda4r95nx805hr581zty2",
+        "order": 28,
+        "question": "Pick the adverb and the type.",
+        "questionCode": "210877",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1772151915455
+      },
+      {
+        "_creationTime": 1772151742306.3315,
+        "_id": "kn7d13w77bdft26b5j2vkgxa0981zz8c",
+        "createdAt": 1772151742306,
+        "data": {
+          "correctIndex": 3,
+          "explanation": "Adverb usually placed between auxiliary and principal verb (e.g., “I have often told him…”).",
+          "options": [
+            "After principal verb only",
+            "Before auxiliary",
+            "At sentence beginning only",
+            "Between auxiliary and principal verb"
+          ]
+        },
+        "difficultyName": "medium",
+        "levelId": "ks7d7m6ft5ysda4r95nx805hr581zty2",
+        "order": 29,
+        "question": "Which is correct placement when an adverb qualifies an auxiliary and principal verb?",
+        "questionCode": "591473",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1772151742306
+      },
+      {
+        "_creationTime": 1772152013343.4343,
+        "_id": "kn73h6dp5et80j624capthz4b581ywtt",
+        "createdAt": 1772152013343,
+        "data": {
+          "distractors": [
+            "almost",
+            "only",
+            "only nearly"
+          ]
+        },
+        "difficultyName": "medium",
+        "levelId": "ks7d7m6ft5ysda4r95nx805hr581zty2",
+        "order": 30,
+        "question": "He was {nearly} at the top when the rope broke.",
+        "questionCode": "542796",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1772152013343
+      }
+    ]
+  }
+}
