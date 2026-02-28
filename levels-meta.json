@@ -421,7 +421,7 @@
       }
     ],
     "totalQuestions": 90,
-    "questionsVersion": 0
+    "questionsVersion": 2
   },
   {
     "_id": "ks78q27mkqb2qh6whqwgtmqqk980r0zx",
@@ -778,6 +778,93 @@
       }
     ],
     "totalQuestions": 90,
-    "questionsVersion": 145
+    "questionsVersion": 172
+  },
+  {
+    "_id": "ks72rb8tzpdgkpqg6kx3smb35s81y1an",
+    "levelNumber": 27,
+    "name": "Intermediate Conjunctions",
+    "groupId": "mh76vsmvqn4b6x5h2vnknst8fx80p099",
+    "isEnabled": true,
+    "difficulties": [
+      {
+        "displayName": "Easy",
+        "name": "easy",
+        "order": 1,
+        "requiredScore": 75
+      },
+      {
+        "displayName": "Medium",
+        "name": "medium",
+        "order": 2,
+        "requiredScore": 55
+      },
+      {
+        "displayName": "Hard",
+        "name": "hard",
+        "order": 3,
+        "requiredScore": 30
+      }
+    ],
+    "totalQuestions": 90,
+    "questionsVersion": 66
+  },
+  {
+    "_id": "ks7fhtv65vw7ay61p9h6fb328n820hxm",
+    "levelNumber": 28,
+    "name": "Intermediate Interjections",
+    "groupId": "mh76vsmvqn4b6x5h2vnknst8fx80p099",
+    "isEnabled": true,
+    "difficulties": [
+      {
+        "displayName": "Easy",
+        "name": "easy",
+        "order": 1,
+        "requiredScore": 75
+      },
+      {
+        "displayName": "Medium",
+        "name": "medium",
+        "order": 2,
+        "requiredScore": 55
+      },
+      {
+        "displayName": "Hard",
+        "name": "hard",
+        "order": 3,
+        "requiredScore": 30
+      }
+    ],
+    "totalQuestions": 90,
+    "questionsVersion": 150
+  },
+  {
+    "_id": "ks7c6cza84ts82gxdgawhj5sjn821k5z",
+    "levelNumber": 29,
+    "name": "Intermediate Sentences",
+    "groupId": "mh76vsmvqn4b6x5h2vnknst8fx80p099",
+    "isEnabled": true,
+    "difficulties": [
+      {
+        "displayName": "Easy",
+        "name": "easy",
+        "order": 1,
+        "requiredScore": 75
+      },
+      {
+        "displayName": "Medium",
+        "name": "medium",
+        "order": 2,
+        "requiredScore": 55
+      },
+      {
+        "displayName": "Hard",
+        "name": "hard",
+        "order": 3,
+        "requiredScore": 30
+      }
+    ],
+    "totalQuestions": 90,
+    "questionsVersion": 154
   }
 ]

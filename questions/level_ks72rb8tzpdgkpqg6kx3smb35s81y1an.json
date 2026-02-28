@@ -1,0 +1,1959 @@
+{
+  "levelId": "ks72rb8tzpdgkpqg6kx3smb35s81y1an",
+  "version": 66,
+  "publishedAt": 1772292675534,
+  "questions": {
+    "easy": [
+      {
+        "_creationTime": 1772201797635.851,
+        "_id": "kn78rb826vwrx85sfvb3yjcfth81yth4",
+        "createdAt": 1772201797635,
+        "data": {
+          "correctIndex": 2,
+          "explanation": "“And” joins words/clauses of equal rank (coordinating).",
+          "options": [
+            "because",
+            "although",
+            "and",
+            "unless"
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks72rb8tzpdgkpqg6kx3smb35s81y1an",
+        "order": 1,
+        "question": "Which word is a coordinating conjunction?",
+        "questionCode": "837210",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1772201797635
+      },
+      {
+        "_creationTime": 1772201797635.8513,
+        "_id": "kn71rwhvvgkfhdz80fdv15szhd81zate",
+        "createdAt": 1772201797635,
+        "data": {
+          "correctWords": [
+            "until"
+          ],
+          "explanation": "“Until” is a subordinating conjunction showing time.",
+          "selectMode": "multiple",
+          "statement": "I will stay until you return."
+        },
+        "difficultyName": "easy",
+        "levelId": "ks72rb8tzpdgkpqg6kx3smb35s81y1an",
+        "order": 2,
+        "question": "Pick the conjunction(s).",
+        "questionCode": "447093",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1772201797635
+      },
+      {
+        "_creationTime": 1772201797635.8516,
+        "_id": "kn70dr12g48v94nf451dapmpxh81zzfn",
+        "createdAt": 1772201797635,
+        "data": {
+          "distractors": [
+            "before",
+            "although",
+            "and"
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks72rb8tzpdgkpqg6kx3smb35s81y1an",
+        "order": 3,
+        "question": "I will wait {until} you return.",
+        "questionCode": "245115",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1772201797635
+      },
+      {
+        "_creationTime": 1772201797635.8518,
+        "_id": "kn726fgrwamdp82ayk1cck20g981yb2a",
+        "createdAt": 1772201797635,
+        "data": {
+          "matchType": "text-text",
+          "pairs": [
+            {
+              "leftText": "because",
+              "rightText": "since"
+            },
+            {
+              "leftText": "either",
+              "rightText": "or"
+            },
+            {
+              "leftText": "although",
+              "rightText": "but"
+            },
+            {
+              "leftText": "when",
+              "rightText": "while"
+            }
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks72rb8tzpdgkpqg6kx3smb35s81y1an",
+        "order": 4,
+        "question": "match the correlative pair",
+        "questionCode": "661820",
+        "questionType": "match",
+        "status": "active",
+        "updatedAt": 1772201797635
+      },
+      {
+        "_creationTime": 1772201797635.852,
+        "_id": "kn73hg01g131yy8hawv6dbyewh81y5gt",
+        "createdAt": 1772201797635,
+        "data": {
+          "correctIndex": 2,
+          "explanation": "“While” introduces a subordinate clause (time/contrast).",
+          "options": [
+            "but",
+            "or",
+            "while",
+            "nor"
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks72rb8tzpdgkpqg6kx3smb35s81y1an",
+        "order": 5,
+        "question": "Which is a subordinating conjunction?",
+        "questionCode": "313794",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1772201797635
+      },
+      {
+        "_creationTime": 1772201797635.8523,
+        "_id": "kn7erq8mxbkdq9wfe575gtme0n81zb7n",
+        "createdAt": 1772201797635,
+        "data": {
+          "correctWords": [
+            "either",
+            "or"
+          ],
+          "explanation": "“Either…or” are correlative conjunctions.",
+          "selectMode": "multiple",
+          "statement": "She will either come now or later."
+        },
+        "difficultyName": "easy",
+        "levelId": "ks72rb8tzpdgkpqg6kx3smb35s81y1an",
+        "order": 6,
+        "question": "Pick the correlative pair.",
+        "questionCode": "127833",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1772201797635
+      },
+      {
+        "_creationTime": 1772201797635.8525,
+        "_id": "kn7dk206hzejyybkvpd7j4xw7n81yh1p",
+        "createdAt": 1772201797635,
+        "data": {
+          "correctWords": [
+            "because"
+          ],
+          "explanation": "“Because” introduces a reason.",
+          "selectMode": "multiple",
+          "statement": "He failed because he did not study."
+        },
+        "difficultyName": "easy",
+        "levelId": "ks72rb8tzpdgkpqg6kx3smb35s81y1an",
+        "order": 7,
+        "question": "Pick the conjunction.",
+        "questionCode": "448248",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1772201797635
+      },
+      {
+        "_creationTime": 1772201797635.8528,
+        "_id": "kn72kb3qn4w2ztev9cef2tkytn81z3vf",
+        "createdAt": 1772201797635,
+        "data": {
+          "distractors": [
+            "but",
+            "or",
+            "while"
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks72rb8tzpdgkpqg6kx3smb35s81y1an",
+        "order": 8,
+        "question": "She passed the test {because} she studied.",
+        "questionCode": "937884",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1772201797635
+      },
+      {
+        "_creationTime": 1772201797635.853,
+        "_id": "kn7frzqa3pmvf6rbs58yba3bd981yqd7",
+        "createdAt": 1772201797635,
+        "data": {
+          "correctIndex": 0,
+          "explanation": "“So that” introduces purpose clauses.",
+          "options": [
+            "so that",
+            "but",
+            "yet",
+            "nor"
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks72rb8tzpdgkpqg6kx3smb35s81y1an",
+        "order": 9,
+        "question": "Which conjunction shows purpose?",
+        "questionCode": "340862",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1772201797635
+      },
+      {
+        "_creationTime": 1772201797635.8533,
+        "_id": "kn78hs87zanyeqny9zqaa9tav981z8wj",
+        "createdAt": 1772201797635,
+        "data": {
+          "correctIndex": 1,
+          "explanation": "“Since” often indicates time (and sometimes cause).",
+          "options": [
+            "if",
+            "since",
+            "either",
+            "neither"
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks72rb8tzpdgkpqg6kx3smb35s81y1an",
+        "order": 10,
+        "question": "Which word can mean 'time' as a subordinating conjunction?",
+        "questionCode": "636966",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1772201797635
+      },
+      {
+        "_creationTime": 1772201797635.8535,
+        "_id": "kn760q2adj48hvrfhys26zza8n81zv0j",
+        "createdAt": 1772201797635,
+        "data": {
+          "correctIndex": 2,
+          "explanation": "It is a paired correlative conjunction used together.",
+          "options": [
+            "subordinating conjunction",
+            "coordinating conjunction",
+            "correlative conjunction",
+            "relative pronoun"
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks72rb8tzpdgkpqg6kx3smb35s81y1an",
+        "order": 11,
+        "question": "“Not only…but also” is an example of:",
+        "questionCode": "644521",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1772201797635
+      },
+      {
+        "_creationTime": 1772201797635.8538,
+        "_id": "kn71yyb1vdhpsy3hzjd2hc2w3s81ykmw",
+        "createdAt": 1772201797635,
+        "data": {
+          "correctWords": [
+            "or"
+          ],
+          "explanation": "“Or” connects alternatives.",
+          "selectMode": "multiple",
+          "statement": "We can go by car or by train."
+        },
+        "difficultyName": "easy",
+        "levelId": "ks72rb8tzpdgkpqg6kx3smb35s81y1an",
+        "order": 12,
+        "question": "Pick the linking conjunction.",
+        "questionCode": "668747",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1772201797635
+      },
+      {
+        "_creationTime": 1772201797635.854,
+        "_id": "kn7cxmefy09vcmp0cg7ay902v581zcs5",
+        "createdAt": 1772201797635,
+        "data": {
+          "distractors": [
+            "Neither",
+            "nor",
+            "although"
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks72rb8tzpdgkpqg6kx3smb35s81y1an",
+        "order": 13,
+        "question": "{Either} you come now {or} you miss the train.",
+        "questionCode": "390568",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1772201797635
+      },
+      {
+        "_creationTime": 1772201797635.8542,
+        "_id": "kn76a6hygb89rm43kwbkx5frkx81zy5d",
+        "createdAt": 1772201797635,
+        "data": {
+          "distractors": [
+            "since",
+            "but",
+            "unless"
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks72rb8tzpdgkpqg6kx3smb35s81y1an",
+        "order": 14,
+        "question": "He ran fast {so} he reached on time.",
+        "questionCode": "807176",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1772201797635
+      },
+      {
+        "_creationTime": 1772201797635.8545,
+        "_id": "kn73yasqefywwytajxwf100xhx81yad4",
+        "createdAt": 1772201797635,
+        "data": {
+          "correctWords": [
+            "Not",
+            "only",
+            "but",
+            "also"
+          ],
+          "explanation": "Paired correlative conjunctions.",
+          "selectMode": "multiple",
+          "statement": "Not only did she sing, but also she danced."
+        },
+        "difficultyName": "easy",
+        "levelId": "ks72rb8tzpdgkpqg6kx3smb35s81y1an",
+        "order": 15,
+        "question": "Pick the conjunction pair.",
+        "questionCode": "311693",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1772201797635
+      },
+      {
+        "_creationTime": 1772201797635.8547,
+        "_id": "kn7dv2wz2vq38498yy0cw96dcd81yttf",
+        "createdAt": 1772201797635,
+        "data": {
+          "correctWords": [
+            "than"
+          ],
+          "explanation": "“Than” is used in comparisons.",
+          "selectMode": "multiple",
+          "statement": "He is wiser than he looks."
+        },
+        "difficultyName": "easy",
+        "levelId": "ks72rb8tzpdgkpqg6kx3smb35s81y1an",
+        "order": 16,
+        "question": "Pick the conjunction.",
+        "questionCode": "438237",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1772201797635
+      },
+      {
+        "_creationTime": 1772201797635.855,
+        "_id": "kn748nq4gjxzer38gtpgghgj5s81z5w1",
+        "createdAt": 1772201797635,
+        "data": {
+          "correctIndex": 2,
+          "explanation": "“Neither” pairs with “nor,” not with “but.”",
+          "options": [
+            "nor",
+            "or",
+            "but",
+            "and"
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks72rb8tzpdgkpqg6kx3smb35s81y1an",
+        "order": 17,
+        "question": "Which conjunction should NOT be used alone when pairing with 'neither'?",
+        "questionCode": "506494",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1772201797635
+      },
+      {
+        "_creationTime": 1772201797635.8552,
+        "_id": "kn7ckxy5hhyk22k5dnysr5kkdn81y166",
+        "createdAt": 1772201797635,
+        "data": {
+          "correctIndex": 1,
+          "explanation": "“So” can link cause to result.",
+          "options": [
+            "although",
+            "so",
+            "because",
+            "while"
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks72rb8tzpdgkpqg6kx3smb35s81y1an",
+        "order": 18,
+        "question": "Which conjunction introduces a result or consequence?",
+        "questionCode": "684560",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1772201797635
+      },
+      {
+        "_creationTime": 1772201797635.8555,
+        "_id": "kn72rz5s3tntf8rrqfb6xc31n981z81y",
+        "createdAt": 1772201797635,
+        "data": {
+          "distractors": [
+            "and",
+            "or",
+            "because"
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks72rb8tzpdgkpqg6kx3smb35s81y1an",
+        "order": 19,
+        "question": "{Although} it rained, we went out.",
+        "questionCode": "994885",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1772201797635
+      },
+      {
+        "_creationTime": 1772201797635.8557,
+        "_id": "kn7dyftmter7h6mjdz27281zen81ytza",
+        "createdAt": 1772201797635,
+        "data": {
+          "distractors": [
+            "since",
+            "until",
+            "nor"
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks72rb8tzpdgkpqg6kx3smb35s81y1an",
+        "order": 20,
+        "question": "He will go {if} you invite him.",
+        "questionCode": "262024",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1772201797635
+      },
+      {
+        "_creationTime": 1772201797635.856,
+        "_id": "kn7c0409qx8jdd90k6f6k56hsd81y3ph",
+        "createdAt": 1772201797635,
+        "data": {
+          "correctWords": [
+            "so"
+          ],
+          "explanation": "“So” introduces result/purpose.",
+          "selectMode": "multiple",
+          "statement": "He spoke loudly so I could hear him."
+        },
+        "difficultyName": "easy",
+        "levelId": "ks72rb8tzpdgkpqg6kx3smb35s81y1an",
+        "order": 21,
+        "question": "Pick the conjunction.",
+        "questionCode": "300208",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1772201797635
+      },
+      {
+        "_creationTime": 1772201797635.8562,
+        "_id": "kn7b29eba195sr3m7ybayp7vrx81zts1",
+        "createdAt": 1772201797635,
+        "data": {
+          "distractors": [
+            "Either",
+            "Or",
+            "While"
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks72rb8tzpdgkpqg6kx3smb35s81y1an",
+        "order": 22,
+        "question": "{Not only} was he late, {but also} he forgot his notes.",
+        "questionCode": "364592",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1772201797635
+      },
+      {
+        "_creationTime": 1772201797635.8564,
+        "_id": "kn7e8ycmzhbfcde68my3p9kwh181yx28",
+        "createdAt": 1772201797635,
+        "data": {
+          "correctWords": [
+            "While"
+          ],
+          "explanation": "“While” links subordinate time clause.",
+          "selectMode": "multiple",
+          "statement": "While I waited, it began to rain."
+        },
+        "difficultyName": "easy",
+        "levelId": "ks72rb8tzpdgkpqg6kx3smb35s81y1an",
+        "order": 23,
+        "question": "Pick the subordinating conjunction.",
+        "questionCode": "854213",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1772201797635
+      },
+      {
+        "_creationTime": 1772201797635.8567,
+        "_id": "kn78q5zwkcc693c7y3hsp5vk1s81zacm",
+        "createdAt": 1772201797635,
+        "data": {
+          "correctIndex": 2,
+          "explanation": "“Either…or” expresses choice (disjunctive).",
+          "options": [
+            "for",
+            "and",
+            "either",
+            "but"
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks72rb8tzpdgkpqg6kx3smb35s81y1an",
+        "order": 24,
+        "question": "Which is an alternative/disjunctive coordinating conjunction?",
+        "questionCode": "942813",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1772201797635
+      },
+      {
+        "_creationTime": 1772201797635.857,
+        "_id": "kn7dqt74za68n5mdrasgy2mdr581y45g",
+        "createdAt": 1772201797635,
+        "data": {
+          "distractors": [
+            "because",
+            "although",
+            "until"
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks72rb8tzpdgkpqg6kx3smb35s81y1an",
+        "order": 25,
+        "question": "She sings {and} she dances.",
+        "questionCode": "362157",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1772201797635
+      },
+      {
+        "_creationTime": 1772201797635.8572,
+        "_id": "kn79c6d2wy194x6n514vyc1zn181ydk5",
+        "createdAt": 1772201797635,
+        "data": {
+          "correctWords": [
+            "yet"
+          ],
+          "explanation": "“Yet” shows contrast.",
+          "selectMode": "multiple",
+          "statement": "She studied hard, yet she failed."
+        },
+        "difficultyName": "easy",
+        "levelId": "ks72rb8tzpdgkpqg6kx3smb35s81y1an",
+        "order": 26,
+        "question": "Pick the conjunction.",
+        "questionCode": "831209",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1772201797635
+      },
+      {
+        "_creationTime": 1772201797635.8574,
+        "_id": "kn7bh5zjz1cv8rn1zznxqs66g981z512",
+        "createdAt": 1772201797635,
+        "data": {
+          "distractors": [
+            "unless",
+            "neither",
+            "either"
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks72rb8tzpdgkpqg6kx3smb35s81y1an",
+        "order": 27,
+        "question": "I will call you {when} I arrive.",
+        "questionCode": "709252",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1772201797635
+      },
+      {
+        "_creationTime": 1772201797635.8577,
+        "_id": "kn796nsmkg5attt0wfmc1ptwxh81y964",
+        "createdAt": 1772201797635,
+        "data": {
+          "correctWords": [
+            "if"
+          ],
+          "explanation": "“If” introduces condition.",
+          "selectMode": "multiple",
+          "statement": "You will succeed if you work hard."
+        },
+        "difficultyName": "easy",
+        "levelId": "ks72rb8tzpdgkpqg6kx3smb35s81y1an",
+        "order": 28,
+        "question": "Pick the conjunction.",
+        "questionCode": "897895",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1772201797635
+      },
+      {
+        "_creationTime": 1772201797635.858,
+        "_id": "kn70dwxyjy0vdv90wm5yxjhgxh81zc32",
+        "createdAt": 1772201797635,
+        "data": {
+          "correctIndex": 0,
+          "explanation": "“Though” introduces concession.",
+          "options": [
+            "though",
+            "but",
+            "and",
+            "for"
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks72rb8tzpdgkpqg6kx3smb35s81y1an",
+        "order": 29,
+        "question": "Which is correct: 'He left ____ he was sick.'",
+        "questionCode": "491988",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1772201797635
+      },
+      {
+        "_creationTime": 1772201797635.8582,
+        "_id": "kn77e5te2g7yxk13xg3twqad8981zgws",
+        "createdAt": 1772201797635,
+        "data": {
+          "distractors": [
+            "because",
+            "while",
+            "so"
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks72rb8tzpdgkpqg6kx3smb35s81y1an",
+        "order": 30,
+        "question": "He is stronger {than} his brother.",
+        "questionCode": "584380",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1772201797635
+      }
+    ],
+    "hard": [
+      {
+        "_creationTime": 1772202043441.6606,
+        "_id": "kn7etpfhgy3840bn9dq48zcxc181y383",
+        "createdAt": 1772202043441,
+        "data": {
+          "distractors": [
+            "when",
+            "and",
+            "because"
+          ]
+        },
+        "difficultyName": "hard",
+        "levelId": "ks72rb8tzpdgkpqg6kx3smb35s81y1an",
+        "order": 1,
+        "question": "{No sooner} had she reached home {than} it started to rain.",
+        "questionCode": "322911",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1772202043441
+      },
+      {
+        "_creationTime": 1772202043441.6558,
+        "_id": "kn75p7qxrr58kavt9c4madqa0x81y3n0",
+        "createdAt": 1772202043441,
+        "data": {
+          "correctIndex": 0,
+          "explanation": "After inversion with 'scarcely...had', 'when' commonly follows.",
+          "options": [
+            "when",
+            "than",
+            "that",
+            "and"
+          ]
+        },
+        "difficultyName": "hard",
+        "levelId": "ks72rb8tzpdgkpqg6kx3smb35s81y1an",
+        "order": 2,
+        "question": "Choose the best completion: \"Scarcely had she sat down ____ the guests arrived.\"",
+        "questionCode": "737357",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1772202043441
+      },
+      {
+        "_creationTime": 1772202043441.6582,
+        "_id": "kn70gzmhe1v1txafzgzkfscptn81zypa",
+        "createdAt": 1772202043441,
+        "data": {
+          "correctWords": [
+            "lest"
+          ],
+          "explanation": "“Lest” expresses negative purpose.",
+          "selectMode": "multiple",
+          "statement": "He tiptoed lest he wake the baby."
+        },
+        "difficultyName": "hard",
+        "levelId": "ks72rb8tzpdgkpqg6kx3smb35s81y1an",
+        "order": 3,
+        "question": "Pick conjunction(s) that show negative purpose.",
+        "questionCode": "527262",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1772202043441
+      },
+      {
+        "_creationTime": 1772202043441.661,
+        "_id": "kn78691cz6jw75030fqkycaxwx81zjw9",
+        "createdAt": 1772202043441,
+        "data": {
+          "distractors": [
+            "so that",
+            "although",
+            "for"
+          ]
+        },
+        "difficultyName": "hard",
+        "levelId": "ks72rb8tzpdgkpqg6kx3smb35s81y1an",
+        "order": 4,
+        "question": "He spoke softly {lest} the baby wake.",
+        "questionCode": "159437",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1772202043441
+      },
+      {
+        "_creationTime": 1772202043441.6584,
+        "_id": "kn73g0bm3s8n8yttzj0bzwn7k581y35z",
+        "createdAt": 1772202043441,
+        "data": {
+          "correctWords": [
+            "No",
+            "sooner",
+            "than"
+          ],
+          "explanation": "Correlative temporal pair with inversion.",
+          "selectMode": "multiple",
+          "statement": "No sooner had we arrived than it began to rain."
+        },
+        "difficultyName": "hard",
+        "levelId": "ks72rb8tzpdgkpqg6kx3smb35s81y1an",
+        "order": 5,
+        "question": "Pick conjunction(s).",
+        "questionCode": "409491",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1772202118986
+      },
+      {
+        "_creationTime": 1772202043441.656,
+        "_id": "kn78jjswnkr1wc7dsqvc6frrm181zfpy",
+        "createdAt": 1772202043441,
+        "data": {
+          "correctIndex": 1,
+          "explanation": "“Than” can introduce a clause or a phrase.",
+          "options": [
+            "It always requires a finite clause.",
+            "It can be followed by a clause or a phrase (elliptical).",
+            "It is a coordinating conjunction.",
+            "It cannot join clauses."
+          ]
+        },
+        "difficultyName": "hard",
+        "levelId": "ks72rb8tzpdgkpqg6kx3smb35s81y1an",
+        "order": 6,
+        "question": "Which is correct about \"than\" in comparisons?",
+        "questionCode": "224158",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1772202043441
+      },
+      {
+        "_creationTime": 1772202043441.6562,
+        "_id": "kn7eg0hcs2n5zm2dyjdy162mz981zctt",
+        "createdAt": 1772202043441,
+        "data": {
+          "correctIndex": 0,
+          "explanation": "“Lest” + subjunctive expresses negative purpose.",
+          "options": [
+            "He spoke loudly lest he be heard.",
+            "He left early lest to miss the bus.",
+            "He left lest because he was late.",
+            "Lest he goes, we will wait."
+          ]
+        },
+        "difficultyName": "hard",
+        "levelId": "ks72rb8tzpdgkpqg6kx3smb35s81y1an",
+        "order": 7,
+        "question": "Which sentence uses \"lest\" correctly?",
+        "questionCode": "949269",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1772202043441
+      },
+      {
+        "_creationTime": 1772202043441.6565,
+        "_id": "kn70sbx9zn55afy75cddq2fzfh81z17g",
+        "createdAt": 1772202043441,
+        "data": {
+          "correctIndex": 2,
+          "explanation": "Verb should agree with nearer subject ('friends' → were).",
+          "options": [
+            "wrong conjunction",
+            "wrong tense",
+            "subject-verb agreement",
+            "punctuation"
+          ]
+        },
+        "difficultyName": "hard",
+        "levelId": "ks72rb8tzpdgkpqg6kx3smb35s81y1an",
+        "order": 8,
+        "question": "Identify the error: \"Neither he nor his friends was present.\" The error is:",
+        "questionCode": "624267",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1772202043441
+      },
+      {
+        "_creationTime": 1772202043441.6587,
+        "_id": "kn71kehp9vk7s7dcrg0twz0nax81zdx1",
+        "createdAt": 1772202043441,
+        "data": {
+          "correctWords": [
+            "not",
+            "only",
+            "but",
+            "also"
+          ],
+          "explanation": "Must maintain parallel grammatical structure.",
+          "selectMode": "multiple",
+          "statement": "She is not only intelligent but also hardworking."
+        },
+        "difficultyName": "hard",
+        "levelId": "ks72rb8tzpdgkpqg6kx3smb35s81y1an",
+        "order": 9,
+        "question": "Pick conjunction pair requiring parallel structure.",
+        "questionCode": "473468",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1772202133010
+      },
+      {
+        "_creationTime": 1772202043441.6611,
+        "_id": "kn77yhbkb1vpyzdcsrhr1b6wws81znyy",
+        "createdAt": 1772202043441,
+        "data": {
+          "distractors": [
+            "because",
+            "and",
+            "or"
+          ]
+        },
+        "difficultyName": "hard",
+        "levelId": "ks72rb8tzpdgkpqg6kx3smb35s81y1an",
+        "order": 10,
+        "question": "She failed, {not because} she didn't try, {but because} she was ill.",
+        "questionCode": "264995",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1772202043441
+      },
+      {
+        "_creationTime": 1772202043441.6567,
+        "_id": "kn7fyvft9es1c7j0zr19dy6ad981zwsv",
+        "createdAt": 1772202043441,
+        "data": {
+          "correctIndex": 0,
+          "explanation": "Requires parallel grammatical structure.",
+          "options": [
+            "not only... but also",
+            "since... because",
+            "when... while",
+            "if... unless"
+          ]
+        },
+        "difficultyName": "hard",
+        "levelId": "ks72rb8tzpdgkpqg6kx3smb35s81y1an",
+        "order": 11,
+        "question": "Which correlative pair must be paralleled grammatically?",
+        "questionCode": "661208",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1772202043441
+      },
+      {
+        "_creationTime": 1772202043441.659,
+        "_id": "kn78fa8mnh89eehk8esh0b003x81zvr4",
+        "createdAt": 1772202043441,
+        "data": {
+          "correctWords": [
+            "Since"
+          ],
+          "explanation": "Introduces reason clause.",
+          "selectMode": "multiple",
+          "statement": "Since he was ill, he stayed home."
+        },
+        "difficultyName": "hard",
+        "levelId": "ks72rb8tzpdgkpqg6kx3smb35s81y1an",
+        "order": 12,
+        "question": "Pick conjunction used to introduce a cause.",
+        "questionCode": "980429",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1772202043441
+      },
+      {
+        "_creationTime": 1772202043441.6614,
+        "_id": "kn767z21jnfm0jtacdwwy9jnv981zgx7",
+        "createdAt": 1772202043441,
+        "data": {
+          "distractors": [
+            "before",
+            "unless",
+            "but"
+          ]
+        },
+        "difficultyName": "hard",
+        "levelId": "ks72rb8tzpdgkpqg6kx3smb35s81y1an",
+        "order": 13,
+        "question": "{Scarcely} had I opened the door {when} the dog barked.",
+        "questionCode": "872676",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1772202043441
+      },
+      {
+        "_creationTime": 1772202043441.6616,
+        "_id": "kn7az2vb663pe90dvws7f783ad81zjhq",
+        "createdAt": 1772202043441,
+        "data": {
+          "distractors": [
+            "unless",
+            "since",
+            "as"
+          ]
+        },
+        "difficultyName": "hard",
+        "levelId": "ks72rb8tzpdgkpqg6kx3smb35s81y1an",
+        "order": 14,
+        "question": "I would have helped you {if} I had known.",
+        "questionCode": "171120",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1772202043441
+      },
+      {
+        "_creationTime": 1772202043441.6592,
+        "_id": "kn79jf5fz83c0ccx0gjbmqssds81yn67",
+        "createdAt": 1772202043441,
+        "data": {
+          "correctWords": [
+            "Scarce",
+            "than"
+          ],
+          "explanation": "Correct pairing should be 'Scarcely...when' or 'No sooner...than'.",
+          "selectMode": "multiple",
+          "statement": "Scarce had he left than the phone rang."
+        },
+        "difficultyName": "hard",
+        "levelId": "ks72rb8tzpdgkpqg6kx3smb35s81y1an",
+        "order": 15,
+        "question": "Pick conjunction that should not be followed incorrectly.",
+        "questionCode": "322482",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1772202043441
+      },
+      {
+        "_creationTime": 1772202043441.657,
+        "_id": "kn75fyqcj8qx58pz02mand259s81yh6t",
+        "createdAt": 1772202043441,
+        "data": {
+          "correctIndex": 0,
+          "explanation": "Conditional structure requires 'if'.",
+          "options": [
+            "if",
+            "unless",
+            "though",
+            "as"
+          ]
+        },
+        "difficultyName": "hard",
+        "levelId": "ks72rb8tzpdgkpqg6kx3smb35s81y1an",
+        "order": 16,
+        "question": "Choose the best conjunction: \"He would have passed ____ he studied harder.\"",
+        "questionCode": "701007",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1772202043441
+      },
+      {
+        "_creationTime": 1772202043441.6594,
+        "_id": "kn75mz131hhhzqfn9gheyst6ah81y4cr",
+        "createdAt": 1772202043441,
+        "data": {
+          "correctWords": [
+            "Were"
+          ],
+          "explanation": "Subjunctive inversion used conditionally.",
+          "selectMode": "multiple",
+          "statement": "Were he to come, I would be pleased."
+        },
+        "difficultyName": "hard",
+        "levelId": "ks72rb8tzpdgkpqg6kx3smb35s81y1an",
+        "order": 17,
+        "question": "Pick conjunction.",
+        "questionCode": "229010",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1772202043441
+      },
+      {
+        "_creationTime": 1772202043441.6619,
+        "_id": "kn776s53txzgcx3x259jb0nb4981zya2",
+        "createdAt": 1772202043441,
+        "data": {
+          "distractors": [
+            "so",
+            "and",
+            "because"
+          ]
+        },
+        "difficultyName": "hard",
+        "levelId": "ks72rb8tzpdgkpqg6kx3smb35s81y1an",
+        "order": 18,
+        "question": "He behaved well, {although} he felt miserable.",
+        "questionCode": "325513",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1772202043441
+      },
+      {
+        "_creationTime": 1772202043441.6572,
+        "_id": "kn7dcg84v28pj53y06c5wvcycs81yg8a",
+        "createdAt": 1772202043441,
+        "data": {
+          "correctIndex": 2,
+          "explanation": "“When” links the two clauses.",
+          "options": [
+            "had",
+            "hardly",
+            "when",
+            "entered"
+          ]
+        },
+        "difficultyName": "hard",
+        "levelId": "ks72rb8tzpdgkpqg6kx3smb35s81y1an",
+        "order": 19,
+        "question": "In the sentence \"Hardly had I entered the room when the lights went out,\" the conjunction is:",
+        "questionCode": "677874",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1772202043441
+      },
+      {
+        "_creationTime": 1772202043441.6575,
+        "_id": "kn795pm8g41atcd1tqew1p7wch81zykv",
+        "createdAt": 1772202043441,
+        "data": {
+          "correctIndex": 1,
+          "explanation": "“Except that” introduces a clause of exception.",
+          "options": [
+            "\"Except\" cannot introduce clauses.",
+            "\"Except that\" can introduce a clause meaning 'but for the fact that'.",
+            "They are always interchangeable.",
+            "Both are correlative conjunctions."
+          ]
+        },
+        "difficultyName": "hard",
+        "levelId": "ks72rb8tzpdgkpqg6kx3smb35s81y1an",
+        "order": 20,
+        "question": "Which is true about \"except\" vs \"except that\"?",
+        "questionCode": "318363",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1772202043441
+      },
+      {
+        "_creationTime": 1772202043441.6597,
+        "_id": "kn7czqje959n472kevpt5wed9n81zggp",
+        "createdAt": 1772202043441,
+        "data": {
+          "correctWords": [
+            "than"
+          ],
+          "explanation": "Introduces comparison clause.",
+          "selectMode": "multiple",
+          "statement": "She reads more quickly than he does."
+        },
+        "difficultyName": "hard",
+        "levelId": "ks72rb8tzpdgkpqg6kx3smb35s81y1an",
+        "order": 21,
+        "question": "Pick the comparative conjunction.",
+        "questionCode": "215081",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1772202043441
+      },
+      {
+        "_creationTime": 1772202043441.662,
+        "_id": "kn71htxh16ktta7ckk5vnjc23181y0w4",
+        "createdAt": 1772202043441,
+        "data": {
+          "distractors": [
+            "Is",
+            "Will",
+            "Has"
+          ]
+        },
+        "difficultyName": "hard",
+        "levelId": "ks72rb8tzpdgkpqg6kx3smb35s81y1an",
+        "order": 22,
+        "question": "{Were} he here, I {would} ask him.",
+        "questionCode": "594814",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1772202043441
+      },
+      {
+        "_creationTime": 1772202043441.66,
+        "_id": "kn7bsrvfq5dj1bzhg29w21z0md81z6m5",
+        "createdAt": 1772202043441,
+        "data": {
+          "correctWords": [
+            "Both",
+            "and"
+          ],
+          "explanation": "Correlative conjunction pair.",
+          "selectMode": "multiple",
+          "statement": "Both the manager and the team agreed."
+        },
+        "difficultyName": "hard",
+        "levelId": "ks72rb8tzpdgkpqg6kx3smb35s81y1an",
+        "order": 23,
+        "question": "Pick correlative pair.",
+        "questionCode": "731341",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1772202043441
+      },
+      {
+        "_creationTime": 1772202043441.6624,
+        "_id": "kn7dcwn012z92j98839ecdad6581zdc4",
+        "createdAt": 1772202043441,
+        "data": {
+          "distractors": [
+            "and",
+            "or",
+            "since"
+          ]
+        },
+        "difficultyName": "hard",
+        "levelId": "ks72rb8tzpdgkpqg6kx3smb35s81y1an",
+        "order": 24,
+        "question": "I won the prize {even though} I had little time to prepare.",
+        "questionCode": "167853",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1772202043441
+      },
+      {
+        "_creationTime": 1772202043441.6577,
+        "_id": "kn719303ttpb63n7htabzc4p4x81ydej",
+        "createdAt": 1772202043441,
+        "data": {
+          "correctIndex": 0,
+          "explanation": "Concession requires 'though'.",
+          "options": [
+            "Though he was poor, he was cheerful.",
+            "Because he was poor, he was cheerful.",
+            "So he was poor that he was cheerful.",
+            "If he was poor, he was cheerful."
+          ]
+        },
+        "difficultyName": "hard",
+        "levelId": "ks72rb8tzpdgkpqg6kx3smb35s81y1an",
+        "order": 25,
+        "question": "Choose the correct transform: Combine with correct subordinating conjunction — \"He was poor. He was cheerful.\"",
+        "questionCode": "294057",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1772202043441
+      },
+      {
+        "_creationTime": 1772202043441.6602,
+        "_id": "kn7bb42bt0mqdmpzvcycfb5aks81zq3e",
+        "createdAt": 1772202043441,
+        "data": {
+          "correctWords": [
+            "that"
+          ],
+          "explanation": "Introduces result clause after 'so'.",
+          "selectMode": "multiple",
+          "statement": "He was so exhausted that he slept immediately."
+        },
+        "difficultyName": "hard",
+        "levelId": "ks72rb8tzpdgkpqg6kx3smb35s81y1an",
+        "order": 26,
+        "question": "Pick conjunction introducing result.",
+        "questionCode": "692461",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1772202043441
+      },
+      {
+        "_creationTime": 1772202043441.658,
+        "_id": "kn7112bf85gfz6bwa8hxhtqgeh81zckb",
+        "createdAt": 1772202043441,
+        "data": {
+          "correctIndex": 3,
+          "explanation": "“Because” clearly states reason.",
+          "options": [
+            "as",
+            "for",
+            "since",
+            "because"
+          ]
+        },
+        "difficultyName": "hard",
+        "levelId": "ks72rb8tzpdgkpqg6kx3smb35s81y1an",
+        "order": 27,
+        "question": "Identify most precise: \"She declined, ____ she was tired.\"",
+        "questionCode": "477695",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1772202082734
+      },
+      {
+        "_creationTime": 1772202043441.6626,
+        "_id": "kn7ckvpa12fjzjmym8mwpv9qth81y9t2",
+        "createdAt": 1772202043441,
+        "data": {
+          "distractors": [
+            "because",
+            "so",
+            "if"
+          ]
+        },
+        "difficultyName": "hard",
+        "levelId": "ks72rb8tzpdgkpqg6kx3smb35s81y1an",
+        "order": 28,
+        "question": "He is richer {than} he appears.",
+        "questionCode": "147044",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1772202043441
+      },
+      {
+        "_creationTime": 1772202043441.6604,
+        "_id": "kn7dwz6h52xrkhf4836w9tqcbd81z73m",
+        "createdAt": 1772202043441,
+        "data": {
+          "correctWords": [
+            "except",
+            "that"
+          ],
+          "explanation": "Introduces clause of exception.",
+          "selectMode": "multiple",
+          "statement": "He will go, except that he may be tired."
+        },
+        "difficultyName": "hard",
+        "levelId": "ks72rb8tzpdgkpqg6kx3smb35s81y1an",
+        "order": 29,
+        "question": "Pick conjunction pair expressing exception.",
+        "questionCode": "708324",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1772202183977
+      },
+      {
+        "_creationTime": 1772202043441.6628,
+        "_id": "kn7f2fh8sgc2b2wkxbte80fch181y3s6",
+        "createdAt": 1772202043441,
+        "data": {
+          "distractors": [
+            "Because",
+            "Though",
+            "While"
+          ]
+        },
+        "difficultyName": "hard",
+        "levelId": "ks72rb8tzpdgkpqg6kx3smb35s81y1an",
+        "order": 30,
+        "question": "{Except that} he was tired, he would have come.",
+        "questionCode": "926845",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1772202043441
+      }
+    ],
+    "medium": [
+      {
+        "_creationTime": 1772201815766.1094,
+        "_id": "kn72ceypwvjpwb3whv5cncsztd81ypay",
+        "createdAt": 1772201815766,
+        "data": {
+          "correctIndex": 1,
+          "explanation": "“When” indicates time/certainty for a general truth.",
+          "options": [
+            "If",
+            "When",
+            "Unless",
+            "Because"
+          ]
+        },
+        "difficultyName": "medium",
+        "levelId": "ks72rb8tzpdgkpqg6kx3smb35s81y1an",
+        "order": 1,
+        "question": "Choose the best conjunction to complete: \"____ you heat water, it boils.\"",
+        "questionCode": "399654",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1772201815766
+      },
+      {
+        "_creationTime": 1772201815766.1118,
+        "_id": "kn7c5wryfsbwpvkw9sr41dqxph81y73h",
+        "createdAt": 1772201815766,
+        "data": {
+          "correctWords": [
+            "unless"
+          ],
+          "explanation": "“Unless” means 'if not'.",
+          "selectMode": "multiple",
+          "statement": "You will fail unless you try."
+        },
+        "difficultyName": "medium",
+        "levelId": "ks72rb8tzpdgkpqg6kx3smb35s81y1an",
+        "order": 2,
+        "question": "Pick the conjunctions.",
+        "questionCode": "715926",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1772201815766
+      },
+      {
+        "_creationTime": 1772201815766.1143,
+        "_id": "kn7cr23y8zjgc1w8k93cymsy3181zh9d",
+        "createdAt": 1772201815766,
+        "data": {
+          "distractors": [
+            "although",
+            "until",
+            "and"
+          ]
+        },
+        "difficultyName": "medium",
+        "levelId": "ks72rb8tzpdgkpqg6kx3smb35s81y1an",
+        "order": 3,
+        "question": "I left early {because} I was unwell.",
+        "questionCode": "835344",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1772201815766
+      },
+      {
+        "_creationTime": 1772201815766.1096,
+        "_id": "kn78a8px3g4wynzpsex393n6px81zgtd",
+        "createdAt": 1772201815766,
+        "data": {
+          "correctIndex": 0,
+          "explanation": "Standard order: 'not only... but also' with parallel structure.",
+          "options": [
+            "He is not only clever but also hardworking.",
+            "He is only not clever but hardworking.",
+            "He not only is clever, but also hardworking.",
+            "Not only he is clever but also hardworking."
+          ]
+        },
+        "difficultyName": "medium",
+        "levelId": "ks72rb8tzpdgkpqg6kx3smb35s81y1an",
+        "order": 4,
+        "question": "Which sentence correctly uses correlative conjunctions?",
+        "questionCode": "844301",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1772201815766
+      },
+      {
+        "_creationTime": 1772201815766.1145,
+        "_id": "kn7dywe7akyefd4gv6px147cs981z262",
+        "createdAt": 1772201815766,
+        "data": {
+          "distractors": [
+            "since",
+            "while",
+            "yet"
+          ]
+        },
+        "difficultyName": "medium",
+        "levelId": "ks72rb8tzpdgkpqg6kx3smb35s81y1an",
+        "order": 5,
+        "question": "{Unless} you hurry, you will miss the bus.",
+        "questionCode": "206440",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1772201815766
+      },
+      {
+        "_creationTime": 1772201815766.1099,
+        "_id": "kn7bthgqtcd5xshwest1xv8p0581zve0",
+        "createdAt": 1772201815766,
+        "data": {
+          "correctIndex": 2,
+          "explanation": "“Although” concedes a point despite it.",
+          "options": [
+            "since",
+            "unless",
+            "although",
+            "because"
+          ]
+        },
+        "difficultyName": "medium",
+        "levelId": "ks72rb8tzpdgkpqg6kx3smb35s81y1an",
+        "order": 6,
+        "question": "Which conjunction expresses concession?",
+        "questionCode": "542714",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1772201815766
+      },
+      {
+        "_creationTime": 1772201815766.112,
+        "_id": "kn7dtrbkeasf15aaxjrbkhvh9h81znxf",
+        "createdAt": 1772201815766,
+        "data": {
+          "correctWords": [
+            "both",
+            "and"
+          ],
+          "explanation": "“Both...and” express inclusion.",
+          "selectMode": "multiple",
+          "statement": "He will both sing and dance."
+        },
+        "difficultyName": "medium",
+        "levelId": "ks72rb8tzpdgkpqg6kx3smb35s81y1an",
+        "order": 7,
+        "question": "Pick correlative pair.",
+        "questionCode": "808289",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1772201815766
+      },
+      {
+        "_creationTime": 1772201815766.1123,
+        "_id": "kn71vrc4wva9kber98ny06w9w981z3y7",
+        "createdAt": 1772201815766,
+        "data": {
+          "correctWords": [
+            "Since"
+          ],
+          "explanation": "“Since” introduces reason/time.",
+          "selectMode": "multiple",
+          "statement": "Since you asked, I will tell you."
+        },
+        "difficultyName": "medium",
+        "levelId": "ks72rb8tzpdgkpqg6kx3smb35s81y1an",
+        "order": 8,
+        "question": "Pick the subordinating conjunction.",
+        "questionCode": "347720",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1772201815766
+      },
+      {
+        "_creationTime": 1772201815766.11,
+        "_id": "kn7f7ejqq4t4xq3hbd85z21mh181yd71",
+        "createdAt": 1772201815766,
+        "data": {
+          "correctIndex": 1,
+          "explanation": "“If” states condition for coming.",
+          "options": [
+            "unless",
+            "if",
+            "because",
+            "though"
+          ]
+        },
+        "difficultyName": "medium",
+        "levelId": "ks72rb8tzpdgkpqg6kx3smb35s81y1an",
+        "order": 9,
+        "question": "Pick the best conjunction: \"I will come, ____ I am invited.\"",
+        "questionCode": "151442",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1772201815766
+      },
+      {
+        "_creationTime": 1772201815766.1147,
+        "_id": "kn73qj8dt8w88k7420zajd7men81zfbh",
+        "createdAt": 1772201815766,
+        "data": {
+          "distractors": [
+            "but",
+            "or",
+            "neither"
+          ]
+        },
+        "difficultyName": "medium",
+        "levelId": "ks72rb8tzpdgkpqg6kx3smb35s81y1an",
+        "order": 10,
+        "question": "{As} he was late, we started without him.",
+        "questionCode": "446668",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1772201815766
+      },
+      {
+        "_creationTime": 1772201815766.1125,
+        "_id": "kn7fe3fcm9wav3531y36pfqba581zeg7",
+        "createdAt": 1772201815766,
+        "data": {
+          "correctWords": [
+            "because"
+          ],
+          "explanation": "Introduces cause.",
+          "selectMode": "multiple",
+          "statement": "We stayed because it rained."
+        },
+        "difficultyName": "medium",
+        "levelId": "ks72rb8tzpdgkpqg6kx3smb35s81y1an",
+        "order": 11,
+        "question": "Pick conjunction.",
+        "questionCode": "949419",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1772201815766
+      },
+      {
+        "_creationTime": 1772201815766.1104,
+        "_id": "kn7dyjrkxskpn67hxc8grfej5h81y8jb",
+        "createdAt": 1772201815766,
+        "data": {
+          "correctIndex": 0,
+          "explanation": "“Than” introduces comparative clauses (subordinating).",
+          "options": [
+            "It can introduce subordinate clauses in comparisons.",
+            "It is always coordinating.",
+            "It pairs with 'either'.",
+            "It's only used as a preposition."
+          ]
+        },
+        "difficultyName": "medium",
+        "levelId": "ks72rb8tzpdgkpqg6kx3smb35s81y1an",
+        "order": 12,
+        "question": "Which is correct about \"than\"?",
+        "questionCode": "364514",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1772201815766
+      },
+      {
+        "_creationTime": 1772201815766.115,
+        "_id": "kn7fyk6wsv7akn7b8bet534pjx81zzrf",
+        "createdAt": 1772201815766,
+        "data": {
+          "distractors": [
+            "though",
+            "when",
+            "neither"
+          ]
+        },
+        "difficultyName": "medium",
+        "levelId": "ks72rb8tzpdgkpqg6kx3smb35s81y1an",
+        "order": 13,
+        "question": "Do it {so that} you can finish on time.",
+        "questionCode": "395681",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1772201815766
+      },
+      {
+        "_creationTime": 1772201815766.1106,
+        "_id": "kn73bkpk7adgqdzx56mtra8frs81yg77",
+        "createdAt": 1772201815766,
+        "data": {
+          "correctIndex": 1,
+          "explanation": "“Lest” expresses negative purpose.",
+          "options": [
+            "so that",
+            "in order that not",
+            "because",
+            "although"
+          ]
+        },
+        "difficultyName": "medium",
+        "levelId": "ks72rb8tzpdgkpqg6kx3smb35s81y1an",
+        "order": 14,
+        "question": "“Lest” is best replaced by:",
+        "questionCode": "597361",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1772201815766
+      },
+      {
+        "_creationTime": 1772201815766.113,
+        "_id": "kn77p4ds3fe1115hxfxqhgsa0581y9r3",
+        "createdAt": 1772201815766,
+        "data": {
+          "correctWords": [
+            "unless"
+          ],
+          "explanation": "Condition clause.",
+          "selectMode": "multiple",
+          "statement": "He cannot go unless he gets permission."
+        },
+        "difficultyName": "medium",
+        "levelId": "ks72rb8tzpdgkpqg6kx3smb35s81y1an",
+        "order": 15,
+        "question": "Pick conjunction.",
+        "questionCode": "707963",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1772201815766
+      },
+      {
+        "_creationTime": 1772201815766.1155,
+        "_id": "kn73yrqd7eww8wzccr9qnb8h2981zgq8",
+        "createdAt": 1772201815766,
+        "data": {
+          "distractors": [
+            "When",
+            "If",
+            "Because"
+          ]
+        },
+        "difficultyName": "medium",
+        "levelId": "ks72rb8tzpdgkpqg6kx3smb35s81y1an",
+        "order": 16,
+        "question": "{No sooner} had he sat down {than} the phone rang.",
+        "questionCode": "524975",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1772201815766
+      },
+      {
+        "_creationTime": 1772201815766.1157,
+        "_id": "kn7bebep06wxn96zmhxhp5ns4981ynqb",
+        "createdAt": 1772201815766,
+        "data": {
+          "distractors": [
+            "so",
+            "because",
+            "as"
+          ]
+        },
+        "difficultyName": "medium",
+        "levelId": "ks72rb8tzpdgkpqg6kx3smb35s81y1an",
+        "order": 17,
+        "question": "He stayed up late, {yet} he woke early.",
+        "questionCode": "664100",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1772201815766
+      },
+      {
+        "_creationTime": 1772201815766.1128,
+        "_id": "kn7d4kqesey1mba8h8v7sa89dh81zp4v",
+        "createdAt": 1772201815766,
+        "data": {
+          "correctWords": [
+            "neither",
+            "nor"
+          ],
+          "explanation": "“Neither...nor” expresses negation of both.",
+          "selectMode": "multiple",
+          "statement": "She neither called nor texted."
+        },
+        "difficultyName": "medium",
+        "levelId": "ks72rb8tzpdgkpqg6kx3smb35s81y1an",
+        "order": 18,
+        "question": "Pick conjunction.",
+        "questionCode": "986169",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1772201815766
+      },
+      {
+        "_creationTime": 1772201815766.1152,
+        "_id": "kn7bknbc95vhbwaweyfm5m78k181y7pn",
+        "createdAt": 1772201815766,
+        "data": {
+          "distractors": [
+            "and",
+            "because",
+            "if"
+          ]
+        },
+        "difficultyName": "medium",
+        "levelId": "ks72rb8tzpdgkpqg6kx3smb35s81y1an",
+        "order": 19,
+        "question": "She is wiser {than} her sister.",
+        "questionCode": "702553",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1772201815766
+      },
+      {
+        "_creationTime": 1772201815766.1108,
+        "_id": "kn78j2f9n3ahwtdnzx7wcx20rs81y73c",
+        "createdAt": 1772201815766,
+        "data": {
+          "correctIndex": 2,
+          "explanation": "“But” expresses opposition/contrast.",
+          "options": [
+            "so that",
+            "for",
+            "but",
+            "and"
+          ]
+        },
+        "difficultyName": "medium",
+        "levelId": "ks72rb8tzpdgkpqg6kx3smb35s81y1an",
+        "order": 20,
+        "question": "Choose conjunction showing contrast:",
+        "questionCode": "103644",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1772201815766
+      },
+      {
+        "_creationTime": 1772201815766.1133,
+        "_id": "kn76tzw1w4dk9wymjaxh6gxcfs81z2xx",
+        "createdAt": 1772201815766,
+        "data": {
+          "correctWords": [
+            "than"
+          ],
+          "explanation": "“Rather than” used for comparison/choice.",
+          "selectMode": "multiple",
+          "statement": "I prefer tea rather than coffee."
+        },
+        "difficultyName": "medium",
+        "levelId": "ks72rb8tzpdgkpqg6kx3smb35s81y1an",
+        "order": 21,
+        "question": "Pick conjunction.",
+        "questionCode": "692687",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1772201815766
+      },
+      {
+        "_creationTime": 1772201815766.116,
+        "_id": "kn7a9r9kkdj4wvvvsdvpz0zcgh81zve0",
+        "createdAt": 1772201815766,
+        "data": {
+          "distractors": [
+            "and",
+            "for",
+            "nor"
+          ]
+        },
+        "difficultyName": "medium",
+        "levelId": "ks72rb8tzpdgkpqg6kx3smb35s81y1an",
+        "order": 22,
+        "question": "{Though} he tried, he failed.",
+        "questionCode": "640078",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1772201815766
+      },
+      {
+        "_creationTime": 1772201815766.111,
+        "_id": "kn7dpcdkahpjeec0088eed79sn81z78g",
+        "createdAt": 1772201815766,
+        "data": {
+          "correctIndex": 1,
+          "explanation": "“No sooner” causes subject-auxiliary inversion.",
+          "options": [
+            "It takes normal word order.",
+            "It requires inversion in main clause.",
+            "It is a coordinating pair.",
+            "It means 'before'."
+          ]
+        },
+        "difficultyName": "medium",
+        "levelId": "ks72rb8tzpdgkpqg6kx3smb35s81y1an",
+        "order": 23,
+        "question": "Which is true about \"no sooner... than\":",
+        "questionCode": "741501",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1772201815766
+      },
+      {
+        "_creationTime": 1772201815766.1135,
+        "_id": "kn78tzjd0sbv5ysscjndye050n81y93h",
+        "createdAt": 1772201815766,
+        "data": {
+          "correctWords": [
+            "Where"
+          ],
+          "explanation": "Introduces clause of place.",
+          "selectMode": "multiple",
+          "statement": "Where there is smoke, there is fire."
+        },
+        "difficultyName": "medium",
+        "levelId": "ks72rb8tzpdgkpqg6kx3smb35s81y1an",
+        "order": 24,
+        "question": "Pick conjunction.",
+        "questionCode": "886073",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1772201815766
+      },
+      {
+        "_creationTime": 1772201815766.1138,
+        "_id": "kn78wkr0vs309cte4bepb9zmt181ybza",
+        "createdAt": 1772201815766,
+        "data": {
+          "correctWords": [
+            "Either",
+            "or"
+          ],
+          "explanation": "Correlative expressing alternatives.",
+          "selectMode": "multiple",
+          "statement": "Either you study hard or you fail."
+        },
+        "difficultyName": "medium",
+        "levelId": "ks72rb8tzpdgkpqg6kx3smb35s81y1an",
+        "order": 25,
+        "question": "Pick conjunction pair.",
+        "questionCode": "940276",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1772201815766
+      },
+      {
+        "_creationTime": 1772201815766.114,
+        "_id": "kn7ea8d75nr91q7wrwg281ve6x81zgzn",
+        "createdAt": 1772201815766,
+        "data": {
+          "correctWords": [
+            "that"
+          ],
+          "explanation": "“That” introduces result clause after 'so'.",
+          "selectMode": "multiple",
+          "statement": "He was so tired that he slept."
+        },
+        "difficultyName": "medium",
+        "levelId": "ks72rb8tzpdgkpqg6kx3smb35s81y1an",
+        "order": 26,
+        "question": "Pick conjunction.",
+        "questionCode": "284948",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1772201815766
+      },
+      {
+        "_creationTime": 1772201815766.1162,
+        "_id": "kn747p6nz3gmv5s61tjenbfnx181ymvs",
+        "createdAt": 1772201815766,
+        "data": {
+          "distractors": [
+            "unless",
+            "until",
+            "either"
+          ]
+        },
+        "difficultyName": "medium",
+        "levelId": "ks72rb8tzpdgkpqg6kx3smb35s81y1an",
+        "order": 27,
+        "question": "They went out {while} it was raining.",
+        "questionCode": "608257",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1772201815766
+      },
+      {
+        "_creationTime": 1772201815766.1113,
+        "_id": "kn73prhnsjdff7648w51yze95h81zjy9",
+        "createdAt": 1772201815766,
+        "data": {
+          "correctIndex": 2,
+          "explanation": "“Although” introduces contrast.",
+          "options": [
+            "so",
+            "because",
+            "although",
+            "and"
+          ]
+        },
+        "difficultyName": "medium",
+        "levelId": "ks72rb8tzpdgkpqg6kx3smb35s81y1an",
+        "order": 28,
+        "question": "Which is correct: \"She sings well, ____ she doesn't practice.\" (to show contrast)",
+        "questionCode": "153797",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1772201815766
+      },
+      {
+        "_creationTime": 1772201815766.1116,
+        "_id": "kn79dbztnbp7candj9qtbwy15x81y1c8",
+        "createdAt": 1772201815766,
+        "data": {
+          "correctIndex": 3,
+          "explanation": "“So” can indicate a result.",
+          "options": [
+            "so that",
+            "for",
+            "as",
+            "so"
+          ]
+        },
+        "difficultyName": "medium",
+        "levelId": "ks72rb8tzpdgkpqg6kx3smb35s81y1an",
+        "order": 29,
+        "question": "Which conjunction introduces a result?",
+        "questionCode": "859415",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1772201815766
+      },
+      {
+        "_creationTime": 1772201815766.1165,
+        "_id": "kn709gbc8vx0gc2fc30ka0s0qn81z27y",
+        "createdAt": 1772201815766,
+        "data": {
+          "distractors": [
+            "so that",
+            "though",
+            "but"
+          ]
+        },
+        "difficultyName": "medium",
+        "levelId": "ks72rb8tzpdgkpqg6kx3smb35s81y1an",
+        "order": 30,
+        "question": "{Lest} we forget, take notes.",
+        "questionCode": "655411",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1772201815766
+      }
+    ]
+  }
+}
