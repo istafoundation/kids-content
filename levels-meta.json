@@ -5,6 +5,15 @@
     "name": "Build the Basics",
     "description": "Start your learning journey!",
     "groupId": "mh77tbd8t2h55d7dbcjz384bhx80pbw9",
+    "group": {
+      "name": "Group 1 - Beginner",
+      "description": "The Beginning",
+      "order": 1,
+      "theme": {
+        "emoji": "😊",
+        "primaryColor": "#e236ac"
+      }
+    },
     "isEnabled": true,
     "difficulties": [
       {
@@ -39,6 +48,15 @@
     "name": "Nouns & Pronouns",
     "description": "Noun is the name of any person, place, thing or feeling. PRONOUN is any word which is used instead of NOUN.",
     "groupId": "mh77tbd8t2h55d7dbcjz384bhx80pbw9",
+    "group": {
+      "name": "Group 1 - Beginner",
+      "description": "The Beginning",
+      "order": 1,
+      "theme": {
+        "emoji": "😊",
+        "primaryColor": "#e236ac"
+      }
+    },
     "isEnabled": true,
     "difficulties": [
       {
@@ -69,6 +87,15 @@
     "name": "Basic Pronouns",
     "description": "Now it's time to learn Pronouns in depth",
     "groupId": "mh77tbd8t2h55d7dbcjz384bhx80pbw9",
+    "group": {
+      "name": "Group 1 - Beginner",
+      "description": "The Beginning",
+      "order": 1,
+      "theme": {
+        "emoji": "😊",
+        "primaryColor": "#e236ac"
+      }
+    },
     "isEnabled": true,
     "difficulties": [
       {
@@ -99,6 +126,15 @@
     "name": "Adjectives",
     "description": "adjectives",
     "groupId": "mh77tbd8t2h55d7dbcjz384bhx80pbw9",
+    "group": {
+      "name": "Group 1 - Beginner",
+      "description": "The Beginning",
+      "order": 1,
+      "theme": {
+        "emoji": "😊",
+        "primaryColor": "#e236ac"
+      }
+    },
     "isEnabled": true,
     "difficulties": [
       {
@@ -129,6 +165,15 @@
     "name": "Articles",
     "description": "Learn about articles...",
     "groupId": "mh77tbd8t2h55d7dbcjz384bhx80pbw9",
+    "group": {
+      "name": "Group 1 - Beginner",
+      "description": "The Beginning",
+      "order": 1,
+      "theme": {
+        "emoji": "😊",
+        "primaryColor": "#e236ac"
+      }
+    },
     "isEnabled": true,
     "difficulties": [
       {
@@ -159,6 +204,15 @@
     "name": "Verbs",
     "description": "verbs",
     "groupId": "mh77tbd8t2h55d7dbcjz384bhx80pbw9",
+    "group": {
+      "name": "Group 1 - Beginner",
+      "description": "The Beginning",
+      "order": 1,
+      "theme": {
+        "emoji": "😊",
+        "primaryColor": "#e236ac"
+      }
+    },
     "isEnabled": true,
     "difficulties": [
       {
@@ -189,6 +243,15 @@
     "name": "Infinitives Basics",
     "description": "infinitives",
     "groupId": "mh77tbd8t2h55d7dbcjz384bhx80pbw9",
+    "group": {
+      "name": "Group 1 - Beginner",
+      "description": "The Beginning",
+      "order": 1,
+      "theme": {
+        "emoji": "😊",
+        "primaryColor": "#e236ac"
+      }
+    },
     "isEnabled": true,
     "difficulties": [
       {
@@ -219,6 +282,15 @@
     "name": "Gerund",
     "description": "gerund",
     "groupId": "mh77tbd8t2h55d7dbcjz384bhx80pbw9",
+    "group": {
+      "name": "Group 1 - Beginner",
+      "description": "The Beginning",
+      "order": 1,
+      "theme": {
+        "emoji": "😊",
+        "primaryColor": "#e236ac"
+      }
+    },
     "isEnabled": true,
     "difficulties": [
       {
@@ -249,6 +321,15 @@
     "name": "Participles",
     "description": "Learn basics on Participles",
     "groupId": "mh77tbd8t2h55d7dbcjz384bhx80pbw9",
+    "group": {
+      "name": "Group 1 - Beginner",
+      "description": "The Beginning",
+      "order": 1,
+      "theme": {
+        "emoji": "😊",
+        "primaryColor": "#e236ac"
+      }
+    },
     "isEnabled": true,
     "difficulties": [
       {
@@ -279,6 +360,15 @@
     "name": "Tenses",
     "description": "tenses",
     "groupId": "mh77tbd8t2h55d7dbcjz384bhx80pbw9",
+    "group": {
+      "name": "Group 1 - Beginner",
+      "description": "The Beginning",
+      "order": 1,
+      "theme": {
+        "emoji": "😊",
+        "primaryColor": "#e236ac"
+      }
+    },
     "isEnabled": true,
     "difficulties": [
       {
@@ -309,6 +399,15 @@
     "name": "Adverbs",
     "description": "Let's learn something interesting",
     "groupId": "mh77tbd8t2h55d7dbcjz384bhx80pbw9",
+    "group": {
+      "name": "Group 1 - Beginner",
+      "description": "The Beginning",
+      "order": 1,
+      "theme": {
+        "emoji": "😊",
+        "primaryColor": "#e236ac"
+      }
+    },
     "isEnabled": true,
     "difficulties": [
       {
@@ -339,6 +438,15 @@
     "name": "Prepositions",
     "description": "Let's now learn prepositions",
     "groupId": "mh77tbd8t2h55d7dbcjz384bhx80pbw9",
+    "group": {
+      "name": "Group 1 - Beginner",
+      "description": "The Beginning",
+      "order": 1,
+      "theme": {
+        "emoji": "😊",
+        "primaryColor": "#e236ac"
+      }
+    },
     "isEnabled": true,
     "difficulties": [
       {
@@ -369,6 +477,15 @@
     "name": "Conjunctions",
     "description": "Let's learn something subtle now",
     "groupId": "mh77tbd8t2h55d7dbcjz384bhx80pbw9",
+    "group": {
+      "name": "Group 1 - Beginner",
+      "description": "The Beginning",
+      "order": 1,
+      "theme": {
+        "emoji": "😊",
+        "primaryColor": "#e236ac"
+      }
+    },
     "isEnabled": true,
     "difficulties": [
       {
@@ -399,6 +516,15 @@
     "name": "Interjections",
     "description": "",
     "groupId": "mh77tbd8t2h55d7dbcjz384bhx80pbw9",
+    "group": {
+      "name": "Group 1 - Beginner",
+      "description": "The Beginning",
+      "order": 1,
+      "theme": {
+        "emoji": "😊",
+        "primaryColor": "#e236ac"
+      }
+    },
     "isEnabled": true,
     "difficulties": [
       {
@@ -429,6 +555,15 @@
     "name": "Nouns: Gender and Number",
     "description": "Let's sharpen the blade now",
     "groupId": "mh76vsmvqn4b6x5h2vnknst8fx80p099",
+    "group": {
+      "name": "Group 2 - Intermediate",
+      "description": "",
+      "order": 2,
+      "theme": {
+        "emoji": "🌍",
+        "primaryColor": "#b665ec"
+      }
+    },
     "isEnabled": true,
     "difficulties": [
       {
@@ -459,6 +594,15 @@
     "name": "Nouns: Case",
     "description": "",
     "groupId": "mh76vsmvqn4b6x5h2vnknst8fx80p099",
+    "group": {
+      "name": "Group 2 - Intermediate",
+      "description": "",
+      "order": 2,
+      "theme": {
+        "emoji": "🌍",
+        "primaryColor": "#b665ec"
+      }
+    },
     "isEnabled": true,
     "difficulties": [
       {
@@ -489,6 +633,15 @@
     "name": "Intermediate Pronouns",
     "description": "",
     "groupId": "mh76vsmvqn4b6x5h2vnknst8fx80p099",
+    "group": {
+      "name": "Group 2 - Intermediate",
+      "description": "",
+      "order": 2,
+      "theme": {
+        "emoji": "🌍",
+        "primaryColor": "#b665ec"
+      }
+    },
     "isEnabled": true,
     "difficulties": [
       {
@@ -519,6 +672,15 @@
     "name": "Intermediate Adjectives",
     "description": "",
     "groupId": "mh76vsmvqn4b6x5h2vnknst8fx80p099",
+    "group": {
+      "name": "Group 2 - Intermediate",
+      "description": "",
+      "order": 2,
+      "theme": {
+        "emoji": "🌍",
+        "primaryColor": "#b665ec"
+      }
+    },
     "isEnabled": true,
     "difficulties": [
       {
@@ -549,6 +711,15 @@
     "name": "Intermediate Articles",
     "description": "",
     "groupId": "mh76vsmvqn4b6x5h2vnknst8fx80p099",
+    "group": {
+      "name": "Group 2 - Intermediate",
+      "description": "",
+      "order": 2,
+      "theme": {
+        "emoji": "🌍",
+        "primaryColor": "#b665ec"
+      }
+    },
     "isEnabled": true,
     "difficulties": [
       {
@@ -579,6 +750,15 @@
     "name": "Intermediate Verbs",
     "description": "",
     "groupId": "mh76vsmvqn4b6x5h2vnknst8fx80p099",
+    "group": {
+      "name": "Group 2 - Intermediate",
+      "description": "",
+      "order": 2,
+      "theme": {
+        "emoji": "🌍",
+        "primaryColor": "#b665ec"
+      }
+    },
     "isEnabled": true,
     "difficulties": [
       {
@@ -609,6 +789,15 @@
     "name": "Intermediate Infinitives",
     "description": "",
     "groupId": "mh76vsmvqn4b6x5h2vnknst8fx80p099",
+    "group": {
+      "name": "Group 2 - Intermediate",
+      "description": "",
+      "order": 2,
+      "theme": {
+        "emoji": "🌍",
+        "primaryColor": "#b665ec"
+      }
+    },
     "isEnabled": true,
     "difficulties": [
       {
@@ -639,6 +828,15 @@
     "name": "Intermediate Gerunds",
     "description": "",
     "groupId": "mh76vsmvqn4b6x5h2vnknst8fx80p099",
+    "group": {
+      "name": "Group 2 - Intermediate",
+      "description": "",
+      "order": 2,
+      "theme": {
+        "emoji": "🌍",
+        "primaryColor": "#b665ec"
+      }
+    },
     "isEnabled": true,
     "difficulties": [
       {
@@ -669,6 +867,15 @@
     "name": "Intermediate Participles",
     "description": "",
     "groupId": "mh76vsmvqn4b6x5h2vnknst8fx80p099",
+    "group": {
+      "name": "Group 2 - Intermediate",
+      "description": "",
+      "order": 2,
+      "theme": {
+        "emoji": "🌍",
+        "primaryColor": "#b665ec"
+      }
+    },
     "isEnabled": true,
     "difficulties": [
       {
@@ -698,6 +905,15 @@
     "levelNumber": 24,
     "name": "Intermediate Tenses",
     "groupId": "mh76vsmvqn4b6x5h2vnknst8fx80p099",
+    "group": {
+      "name": "Group 2 - Intermediate",
+      "description": "",
+      "order": 2,
+      "theme": {
+        "emoji": "🌍",
+        "primaryColor": "#b665ec"
+      }
+    },
     "isEnabled": true,
     "difficulties": [
       {
@@ -727,6 +943,15 @@
     "levelNumber": 25,
     "name": "Intermediate Adverbs",
     "groupId": "mh76vsmvqn4b6x5h2vnknst8fx80p099",
+    "group": {
+      "name": "Group 2 - Intermediate",
+      "description": "",
+      "order": 2,
+      "theme": {
+        "emoji": "🌍",
+        "primaryColor": "#b665ec"
+      }
+    },
     "isEnabled": true,
     "difficulties": [
       {
@@ -756,6 +981,15 @@
     "levelNumber": 26,
     "name": "Intermediate Prepositions",
     "groupId": "mh76vsmvqn4b6x5h2vnknst8fx80p099",
+    "group": {
+      "name": "Group 2 - Intermediate",
+      "description": "",
+      "order": 2,
+      "theme": {
+        "emoji": "🌍",
+        "primaryColor": "#b665ec"
+      }
+    },
     "isEnabled": true,
     "difficulties": [
       {
@@ -785,6 +1019,15 @@
     "levelNumber": 27,
     "name": "Intermediate Conjunctions",
     "groupId": "mh76vsmvqn4b6x5h2vnknst8fx80p099",
+    "group": {
+      "name": "Group 2 - Intermediate",
+      "description": "",
+      "order": 2,
+      "theme": {
+        "emoji": "🌍",
+        "primaryColor": "#b665ec"
+      }
+    },
     "isEnabled": true,
     "difficulties": [
       {
@@ -814,6 +1057,15 @@
     "levelNumber": 28,
     "name": "Intermediate Interjections",
     "groupId": "mh76vsmvqn4b6x5h2vnknst8fx80p099",
+    "group": {
+      "name": "Group 2 - Intermediate",
+      "description": "",
+      "order": 2,
+      "theme": {
+        "emoji": "🌍",
+        "primaryColor": "#b665ec"
+      }
+    },
     "isEnabled": true,
     "difficulties": [
       {
@@ -843,6 +1095,15 @@
     "levelNumber": 29,
     "name": "Intermediate Sentences",
     "groupId": "mh76vsmvqn4b6x5h2vnknst8fx80p099",
+    "group": {
+      "name": "Group 2 - Intermediate",
+      "description": "",
+      "order": 2,
+      "theme": {
+        "emoji": "🌍",
+        "primaryColor": "#b665ec"
+      }
+    },
     "isEnabled": true,
     "difficulties": [
       {
