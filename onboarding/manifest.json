@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "baseUrl": "https://cdn.jsdelivr.net/gh/istafoundation/kids-content@main/",
+  "audioFiles": {
+    "en_language.opus": "onboarding/audio/en_language.opus",
+    "bn_language.opus": "onboarding/audio/bn_language.opus",
+    "hi_language.opus": "onboarding/audio/hi_language.opus"
+  },
+  "lastUpdated": "2026-03-03T03:15:28.522Z"
+}
