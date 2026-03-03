@@ -7,7 +7,10 @@
     "hi_language.opus": "onboarding/audio/hi_language.opus",
     "en_name.opus": "onboarding/audio/en_name.opus",
     "bn_name.opus": "onboarding/audio/bn_name.opus",
-    "hi_name.opus": "onboarding/audio/hi_name.opus"
+    "hi_name.opus": "onboarding/audio/hi_name.opus",
+    "en_class.opus": "onboarding/audio/en_class.opus",
+    "bn_class.opus": "onboarding/audio/bn_class.opus",
+    "hi_class.opus": "onboarding/audio/hi_class.opus"
   },
-  "lastUpdated": "2026-03-03T03:17:41.963Z"
+  "lastUpdated": "2026-03-03T03:20:08.909Z"
 }
