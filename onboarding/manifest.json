@@ -19,7 +19,10 @@
     "hi_proficiency.opus": "onboarding/audio/hi_proficiency.opus",
     "en_welcome.opus": "onboarding/audio/en_welcome.opus",
     "bn_welcome.opus": "onboarding/audio/bn_welcome.opus",
-    "hi_welcome.opus": "onboarding/audio/hi_welcome.opus"
+    "hi_welcome.opus": "onboarding/audio/hi_welcome.opus",
+    "en_ready.opus": "onboarding/audio/en_ready.opus",
+    "bn_ready.opus": "onboarding/audio/bn_ready.opus",
+    "hi_ready.opus": "onboarding/audio/hi_ready.opus"
   },
-  "lastUpdated": "2026-03-04T01:42:58.197Z"
+  "lastUpdated": "2026-03-04T01:43:20.969Z"
 }
