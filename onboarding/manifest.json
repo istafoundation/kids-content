@@ -16,7 +16,10 @@
     "hi_board.opus": "onboarding/audio/hi_board.opus",
     "en_proficiency.opus": "onboarding/audio/en_proficiency.opus",
     "bn_proficiency.opus": "onboarding/audio/bn_proficiency.opus",
-    "hi_proficiency.opus": "onboarding/audio/hi_proficiency.opus"
+    "hi_proficiency.opus": "onboarding/audio/hi_proficiency.opus",
+    "en_welcome.opus": "onboarding/audio/en_welcome.opus",
+    "bn_welcome.opus": "onboarding/audio/bn_welcome.opus",
+    "hi_welcome.opus": "onboarding/audio/hi_welcome.opus"
   },
-  "lastUpdated": "2026-03-03T07:53:54.105Z"
+  "lastUpdated": "2026-03-04T01:42:58.197Z"
 }
