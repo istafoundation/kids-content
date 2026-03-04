@@ -22,7 +22,10 @@
     "hi_welcome.opus": "onboarding/audio/hi_welcome.opus",
     "en_ready.opus": "onboarding/audio/en_ready.opus",
     "bn_ready.opus": "onboarding/audio/bn_ready.opus",
-    "hi_ready.opus": "onboarding/audio/hi_ready.opus"
+    "hi_ready.opus": "onboarding/audio/hi_ready.opus",
+    "en_welcome_back.opus": "onboarding/audio/en_welcome_back.opus",
+    "bn_welcome_back.opus": "onboarding/audio/bn_welcome_back.opus",
+    "hi_welcome_back.opus": "onboarding/audio/hi_welcome_back.opus"
   },
-  "lastUpdated": "2026-03-04T01:43:20.969Z"
+  "lastUpdated": "2026-03-04T01:44:57.594Z"
 }
