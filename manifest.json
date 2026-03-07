@@ -1,12 +1,12 @@
 {
-  "publishedAt": 1772668151591,
+  "publishedAt": 1772841879634,
   "totalQuestions": 2610,
   "levelVersions": {
     "ks7d82z0n6wm92s3dp7m8ddajx7zkz9v": 6,
     "ks73ge2y158xwnr79qm8dck57s7zka79": 0,
     "ks7cz1ncbb7atf999n5y2jad517zxb38": 0,
     "ks75qmkmdnkegcy3q8z8xtqv317zy3zv": 0,
-    "ks78cdn3wg2nw4gvrhc4smxaxx7zzre0": 20,
+    "ks78cdn3wg2nw4gvrhc4smxaxx7zzre0": 21,
     "ks75btrxjryqep69g5z69a6bms7zyzq2": 13,
     "ks79x34415jc31hwf6zkvs4tm17zyts6": 0,
     "ks7bm3xry49endkyvgyhzwdsen7zycv2": 0,
@@ -31,6 +31,5 @@
     "ks72rb8tzpdgkpqg6kx3smb35s81y1an": 66,
     "ks7fhtv65vw7ay61p9h6fb328n820hxm": 150,
     "ks7c6cza84ts82gxdgawhj5sjn821k5z": 154
-  },
-  "quotesVersion": 2
+  }
 }

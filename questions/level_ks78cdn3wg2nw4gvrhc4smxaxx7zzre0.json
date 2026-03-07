@@ -1,7 +1,7 @@
 {
   "levelId": "ks78cdn3wg2nw4gvrhc4smxaxx7zzre0",
-  "version": 20,
-  "publishedAt": 1772320443060,
+  "version": 21,
+  "publishedAt": 1772841878283,
   "questions": {
     "easy": [
       {
@@ -1867,7 +1867,7 @@
         "createdAt": 1770662616341,
         "data": {
           "correctWords": [
-            "the",
+            "The",
             "the"
           ],
           "explanation": "",
@@ -1881,7 +1881,7 @@
         "questionCode": "560643",
         "questionType": "select",
         "status": "active",
-        "updatedAt": 1771868378978
+        "updatedAt": 1772841866829
       },
       {
         "_creationTime": 1770662616341.1091,
