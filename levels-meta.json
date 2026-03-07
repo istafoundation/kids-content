@@ -1127,5 +1127,43 @@
     ],
     "totalQuestions": 90,
     "questionsVersion": 154
+  },
+  {
+    "_id": "ks76vs2qa0nbchtey9yt4hezqx82fh1p",
+    "levelNumber": 30,
+    "name": "Phrases & Clauses",
+    "groupId": "mh76vsmvqn4b6x5h2vnknst8fx80p099",
+    "group": {
+      "name": "Group 2 - Intermediate",
+      "description": "",
+      "order": 2,
+      "theme": {
+        "emoji": "🌍",
+        "primaryColor": "#b665ec"
+      }
+    },
+    "isEnabled": true,
+    "difficulties": [
+      {
+        "displayName": "Easy",
+        "name": "easy",
+        "order": 1,
+        "requiredScore": 75
+      },
+      {
+        "displayName": "Medium",
+        "name": "medium",
+        "order": 2,
+        "requiredScore": 55
+      },
+      {
+        "displayName": "Hard",
+        "name": "hard",
+        "order": 3,
+        "requiredScore": 30
+      }
+    ],
+    "totalQuestions": 90,
+    "questionsVersion": 152
   }
 ]
