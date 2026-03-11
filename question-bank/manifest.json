@@ -1,5 +1,132 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T14:14:36.741Z",
-  "papers": []
+  "lastUpdated": "2026-03-11T14:16:06.674Z",
+  "papers": [
+    {
+      "id": "1773238566540_b1tifm",
+      "title": "English PYQ 2025",
+      "school": "Delhi Public School, Durgapur",
+      "board": "CBSE",
+      "city": "Durgapur",
+      "class": "12",
+      "subject": "English",
+      "examType": "annually",
+      "year": "2026",
+      "fileName": "1-5-1_English_Core.pdf",
+      "path": "question-bank/delhi-public-school-durgapur/12/english/annually_2026_1773238566540_b1tifm_1.pdf",
+      "fileType": "pdf",
+      "fileSize": 711904,
+      "files": [
+        {
+          "fileName": "1-5-1_English_Core.pdf",
+          "path": "question-bank/delhi-public-school-durgapur/12/english/annually_2026_1773238566540_b1tifm_1.pdf",
+          "fileType": "pdf",
+          "fileSize": 711904
+        },
+        {
+          "fileName": "1-5-2_English_Core.pdf",
+          "path": "question-bank/delhi-public-school-durgapur/12/english/annually_2026_1773238566540_b1tifm_2.pdf",
+          "fileType": "pdf",
+          "fileSize": 801083
+        },
+        {
+          "fileName": "1-5-3_English_Core.pdf",
+          "path": "question-bank/delhi-public-school-durgapur/12/english/annually_2026_1773238566540_b1tifm_3.pdf",
+          "fileType": "pdf",
+          "fileSize": 760836
+        },
+        {
+          "fileName": "1-6-2_English_Core.pdf",
+          "path": "question-bank/delhi-public-school-durgapur/12/english/annually_2026_1773238566540_b1tifm_4.pdf",
+          "fileType": "pdf",
+          "fileSize": 744461
+        },
+        {
+          "fileName": "1-6-1_English_Core.pdf",
+          "path": "question-bank/delhi-public-school-durgapur/12/english/annually_2026_1773238566540_b1tifm_5.pdf",
+          "fileType": "pdf",
+          "fileSize": 675466
+        },
+        {
+          "fileName": "1-6-3_English_Core.pdf",
+          "path": "question-bank/delhi-public-school-durgapur/12/english/annually_2026_1773238566540_b1tifm_6.pdf",
+          "fileType": "pdf",
+          "fileSize": 751870
+        },
+        {
+          "fileName": "1-7-1_English_Core.pdf",
+          "path": "question-bank/delhi-public-school-durgapur/12/english/annually_2026_1773238566540_b1tifm_7.pdf",
+          "fileType": "pdf",
+          "fileSize": 738129
+        },
+        {
+          "fileName": "1-7-3_English_Core.pdf",
+          "path": "question-bank/delhi-public-school-durgapur/12/english/annually_2026_1773238566540_b1tifm_8.pdf",
+          "fileType": "pdf",
+          "fileSize": 809647
+        },
+        {
+          "fileName": "1-7-2_English_Core.pdf",
+          "path": "question-bank/delhi-public-school-durgapur/12/english/annually_2026_1773238566540_b1tifm_9.pdf",
+          "fileType": "pdf",
+          "fileSize": 827782
+        },
+        {
+          "fileName": "1-1-2_English_Core.pdf",
+          "path": "question-bank/delhi-public-school-durgapur/12/english/annually_2026_1773238566540_b1tifm_10.pdf",
+          "fileType": "pdf",
+          "fileSize": 3297262
+        },
+        {
+          "fileName": "1-1-1_English_Core.pdf",
+          "path": "question-bank/delhi-public-school-durgapur/12/english/annually_2026_1773238566540_b1tifm_11.pdf",
+          "fileType": "pdf",
+          "fileSize": 3247894
+        },
+        {
+          "fileName": "1-1-3_English_Core.pdf",
+          "path": "question-bank/delhi-public-school-durgapur/12/english/annually_2026_1773238566540_b1tifm_12.pdf",
+          "fileType": "pdf",
+          "fileSize": 3250992
+        },
+        {
+          "fileName": "1-2-1_English_Core.pdf",
+          "path": "question-bank/delhi-public-school-durgapur/12/english/annually_2026_1773238566540_b1tifm_13.pdf",
+          "fileType": "pdf",
+          "fileSize": 3490221
+        },
+        {
+          "fileName": "1-2-3_English_Core.pdf",
+          "path": "question-bank/delhi-public-school-durgapur/12/english/annually_2026_1773238566540_b1tifm_14.pdf",
+          "fileType": "pdf",
+          "fileSize": 3483869
+        },
+        {
+          "fileName": "1-2-2_English_Core.pdf",
+          "path": "question-bank/delhi-public-school-durgapur/12/english/annually_2026_1773238566540_b1tifm_15.pdf",
+          "fileType": "pdf",
+          "fileSize": 3501084
+        },
+        {
+          "fileName": "1-4-2_English_Core.pdf",
+          "path": "question-bank/delhi-public-school-durgapur/12/english/annually_2026_1773238566540_b1tifm_16.pdf",
+          "fileType": "pdf",
+          "fileSize": 1232426
+        },
+        {
+          "fileName": "1-4-1_English_Core.pdf",
+          "path": "question-bank/delhi-public-school-durgapur/12/english/annually_2026_1773238566540_b1tifm_17.pdf",
+          "fileType": "pdf",
+          "fileSize": 1035170
+        },
+        {
+          "fileName": "1-4-3_English_Core.pdf",
+          "path": "question-bank/delhi-public-school-durgapur/12/english/annually_2026_1773238566540_b1tifm_18.pdf",
+          "fileType": "pdf",
+          "fileSize": 1151943
+        }
+      ],
+      "publishedAt": 1773238566540
+    }
+  ]
 }
