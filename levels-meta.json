@@ -40,7 +40,7 @@
       "emoji": "🌟"
     },
     "totalQuestions": 90,
-    "questionsVersion": 6
+    "questionsVersion": 7
   },
   {
     "_id": "ks73ge2y158xwnr79qm8dck57s7zka79",
@@ -974,7 +974,7 @@
       }
     ],
     "totalQuestions": 90,
-    "questionsVersion": 148
+    "questionsVersion": 149
   },
   {
     "_id": "ks7c0k3zepxqv0zgwm5545wwv181zmpp",
@@ -1165,5 +1165,81 @@
     ],
     "totalQuestions": 90,
     "questionsVersion": 152
+  },
+  {
+    "_id": "ks79zn06jrpkc24179jy6hvt5582hjtj",
+    "levelNumber": 31,
+    "name": "Concord",
+    "groupId": "mh76vsmvqn4b6x5h2vnknst8fx80p099",
+    "group": {
+      "name": "Group 2 - Intermediate",
+      "description": "",
+      "order": 2,
+      "theme": {
+        "emoji": "🌍",
+        "primaryColor": "#b665ec"
+      }
+    },
+    "isEnabled": true,
+    "difficulties": [
+      {
+        "displayName": "Easy",
+        "name": "easy",
+        "order": 1,
+        "requiredScore": 75
+      },
+      {
+        "displayName": "Medium",
+        "name": "medium",
+        "order": 2,
+        "requiredScore": 55
+      },
+      {
+        "displayName": "Hard",
+        "name": "hard",
+        "order": 3,
+        "requiredScore": 30
+      }
+    ],
+    "totalQuestions": 90,
+    "questionsVersion": 150
+  },
+  {
+    "_id": "ks7aawtxsqzk0w7mye2j4x0rxh82gjr5",
+    "levelNumber": 32,
+    "name": "Voice",
+    "groupId": "mh76vsmvqn4b6x5h2vnknst8fx80p099",
+    "group": {
+      "name": "Group 2 - Intermediate",
+      "description": "",
+      "order": 2,
+      "theme": {
+        "emoji": "🌍",
+        "primaryColor": "#b665ec"
+      }
+    },
+    "isEnabled": false,
+    "difficulties": [
+      {
+        "displayName": "Easy",
+        "name": "easy",
+        "order": 1,
+        "requiredScore": 75
+      },
+      {
+        "displayName": "Medium",
+        "name": "medium",
+        "order": 2,
+        "requiredScore": 55
+      },
+      {
+        "displayName": "Hard",
+        "name": "hard",
+        "order": 3,
+        "requiredScore": 30
+      }
+    ],
+    "totalQuestions": 30,
+    "questionsVersion": 30
   }
 ]

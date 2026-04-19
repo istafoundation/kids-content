@@ -1,0 +1,658 @@
+{
+  "levelId": "ks7aawtxsqzk0w7mye2j4x0rxh82gjr5",
+  "version": 30,
+  "publishedAt": 1776576333829,
+  "questions": {
+    "easy": [
+      {
+        "_creationTime": 1772981333734.041,
+        "_id": "kn76xc6eeyv95b9aexqx4pj47n82gy5z",
+        "createdAt": 1772981333734,
+        "data": {
+          "correctIndex": 2,
+          "explanation": "Uses verb “is loved” + by-phrase — object becomes subject, passive voice.",
+          "options": [
+            "Sita will love Savitri.",
+            "Sita loves Savitri.",
+            "Savitri is loved by Sita.",
+            "Sita loving Savitri."
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks7aawtxsqzk0w7mye2j4x0rxh82gjr5",
+        "order": 1,
+        "question": "Which sentence is in the Passive Voice?",
+        "questionCode": "654794",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1772981333734
+      },
+      {
+        "_creationTime": 1772981369975.5063,
+        "_id": "kn79qykrv7ekgy9xxeyksj4f4582gw00",
+        "createdAt": 1772981369975,
+        "data": {
+          "correctIndex": 0,
+          "explanation": "Simple past active → passive uses “was” + past participle “killed”.",
+          "options": [
+            "The mouse was killed by the cat.",
+            "The mouse kills the cat.",
+            "The mouse is killed by the cat.",
+            "The cat was killed by the mouse."
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks7aawtxsqzk0w7mye2j4x0rxh82gjr5",
+        "order": 2,
+        "question": "Convert active “The cat killed the mouse.” to passive — which is correct?",
+        "questionCode": "284002",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1772981369975
+      },
+      {
+        "_creationTime": 1772981390989.7725,
+        "_id": "kn73a79wxzx928qzt92dt3raz182h451",
+        "createdAt": 1772981390989,
+        "data": {
+          "correctIndex": 1,
+          "explanation": "Subject (peon) does the action — active voice.",
+          "options": [
+            "The gate was opened by the peon.",
+            "The peon opened the gate.",
+            "The gate is opened.",
+            "The gate has been opened."
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks7aawtxsqzk0w7mye2j4x0rxh82gjr5",
+        "order": 3,
+        "question": "Identify the active sentence.",
+        "questionCode": "439253",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1772981390989
+      },
+      {
+        "_creationTime": 1772981410506.428,
+        "_id": "kn77re4mhy5dw1wnwstvxpydmn82h919",
+        "createdAt": 1772981410506,
+        "data": {
+          "correctIndex": 0,
+          "explanation": "Past perfect active → past perfect passive “had been” + past participle.",
+          "options": [
+            "The road had been repaired.",
+            "The road has been repaired by them.",
+            "The road is already repaired.",
+            "The road was repaired."
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks7aawtxsqzk0w7mye2j4x0rxh82gjr5",
+        "order": 4,
+        "question": "Which passive form is correct for “They had already repaired the road”?",
+        "questionCode": "554199",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1772981410506
+      },
+      {
+        "_creationTime": 1772981500263.3003,
+        "_id": "kn73s6jza45kvhxewmvad3yswh82hcvx",
+        "createdAt": 1772981500263,
+        "data": {
+          "correctIndex": 1,
+          "explanation": "Future simple active → “will be” + past participle for passive.",
+          "options": [
+            "The work was finished by him in a fortnight.",
+            "The work will be finished by him in a fortnight.",
+            "The work has been finished by him.",
+            "The work is finished by him."
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks7aawtxsqzk0w7mye2j4x0rxh82gjr5",
+        "order": 5,
+        "question": "Which is the correct passive of “He will finish the work in a fortnight”?",
+        "questionCode": "894494",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1772981500263
+      },
+      {
+        "_creationTime": 1772981522963.4414,
+        "_id": "kn74k4exv1r6y038s22svtgh4h82ggmx",
+        "createdAt": 1772981522963,
+        "data": {
+          "correctIndex": 0,
+          "explanation": "Omit by-phrase when doer unknown or unnecessary.",
+          "options": [
+            "The wall is being built (by the mason).",
+            "The wall is being built by the mason.",
+            "The wall is building the mason.",
+            "The wall builds."
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks7aawtxsqzk0w7mye2j4x0rxh82gjr5",
+        "order": 6,
+        "question": "Choose the sentence that omits a by-phrase correctly (when doer unknown):",
+        "questionCode": "485638",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1772981522963
+      },
+      {
+        "_creationTime": 1772981546541.0447,
+        "_id": "kn7ct4z4tsaqnxpe101qzjr8hs82gyv7",
+        "createdAt": 1772981546541,
+        "data": {
+          "correctIndex": 3,
+          "explanation": "",
+          "options": [
+            "Simple past passive",
+            "Present continuous passive",
+            "Past perfect passive",
+            "Present perfect passive"
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks7aawtxsqzk0w7mye2j4x0rxh82gjr5",
+        "order": 7,
+        "question": "Which tense is used in “My purse has been stolen”?",
+        "questionCode": "758888",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1772981546541
+      },
+      {
+        "_creationTime": 1772981620301.344,
+        "_id": "kn7cxjmswjvv016saef17xk49982gs1d",
+        "createdAt": 1772981620301,
+        "data": {
+          "correctIndex": 3,
+          "explanation": "Past continuous active → “was/were being” + past participle for passive continuous.",
+          "options": [
+            "The wounded man was helping them.",
+            "They were helped the wounded man.",
+            "The wounded man helped them.",
+            "The wounded man was being helped by some boys."
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks7aawtxsqzk0w7mye2j4x0rxh82gjr5",
+        "order": 8,
+        "question": "Which form is passive for “They were helping the wounded man”?",
+        "questionCode": "756717",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1772981620301
+      },
+      {
+        "_creationTime": 1772981658548.1062,
+        "_id": "kn721bq4emc20atkgr1ax2y9tn82h7v0",
+        "createdAt": 1772981658548,
+        "data": {
+          "correctIndex": 1,
+          "explanation": "Modal “must” + passive “be done”.",
+          "options": [
+            "You must do the work.",
+            "The work must be done by you.",
+            "The work do must be.",
+            "The work did must be."
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks7aawtxsqzk0w7mye2j4x0rxh82gjr5",
+        "order": 9,
+        "question": "Which sentence is an example of passive with modal?",
+        "questionCode": "832471",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1772981658548
+      },
+      {
+        "_creationTime": 1772981692053.7043,
+        "_id": "kn77dzbm3tbj28eq0zkbrfpf3h82htgs",
+        "createdAt": 1772981692053,
+        "data": {
+          "correctIndex": 2,
+          "explanation": "Formal passive question uses “By whom was this done?”",
+          "options": [
+            "This was done by who?",
+            "Who was this done by?",
+            "By whom was this done?",
+            "Who was this done by?"
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks7aawtxsqzk0w7mye2j4x0rxh82gjr5",
+        "order": 10,
+        "question": "Choose correct passive of “Who did this?”",
+        "questionCode": "551138",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1772981692053
+      },
+      {
+        "_creationTime": 1772981711760.1904,
+        "_id": "kn74k38s7rgj2kkh82dx8w7g8s82hsja",
+        "createdAt": 1772981711760,
+        "data": {
+          "correctWords": [
+            "finished"
+          ],
+          "explanation": "“Finished” is the past participle used in present perfect passive.",
+          "selectMode": "multiple",
+          "statement": "The work has been finished."
+        },
+        "difficultyName": "easy",
+        "levelId": "ks7aawtxsqzk0w7mye2j4x0rxh82gjr5",
+        "order": 11,
+        "question": "Pick the past participle.",
+        "questionCode": "875965",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1772981711760
+      },
+      {
+        "_creationTime": 1772981813055.2239,
+        "_id": "kn7451zjv22efyrqht5mwwzpmn82ht0e",
+        "createdAt": 1772981813055,
+        "data": {
+          "correctWords": [
+            "has",
+            "been"
+          ],
+          "explanation": "Present perfect passive uses “has/have been” + past participle.",
+          "selectMode": "multiple",
+          "statement": "The purse has been stolen."
+        },
+        "difficultyName": "easy",
+        "levelId": "ks7aawtxsqzk0w7mye2j4x0rxh82gjr5",
+        "order": 12,
+        "question": "Pick the auxiliary used in present perfect passive.",
+        "questionCode": "259825",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1772981813055
+      },
+      {
+        "_creationTime": 1772981831199.2065,
+        "_id": "kn71amrbscmnt4qre3akc68c0h82hndx",
+        "createdAt": 1772981831199,
+        "data": {
+          "correctWords": [
+            "must",
+            "be"
+          ],
+          "explanation": "Modal ‘must’ + base ‘be’ used in passive form.",
+          "selectMode": "multiple",
+          "statement": "The work must be done."
+        },
+        "difficultyName": "easy",
+        "levelId": "ks7aawtxsqzk0w7mye2j4x0rxh82gjr5",
+        "order": 13,
+        "question": "Pick the modal + base that forms passive with modal.",
+        "questionCode": "584813",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1772981831199
+      },
+      {
+        "_creationTime": 1772981857495.7942,
+        "_id": "kn75hadv4r1sf79dgsdw4jws5h82gq3z",
+        "createdAt": 1772981857495,
+        "data": {
+          "correctWords": [
+            "is",
+            "being"
+          ],
+          "explanation": "“is/are being” marks present continuous passive.",
+          "selectMode": "multiple",
+          "statement": "The wall is being built."
+        },
+        "difficultyName": "easy",
+        "levelId": "ks7aawtxsqzk0w7mye2j4x0rxh82gjr5",
+        "order": 14,
+        "question": "Pick the passive continuous marker.",
+        "questionCode": "149047",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1772981857495
+      },
+      {
+        "_creationTime": 1772981876310.0889,
+        "_id": "kn74pvrvfs24tk7f1g0bbqg7vh82g14k",
+        "createdAt": 1772981876310,
+        "data": {
+          "correctWords": [
+            "by",
+            "somebody"
+          ],
+          "explanation": "“by somebody” names the agent in passive.",
+          "selectMode": "multiple",
+          "statement": "My purse has been stolen (by somebody)."
+        },
+        "difficultyName": "easy",
+        "levelId": "ks7aawtxsqzk0w7mye2j4x0rxh82gjr5",
+        "order": 15,
+        "question": "Pick the doer phrase (by-phrase).",
+        "questionCode": "165999",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1772981876310
+      },
+      {
+        "_creationTime": 1772981890460.5107,
+        "_id": "kn759j7zhcpve7way738rt2jen82g27b",
+        "createdAt": 1772981890460,
+        "data": {
+          "correctWords": [
+            "was",
+            "opened"
+          ],
+          "explanation": "Simple past passive uses was/were + past participle.",
+          "selectMode": "multiple",
+          "statement": "The gate was opened."
+        },
+        "difficultyName": "easy",
+        "levelId": "ks7aawtxsqzk0w7mye2j4x0rxh82gjr5",
+        "order": 16,
+        "question": "Pick the tense marker for simple past passive.",
+        "questionCode": "509499",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1772981890460
+      },
+      {
+        "_creationTime": 1772981906700.3062,
+        "_id": "kn71ptsyw2kqacw4r6bbg58gxs82hz0v",
+        "createdAt": 1772981906700,
+        "data": {
+          "correctWords": [
+            "by",
+            "whom"
+          ],
+          "explanation": "“By whom” is formal agent-question in passive.",
+          "selectMode": "multiple",
+          "statement": "By whom was this done?"
+        },
+        "difficultyName": "easy",
+        "levelId": "ks7aawtxsqzk0w7mye2j4x0rxh82gjr5",
+        "order": 17,
+        "question": "Pick the pronoun used in passive question.",
+        "questionCode": "921949",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1772981906700
+      },
+      {
+        "_creationTime": 1772981926967.6895,
+        "_id": "kn72gbtvtav5krqw20ym4zbh6n82h1kv",
+        "createdAt": 1772981926967,
+        "data": {
+          "correctWords": [
+            "are",
+            "taken"
+          ],
+          "explanation": "Simple present passive plural uses “are” + past participle.",
+          "selectMode": "multiple",
+          "statement": "Many things are taken."
+        },
+        "difficultyName": "easy",
+        "levelId": "ks7aawtxsqzk0w7mye2j4x0rxh82gjr5",
+        "order": 18,
+        "question": "Pick the passive form of “take” in simple present passive plural.",
+        "questionCode": "605921",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1772981926967
+      },
+      {
+        "_creationTime": 1772981944806.7842,
+        "_id": "kn789c4xmdexfgmgdr1rzcf3hh82gz9e",
+        "createdAt": 1772981944806,
+        "data": {
+          "correctWords": [
+            "had",
+            "been"
+          ],
+          "explanation": "Past perfect passive uses “had been” + past participle.",
+          "selectMode": "multiple",
+          "statement": "The road had been repaired."
+        },
+        "difficultyName": "easy",
+        "levelId": "ks7aawtxsqzk0w7mye2j4x0rxh82gjr5",
+        "order": 19,
+        "question": "Pick the correct passive auxiliary in past perfect passive.",
+        "questionCode": "972732",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1772981944806
+      },
+      {
+        "_creationTime": 1772981959981.8567,
+        "_id": "kn737bnb2tmjvfckntjcataz8s82gm17",
+        "createdAt": 1772981959981,
+        "data": {
+          "correctWords": [
+            "was",
+            "posted"
+          ],
+          "explanation": "Agent omitted; “was posted” is passive simple past.",
+          "selectMode": "multiple",
+          "statement": "The letter was posted last night."
+        },
+        "difficultyName": "easy",
+        "levelId": "ks7aawtxsqzk0w7mye2j4x0rxh82gjr5",
+        "order": 20,
+        "question": "Pick the passive form used when we omit the doer.",
+        "questionCode": "281737",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1772981959981
+      },
+      {
+        "_creationTime": 1772982140913.716,
+        "_id": "kn7bpx88757w7j8mrceaa6z31n82gmkq",
+        "createdAt": 1772982140913,
+        "data": {
+          "distractors": [
+            "loves",
+            "loving",
+            "loved"
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks7aawtxsqzk0w7mye2j4x0rxh82gjr5",
+        "order": 21,
+        "question": "Savitri {is loved by} Sita.",
+        "questionCode": "427108",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1772982140913
+      },
+      {
+        "_creationTime": 1772982150503.7659,
+        "_id": "kn7cpnkc5w6h62nvznyttm956982hmw9",
+        "createdAt": 1772982150503,
+        "data": {
+          "distractors": [
+            "is built",
+            "was building",
+            "builds"
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks7aawtxsqzk0w7mye2j4x0rxh82gjr5",
+        "order": 22,
+        "question": "The wall {is being built} by the mason.",
+        "questionCode": "424482",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1772982150503
+      },
+      {
+        "_creationTime": 1772982166497.1323,
+        "_id": "kn7b9wpqhm08aaa5bvqnf5m0ex82h4fd",
+        "createdAt": 1772982166497,
+        "data": {
+          "distractors": [
+            "was stolen",
+            "stole",
+            "had stolen"
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks7aawtxsqzk0w7mye2j4x0rxh82gjr5",
+        "order": 23,
+        "question": "My purse {has been stolen}.",
+        "questionCode": "803874",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1772982166497
+      },
+      {
+        "_creationTime": 1772982175758.3767,
+        "_id": "kn71pas8gkngv0knxrmar0931d82gd8z",
+        "createdAt": 1772982175758,
+        "data": {
+          "distractors": [
+            "opened",
+            "is opened",
+            "will open"
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks7aawtxsqzk0w7mye2j4x0rxh82gjr5",
+        "order": 24,
+        "question": "The gate {was opened} by the peon.",
+        "questionCode": "217594",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1772982175758
+      },
+      {
+        "_creationTime": 1772982183709.3042,
+        "_id": "kn797kwms85nf4az0pm0vv3yxx82h22w",
+        "createdAt": 1772982183709,
+        "data": {
+          "distractors": [
+            "will finish",
+            "finished",
+            "is finishing"
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks7aawtxsqzk0w7mye2j4x0rxh82gjr5",
+        "order": 25,
+        "question": "The work {will be finished} in a fortnight.",
+        "questionCode": "870483",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1772982183709
+      },
+      {
+        "_creationTime": 1772982191681.544,
+        "_id": "kn738n9ewp9zd6v5ry3h3053jd82h7c5",
+        "createdAt": 1772982191681,
+        "data": {
+          "distractors": [
+            "was helped",
+            "had helped",
+            "is helping"
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks7aawtxsqzk0w7mye2j4x0rxh82gjr5",
+        "order": 26,
+        "question": "The wounded man {was being helped} by some boys.",
+        "questionCode": "622380",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1772982191681
+      },
+      {
+        "_creationTime": 1772982231846.8613,
+        "_id": "kn7e5t96dd5s10pwjgkhb7w28582gaq3",
+        "createdAt": 1772982231847,
+        "data": {
+          "distractors": [
+            "has lost",
+            "lost",
+            "had lost"
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks7aawtxsqzk0w7mye2j4x0rxh82gjr5",
+        "order": 27,
+        "question": "The money {was lost} yesterday.",
+        "questionCode": "882623",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1772982231847
+      },
+      {
+        "_creationTime": 1772982240290.1204,
+        "_id": "kn7ah4r0c70gnhb5mg5t6mhfrs82h3da",
+        "createdAt": 1772982240290,
+        "data": {
+          "distractors": [
+            "just posted",
+            "was posted",
+            "will be posted"
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks7aawtxsqzk0w7mye2j4x0rxh82gjr5",
+        "order": 28,
+        "question": "The letter {has just been posted}.",
+        "questionCode": "985145",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1772982240290
+      },
+      {
+        "_creationTime": 1772982256762.9636,
+        "_id": "kn77ct39kec3zrxyj2cwpsj7j182hvnh",
+        "createdAt": 1772982256763,
+        "data": {
+          "distractors": [
+            "must done",
+            "must do",
+            "must doing"
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks7aawtxsqzk0w7mye2j4x0rxh82gjr5",
+        "order": 29,
+        "question": "The work {must be done} by you today.",
+        "questionCode": "676866",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1772982256763
+      },
+      {
+        "_creationTime": 1772982265168.8755,
+        "_id": "kn78ymdg716qgxj3zz4bxv282x82gye7",
+        "createdAt": 1772982265168,
+        "data": {
+          "distractors": [
+            "was scored",
+            "scored",
+            "are scoring"
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks7aawtxsqzk0w7mye2j4x0rxh82gjr5",
+        "order": 30,
+        "question": "Twenty runs {were scored} by the batsman.",
+        "questionCode": "836612",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1772982265168
+      }
+    ]
+  }
+}

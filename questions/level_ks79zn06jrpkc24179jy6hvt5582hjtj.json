@@ -1,0 +1,1934 @@
+{
+  "levelId": "ks79zn06jrpkc24179jy6hvt5582hjtj",
+  "version": 150,
+  "publishedAt": 1776576333775,
+  "questions": {
+    "easy": [
+      {
+        "_creationTime": 1772977179370.2778,
+        "_id": "kn7d2wyfham4vtpeezzhs8jem582hm2g",
+        "createdAt": 1772977179370,
+        "data": {
+          "correctWords": [
+            "was"
+          ],
+          "explanation": "Parenthetical phrase “with its crew” does not change singular subject “The ship.”",
+          "selectMode": "multiple",
+          "statement": "The ship, with its crew, was lost."
+        },
+        "difficultyName": "easy",
+        "levelId": "ks79zn06jrpkc24179jy6hvt5582hjtj",
+        "order": 1,
+        "question": "Pick the singular verb",
+        "questionCode": "700976",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1772977179370
+      },
+      {
+        "_creationTime": 1772977467706.1094,
+        "_id": "kn75mfp39ght0www3nqc9kfzmn82h75m",
+        "createdAt": 1772977467706,
+        "data": {
+          "distractors": [
+            "are",
+            "were",
+            "have been"
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks79zn06jrpkc24179jy6hvt5582hjtj",
+        "order": 2,
+        "question": "The horse and carriage {is} at the door.",
+        "questionCode": "970324",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1772977467706
+      },
+      {
+        "_creationTime": 1772976864213.495,
+        "_id": "kn73gyyxzvamny4snn49qwgrxh82g9yc",
+        "createdAt": 1772976864213,
+        "data": {
+          "correctIndex": 1,
+          "explanation": "Singular subject “the girl” takes singular verb “walks.”",
+          "options": [
+            "walk",
+            "walks",
+            "walking",
+            "walked"
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks79zn06jrpkc24179jy6hvt5582hjtj",
+        "order": 3,
+        "question": "Which verb is correct? “The girl ___ every morning.”",
+        "questionCode": "573692",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1772976864213
+      },
+      {
+        "_creationTime": 1772976885201.4573,
+        "_id": "kn70wgvwttngk4spg1azh3mq7s82hcvx",
+        "createdAt": 1772976885201,
+        "data": {
+          "correctIndex": 2,
+          "explanation": "“Bread and butter” considered one item → singular verb “is.”",
+          "options": [
+            "are",
+            "were",
+            "is",
+            "have been"
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks79zn06jrpkc24179jy6hvt5582hjtj",
+        "order": 4,
+        "question": "Choose the correct verb: “Bread and butter ___ his favourite breakfast.”",
+        "questionCode": "136148",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1772976885201
+      },
+      {
+        "_creationTime": 1772977192431.38,
+        "_id": "kn74nrhxf7r2ypshgkw7tptbpx82ghpk",
+        "createdAt": 1772977192431,
+        "data": {
+          "correctWords": [
+            "were"
+          ],
+          "explanation": "Compound subject joined by “and” → plural verb.",
+          "selectMode": "multiple",
+          "statement": "He and I were playing."
+        },
+        "difficultyName": "easy",
+        "levelId": "ks79zn06jrpkc24179jy6hvt5582hjtj",
+        "order": 5,
+        "question": "Pick the plural verb.",
+        "questionCode": "179222",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1772977192431
+      },
+      {
+        "_creationTime": 1772976908441.5774,
+        "_id": "kn73rwdnanra8srz5ekwbna5qn82g8qt",
+        "createdAt": 1772976908441,
+        "data": {
+          "correctIndex": 1,
+          "explanation": "Two people joined by “and” take a plural verb.",
+          "options": [
+            "is",
+            "are",
+            "am",
+            "was"
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks79zn06jrpkc24179jy6hvt5582hjtj",
+        "order": 6,
+        "question": "Which is correct? “He and I ___ at school.”",
+        "questionCode": "210387",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1772976908441
+      },
+      {
+        "_creationTime": 1772977478409.3564,
+        "_id": "kn71x8z81j3gfvbam8t8q52d3182gnvm",
+        "createdAt": 1772977478409,
+        "data": {
+          "distractors": [
+            "were",
+            "are",
+            "have been"
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks79zn06jrpkc24179jy6hvt5582hjtj",
+        "order": 7,
+        "question": "Neither of the boys {was} guilty.",
+        "questionCode": "526179",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1772977478409
+      },
+      {
+        "_creationTime": 1772976927222.7288,
+        "_id": "kn7axrw28grc06pw39gey4eyeh82gv1g",
+        "createdAt": 1772976927222,
+        "data": {
+          "correctIndex": 1,
+          "explanation": "Collective noun “committee” treated as a single unit → singular verb.",
+          "options": [
+            "have issued",
+            "has issued",
+            "are issuing",
+            "were issuing"
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks79zn06jrpkc24179jy6hvt5582hjtj",
+        "order": 8,
+        "question": "Which verb fits? “The committee ___ its report.”",
+        "questionCode": "133989",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1772976927222
+      },
+      {
+        "_creationTime": 1772977250736.578,
+        "_id": "kn7eqr2ctwrw0q9s25b8ff5pqn82hxes",
+        "createdAt": 1772977250736,
+        "data": {
+          "correctWords": [
+            "is"
+          ],
+          "explanation": "“Each” as subject requires singular verb.",
+          "selectMode": "multiple",
+          "statement": "Each of these is expensive."
+        },
+        "difficultyName": "easy",
+        "levelId": "ks79zn06jrpkc24179jy6hvt5582hjtj",
+        "order": 9,
+        "question": "Pick the correct singular verb.",
+        "questionCode": "809134",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1772977250736
+      },
+      {
+        "_creationTime": 1772977486218.0618,
+        "_id": "kn7570gbq7406evb6esyc0kdrd82gtt7",
+        "createdAt": 1772977486218,
+        "data": {
+          "distractors": [
+            "were",
+            "have been",
+            "are"
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks79zn06jrpkc24179jy6hvt5582hjtj",
+        "order": 10,
+        "question": "Every boy and every girl {was} given a prize.",
+        "questionCode": "687924",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1772977486218
+      },
+      {
+        "_creationTime": 1772977207087.2449,
+        "_id": "kn71r6xqdet3fjj9j80fmh7mxd82gtas",
+        "createdAt": 1772977207087,
+        "data": {
+          "correctWords": [
+            "being",
+            "praised"
+          ],
+          "explanation": "“Being praised” is a gerund phrase serving as object of “of.”",
+          "selectMode": "multiple",
+          "statement": "She is tired of being praised."
+        },
+        "difficultyName": "easy",
+        "levelId": "ks79zn06jrpkc24179jy6hvt5582hjtj",
+        "order": 11,
+        "question": "Pick the gerund acting as object.",
+        "questionCode": "826494",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1772977207087
+      },
+      {
+        "_creationTime": 1772976950216.4146,
+        "_id": "kn78jzmjskcjetghpax0x398n982g71s",
+        "createdAt": 1772976950216,
+        "data": {
+          "correctIndex": 0,
+          "explanation": "When subjects joined by or/nor, verb agrees with nearer subject (“dog” → singular “has”).",
+          "options": [
+            "has",
+            "have",
+            "are",
+            "were"
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks79zn06jrpkc24179jy6hvt5582hjtj",
+        "order": 12,
+        "question": "Correct sentence: “Either the cat or the dog ___ been fed.”",
+        "questionCode": "338234",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1772976950216
+      },
+      {
+        "_creationTime": 1772977496329.9343,
+        "_id": "kn775qwk5s0nmfhedbrvv64t8x82g38f",
+        "createdAt": 1772977496330,
+        "data": {
+          "distractors": [
+            "is",
+            "has",
+            "had"
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks79zn06jrpkc24179jy6hvt5582hjtj",
+        "order": 13,
+        "question": "None of the students {were} absent.",
+        "questionCode": "175341",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1772977496330
+      },
+      {
+        "_creationTime": 1772976972843.4006,
+        "_id": "kn73c7q2c0rndmq07b5cy51c1h82gmer",
+        "createdAt": 1772976972843,
+        "data": {
+          "correctIndex": 1,
+          "explanation": "“Every … and …” requires singular verb (“wins”).",
+          "options": [
+            "win",
+            "wins",
+            "have won",
+            "are winning"
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks79zn06jrpkc24179jy6hvt5582hjtj",
+        "order": 14,
+        "question": "Which verb is correct? “Every boy and girl ___ prizes.”",
+        "questionCode": "283584",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1772976972843
+      },
+      {
+        "_creationTime": 1772977265047.0837,
+        "_id": "kn73t8119qh2szd4fq8zz3eqwx82gxfm",
+        "createdAt": 1772977265047,
+        "data": {
+          "correctWords": [
+            "is"
+          ],
+          "explanation": "“Director” nearer verb → singular.",
+          "selectMode": "multiple",
+          "statement": "Either the managers or the director is arriving."
+        },
+        "difficultyName": "easy",
+        "levelId": "ks79zn06jrpkc24179jy6hvt5582hjtj",
+        "order": 15,
+        "question": "Pick the verb that agrees with nearer subject.",
+        "questionCode": "766063",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1772977265047
+      },
+      {
+        "_creationTime": 1772977516236.207,
+        "_id": "kn73x8kkeyxx4pg948zc0093vx82gg62",
+        "createdAt": 1772977516236,
+        "data": {
+          "distractors": [
+            "has",
+            "is",
+            "were"
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks79zn06jrpkc24179jy6hvt5582hjtj",
+        "order": 16,
+        "question": "The average worker’s earnings {have} gone up.",
+        "questionCode": "656521",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1772977516236
+      },
+      {
+        "_creationTime": 1772977056820.5483,
+        "_id": "kn7efp69sx72bbset138em09kh82h738",
+        "createdAt": 1772977056820,
+        "data": {
+          "correctIndex": 2,
+          "explanation": "“News” is singular in English → “is.”",
+          "options": [
+            "were",
+            "aare",
+            "is",
+            "have been"
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks79zn06jrpkc24179jy6hvt5582hjtj",
+        "order": 17,
+        "question": "Choose the right verb: “The news ___ surprising.”",
+        "questionCode": "861162",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1772977056820
+      },
+      {
+        "_creationTime": 1772977281762.8767,
+        "_id": "kn7axhjcn48k6yptnfmrprjemn82hp5c",
+        "createdAt": 1772977281763,
+        "data": {
+          "correctWords": [
+            "are"
+          ],
+          "explanation": "“Means” (income) takes plural verb.",
+          "selectMode": "multiple",
+          "statement": "His means are ample."
+        },
+        "difficultyName": "easy",
+        "levelId": "ks79zn06jrpkc24179jy6hvt5582hjtj",
+        "order": 18,
+        "question": "Pick plural verb for “means” (income sense).",
+        "questionCode": "829064",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1772977281763
+      },
+      {
+        "_creationTime": 1772977523750.3074,
+        "_id": "kn7dwpcd36jxf00f189s75rch582g9wq",
+        "createdAt": 1772977523750,
+        "data": {
+          "distractors": [
+            "are",
+            "were",
+            "have been"
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks79zn06jrpkc24179jy6hvt5582hjtj",
+        "order": 19,
+        "question": "The rise and fall of the tide {is} due to lunar influence.",
+        "questionCode": "409975",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1772977523750
+      },
+      {
+        "_creationTime": 1772977088837.316,
+        "_id": "kn716g077s6jpj5y5m1adpcs7h82hz0t",
+        "createdAt": 1772977088837,
+        "data": {
+          "correctIndex": 1,
+          "explanation": "“Neither” followed by singular noun → singular verb.",
+          "options": [
+            "are",
+            "is",
+            "were",
+            "have been"
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks79zn06jrpkc24179jy6hvt5582hjtj",
+        "order": 20,
+        "question": "Which is correct? “Neither of the answers ___ acceptable.”",
+        "questionCode": "811041",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1772977088837
+      },
+      {
+        "_creationTime": 1772977387051.0251,
+        "_id": "kn7b2wjfy3eggsje7pwz0c693n82gpng",
+        "createdAt": 1772977387051,
+        "data": {
+          "correctWords": [
+            "seems"
+          ],
+          "explanation": "Verb is singular because construction requires singular agreement.",
+          "selectMode": "multiple",
+          "statement": "Neither praise nor blame seems to affect him."
+        },
+        "difficultyName": "easy",
+        "levelId": "ks79zn06jrpkc24179jy6hvt5582hjtj",
+        "order": 21,
+        "question": "Pick the singular verb with “neither/nor.”",
+        "questionCode": "371271",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1772977387051
+      },
+      {
+        "_creationTime": 1772977532074.6182,
+        "_id": "kn74g1c4spswngw8zy0zcqm0jn82hcnw",
+        "createdAt": 1772977532074,
+        "data": {
+          "distractors": [
+            "was",
+            "is",
+            "are"
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks79zn06jrpkc24179jy6hvt5582hjtj",
+        "order": 22,
+        "question": "My means {were} much reduced.",
+        "questionCode": "294160",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1772977532074
+      },
+      {
+        "_creationTime": 1772977405779.4592,
+        "_id": "kn782yqycrgjtdjf1qxt274gk982h12b",
+        "createdAt": 1772977405779,
+        "data": {
+          "correctWords": [
+            "is"
+          ],
+          "explanation": "“Mathematics” singular in meaning → singular verb.",
+          "selectMode": "multiple",
+          "statement": "Mathematics is a branch of study."
+        },
+        "difficultyName": "easy",
+        "levelId": "ks79zn06jrpkc24179jy6hvt5582hjtj",
+        "order": 23,
+        "question": "Pick the phrase that is treated singular.",
+        "questionCode": "565255",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1772977405779
+      },
+      {
+        "_creationTime": 1772977116446.637,
+        "_id": "kn7a2n4c9ktzyep3vb9v2b9c5h82g170",
+        "createdAt": 1772977116446,
+        "data": {
+          "correctIndex": 3,
+          "explanation": "“Pair” is singular collective → singular verb.",
+          "options": [
+            "are",
+            "were",
+            "be",
+            "is"
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks79zn06jrpkc24179jy6hvt5582hjtj",
+        "order": 24,
+        "question": "Pick correct form: “The pair of shoes ___ on the shelf.”",
+        "questionCode": "253278",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1772977116446
+      },
+      {
+        "_creationTime": 1772977546639.1382,
+        "_id": "kn70gns5bwkj0pagq90zr2dk6n82g7g7",
+        "createdAt": 1772977546639,
+        "data": {
+          "distractors": [
+            "has",
+            "is",
+            "were"
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks79zn06jrpkc24179jy6hvt5582hjtj",
+        "order": 25,
+        "question": "Great pains {have} been taken.",
+        "questionCode": "644640",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1772977546639
+      },
+      {
+        "_creationTime": 1772977422604.3423,
+        "_id": "kn70xge3n5xm6ac8zkv3a89fr182gh7e",
+        "createdAt": 1772977422604,
+        "data": {
+          "correctWords": [
+            "have"
+          ],
+          "explanation": "“Pains” can take plural when meaning many efforts.",
+          "selectMode": "multiple",
+          "statement": "Great pains have been taken."
+        },
+        "difficultyName": "easy",
+        "levelId": "ks79zn06jrpkc24179jy6hvt5582hjtj",
+        "order": 26,
+        "question": "Pick the plural verb.",
+        "questionCode": "112672",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1772977422604
+      },
+      {
+        "_creationTime": 1772977157410.6187,
+        "_id": "kn70jdz3zk36r4zbye1mprtpm582hk85",
+        "createdAt": 1772977157410,
+        "data": {
+          "correctIndex": 0,
+          "explanation": "Plural measure considered as a single distance → singular verb.",
+          "options": [
+            "is",
+            "are",
+            "were",
+            "have been"
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks79zn06jrpkc24179jy6hvt5582hjtj",
+        "order": 27,
+        "question": "Choose correct verb: “Ten kilometres ___ a long distance.”",
+        "questionCode": "902107",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1772977157410
+      },
+      {
+        "_creationTime": 1772977560319.1484,
+        "_id": "kn71np0kn8s10yetmrw00mzrgx82gnsc",
+        "createdAt": 1772977560319,
+        "data": {
+          "distractors": [
+            "have",
+            "are",
+            "were"
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks79zn06jrpkc24179jy6hvt5582hjtj",
+        "order": 28,
+        "question": "Silver, as well as cotton, {has} fallen in price.",
+        "questionCode": "821579",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1772977560319
+      },
+      {
+        "_creationTime": 1772977443447.0537,
+        "_id": "kn79dmmheywtkprev3aq5q8rps82ht5m",
+        "createdAt": 1772977443447,
+        "data": {
+          "correctWords": [
+            "has"
+          ],
+          "explanation": "Committee as a whole → singular verb.",
+          "selectMode": "multiple",
+          "statement": "The committee has issued its report."
+        },
+        "difficultyName": "easy",
+        "levelId": "ks79zn06jrpkc24179jy6hvt5582hjtj",
+        "order": 29,
+        "question": "Pick the singular verb for collective considered as one.",
+        "questionCode": "548234",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1772977443447
+      },
+      {
+        "_creationTime": 1772977578086.0322,
+        "_id": "kn72078wp86d8r23tdr4e5yv7582h9q8",
+        "createdAt": 1772977578086,
+        "data": {
+          "distractors": [
+            "are",
+            "were",
+            "have"
+          ]
+        },
+        "difficultyName": "easy",
+        "levelId": "ks79zn06jrpkc24179jy6hvt5582hjtj",
+        "order": 30,
+        "question": "The committee {is} divided on the matter.",
+        "questionCode": "184830",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1772977578086
+      }
+    ],
+    "hard": [
+      {
+        "_creationTime": 1772979491100.5613,
+        "_id": "kn78tsqt0aza082ex4kezb6y7s82hs6g",
+        "createdAt": 1772979491100,
+        "data": {
+          "distractors": [
+            "may",
+            "are",
+            "have"
+          ]
+        },
+        "difficultyName": "hard",
+        "levelId": "ks79zn06jrpkc24179jy6hvt5582hjtj",
+        "order": 1,
+        "question": "When the plural noun is a proper name for an object, it {must} be followed by a singular verb.",
+        "questionCode": "149427",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1772979491100
+      },
+      {
+        "_creationTime": 1772979505530.971,
+        "_id": "kn7dgg7xjg8wzfb4crnans8d6s82gvyj",
+        "createdAt": 1772979505531,
+        "data": {
+          "distractors": [
+            "is",
+            "has",
+            "were"
+          ]
+        },
+        "difficultyName": "hard",
+        "levelId": "ks79zn06jrpkc24179jy6hvt5582hjtj",
+        "order": 2,
+        "question": "The committee, when thought of as individuals, {are} divided.",
+        "questionCode": "640436",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1772979505531
+      },
+      {
+        "_creationTime": 1772978858121.1003,
+        "_id": "kn746fhmtj2j2jpr7f70qrq62982h8m5",
+        "createdAt": 1772978858121,
+        "data": {
+          "correctIndex": 3,
+          "explanation": "Verb agrees with nearer subject (“students”) → “have”; second blank expects plural “are” in continuation — combined to test nearer-subject rule.",
+          "options": [
+            "has, are",
+            "have, is",
+            "has, is",
+            "have, are"
+          ]
+        },
+        "difficultyName": "hard",
+        "levelId": "ks79zn06jrpkc24179jy6hvt5582hjtj",
+        "order": 3,
+        "question": "Choose best verb: “Neither the teacher nor the students ___ been informed, but the nearer plural subject suggests ___.”",
+        "questionCode": "710073",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1772978858121
+      },
+      {
+        "_creationTime": 1772979211543.535,
+        "_id": "kn787fp7t80p1xme1btkpn29fh82gxa5",
+        "createdAt": 1772979211543,
+        "data": {
+          "correctWords": [
+            "is"
+          ],
+          "explanation": "“Mathematics” singular in meaning.",
+          "selectMode": "multiple",
+          "statement": "Mathematics is difficult for many."
+        },
+        "difficultyName": "hard",
+        "levelId": "ks79zn06jrpkc24179jy6hvt5582hjtj",
+        "order": 4,
+        "question": "Pick the phrase that makes subject singular despite plural form.",
+        "questionCode": "695659",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1772979211543
+      },
+      {
+        "_creationTime": 1772979190733.9019,
+        "_id": "kn7df8e6atq4w59fp3e1pg377582hfns",
+        "createdAt": 1772979190733,
+        "data": {
+          "correctWords": [
+            "was"
+          ],
+          "explanation": "Parenthetical phrase doesn’t change the main subject.",
+          "selectMode": "multiple",
+          "statement": "The ship, with its crew, was lost at sea."
+        },
+        "difficultyName": "hard",
+        "levelId": "ks79zn06jrpkc24179jy6hvt5582hjtj",
+        "order": 5,
+        "question": "Pick the words showing parenthetical phrase not affecting verb.",
+        "questionCode": "116067",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1772979190733
+      },
+      {
+        "_creationTime": 1772979514644.3354,
+        "_id": "kn70sd49p626hmgpn5jna2ayw182hpxq",
+        "createdAt": 1772979514644,
+        "data": {
+          "distractors": [
+            "take",
+            "is",
+            "was"
+          ]
+        },
+        "difficultyName": "hard",
+        "levelId": "ks79zn06jrpkc24179jy6hvt5582hjtj",
+        "order": 6,
+        "question": "None, though properly singular, commonly {takes} a plural verb in informal usage.",
+        "questionCode": "421484",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1772979514644
+      },
+      {
+        "_creationTime": 1772979225563.4512,
+        "_id": "kn702xpcyqqvw0wcgwb2f42fws82gr3n",
+        "createdAt": 1772979225563,
+        "data": {
+          "correctWords": [
+            "are"
+          ],
+          "explanation": "“Directors” nearer → plural verb.",
+          "selectMode": "multiple",
+          "statement": "Neither the chairman nor the directors are in favour."
+        },
+        "difficultyName": "hard",
+        "levelId": "ks79zn06jrpkc24179jy6hvt5582hjtj",
+        "order": 7,
+        "question": "Pick correct nearer-subject agreement.",
+        "questionCode": "968139",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1772979225563
+      },
+      {
+        "_creationTime": 1772978921930.9524,
+        "_id": "kn709hvmnx4rsztgy7zp07gk7d82gcde",
+        "createdAt": 1772978921931,
+        "data": {
+          "correctIndex": 1,
+          "explanation": "“Means” plural here → plural verb.",
+          "options": [
+            "has",
+            "have",
+            "is",
+            "was"
+          ]
+        },
+        "difficultyName": "hard",
+        "levelId": "ks79zn06jrpkc24179jy6hvt5582hjtj",
+        "order": 8,
+        "question": "Which is correct? “All possible means ___ been tried.”",
+        "questionCode": "471796",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1772978921931
+      },
+      {
+        "_creationTime": 1772979523648.9407,
+        "_id": "kn7a28w8v86ms61t5fazym306182h4sy",
+        "createdAt": 1772979523649,
+        "data": {
+          "distractors": [
+            "costs",
+            "are",
+            "is"
+          ]
+        },
+        "difficultyName": "hard",
+        "levelId": "ks79zn06jrpkc24179jy6hvt5582hjtj",
+        "order": 9,
+        "question": "According to present market rate twelve dozen {cost} one hundred rupees.",
+        "questionCode": "746842",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1772979523649
+      },
+      {
+        "_creationTime": 1772978947681.0925,
+        "_id": "kn7bvm92bnrppx244ve2mfa1ks82gk5m",
+        "createdAt": 1772978947681,
+        "data": {
+          "correctIndex": 0,
+          "explanation": "Quantity considered as a whole → singular verb “is.”",
+          "options": [
+            "si",
+            "are",
+            "were",
+            "have been"
+          ]
+        },
+        "difficultyName": "hard",
+        "levelId": "ks79zn06jrpkc24179jy6hvt5582hjtj",
+        "order": 10,
+        "question": "Select correct: “Three parts of the business ___ left for me to do.\"",
+        "questionCode": "771735",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1772978947681
+      },
+      {
+        "_creationTime": 1772979001635.0444,
+        "_id": "kn76k2bmgpq7d22szy19rna5an82gqt5",
+        "createdAt": 1772979001635,
+        "data": {
+          "correctIndex": 3,
+          "explanation": "Both singular; verb singular.",
+          "options": [
+            "have",
+            "are",
+            "were",
+            "has"
+          ]
+        },
+        "difficultyName": "hard",
+        "levelId": "ks79zn06jrpkc24179jy6hvt5582hjtj",
+        "order": 11,
+        "question": "Which option is best? “Neither the price nor the quality ___ been satisfactory.” (price singular, quality singular)",
+        "questionCode": "435720",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1772979001635
+      },
+      {
+        "_creationTime": 1772979238794.6418,
+        "_id": "kn7ajrcs4vtzmqygdhbnd1tvhn82hmj6",
+        "createdAt": 1772979238794,
+        "data": {
+          "correctWords": [
+            "are"
+          ],
+          "explanation": "Committee viewed as members → plural verb.",
+          "selectMode": "multiple",
+          "statement": "The committee are arguing among themselves."
+        },
+        "difficultyName": "hard",
+        "levelId": "ks79zn06jrpkc24179jy6hvt5582hjtj",
+        "order": 12,
+        "question": "Pick the verb for collective noun treated as individuals.",
+        "questionCode": "288177",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1772979238794
+      },
+      {
+        "_creationTime": 1772979533026.6323,
+        "_id": "kn76aqn9hatxbz585tpfx1ayjs82hp30",
+        "createdAt": 1772979533026,
+        "data": {
+          "distractors": [
+            "are",
+            "have",
+            "were"
+          ]
+        },
+        "difficultyName": "hard",
+        "levelId": "ks79zn06jrpkc24179jy6hvt5582hjtj",
+        "order": 13,
+        "question": "The means employed by you {is} sufficient.",
+        "questionCode": "576406",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1772979533026
+      },
+      {
+        "_creationTime": 1772979254769.2944,
+        "_id": "kn7az3zk7pnyg01ws70d8gvc0982hbjh",
+        "createdAt": 1772979254769,
+        "data": {
+          "correctWords": [
+            "is"
+          ],
+          "explanation": "Amount as single sum → singular.",
+          "selectMode": "multiple",
+          "statement": "Fifty thousand rupees is a large sum."
+        },
+        "difficultyName": "hard",
+        "levelId": "ks79zn06jrpkc24179jy6hvt5582hjtj",
+        "order": 14,
+        "question": "Pick the singular verb for quantity considered as whole.",
+        "questionCode": "487852",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1772979254769
+      },
+      {
+        "_creationTime": 1772979038328.6304,
+        "_id": "kn7exqakyw644jgm4s1d5dhaj982hm5w",
+        "createdAt": 1772979038328,
+        "data": {
+          "correctIndex": 0,
+          "explanation": "In usage “Bread and butter are served together” (plural form), but when thought as one dish “is regarded as one” — tests context sensitivity.",
+          "options": [
+            "are, is",
+            "is, are",
+            "is, is",
+            "are, are"
+          ]
+        },
+        "difficultyName": "hard",
+        "levelId": "ks79zn06jrpkc24179jy6hvt5582hjtj",
+        "order": 15,
+        "question": "Choose correct verb: “Bread and butter ___ often served together but ___ regarded as one dish.”",
+        "questionCode": "177051",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1772979038328
+      },
+      {
+        "_creationTime": 1772979546403.1873,
+        "_id": "kn73jpfschb6nezwak6a5w862182h4hp",
+        "createdAt": 1772979546403,
+        "data": {
+          "distractors": [
+            "is",
+            "are",
+            "was"
+          ]
+        },
+        "difficultyName": "hard",
+        "levelId": "ks79zn06jrpkc24179jy6hvt5582hjtj",
+        "order": 16,
+        "question": "Either he or I {am} mistaken.",
+        "questionCode": "304928",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1772979546403
+      },
+      {
+        "_creationTime": 1772979397923.6697,
+        "_id": "kn7c6ppkm2kr2xtwfe8tmcy41h82h9tz",
+        "createdAt": 1772979397923,
+        "data": {
+          "correctWords": [
+            "is"
+          ],
+          "explanation": "Verb agrees with nearer subject “he.”",
+          "selectMode": "multiple",
+          "statement": "Neither you nor he is to blame."
+        },
+        "difficultyName": "hard",
+        "levelId": "ks79zn06jrpkc24179jy6hvt5582hjtj",
+        "order": 17,
+        "question": "Pick the correct verb when or/nor subjects differ in person.",
+        "questionCode": "378032",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1772979397923
+      },
+      {
+        "_creationTime": 1772979059333.2727,
+        "_id": "kn78e3ahkz3kv8n7z7paaz13sd82ga2d",
+        "createdAt": 1772979059333,
+        "data": {
+          "correctIndex": 2,
+          "explanation": "“Either of” takes singular verb.",
+          "options": [
+            "are",
+            "were",
+            "is",
+            "have been"
+          ]
+        },
+        "difficultyName": "hard",
+        "levelId": "ks79zn06jrpkc24179jy6hvt5582hjtj",
+        "order": 18,
+        "question": "Which is right? “Either of the proposals ___ acceptable.”",
+        "questionCode": "965255",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1772979059333
+      },
+      {
+        "_creationTime": 1772979555629.521,
+        "_id": "kn7bz3r8pp4pr5830vdywd7da982hfay",
+        "createdAt": 1772979555629,
+        "data": {
+          "distractors": [
+            "have",
+            "are",
+            "were"
+          ]
+        },
+        "difficultyName": "hard",
+        "levelId": "ks79zn06jrpkc24179jy6hvt5582hjtj",
+        "order": 19,
+        "question": "One of the students {has} already left.",
+        "questionCode": "271068",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1772979555629
+      },
+      {
+        "_creationTime": 1772979411729.422,
+        "_id": "kn74efygfvkge7ccd02jv1bmq582g6gv",
+        "createdAt": 1772979411729,
+        "data": {
+          "correctWords": [
+            "have"
+          ],
+          "explanation": "“Means” plural → plural verb.",
+          "selectMode": "multiple",
+          "statement": "All possible means have been tried."
+        },
+        "difficultyName": "hard",
+        "levelId": "ks79zn06jrpkc24179jy6hvt5582hjtj",
+        "order": 20,
+        "question": "Pick the correct verb for “pains and means” consistent usage.",
+        "questionCode": "450305",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1772979411729
+      },
+      {
+        "_creationTime": 1772979092888.1396,
+        "_id": "kn7dd450mye7qgzd8v2txeqqqx82g07s",
+        "createdAt": 1772979092888,
+        "data": {
+          "correctIndex": 1,
+          "explanation": "“None” with uncountable “evidence” is singular → “is.”",
+          "options": [
+            "are",
+            "is",
+            "were",
+            "have been"
+          ]
+        },
+        "difficultyName": "hard",
+        "levelId": "ks79zn06jrpkc24179jy6hvt5582hjtj",
+        "order": 21,
+        "question": "Choose correct: “None of the evidence ___ conclusive.”",
+        "questionCode": "536641",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1772979092888
+      },
+      {
+        "_creationTime": 1772979424852.538,
+        "_id": "kn77g0a7c1gv668ns8vs8pe15582h7ea",
+        "createdAt": 1772979424852,
+        "data": {
+          "correctWords": [
+            "has"
+          ],
+          "explanation": "Proper name for a collective unit → singular.",
+          "selectMode": "multiple",
+          "statement": "The United States has a big navy."
+        },
+        "difficultyName": "hard",
+        "levelId": "ks79zn06jrpkc24179jy6hvt5582hjtj",
+        "order": 22,
+        "question": "Pick singular verb for collective unit as a whole.",
+        "questionCode": "693745",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1772979424852
+      },
+      {
+        "_creationTime": 1772979571988.543,
+        "_id": "kn78kya8h0tn1jc64rhgvf4xa982h2g4",
+        "createdAt": 1772979571988,
+        "data": {
+          "distractors": [
+            "inconsistently",
+            "seldom",
+            "rarely"
+          ]
+        },
+        "difficultyName": "hard",
+        "levelId": "ks79zn06jrpkc24179jy6hvt5582hjtj",
+        "order": 23,
+        "question": "Pains and means must be used {consistently}.",
+        "questionCode": "913565",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1772979571988
+      },
+      {
+        "_creationTime": 1772979172485.7634,
+        "_id": "kn74965ddw0jz1rekzg2bpy5t182gd6q",
+        "createdAt": 1772979172485,
+        "data": {
+          "correctIndex": 0,
+          "explanation": "Plural usage of “none” referring to people → plural verb.",
+          "options": [
+            "have",
+            "has",
+            "were",
+            "is"
+          ]
+        },
+        "difficultyName": "hard",
+        "levelId": "ks79zn06jrpkc24179jy6hvt5582hjtj",
+        "order": 24,
+        "question": "Which is correct? “None but the brave ___ ever believed it.”",
+        "questionCode": "865939",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1772979172485
+      },
+      {
+        "_creationTime": 1772979437961.0662,
+        "_id": "kn75ehprdkmcfa3nxfsyrdcj7h82hqbt",
+        "createdAt": 1772979437961,
+        "data": {
+          "correctWords": [
+            "were"
+          ],
+          "explanation": "Subjunctive mood for unreal condition.",
+          "selectMode": "multiple",
+          "statement": "If it were possible to get near, we should see it."
+        },
+        "difficultyName": "hard",
+        "levelId": "ks79zn06jrpkc24179jy6hvt5582hjtj",
+        "order": 25,
+        "question": "Pick the correct subjunction usage (subjunctive).",
+        "questionCode": "122484",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1772979437961
+      },
+      {
+        "_creationTime": 1772979580047.4092,
+        "_id": "kn76z1vpc4d17519svg7qv4v6d82hzcf",
+        "createdAt": 1772979580047,
+        "data": {
+          "distractors": [
+            "were",
+            "are",
+            "have been"
+          ]
+        },
+        "difficultyName": "hard",
+        "levelId": "ks79zn06jrpkc24179jy6hvt5582hjtj",
+        "order": 26,
+        "question": "Neither of the two men {was} very strong.",
+        "questionCode": "281485",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1772979580047
+      },
+      {
+        "_creationTime": 1772979477914.4146,
+        "_id": "kn71q0h4556dkqvnv53ga2r01982g01x",
+        "createdAt": 1772979477914,
+        "data": {
+          "correctWords": [
+            "are"
+          ],
+          "explanation": "“None” with plural countable sense commonly plural.",
+          "selectMode": "multiple",
+          "statement": "None of the pupils are ready."
+        },
+        "difficultyName": "hard",
+        "levelId": "ks79zn06jrpkc24179jy6hvt5582hjtj",
+        "order": 27,
+        "question": "Pick the correct verb for “none” with countable noun.",
+        "questionCode": "711386",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1772979477914
+      },
+      {
+        "_creationTime": 1772979119404.9812,
+        "_id": "kn7drcmzgyffwm8mneb2z6xn3s82gxhc",
+        "createdAt": 1772979119405,
+        "data": {
+          "correctIndex": 2,
+          "explanation": "“Every one” singular → “has.”",
+          "options": [
+            "have",
+            "were",
+            "has",
+            "are"
+          ]
+        },
+        "difficultyName": "hard",
+        "levelId": "ks79zn06jrpkc24179jy6hvt5582hjtj",
+        "order": 28,
+        "question": "Choose the correct verb: “Every one of the reports ___ been read.”",
+        "questionCode": "419973",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1772979119405
+      },
+      {
+        "_creationTime": 1772979591973.1274,
+        "_id": "kn766qk0tsy8jc5xpzswp6pdb982g0qb",
+        "createdAt": 1772979591973,
+        "data": {
+          "distractors": [
+            "are",
+            "were",
+            "have"
+          ]
+        },
+        "difficultyName": "hard",
+        "levelId": "ks79zn06jrpkc24179jy6hvt5582hjtj",
+        "order": 29,
+        "question": "When two singular nouns suggest one idea, the verb {is} singular.",
+        "questionCode": "465504",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1772979591973
+      },
+      {
+        "_creationTime": 1772979143600.9885,
+        "_id": "kn75kfzfdetgwhbz80c4x9ek2h82h3ny",
+        "createdAt": 1772979143601,
+        "data": {
+          "correctIndex": 0,
+          "explanation": "When considered as a single dozen, singular verb.",
+          "options": [
+            "is",
+            "are",
+            "were",
+            "have been"
+          ]
+        },
+        "difficultyName": "hard",
+        "levelId": "ks79zn06jrpkc24179jy6hvt5582hjtj",
+        "order": 30,
+        "question": "Pick correct: “A dozen eggs ___ on the table.” (considered as a unit)",
+        "questionCode": "312216",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1772979143601
+      }
+    ],
+    "medium": [
+      {
+        "_creationTime": 1772977644152.9392,
+        "_id": "kn7d2fr0h0wryynm3040r5d86982g33h",
+        "createdAt": 1772977644153,
+        "data": {
+          "correctIndex": 1,
+          "explanation": "Subject “The introduction” is singular despite following nouns → singular verb.",
+          "options": [
+            "have had",
+            "has had",
+            "are having",
+            "were having"
+          ]
+        },
+        "difficultyName": "medium",
+        "levelId": "ks79zn06jrpkc24179jy6hvt5582hjtj",
+        "order": 1,
+        "question": "Choose the correct verb: “The introduction of tea and coffee ___ some effect.”",
+        "questionCode": "407863",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1772977644153
+      },
+      {
+        "_creationTime": 1772978305964.938,
+        "_id": "kn71gnj29b7r316w3n0nndv6bs82gg0v",
+        "createdAt": 1772978305965,
+        "data": {
+          "correctWords": [
+            "was"
+          ],
+          "explanation": "Parenthetical phrase doesn’t change subject.",
+          "selectMode": "multiple",
+          "statement": "The ship, with its crew, was lost."
+        },
+        "difficultyName": "medium",
+        "levelId": "ks79zn06jrpkc24179jy6hvt5582hjtj",
+        "order": 2,
+        "question": "Pick the singular verb.",
+        "questionCode": "135455",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1772978305965
+      },
+      {
+        "_creationTime": 1772977821230.1675,
+        "_id": "kn73e4kn0fatm3gemq8pnxa9an82gcn6",
+        "createdAt": 1772977821230,
+        "data": {
+          "correctIndex": 0,
+          "explanation": "Subjunctive “if it were possible” is standard after hypothetical.",
+          "options": [
+            "were",
+            "are",
+            "was",
+            "is"
+          ]
+        },
+        "difficultyName": "medium",
+        "levelId": "ks79zn06jrpkc24179jy6hvt5582hjtj",
+        "order": 3,
+        "question": "Which is correct? “If it ___ possible to get near…”",
+        "questionCode": "495791",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1772977821230
+      },
+      {
+        "_creationTime": 1772978641242.0635,
+        "_id": "kn70kcf2p4p9ds0szgte0h98tn82hgcq",
+        "createdAt": 1772978641242,
+        "data": {
+          "distractors": [
+            "is",
+            "were",
+            "has been"
+          ]
+        },
+        "difficultyName": "medium",
+        "levelId": "ks79zn06jrpkc24179jy6hvt5582hjtj",
+        "order": 4,
+        "question": "Either the teacher or the students {are} to blame.",
+        "questionCode": "495391",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1772978641242
+      },
+      {
+        "_creationTime": 1772978446607.6858,
+        "_id": "kn7am8tjs8qqakhgybwa58eb2n82gyrp",
+        "createdAt": 1772978446607,
+        "data": {
+          "correctWords": [
+            "are"
+          ],
+          "explanation": "Verb agrees with nearer plural subject “employees.”",
+          "selectMode": "multiple",
+          "statement": "Neither the manager nor the employees are present."
+        },
+        "difficultyName": "medium",
+        "levelId": "ks79zn06jrpkc24179jy6hvt5582hjtj",
+        "order": 5,
+        "question": "Pick the nearer-subject rule.",
+        "questionCode": "815168",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1772978446607
+      },
+      {
+        "_creationTime": 1772978499784.923,
+        "_id": "kn7fexdbrmcw68bkw4fmnxw8x982grpp",
+        "createdAt": 1772978499784,
+        "data": {
+          "correctWords": [
+            "was"
+          ],
+          "explanation": "“Every … and …” requires singular verb.",
+          "selectMode": "multiple",
+          "statement": "Every boy and every girl was given sweets."
+        },
+        "difficultyName": "medium",
+        "levelId": "ks79zn06jrpkc24179jy6hvt5582hjtj",
+        "order": 6,
+        "question": "Pick the singular verb after “every.”",
+        "questionCode": "705043",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1772978499784
+      },
+      {
+        "_creationTime": 1772977845578.2437,
+        "_id": "kn75ewvxp8a1jz50t5tejndbdh82gftb",
+        "createdAt": 1772977845578,
+        "data": {
+          "correctIndex": 2,
+          "explanation": "Measure considered as a single distance → singular verb.",
+          "options": [
+            "are",
+            "have been",
+            "is",
+            "were"
+          ]
+        },
+        "difficultyName": "medium",
+        "levelId": "ks79zn06jrpkc24179jy6hvt5582hjtj",
+        "order": 7,
+        "question": "Choose proper verb: “Ten miles ___ a long walk.”",
+        "questionCode": "816195",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1772977845578
+      },
+      {
+        "_creationTime": 1772978513138.1467,
+        "_id": "kn72ztjs9q8cff16prank3q5dn82h7v2",
+        "createdAt": 1772978513138,
+        "data": {
+          "correctWords": [
+            "were"
+          ],
+          "explanation": "“Means” with monetary sense often plural.",
+          "selectMode": "multiple",
+          "statement": "My means were much reduced."
+        },
+        "difficultyName": "medium",
+        "levelId": "ks79zn06jrpkc24179jy6hvt5582hjtj",
+        "order": 8,
+        "question": "Pick the plural verb for “means” (income sense).",
+        "questionCode": "281971",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1772978513138
+      },
+      {
+        "_creationTime": 1772978680168.6738,
+        "_id": "kn7bng25y2x8fhf8w28pj6crr182gjxz",
+        "createdAt": 1772978680168,
+        "data": {
+          "distractors": [
+            "is",
+            "was",
+            "has been"
+          ]
+        },
+        "difficultyName": "medium",
+        "levelId": "ks79zn06jrpkc24179jy6hvt5582hjtj",
+        "order": 9,
+        "question": "The results of the recognition of this fact {are} seen.",
+        "questionCode": "240489",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1772978680168
+      },
+      {
+        "_creationTime": 1772977874750.544,
+        "_id": "kn7emg3fykgg0xchmm80rbqsq982gyf5",
+        "createdAt": 1772977874750,
+        "data": {
+          "correctIndex": 3,
+          "explanation": "“Neither” takes singular verb.",
+          "options": [
+            "Neither of the answers are correct.",
+            "Neither of the answers were correct.",
+            "Neither of the answers have been correct.",
+            "Neither of the answers is correct."
+          ]
+        },
+        "difficultyName": "medium",
+        "levelId": "ks79zn06jrpkc24179jy6hvt5582hjtj",
+        "order": 10,
+        "question": "Which sentence is correct?",
+        "questionCode": "456210",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1772977874750
+      },
+      {
+        "_creationTime": 1772978552391.8713,
+        "_id": "kn7bpgse8z8tyxf7yg3wvdya6d82gbnh",
+        "createdAt": 1772978552391,
+        "data": {
+          "correctWords": [
+            "was"
+          ],
+          "explanation": "Title treated as singular work.",
+          "selectMode": "multiple",
+          "statement": "Gulliver’s Travels was written by Swift."
+        },
+        "difficultyName": "medium",
+        "levelId": "ks79zn06jrpkc24179jy6hvt5582hjtj",
+        "order": 11,
+        "question": "Pick the singular treatment of a plural-titled book.",
+        "questionCode": "835733",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1772978552391
+      },
+      {
+        "_creationTime": 1772978690685.987,
+        "_id": "kn72wvm456m047mryg063en72582hmvg",
+        "createdAt": 1772978690686,
+        "data": {
+          "distractors": [
+            "seem",
+            "are",
+            "were"
+          ]
+        },
+        "difficultyName": "medium",
+        "levelId": "ks79zn06jrpkc24179jy6hvt5582hjtj",
+        "order": 12,
+        "question": "Neither praise nor blame {seems} to affect him.",
+        "questionCode": "107111",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1772978690686
+      },
+      {
+        "_creationTime": 1772977963276.731,
+        "_id": "kn70xsq86sq7tr9q04ejdygrrx82g5ap",
+        "createdAt": 1772977963276,
+        "data": {
+          "correctIndex": 2,
+          "explanation": "“Each” requires singular verb.",
+          "options": [
+            "are",
+            "were",
+            "is",
+            "have been"
+          ]
+        },
+        "difficultyName": "medium",
+        "levelId": "ks79zn06jrpkc24179jy6hvt5582hjtj",
+        "order": 13,
+        "question": "Correct agreement: “Each of these substances ___ found in India.”",
+        "questionCode": "982961",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1772977963276
+      },
+      {
+        "_creationTime": 1772978574053.3428,
+        "_id": "kn78w3xb402ynaj8451342vh8982hzzm",
+        "createdAt": 1772978574053,
+        "data": {
+          "correctWords": [
+            "are"
+          ],
+          "explanation": "Committee considered as members → plural.",
+          "selectMode": "multiple",
+          "statement": "The committee are divided on this point."
+        },
+        "difficultyName": "medium",
+        "levelId": "ks79zn06jrpkc24179jy6hvt5582hjtj",
+        "order": 14,
+        "question": "Pick the plural verb for collective individuals.",
+        "questionCode": "267310",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1772978574053
+      },
+      {
+        "_creationTime": 1772977984794.5378,
+        "_id": "kn74xdx39xe61phx1fv0qja38d82h25n",
+        "createdAt": 1772977984794,
+        "data": {
+          "correctIndex": 1,
+          "explanation": "Parenthetical “as well as” does not make the verb plural; subject “The guidance” singular.",
+          "options": [
+            "were",
+            "is",
+            "are",
+            "have been"
+          ]
+        },
+        "difficultyName": "medium",
+        "levelId": "ks79zn06jrpkc24179jy6hvt5582hjtj",
+        "order": 15,
+        "question": "Which is best? “The guidance, as well as the love of a mother, ___ wanting.”",
+        "questionCode": "275629",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1772977984794
+      },
+      {
+        "_creationTime": 1772978701178.702,
+        "_id": "kn7138xzcvk904whns6zx0d90582gynq",
+        "createdAt": 1772978701178,
+        "data": {
+          "distractors": [
+            "requires",
+            "is",
+            "was"
+          ]
+        },
+        "difficultyName": "medium",
+        "levelId": "ks79zn06jrpkc24179jy6hvt5582hjtj",
+        "order": 16,
+        "question": "Two or more singular nouns joined by and {require} a plural verb.",
+        "questionCode": "385883",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1772978701178
+      },
+      {
+        "_creationTime": 1772978589556.7349,
+        "_id": "kn72wewhtat4p3yxaxrgbj4nsh82g43y",
+        "createdAt": 1772978589556,
+        "data": {
+          "correctWords": [
+            "am"
+          ],
+          "explanation": "Verb agrees with nearer subject “I.”",
+          "selectMode": "multiple",
+          "statement": "Either he or I am mistaken."
+        },
+        "difficultyName": "medium",
+        "levelId": "ks79zn06jrpkc24179jy6hvt5582hjtj",
+        "order": 17,
+        "question": "Pick correct in “either … or” with persons of different persons.",
+        "questionCode": "726848",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1772978589556
+      },
+      {
+        "_creationTime": 1772978019633.0823,
+        "_id": "kn770znf6w2wym3vbvhzc9pg2182g4va",
+        "createdAt": 1772978019634,
+        "data": {
+          "correctIndex": 0,
+          "explanation": "When one subject joined by nor is plural, verb agrees with nearer (directors) → plural.",
+          "options": [
+            "is",
+            "are",
+            "was",
+            "has"
+          ]
+        },
+        "difficultyName": "medium",
+        "levelId": "ks79zn06jrpkc24179jy6hvt5582hjtj",
+        "order": 18,
+        "question": "Pick correct: “Neither the chairman nor the directors ___ in favor.”",
+        "questionCode": "846044",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1772978019634
+      },
+      {
+        "_creationTime": 1772978709263.4353,
+        "_id": "kn7avcbxqy2zqzytc6f24b44vx82g1gc",
+        "createdAt": 1772978709263,
+        "data": {
+          "distractors": [
+            "have",
+            "are",
+            "were"
+          ]
+        },
+        "difficultyName": "medium",
+        "levelId": "ks79zn06jrpkc24179jy6hvt5582hjtj",
+        "order": 19,
+        "question": "The United States {has} a big navy.",
+        "questionCode": "817846",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1772978709263
+      },
+      {
+        "_creationTime": 1772978066338.663,
+        "_id": "kn7dxvsjk281j3k9dz4gb67hsx82hbx3",
+        "createdAt": 1772978066338,
+        "data": {
+          "correctIndex": 3,
+          "explanation": "“Politics” is singular in meaning here → singular verb.",
+          "options": [
+            "are",
+            "were",
+            "have been",
+            "was"
+          ]
+        },
+        "difficultyName": "medium",
+        "levelId": "ks79zn06jrpkc24179jy6hvt5582hjtj",
+        "order": 20,
+        "question": "Choose correct verb: “Politics ___ for him the business of his life.”",
+        "questionCode": "241114",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1772978066338
+      },
+      {
+        "_creationTime": 1772978602098.0188,
+        "_id": "kn75vkg8evkzjyrxw56xch2pvx82g08t",
+        "createdAt": 1772978602098,
+        "data": {
+          "correctWords": [
+            "brings"
+          ],
+          "explanation": "“Each” requires singular verb.",
+          "selectMode": "multiple",
+          "statement": "Each day and each hour brings its duty."
+        },
+        "difficultyName": "medium",
+        "levelId": "ks79zn06jrpkc24179jy6hvt5582hjtj",
+        "order": 21,
+        "question": "Pick the singular verb after “each.”",
+        "questionCode": "876444",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1772978602098
+      },
+      {
+        "_creationTime": 1772978717879.131,
+        "_id": "kn7bgspbqjdrph18g0vc4j56xx82hvt0",
+        "createdAt": 1772978717879,
+        "data": {
+          "distractors": [
+            "are",
+            "were",
+            "have been"
+          ]
+        },
+        "difficultyName": "medium",
+        "levelId": "ks79zn06jrpkc24179jy6hvt5582hjtj",
+        "order": 22,
+        "question": "If one idea is meant, the verb {is} singular.",
+        "questionCode": "624170",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1772978717879
+      },
+      {
+        "_creationTime": 1772978101659.1602,
+        "_id": "kn75hgdvxa5k3y70s0jcbbsksd82g4wc",
+        "createdAt": 1772978101659,
+        "data": {
+          "correctIndex": 2,
+          "explanation": "If “friend and benefactor” refers to same person, treat as singular → “has.”",
+          "options": [
+            "have",
+            "are",
+            "has",
+            "were"
+          ]
+        },
+        "difficultyName": "medium",
+        "levelId": "ks79zn06jrpkc24179jy6hvt5582hjtj",
+        "order": 23,
+        "question": "Which is right? “My friend and benefactor ___ come.”",
+        "questionCode": "653623",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1772978101659
+      },
+      {
+        "_creationTime": 1772978616051.058,
+        "_id": "kn79969yt945xkvfa85hrgj2hn82g3ha",
+        "createdAt": 1772978616051,
+        "data": {
+          "correctWords": [
+            "is"
+          ],
+          "explanation": "“Mathematics” singular in meaning.",
+          "selectMode": "multiple",
+          "statement": "Mathematics is a branch of study."
+        },
+        "difficultyName": "medium",
+        "levelId": "ks79zn06jrpkc24179jy6hvt5582hjtj",
+        "order": 24,
+        "question": "Pick the plural noun with singular meaning (maths).",
+        "questionCode": "635129",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1772978616051
+      },
+      {
+        "_creationTime": 1772978725547.5083,
+        "_id": "kn7eg4x934fj6nj7m17fmgvsv582gz5c",
+        "createdAt": 1772978725547,
+        "data": {
+          "distractors": [
+            "are",
+            "were",
+            "have been"
+          ]
+        },
+        "difficultyName": "medium",
+        "levelId": "ks79zn06jrpkc24179jy6hvt5582hjtj",
+        "order": 25,
+        "question": "The means employed by you {is} sufficient.",
+        "questionCode": "990740",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1772978725547
+      },
+      {
+        "_creationTime": 1772978630024.6594,
+        "_id": "kn77w5avtksdybrna4bc38eazh82hja2",
+        "createdAt": 1772978630024,
+        "data": {
+          "correctWords": [
+            "is"
+          ],
+          "explanation": "Amount considered as single sum → singular verb.",
+          "selectMode": "multiple",
+          "statement": "Fifty thousand rupees is a large sum."
+        },
+        "difficultyName": "medium",
+        "levelId": "ks79zn06jrpkc24179jy6hvt5582hjtj",
+        "order": 26,
+        "question": "Pick the correct verb for amounts.",
+        "questionCode": "223688",
+        "questionType": "select",
+        "status": "active",
+        "updatedAt": 1772978630024
+      },
+      {
+        "_creationTime": 1772978732435.848,
+        "_id": "kn792511x2kwp2sptkmv4e7gxh82ghvt",
+        "createdAt": 1772978732435,
+        "data": {
+          "distractors": [
+            "is",
+            "was",
+            "have been"
+          ]
+        },
+        "difficultyName": "medium",
+        "levelId": "ks79zn06jrpkc24179jy6hvt5582hjtj",
+        "order": 27,
+        "question": "Cows {are} amongst the gentlest creatures.",
+        "questionCode": "826784",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1772978732435
+      },
+      {
+        "_creationTime": 1772978280524.954,
+        "_id": "kn744aearm7fy8rgk6zcqfxxj582hk1x",
+        "createdAt": 1772978280525,
+        "data": {
+          "correctIndex": 0,
+          "explanation": "“None” commonly takes plural when meaning “no people” → plural verb.",
+          "options": [
+            "",
+            "",
+            "",
+            ""
+          ]
+        },
+        "difficultyName": "medium",
+        "levelId": "ks79zn06jrpkc24179jy6hvt5582hjtj",
+        "order": 28,
+        "question": "Choose correct: “None but fools ___ ever believed it.”",
+        "questionCode": "291444",
+        "questionType": "mcq",
+        "status": "active",
+        "updatedAt": 1772978280525
+      },
+      {
+        "_creationTime": 1772978739587.4702,
+        "_id": "kn73gkbqgpy71pp3624nqqzy2x82hd9y",
+        "createdAt": 1772978739587,
+        "data": {
+          "distractors": [
+            "are",
+            "were",
+            "have been"
+          ]
+        },
+        "difficultyName": "medium",
+        "levelId": "ks79zn06jrpkc24179jy6hvt5582hjtj",
+        "order": 29,
+        "question": "The Arabian Nights {is} still a favorite.",
+        "questionCode": "737126",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1772978739587
+      },
+      {
+        "_creationTime": 1772978747194.4517,
+        "_id": "kn79m5az3xa4tdhsyhbbtppvt582hb85",
+        "createdAt": 1772978747194,
+        "data": {
+          "distractors": [
+            "have",
+            "were",
+            "is"
+          ]
+        },
+        "difficultyName": "medium",
+        "levelId": "ks79zn06jrpkc24179jy6hvt5582hjtj",
+        "order": 30,
+        "question": "Much pains {has} been taken.",
+        "questionCode": "237505",
+        "questionType": "fill_in_the_blanks",
+        "status": "active",
+        "updatedAt": 1772978747194
+      }
+    ]
+  }
+}
